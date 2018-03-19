@@ -1,0 +1,61 @@
+
+<style type="text/css">
+body{ /* Normal  */
+  font-size: 16px;
+   min-width:1100px;        /* Suppose you want minimum width of 1000px */
+   width: auto !important;  /* Firefox will set width as auto */
+   width:1100px;            /* As IE6 ignores !important it will set width as 1100px; */
+  }
+h1 { /* Header 1 */
+  font-size: 30px;
+  color: DarkSlateGrey;
+}
+h2 { /* Header 2 */
+    font-size: 26px;
+  color: SlateGrey;
+}
+h3 { /* Header 3 */
+  font-size: 22px;
+  color: LightSlateGrey;
+}
+code.r{ /* Code block */
+    font-size: 12px;
+}
+pre { /* Code block - determines code spacing between lines */
+    font-size: 14px;
+}
+</style>
+
+#
+<img src="cover.png" />
+
+#
+#
+#
+# <i class="fa fa-gear fa-spin fa-2x" style="color: chartreuse4"></i> Disease transmission dynamics
+Mathematical models of infectious diseases - computer simulation of epidemics - enable researchers to study their transmission dynamics, to predict the potential population-level impact of interventions, and to optimize prevention/control programs. So far, my work as mainly focused on HIV and other STBBIs.
+
+* Dynamics of HIV transmission among MSM in Québec
+* Elimination of HCV among HIV coinfected populations in Canada
+* Impact of targetted HIV treatment-as-prevention scenarions in Côte d'Ivoire.
+
+<img src="Network_Epi.gif" />
+#  
+
+#  
+
+# <i class="fa fa-calculator"></i> Epidemiology and measurements
+Measurements of population health and its determinants is a key step to benchmark, monitor progress, and devise appropriate health policies. I use models to analyze and pool complex surveys for diverse health outcomes/indicators.
+
+* Integrative Systems Modeling to estimate UNAIDS' first 90 (proportion of people living with HIV aware of their status) in sub-Saharan Africa. 
+* Bayesian latent class model to ascertain the impact of imperfect immunoassays on HIV prevalence estimates.
+* Global, regional, and national estimates of violence against women statistics.
+
+#
+# <i class="fa fa-globe"></i> Impact and economic evaluations
+By comprehensively assessing the effects - intendend and unintended - of a health program, impact evaluations can generate new evidence, promote accountability, and prioritize public health actions. Combinined with complimentary cost-effectivness analyses, impact evaluation can help policy-makers chose those interventions that provides the biggest *bang for the buck*.
+
+* Cost-effectiveness of accelerated HIV response scenarios in Côte d'Ivoire.
+* Model-based impact evaluation of pre-exposure prophylaxis to reduce HIV transmission amogn men who have sex with men in Montréal.
+* Potential impact of prison-based interventions on HCV transmission among people who inject drugs.
+

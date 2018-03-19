@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Mathieu MG</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+    Home
+  </a>
+</li>
+<li>
+  <a href="research.html">
+    <span class="fa fa-calculator"></span>
+     
+    Research
+  </a>
+</li>
+<li>
+  <a href="publications.html">
+    <span class="fa fa-clipboard"></span>
+     
+    Publications
+  </a>
+</li>
+<li>
+  <a href="students.html">
+    <span class="fa fa-cogs"></span>
+     
+    Students
+  </a>
+</li>
+<li>
+  <a href="contact.html">
+    <span class="fa fa-paperclip"></span>
+     
+    Contact
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<style type="text/css">
+body{ /* Normal  */
+  font-size: 16px;
+   min-width:1100px;        /* Suppose you want minimum width of 1000px */
+   width: auto !important;  /* Firefox will set width as auto */
+   width:1100px;            /* As IE6 ignores !important it will set width as 1100px; */
+  }
+h1 { /* Header 1 */
+  font-size: 30px;
+  color: DarkSlateGrey;
+}
+h2 { /* Header 2 */
+    font-size: 26px;
+  color: SlateGrey;
+}
+h3 { /* Header 3 */
+  font-size: 22px;
+  color: LightSlateGrey;
+}
+code.r{ /* Code block */
+    font-size: 12px;
+}
+pre { /* Code block - determines code spacing between lines */
+    font-size: 14px;
+}
+</style>
+<div id="section" class="section level1">
+<h1></h1>
+</div>
+<div id="section-1" class="section level1">
+<h1></h1>
+<p>A full list of publications can be found <a href="https://scholar.google.com/citations?user=mQzi2qsAAAAJ&amp;hl=en">here</a>.<br />
+Publications indexed in Pubmed are <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=maheu-giroux%5Bauthor%5D">here</a>.<br />
+Feel free to email me to obtain a copy of any of the papers below.</p>
+</div>
+<div id="section-2" class="section level1">
+<h1></h1>
+</div>
+<div id="peer-reviewed-papers" class="section level1">
+<h1>Peer-reviewed papers</h1>
+</div>
+<div id="section-3" class="section level1">
+<h1></h1>
+<div id="section-4" class="section level2">
+<h2>2018</h2>
+<blockquote>
+<p>Tavitian-Exley I, Maheu-Giroux M, Platt L, Heimer R, Uusküla A, Levina O, Vickerman P, and Boily MC (2018). Differences in risk behaviors and HIV status between primary amphetamines and opioid injectors in Estonia and Russia. International Journal of Drug Policy. 53:96-105.</p>
+</blockquote>
+</div>
+<div id="section-5" class="section level2">
+<h2>2017</h2>
+<blockquote>
+<p>Tavitian-Exley I, Boily MC, Heimer R, Uusküla A, Levina O, and Maheu-Giroux M (2017). Polydrug use and HIV risk heterogeneity among people who inject drugs: a latent class analysis. AIDS and Behavior. DOI 10.1007/s10461-017-1836-0</p>
+</blockquote>
+<blockquote>
+<p>Maheu-Giroux M, Baral S, Vesga JF, Diouf D, Diabaté S, Alary M, Abo K, and Boily MC (2017). Anal intercourse among female sex workers in Côte d’Ivoire: prevalence, frequency, determinants, and model-based estimates of its population-level impact on HIV transmission. American Journal of Epidemiology. doi: 10.1093/aje/kwx244.</p>
+</blockquote>
+<blockquote>
+<p>Maheu-Giroux M, Vesga JF, Diabaté S, Alary M, Baral S, Diouf D, Abo K, and Boily MC (2017). Population-level impact of an accelerated HIV response plan to reach the UNAIDS 90-90-90 target in Côte d’Ivoire: insights from mathematical modeling. PLOS Medicine 14(6):e1002321.</p>
+</blockquote>
+<blockquote>
+<p>Kirakoya-Samadoulougou F, Jean K, and Maheu-Giroux M (2017). Uptake of HIV testing in Burkina Faso: an assessment of individual and community-level determinants. BMC Public Health 17(1):487.</p>
+</blockquote>
+<blockquote>
+<p>Maheu-Giroux M, Vesga JF, Diabaté S, Alary M, Baral S, Diouf D, Abo K, and Boily MC (2017). Changing dynamics of HIV transmission in Côte d’Ivoire: modeling which key populations acquired and transmitted HIV infections and estimating the impact of past HIV interventions (1976-2015). JAIDS Journal of Acquired Immune Deficiency Syndromes. (In Press)</p>
+</blockquote>
+<blockquote>
+<p>Maheu-Giroux M, Tanser F, Boily MC, Pillay D, Joseph SA, and Bäernighausen T (2017). Determinants of time from HIV infection to linkage-to-care in rural KwaZulu-Natal, South Africa. AIDS 31:1017-1024.</p>
+</blockquote>
+</div>
+<div id="section-6" class="section level2">
+<h2>2016</h2>
+<blockquote>
+<p>Castro MC, Maheu-Giroux M, Chiyaka C, and Singer BH (2016). Malaria incidence rates from time series of 2-wave panel surveys. PLOS Computational Biology. 12(8):e1005065.</p>
+</blockquote>
+<blockquote>
+<p>Maheu-Giroux M, Filippi V, Samadoulougou S, Castro MC, Maulet N, Meda N, Pouliot M, and Kirakoya-Samadoulougou F (2016). Risk factors for vaginal fistula symptoms in sub-Saharan Africa: a pooled analysis of national household surveys. BMC Pregnancy and Childbirth 16(1):1-10.</p>
+</blockquote>
+</div>
+<div id="section-7" class="section level2">
+<h2>2015</h2>
+<blockquote>
+<p>Joseph SA, Casapía M, Montresor A, Rahme E, Ward BJ, Marquis GS, Pezo L, Blouin B, Maheu-Giroux M, and Gyorkos TW (2015). The effect of deworming timing and frequency on growth in one-year old children living in an STH-endemic area of Peru: a randomized controlled trial. PLOS Neglected Tropical Diseases 9(10):e0004020.</p>
+</blockquote>
+<blockquote>
+<p>Maheu-Giroux M, Filippi V, Samadoulougou S, Castro MC, Maulet N, Meda N, and Kirakoya-Samadoulougou F (2015). Fistula in sub-Saharan Africa – Authors’ reply. The Lancet Global Health. 3(8):e442.</p>
+</blockquote>
+<blockquote>
+<p>Maheu-Giroux M, Filippi V, Samadoulougou S, Castro MC, Maulet N, Meda N, and Kirakoya-Samadoulougou F (2015). Prevalence of symptoms of vaginal fistula in 19 sub-Saharan Africa countries: a meta-analysis of national household survey data. The Lancet Global Health 3(5):e271-e278.</p>
+</blockquote>
+</div>
+<div id="section-8" class="section level2">
+<h2>2014</h2>
+<blockquote>
+<p>Joseph SA, Casapía M, Blouin B, Maheu-Giroux M, Rahme E, and Gyorkos TW (2014). Risk factors associated with malnutrition in one-year-old children living in the Peruvian Amazon. PLOS Neglected Tropical Diseases 8(12):e3369.</p>
+</blockquote>
+<blockquote>
+<p>Maheu-Giroux M and Castro MC (2014). Cost-effectiveness of larviciding for urban malaria control in Tanzania. Malaria Journal 13(1):447. (*Highly Accessed)</p>
+</blockquote>
+<blockquote>
+<p>Maheu-Giroux M and Castro MC (2014). Factors affecting providers’ delivery of Intermittent Preventive Therapy for malaria in pregnancy: a five-country analysis of national Service Provision Assessment surveys. Malaria Journal 13(1):440.</p>
+</blockquote>
+<blockquote>
+<p>Thériault FL, Maheu-Giroux M, Blouin B, Casapía M, and Gyorkos TW (2014). Effects of a post-deworming health hygiene education intervention on absenteeism in school-age children of the Peruvian Amazon. PLOS Neglected Tropical Diseases 8(8):e3007.</p>
+</blockquote>
+<blockquote>
+<p>Samadoulougou S, Maheu-Giroux M, Kirakoya-Samadoulougou F, de Keukeleire M, Castro MC, and Robert A (2014). Multilevel and geo-statistical modeling of malaria risk in children of Burkina Faso. Parasites &amp; Vectors 7(1):350.</p>
+</blockquote>
+<blockquote>
+<p>Tanser F, de Oliveira T, Maheu-Giroux M and Baernighausen TW (2014). Concentrated HIV epidemics within generalized ones in sub-Saharan Africa. Current Opinion in HIV and AIDS 9(2):115-125.</p>
+</blockquote>
+</div>
+<div id="section-9" class="section level2">
+<h2>2013</h2>
+<blockquote>
+<p>Gyorkos TW, Maheu-Giroux M, Blouin B, Saavedra L, and Casapía M (2013). Efficacy of a single dose of albendazole for soil-transmitted helminth infections in school children of Iquitos, Peru. Revista Peruana de Medicina Experimental y Salud Pública 30(4):601-607.</p>
+</blockquote>
+<blockquote>
+<p>Maheu-Giroux M and Castro MC (2013). Do malaria vector control measures impact disease-related behaviors and knowledge? Evidence from a large-scale larviciding intervention in Tanzania. Malaria Journal 12:422. (*Highly Accessed)</p>
+</blockquote>
+<blockquote>
+<p>Gyorkos TW, Maheu-Giroux M, Blouin B, and Casapía M (2013). Impact of health education on soil-transmitted helminth infections in schoolchildren of the Peruvian Amazon: A cluster-randomized controlled trial. PLOS Neglected Tropical Diseases 7(9):e2397.</p>
+</blockquote>
+<blockquote>
+<p>Maheu-Giroux M and Castro MC (2013). Impact of community-based larviciding on the prevalence of malaria infection in Dar es Salaam, Tanzania. PLOS ONE. 8(8):e71638.</p>
+</blockquote>
+<blockquote>
+<p>Blouin B, Penny ME, Maheu-Giroux M, Casapía M, Aguilar E, Silva H, Creed-Kanashiro H, Joseph SA, Gagnon A, Rahme E, and Gyorkos TW (2013). Timing of umbilical cord clamping and infant anemia: the role of maternal anemia. Paediatrics &amp; International Child Health. 33(2):79-85.</p>
+</blockquote>
+</div>
+<div id="section-10" class="section level2">
+<h2>2012</h2>
+<blockquote>
+<p>Gyorkos TW, Maheu-Giroux M, Blouin B, Creed-Kanashiro H, Casapía M, Aguilar E, Silva H, Joseph SA, and Penny ME (2012). A hospital policy change toward delayed cord clamping is effective in improving hemoglobin levels and anemia status of 8-month-old Peruvian infants. Journal of Tropical Pediatrics 58(6):435-440.</p>
+</blockquote>
+</div>
+<div id="section-11" class="section level2">
+<h2>2011</h2>
+<blockquote>
+<p>Blouin B, Penny ME, Casapía M, Aguilar E, Silva H, Joseph SA, Creed-Kanashiro H, Maheu-Giroux M, and Gyorkos TW (2011). Effect of a two-component intervention to change hospital practice from early to delayed umbilical cord clamping in the Peruvian Amazon. Pan American Journal of Public Health 29(5):322-328.</p>
+</blockquote>
+<blockquote>
+<p>Gyorkos TW, Maheu-Giroux M, Casapía M, Joseph SA, and Creed-Kanashiro H (2011). Stunting and helminth infection in early preschool-age children in a resource-poor community in the Amazon lowlands of Peru. Transactions of the Royal Society for Tropical Medicine &amp; Hygiene 105(4):204-208.</p>
+</blockquote>
+<blockquote>
+<p>Maheu-Giroux M, Casapía M, and Gyorkos TW (2011). On the validity of self-reports and indirect reports to ascertain malaria prevalence in settings of hypoendemicity. Social Science &amp; Medicine 72(5):635-640.</p>
+</blockquote>
+</div>
+<div id="section-12" class="section level2">
+<h2>2010</h2>
+<blockquote>
+<p>Maheu-Giroux M, Sotto-Calle VE, Casapía M, Berrang-Ford L, Buckeridge DL, Coomes OT, and Gyorkos TW (2010). Risk of malaria transmission from fish ponds in the Peruvian Amazon. Acta Tropica 115(1-2):112-118.</p>
+</blockquote>
+</div>
+<div id="section-13" class="section level2">
+<h2>2007</h2>
+<blockquote>
+<p>Maheu-Giroux M and de Blois S (2007). The landscape ecology of Phragmites australis invasion in networks of linear wetlands. Landscape Ecology 22(2):285-301.</p>
+</blockquote>
+</div>
+<div id="section-14" class="section level2">
+<h2>2005</h2>
+<blockquote>
+<p>Maheu-Giroux M and de Blois S (2005). Mapping the invasive species Phragmites australis in linear wetlands corridors. Aquatic Botany 83(4):310-320. (*Top 25 accessed articles)</p>
+</blockquote>
+</div>
+</div>
+<div id="section-15" class="section level1">
+<h1></h1>
+</div>
+<div id="section-16" class="section level1">
+<h1></h1>
+</div>
+<div id="editorials-and-book-reviews" class="section level1">
+<h1>Editorials and book reviews</h1>
+<blockquote>
+<p>Maheu-Giroux M (2016). Oxantel pamoate and deworming programmes. The Lancet Infectious Diseases 16(1):5-6.</p>
+</blockquote>
+<blockquote>
+<p>Maheu-Giroux M (2014). How Medicine Became Modern – “The Remedy: Robert Koch, Arthur Conan Doyle, and the Quest to Cure Tuberculosis”. Science 346(6206):174.</p>
+</blockquote>
+<blockquote>
+<p>Maheu-Giroux M (2011). Change of mind: vaccines now to be used for cholera control in Haïti. Harvard College Global Health Review. (12/31/2011)</p>
+</blockquote>
+</div>
+<div id="section-17" class="section level1">
+<h1></h1>
+</div>
+<div id="book-section-short-publication" class="section level1">
+<h1>Book section (short publication)</h1>
+<blockquote>
+<p>Pauchard A and Maheu-Giroux M (2007). Case study 11.1 - Acacia dealbata invasion across multiple scales: conspicuous flowering species can help us study invasion patterns and processes (pages 166-167). in H Strand, R Höft, J Strittholt, L Miles, N Horning, and E Fosnight, editors. Sourcebook on Remote Sensing and Biodiversity Indicators. Secretariat of the Convention on Biological Diversity, Montréal, Technical Series no. 32, 201 pages</p>
+</blockquote>
+</div>
+<div id="section-18" class="section level1">
+<h1></h1>
+</div>
+<div id="reports" class="section level1">
+<h1>Reports</h1>
+<blockquote>
+<p>Maheu-Giroux M (2017). A Bayesian framework for global, regional, and national estimates of violence against women statistics. Reported submitted to the World Health Organization, Dept. of Reproductive Health and Research. 88 pages.</p>
+</blockquote>
+<blockquote>
+<p>Maheu-Giroux M, Joseph L, Belisle P, Lancione S, and Eaton JW (2017). Assessing the Impact of Imperfect Immunoassays on HIV Prevalence Estimates from Surveys Conducted by The DHS Program. DHS Methodological Report No. 22. 58 pages. Rockville, MD, USA.</p>
+</blockquote>
+<blockquote>
+<p>Diabaté S, Maheu-Giroux M, Vesga JF, Boily MC, and Alary M (2015). Plan d’accélération de la réponse nationale au VIH en Côte d’Ivoire. Rapport présenté à ONUSIDA – Région d’Afrique de l’ouest et du centre. 145 pages.</p>
+</blockquote>
+<blockquote>
+<p>Maheu-Giroux M and Belvisi J (2007). Volet Biodiversité de l’Initiative Nationale d’Élaboration de Normes Agroenvironnementales - Démarche d’appui au développement de normes appliquées au projet pilote de l’écorégion des basses-terres du Saint-Laurent. Rapport présenté à Environnement Canada – INÉNA. 245 pages.</p>
+</blockquote>
+<blockquote>
+<p>Maheu-Giroux M, de Blois S, and Jobin B (2006). Suivi des habitats et des pressions anthropiques de quatre Réserves nationales de faune du Québec et leur périphérie à l’échelle du paysage. Environnement Canada, Service canadien de la faune, Région du Québec. 63 p. + annexes.</p>
+</blockquote>
+<blockquote>
+<p>Maheu-Giroux M, Boivin P, Brisson J, de Blois S, and Bouchard A (2003). Évaluation de la résistance de différents mélanges d’espèces végétales à l’envahissement d’espèces arborescentes &gt; Protocole expérimental. Institut de Recherche en Biologie Végétale - Université de Montréal. 25 pages.</p>
+</blockquote>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,54 @@
+<style type="text/css">
+body{ /* Normal  */
+  font-size: 16px;
+   min-width:1100px;        /* Suppose you want minimum width of 1000px */
+   width: auto !important;  /* Firefox will set width as auto */
+   width:1100px;            /* As IE6 ignores !important it will set width as 1100px; */
+  }
+h1 { /* Header 1 */
+  font-size: 30px;
+  color: DarkSlateGrey;
+}
+h2 { /* Header 2 */
+    font-size: 26px;
+  color: SlateGrey;
+}
+h3 { /* Header 3 */
+  font-size: 22px;
+  color: LightSlateGrey;
+}
+code.r{ /* Code block */
+    font-size: 12px;
+}
+pre { /* Code block - determines code spacing between lines */
+    font-size: 14px;
+}
+</style>
+
+#
+#
+
+#
+#
+#
+# Currently Supervised
+#  
+##  Doctoral Students
+### <i class="glyphicon glyphicon-user"></i> Carla Doyle
+> PhD Student in Epidemiology (McGill). Research Topic: *Modeling of HIV transmission among men who have sex with men in Montréal*. Co-supervisor: [Joseph Cox](https://www.mcgill.ca/epi-biostat-occh/joseph-cox).
+
+### <i class="glyphicon glyphicon-user"></i> Charlotte Lanièce
+> PhD Student in Epidemiology (McGill). Research Topic: *HCV elimination among HIV co-infected populations in Canada*. Primary supervisor: [Marina Klein](http://rimuhc.ca/-/marina-klein-md-msc).
+
+### <i class="glyphicon glyphicon-user"></i> Branwen Owen
+> PhD Student in Epidemiology (Imperial College London). Research Topic: *Prevalence, determinants, and HIV risk of heterosexual anal intercourse*. Primary supervisor: Marie [Marie Claude Boily](http://www.imperial.ac.uk/people/mc.boily).
+
+#  
+## Master Student
+### <i class="glyphicon glyphicon-user"></i> Arnaud Godin
+> Master Student in Epidemiology (McGill). Research Topic: *Modeling the potential impact of different prison-based prevention and treatment strategies for HCV transmission in Montréal*. Co-supervisor: [Joseph Cox](https://www.mcgill.ca/epi-biostat-occh/joseph-cox).
+
+#  
+# Past Supervision
+### <i class="glyphicon glyphicon-user"></i> Isabel Tavitian-Exley
+> PhD (Imperial College London). Thesis: *The relevance of polydrug use on HIV and associated injecting and sexual risk behaviours among people who inject drugs*. Primary supervisor: [Marie Claude Boily](http://www.imperial.ac.uk/people/mc.boily)
