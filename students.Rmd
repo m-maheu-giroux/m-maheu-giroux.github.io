@@ -41,7 +41,7 @@ pre { /* Code block - determines code spacing between lines */
 > PhD Student in Epidemiology (McGill). Research Topic: *HCV elimination among HIV co-infected populations in Canada*. Primary supervisor: [Marina Klein](http://rimuhc.ca/-/marina-klein-md-msc).
 
 ### <i class="glyphicon glyphicon-user"></i> Branwen Owen
-> PhD Student in Epidemiology (Imperial College London). Research Topic: *Prevalence, determinants, and HIV risk of heterosexual anal intercourse*. Primary supervisor: Marie [Marie Claude Boily](http://www.imperial.ac.uk/people/mc.boily).
+> PhD Student in Epidemiology (Imperial College London). Research Topic: *Prevalence, determinants, and HIV risk of heterosexual anal intercourse*. Primary supervisor: [Marie Claude Boily](http://www.imperial.ac.uk/people/mc.boily).
 
 #  
 ## Master Student
