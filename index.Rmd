@@ -57,13 +57,6 @@ As of 2017, I have joined the Department of Epidemiology and Biostatistics at [M
 
 #
 #
-#
-## <i class="glyphicon glyphicon-paperclip"></i> Affiliation
-Centre on Population Dynamics [(CPD)](https://www.mcgill.ca/popcentre/)
-
-#
-#
-#
 ## <i class="glyphicon glyphicon-education"></i> Education
 BSc'03 Biology (Université de Montréal)  
 MSc'05 Ecology (McGill University)  
