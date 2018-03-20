@@ -124,9 +124,6 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 > Maheu-Giroux M (2011). Change of mind: vaccines now to be used for cholera control in Haïti. Harvard College Global Health Review. (12/31/2011)
 
-#
-# Book section (short publication)
-> Pauchard A and Maheu-Giroux M (2007). Case study 11.1 - Acacia dealbata invasion across multiple scales: conspicuous flowering species can help us study invasion patterns and processes (pages 166-167).  in H Strand, R Höft, J Strittholt, L Miles, N Horning, and E Fosnight, editors. Sourcebook on Remote Sensing and Biodiversity Indicators. Secretariat of the Convention on Biological Diversity, Montréal, Technical Series no. 32, 201 pages
 
 #
 # Reports
@@ -135,6 +132,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 > Maheu-Giroux M, Joseph L, Belisle P, Lancione S, and Eaton JW (2017). Assessing the Impact of Imperfect Immunoassays on HIV Prevalence Estimates from Surveys Conducted by The DHS Program. DHS Methodological Report No. 22. 58 pages. Rockville, MD, USA.
 
 > Diabaté S, Maheu-Giroux M, Vesga JF, Boily MC, and Alary M (2015). Plan d’accélération de la réponse nationale au VIH en Côte d’Ivoire. Rapport présenté à ONUSIDA – Région d’Afrique de l’ouest et du centre. 145 pages.
+
+> Pauchard A and Maheu-Giroux M (2007). Case study 11.1 - Acacia dealbata invasion across multiple scales: conspicuous flowering species can help us study invasion patterns and processes (pages 166-167).  in H Strand, R Höft, J Strittholt, L Miles, N Horning, and E Fosnight, editors. Sourcebook on Remote Sensing and Biodiversity Indicators. Secretariat of the Convention on Biological Diversity, Montréal, Technical Series no. 32, 201 pages
 
 > Maheu-Giroux M and Belvisi J (2007). Volet Biodiversité de l’Initiative Nationale d’Élaboration de Normes Agroenvironnementales - Démarche d’appui au développement de normes appliquées au projet pilote de l’écorégion des basses-terres du Saint-Laurent. Rapport présenté à Environnement Canada – INÉNA. 245 pages.
 
