@@ -60,10 +60,10 @@ As of 2017, I have joined the Department of Epidemiology and Biostatistics at [M
 #
 ## <i class="glyphicon glyphicon-education"></i> Education
 BSc'03 Biology (Université de Montréal)  
-MSc'05 Ecology (McGill University)  
-MSc'09 Epidemiology (McGill University)  
-ScD'15 Global Health and Population (Harvard University)  
-Fellowship'17 Mathematical Epidemiology (Imperial College London)
+MSc'05 Ecology (McGill University, Supervisor: Dr. Sylvie de Blois)  
+MSc'09 Epidemiology (McGill University, Supervisor: Dr. Theresa Gyorkos)  
+ScD'15 Global Health and Population (Harvard University, Supervisor: Dr. Marcia Castro)  
+Fellowship'17 Mathematical Epidemiology (Imperial College London, Supervisor: Prof Marie-Claude Boily)
 
 #
 #
