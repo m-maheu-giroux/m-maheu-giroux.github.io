@@ -40,7 +40,7 @@ Mathematical models of infectious diseases - computer simulation of epidemics - 
 * Elimination of HCV among HIV coinfected populations in Canada
 * Impact of targetted HIV treatment-as-prevention scenarions in Côte d'Ivoire.
 
-<img src="Network_Epi.gif" />  
+<img src="Network_Epi.gif" width=50% heigth=50%/>  
 
 #  
 #  
