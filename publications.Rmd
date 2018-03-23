@@ -202,9 +202,9 @@ Gyorkos TW, **Maheu-Giroux M**, Casapía M, Joseph SA, and Creed-Kanashiro H (20
 </a>
 
 #  
-<div class = "class-name">
+<a class="one" href="http://science.sciencemag.org/content/346/6206/174.1.full" target="_blank">
 **Maheu-Giroux M** (2014). How Medicine Became Modern – “The Remedy: Robert Koch, Arthur Conan Doyle, and the Quest to Cure Tuberculosis”. Science 346(6206):174.
-</div>
+</a>
 
 #  
 <a class="one" href="https://www.hcs.harvard.edu/hghr/online/vaccines-cholera-haiti/">
