@@ -22,7 +22,7 @@ a.one:link, a.one:visited {
     background-color: whitesmoke;
 }
 a.one:hover, a.one:active {
-    background-color: ivory;
+    background-color: AliceBlue;
 }
 </style>
 #
@@ -42,7 +42,7 @@ Tavitian-Exley I, **Maheu-Giroux M**, Platt L, Heimer R, Uusküla A, Levina O, V
 #  
 ## 2017
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/28699018" target="_blank">
-Tavitian-Exley I, Boily MC, Heimer R, Uusküla A, Levina O, and **Maheu-Giroux** M (2017). Polydrug use and HIV risk heterogeneity among people who inject drugs: a latent class analysis. AIDS and Behavior. DOI 10.1007/s10461-017-1836-0
+Tavitian-Exley I, Boily MC, Heimer R, Uusküla A, Levina O, and **Maheu-Giroux M** (2017). Polydrug use and HIV risk heterogeneity among people who inject drugs: a latent class analysis. AIDS and Behavior. DOI 10.1007/s10461-017-1836-0
 </a>
 
 #  
