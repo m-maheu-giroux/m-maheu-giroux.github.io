@@ -44,7 +44,6 @@ pre { /* Code block - determines code spacing between lines */
 <style>
 .coll {
 float: left;
-widht: 25%;
 text-align: left;
 }
 .colr {
@@ -55,7 +54,7 @@ text-align: left
 </style>
 
 <div class="coll">
-<img src="Head Edited.jpg" style="position:absolute;top:100px;left:50px; width:250px" />
+<img src="Head Edited.jpg" style="position:absolute; top:100px; left:40px; width:250px" />
 
 <div class="colr">
 #
