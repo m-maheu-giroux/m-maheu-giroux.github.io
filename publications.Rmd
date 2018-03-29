@@ -72,6 +72,11 @@ Kirakoya-Samadoulougou F, Jean K, and **Maheu-Giroux M** (2017). Uptake of HIV t
 
 #  
 ## 2016
+<a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/26388170" target="_blank">
+**Maheu-Giroux M** (2016). Oxantel pamoate and deworming programmes. The Lancet Infectious Diseases 16(1):5-6.
+</a>
+
+#  
 <a class="one" href="http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005065&type=printable" target="_blank">
 Castro MC, **Maheu-Giroux M**, Chiyaka C, and Singer BH (2016). Malaria incidence rates from time series of 2-wave panel surveys. PLOS Computational Biology. 12(8):e1005065.
 </a>
@@ -197,9 +202,6 @@ Gyorkos TW, **Maheu-Giroux M**, Casapía M, Joseph SA, and Creed-Kanashiro H (20
 #  
 #  
 # Editorials and book reviews  
-<a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/26388170" target="_blank">
-**Maheu-Giroux M** (2016). Oxantel pamoate and deworming programmes. The Lancet Infectious Diseases 16(1):5-6.
-</a>
 
 #  
 <a class="one" href="http://science.sciencemag.org/content/346/6206/174.1.full" target="_blank">
