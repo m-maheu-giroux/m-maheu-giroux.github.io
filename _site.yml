@@ -12,9 +12,9 @@ navbar:
   - text: Publications
     href: publications.html
     icon: fa-clipboard
-  - text: Students
+  - text: People
     icon: fa-cogs
-    href: students.html
+    href: people.html
   - text: Contact
     icon: fa-paperclip
     href: contact.html
