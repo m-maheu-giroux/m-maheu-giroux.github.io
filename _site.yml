@@ -18,6 +18,9 @@ navbar:
   - text: Contact
     icon: fa-paperclip
     href: contact.html
+  - text: Opportunities
+    icon: fa-comments
+    href: opportunities.html
 output:
   html_document:
     lib_dir: site_libs
