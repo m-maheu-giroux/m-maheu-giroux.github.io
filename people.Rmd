@@ -35,7 +35,7 @@
 
 #  
 #  
-# Currently (co)Supervised
+# Currently Supervised
 
 <div class="row">
 <div class="column left">
