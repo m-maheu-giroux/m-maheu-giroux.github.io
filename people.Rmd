@@ -1,21 +1,87 @@
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 40%;
+    padding: 10px;
+}
+.left {
+  width: 15%;
+}
+.right {
+  width: 85%;
+}
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 500px) {
+    .column {
+        width: 100%;
+    }
+}
+</style>
+</head>
+<body>
 
-#
-#
-#
+#  
+#  
 # Currently (co)Supervised
+
+<div class="row">
+<div class="column left">
+<img src="Arnaud_Godin.jpg"; align="left" /> 
+</div>
+<div class="column right">
 ### <i class="glyphicon glyphicon-user"></i> Arnaud Godin
 Master Student in Epidemiology (McGill). Research Topic: *Modeling the potential impact of different prison-based prevention and treatment strategies for HCV transmission in Montréal*. Co-supervisor: [Joseph Cox](https://www.mcgill.ca/epi-biostat-occh/joseph-cox).  
+</div>
+</div>
 
+<div class="row">
+<div class="column left">
+<img src="Carla_Doyle.jpg"; align="left" /> 
+</div>
+<div class="column right">
 ### <i class="glyphicon glyphicon-user"></i> Carla Doyle
 PhD Student in Epidemiology (McGill). Research Topic: *Modeling of HIV transmission among men who have sex with men in Montréal*. Co-supervisor: [Joseph Cox](https://www.mcgill.ca/epi-biostat-occh/joseph-cox).
+</div>
+</div>
 
+<div class="row">
+<div class="column left">
+<img src="Charlotte_Laniece.jpg"; align="left" /> 
+</div>
+<div class="column right">
 ### <i class="glyphicon glyphicon-user"></i> Charlotte Lanièce
 PhD Student in Epidemiology (McGill). Research Topic: *HCV elimination among HIV co-infected populations in Canada*. Primary supervisor: [Marina Klein](http://rimuhc.ca/-/marina-klein-md-msc).  
+</div>
+</div>
 
+<div class="row">
+<div class="column left">
+<img src="Branwen_Owen.jpg"; align="left" /> 
+</div>
+<div class="column right">
 ### <i class="glyphicon glyphicon-user"></i> Branwen Owen
-PhD Student in Epidemiology (Imperial College London). Research Topic: *Prevalence, determinants, and HIV risk of heterosexual anal intercourse*. Primary supervisor: [Marie Claude Boily](http://www.imperial.ac.uk/people/mc.boily).  
+PhD Student in Epidemiology (Imperial College London). Research Topic: *Prevalence, determinants, and HIV risk of heterosexual anal intercourse*. Primary supervisor: [Marie Claude Boily](http://www.imperial.ac.uk/people/mc.boily).   
+</div>
+</div>
 
+
+</body>
+
+
+#
 #  
 # Past Supervision
 #  

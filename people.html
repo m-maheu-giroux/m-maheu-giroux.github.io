@@ -237,33 +237,87 @@ $(document).ready(function () {
 </div>
 
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 40%;
+    padding: 10px;
+}
+.left {
+  width: 15%;
+}
+.right {
+  width: 85%;
+}
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 500px) {
+    .column {
+        width: 100%;
+    }
+}
+</style>
+</head>
+<body>
 <div id="section" class="section level1">
 <h1></h1>
 </div>
 <div id="section-1" class="section level1">
 <h1></h1>
 </div>
-<div id="section-2" class="section level1">
-<h1></h1>
-</div>
 <div id="currently-cosupervised" class="section level1">
 <h1>Currently (co)Supervised</h1>
-<div id="arnaud-godin" class="section level3">
-<h3><i class="glyphicon glyphicon-user"></i> Arnaud Godin</h3>
+<div class="row">
+<div class="column left">
+<p><img src="Arnaud_Godin.jpg"; align="left" /></p>
+</div>
+<div class="column right">
+<h3 id="arnaud-godin"><i class="glyphicon glyphicon-user"></i> Arnaud Godin</h3>
 <p>Master Student in Epidemiology (McGill). Research Topic: <em>Modeling the potential impact of different prison-based prevention and treatment strategies for HCV transmission in Montréal</em>. Co-supervisor: <a href="https://www.mcgill.ca/epi-biostat-occh/joseph-cox">Joseph Cox</a>.</p>
 </div>
-<div id="carla-doyle" class="section level3">
-<h3><i class="glyphicon glyphicon-user"></i> Carla Doyle</h3>
+</div>
+<div class="row">
+<div class="column left">
+<p><img src="Carla_Doyle.jpg"; align="left" /></p>
+</div>
+<div class="column right">
+<h3 id="carla-doyle"><i class="glyphicon glyphicon-user"></i> Carla Doyle</h3>
 <p>PhD Student in Epidemiology (McGill). Research Topic: <em>Modeling of HIV transmission among men who have sex with men in Montréal</em>. Co-supervisor: <a href="https://www.mcgill.ca/epi-biostat-occh/joseph-cox">Joseph Cox</a>.</p>
 </div>
-<div id="charlotte-laniece" class="section level3">
-<h3><i class="glyphicon glyphicon-user"></i> Charlotte Lanièce</h3>
+</div>
+<div class="row">
+<div class="column left">
+<p><img src="Charlotte_Laniece.jpg"; align="left" /></p>
+</div>
+<div class="column right">
+<h3 id="charlotte-laniece"><i class="glyphicon glyphicon-user"></i> Charlotte Lanièce</h3>
 <p>PhD Student in Epidemiology (McGill). Research Topic: <em>HCV elimination among HIV co-infected populations in Canada</em>. Primary supervisor: <a href="http://rimuhc.ca/-/marina-klein-md-msc">Marina Klein</a>.</p>
 </div>
-<div id="branwen-owen" class="section level3">
-<h3><i class="glyphicon glyphicon-user"></i> Branwen Owen</h3>
+</div>
+<div class="row">
+<div class="column left">
+<p><img src="Branwen_Owen.jpg"; align="left" /></p>
+</div>
+<div class="column right">
+<h3 id="branwen-owen"><i class="glyphicon glyphicon-user"></i> Branwen Owen</h3>
 <p>PhD Student in Epidemiology (Imperial College London). Research Topic: <em>Prevalence, determinants, and HIV risk of heterosexual anal intercourse</em>. Primary supervisor: <a href="http://www.imperial.ac.uk/people/mc.boily">Marie Claude Boily</a>.</p>
 </div>
+</div>
+</body>
+</div>
+<div id="section-2" class="section level1">
+<h1></h1>
 </div>
 <div id="section-3" class="section level1">
 <h1></h1>
