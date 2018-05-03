@@ -249,9 +249,9 @@ $(document).ready(function () {
 <style type="text/css">
 body{ /* Normal  */
   font-size: 14px;
-   min-width:1100px;        /* Suppose you want minimum width of 1000px */
+   min-width: 700px;        /* Suppose you want minimum width of 1000px */
    width: auto !important;  /* Firefox will set width as auto */
-   width:1100px;            /* As IE6 ignores !important it will set width as 1100px; */
+   width: 700px;            /* As IE6 ignores !important it will set width as 1100px; */
   }
 h1 { /* Header 1 */
   font-size: 26px;
@@ -272,69 +272,66 @@ pre { /* Code block - determines code spacing between lines */
     font-size: 14px;
 }
 </style>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.coll {
-float: left;
-text-align: left;
+* {
+    box-sizing: border-box;
 }
-.colr {
-float: right;
-width: 75%;
-text-align: left
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 40%;
+    padding: 10px;
+}
+.left {
+  width: 25%;
+}
+.right {
+  width: 75%;
+}
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 500px) {
+    .column {
+        width: 100%;
+    }
 }
 </style>
-<div class="coll">
-<p><img src="Head%20Edited.JPG" style="position:absolute; top:100px; left:40px; width:250px" /></p>
-<div class="colr">
-<div id="section" class="section level1">
-<h1></h1>
+</head>
+<div class="row">
+<div class="column left">
+<p><img src="Head%20Edited.JPG" align="left"; width:250px" /></p>
 </div>
-<div id="section-1" class="section level1">
-<h1></h1>
-</div>
-<div id="mathieu-maheu-giroux-scd" class="section level1">
-<h1><strong>Mathieu Maheu-Giroux, ScD</strong></h1>
-<div id="assistant-professor-mcgill-university" class="section level3">
-<h3>Assistant Professor, McGill University</h3>
+<div class="column right">
+<h1 id="section"></h1>
+<h1 id="section-1"></h1>
+<h1 id="mathieu-maheu-giroux-scd"><strong>Mathieu Maheu-Giroux, ScD</strong></h1>
+<h3 id="assistant-professor-mcgill-university">Assistant Professor, McGill University</h3>
 <p>I am an interdisciplinary public health researcher and my research has focused primarily on 1) infectious disease modeling, 2) epidemiology and measurements, and 3) impact evaluations of public health interventions.</p>
 <p>As of 2017, I have joined the Department of Epidemiology and Biostatistics at <a href="https://www.mcgill.ca/epi-biostat-occh/">McGill Univeristy</a>. Prior to this appointment, I was a sponsored researcher in the Department of Infectious Disease Epidemiology at <a href="https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/">Imperial College London</a>. My research program is funded by a FRQS Junior 1 Research Scholar Award.</p>
-</div>
-</div>
-<div id="section-2" class="section level1">
-<h1></h1>
-</div>
-<div id="section-3" class="section level1">
-<h1></h1>
-<div id="research-interests" class="section level2">
-<h2><i class="glyphicon glyphicon-list"></i> Research Interests</h2>
+<h1 id="section-2"></h1>
+<h1 id="section-3"></h1>
+<h2 id="research-interests"><i class="glyphicon glyphicon-list"></i> Research Interests</h2>
 <p>Population Health / Infectious Disease Epidemiology / Impact Evaluation<br />
 Bayesian Statistics / Modeling / Measurments and Disease Burden</p>
-</div>
-</div>
-<div id="section-4" class="section level1">
-<h1></h1>
-</div>
-<div id="section-5" class="section level1">
-<h1></h1>
-<div id="education" class="section level2">
-<h2><i class="glyphicon glyphicon-education"></i> Education</h2>
+<h1 id="section-4"></h1>
+<h1 id="section-5"></h1>
+<h2 id="education"><i class="glyphicon glyphicon-education"></i> Education</h2>
 <p>BSc’03 Biology (Université de Montréal)<br />
 MSc’05 Ecology (McGill University)<br />
 MSc’09 Epidemiology (McGill University)<br />
 ScD’15 Global Health and Population (Harvard University)<br />
 Fellowship’17 Mathematical Epidemiology (Imperial College London)</p>
-</div>
-</div>
-<div id="section-6" class="section level1">
-<h1></h1>
-</div>
-<div id="section-7" class="section level1">
-<h1></h1>
-</div>
-<div id="section-8" class="section level1">
-<h1></h1>
-<div id="links" class="section level2">
-<h2><i class="glyphicon glyphicon-link"></i> Links</h2>
+<h1 id="section-6"></h1>
+<h1 id="section-7"></h1>
+<h1 id="section-8"></h1>
+<h2 id="links"><i class="glyphicon glyphicon-link"></i> Links</h2>
 <p><a href="http://orcid.org/0000-0002-8363-4388">ORCID</a><br />
 <a href="https://www.researchgate.net/profile/Mathieu_Maheu-Giroux">ResearchGate</a><br />
 <a href="https://www.publons.com/a/1355066/">Publons</a><br />
