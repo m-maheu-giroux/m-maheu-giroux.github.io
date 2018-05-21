@@ -73,7 +73,7 @@ PhD Student in Epidemiology (McGill). Research Topic: *HCV elimination among HIV
 </div>
 <div class="column right">
 ### <i class="glyphicon glyphicon-user"></i> Branwen Owen
-PhD Student in Epidemiology (Imperial College London). Research Topic: *Prevalence, determinants, and HIV risk of heterosexual anal intercourse*. Primary supervisor: [Marie Claude Boily](http://www.imperial.ac.uk/people/mc.boily).   
+PhD Student in Epidemiology (Imperial College London). Research Topic: *Neglected risk factors in HIV transmission and implications for prevention*. Primary supervisor: [Marie Claude Boily](http://www.imperial.ac.uk/people/mc.boily).   
 </div>
 </div>
 
