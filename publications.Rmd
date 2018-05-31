@@ -35,6 +35,10 @@ Feel free to email me to obtain a copy of any of the papers below.
 # Peer-reviewed papers  
 #  
 ## 2018  
+<a class="one" href="https://doi.org/10.1016/S1473-3099(18)30270-6" target="_blank">
+**Maheu-Giroux M** and Joseph SA (2018). Moxidectin for deworming: from trials to implementation. The Lancet Infectious Diseases. DOI: http://dx.doi.org/10.1016/S1473-3099(18)30270-6
+</a>
+
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/29306786" target="_blank">
 Tavitian-Exley I, **Maheu-Giroux M**, Platt L, Heimer R, Uusküla A, Levina O, Vickerman P, and Boily MC (2018). Differences in risk behaviors and HIV status between primary amphetamines and opioid injectors in Estonia and Russia. International Journal of Drug Policy. 53:96-105.  
 </a>
