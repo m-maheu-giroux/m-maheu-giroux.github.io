@@ -39,17 +39,18 @@ Feel free to email me to obtain a copy of any of the papers below.
 **Maheu-Giroux M** and Joseph SA (2018). Moxidectin for deworming: from trials to implementation. The Lancet Infectious Diseases S1473-3099(18)30270-6.
 </a>
 
+#  
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/29306786" target="_blank">
 Tavitian-Exley I, **Maheu-Giroux M**, Platt L, Heimer R, Uusküla A, Levina O, Vickerman P, and Boily MC (2018). Differences in risk behaviors and HIV status between primary amphetamines and opioid injectors in Estonia and Russia. International Journal of Drug Policy. 53:96-105.  
 </a>
 
 #  
-## 2017
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/28699018" target="_blank">
-Tavitian-Exley I, Boily MC, Heimer R, Uusküla A, Levina O, and **Maheu-Giroux M** (2017). Polydrug use and HIV risk heterogeneity among people who inject drugs: a latent class analysis. AIDS and Behavior. DOI 10.1007/s10461-017-1836-0
+Tavitian-Exley I, Boily MC, Heimer R, Uusküla A, Levina O, and **Maheu-Giroux M** (2018). Polydrug use and HIV risk heterogeneity among people who inject drugs: a latent class analysis. AIDS and Behavior. DOI 10.1007/s10461-017-1836-0
 </a>
 
 #  
+## 2017
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/28633387" target="_blank">
 **Maheu-Giroux M**, Baral S, Vesga JF, Diouf D, Diabaté S, Alary M, Abo K, and Boily MC (2017). Anal intercourse among female sex workers in Côte d’Ivoire: prevalence, frequency, determinants, and model-based estimates of its population-level impact on HIV transmission. American Journal of Epidemiology. doi: 10.1093/aje/kwx244.
 </a>
