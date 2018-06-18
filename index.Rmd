@@ -84,7 +84,7 @@ pre { /* Code block - determines code spacing between lines */
 #
 # __Mathieu Maheu-Giroux, ScD__
 ### Assistant Professor, McGill University
-I am an interdisciplinary public health researcher and my work has focused primarily on 1) infectious disease modeling, 2) epidemiology and measurements, and 3) impact evaluations of public health interventions. 
+I am an interdisciplinary public health researcher and my work has focused primarily on 1) infectious disease modeling, 2) epidemiology and measurments, and 3) impact evaluations of public health interventions. 
 
 As of 2017, I have joined the Department of Epidemiology and Biostatistics at [McGill University](https://www.mcgill.ca/epi-biostat-occh/). Prior to this appointment, I was a sponsored researcher in the Department of Infectious Disease Epidemiology at [Imperial College London](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/). My research program is funded by a FRQS Junior 1 Research Scholar Award. 
 
