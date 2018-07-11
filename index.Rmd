@@ -113,5 +113,11 @@ Fellowship'17 Mathematical Epidemiology (Imperial College London)
 [LinkedIn](https://ca.linkedin.com/in/mmgiroux)  
 [Twitter](https://twitter.com/Mat__MG)  
 [Github](https://github.com/m-maheu-giroux)
+
+#
+#
+## <i class="glyphicon glyphicon-flash"></i> News
+**2018-07-10**: Our team received funding from the *Canadian Institutes of Health Research* to conduct a model-based impact evaluation of PrEP to prevent HIV transmission in Montréal!
+
 </div>
 </div>
