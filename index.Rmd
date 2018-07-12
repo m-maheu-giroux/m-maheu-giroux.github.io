@@ -74,10 +74,35 @@ pre { /* Code block - determines code spacing between lines */
 </style>
 </head>
 
+<style>
+.class-name {
+     text-align: left;
+     font-family: arial;
+     font-size: 14px;
+     padding: 10px 5px;
+     border-radius: 5px;
+     background-color: whitesmoke;
+ }
+ </style>
+ 
+<style>
+a.one {
+    text-align: left;
+    font-family: arial;
+    font-size: 14px;
+    color: black;
+    padding: 10px 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    background-color: whitesmoke;
+</style>
+
 <div class="row">
 <div class="column left">
 <img src="Head Edited.jpg" align="left"; width:250px" />
 </div>
+
 
 <div class="column right">
 #
@@ -117,7 +142,12 @@ Fellowship'17 Mathematical Epidemiology (Imperial College London)
 #
 #
 ## <i class="glyphicon glyphicon-flash"></i> News
-**2018-07-10**: Our team received funding from the *Canadian Institutes of Health Research* to conduct a model-based impact evaluation of PrEP to prevent HIV transmission in Montréal!
+<a class="one" target="_blank">
+**2018-07-10**: Our team's project to conduct a model-based impact evaluation of pre-exposure prophylaxis on HIV transmission in Montréal was funded by the *Canadian Institutes of Health Research*! L'équipe est très contente ;)  
+**2018-05-09**: Charlotte Lanièce (PhD candidate) and Arnaud Godin (MSc candidate) were both awarded *CanHepC Training Fellowships*. Congratulations!  
+**2018-05-04**: Arnaud Godin (MSc candidate) received a *Master's Training Award* from the *Fonds de la recherche du Québec - Santé*. Félicitations!  
+**2017-09-01**: Carla Doyle (PhD student) is the recepient of an *Engage Studentship*. Bravo!  
+</a> 
 
 </div>
 </div>
