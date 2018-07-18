@@ -38,172 +38,172 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 ## 2018  
 <a class="one" href="https://doi.org/10.1016/S1473-3099(18)30270-6" target="_blank">
-**Maheu-Giroux M** and Joseph SA (2018). Moxidectin for deworming: from trials to implementation. The Lancet Infectious Diseases S1473-3099(18)30270-6.
+**Maheu-Giroux M** and Joseph SA (2018). Moxidectin for deworming: from trials to implementation. *The Lancet Infectious Diseases* S1473-3099(18)30270-6.
 </a>
 
 #  
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/29306786" target="_blank">
-Tavitian-Exley I, **Maheu-Giroux M**, Platt L, Heimer R, Uusküla A, Levina O, Vickerman P, and Boily MC (2018). Differences in risk behaviors and HIV status between primary amphetamines and opioid injectors in Estonia and Russia. International Journal of Drug Policy. 53:96-105.  
+Tavitian-Exley I, **Maheu-Giroux M**, Platt L, Heimer R, Uusküla A, Levina O, Vickerman P, and Boily MC (2018). Differences in risk behaviors and HIV status between primary amphetamines and opioid injectors in Estonia and Russia. *International Journal of Drug Policy* 53:96-105.  
 </a>
 
 #  
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/28699018" target="_blank">
-Tavitian-Exley I, Boily MC, Heimer R, Uusküla A, Levina O, and **Maheu-Giroux M** (2018). Polydrug use and HIV risk heterogeneity among people who inject drugs: a latent class analysis. AIDS and Behavior. DOI 10.1007/s10461-017-1836-0
+Tavitian-Exley I, Boily MC, Heimer R, Uusküla A, Levina O, and **Maheu-Giroux M** (2018). Polydrug use and HIV risk heterogeneity among people who inject drugs: a latent class analysis. *AIDS and Behavior* DOI 10.1007/s10461-017-1836-0
 </a>
 
 #  
 ## 2017
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/28633387" target="_blank">
-**Maheu-Giroux M**, Baral S, Vesga JF, Diouf D, Diabaté S, Alary M, Abo K, and Boily MC (2017). Anal intercourse among female sex workers in Côte d’Ivoire: prevalence, frequency, determinants, and model-based estimates of its population-level impact on HIV transmission. American Journal of Epidemiology. doi: 10.1093/aje/kwx244.
+**Maheu-Giroux M**, Baral S, Vesga JF, Diouf D, Diabaté S, Alary M, Abo K, and Boily MC (2017). Anal intercourse among female sex workers in Côte d’Ivoire: prevalence, frequency, determinants, and model-based estimates of its population-level impact on HIV transmission. *American Journal of Epidemiology* DOI: 10.1093/aje/kwx244.
 </a>
 
 #  
 <a class="one" href="http://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1002321&type=printable" target="_blank">
-**Maheu-Giroux M**, Vesga JF, Diabaté S, Alary M, Baral S, Diouf D, Abo K, and Boily MC (2017). Population-level impact of an accelerated HIV response plan to reach the UNAIDS 90-90-90 target in Côte d’Ivoire: insights from mathematical modeling. PLOS Medicine 14(6):e1002321.
+**Maheu-Giroux M**, Vesga JF, Diabaté S, Alary M, Baral S, Diouf D, Abo K, and Boily MC (2017). Population-level impact of an accelerated HIV response plan to reach the UNAIDS 90-90-90 target in Côte d’Ivoire: insights from mathematical modeling. *PLOS Medicine* 14(6):e1002321.
 </a>
 
 #  
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5441086/pdf/12889_2017_Article_4417.pdf" target="_blank">
-Kirakoya-Samadoulougou F, Jean K, and **Maheu-Giroux M** (2017). Uptake of HIV testing in Burkina Faso: an assessment of individual and community-level determinants. BMC Public Health 17(1):487.
+Kirakoya-Samadoulougou F, Jean K, and **Maheu-Giroux M** (2017). Uptake of HIV testing in Burkina Faso: an assessment of individual and community-level determinants. *BMC Public Health* 17(1):487.
 </a>
 
 #  
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/28471837" target="_blank">
-**Maheu-Giroux M**, Vesga JF, Diabaté S, Alary M, Baral S, Diouf D, Abo K, and Boily MC (2017). Changing dynamics of HIV transmission in Côte d’Ivoire: modeling which key populations acquired and transmitted HIV infections and estimating the impact of past HIV interventions (1976-2015). JAIDS Journal of Acquired Immune Deficiency Syndromes 75(5):517-527.
+**Maheu-Giroux M**, Vesga JF, Diabaté S, Alary M, Baral S, Diouf D, Abo K, and Boily MC (2017). Changing dynamics of HIV transmission in Côte d’Ivoire: modeling which key populations acquired and transmitted HIV infections and estimating the impact of past HIV interventions (1976-2015). *JAIDS Journal of Acquired Immune Deficiency Syndromes* 75(5):517-527.
 </a>
 
 #  
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/28252526" target="_blank">
-**Maheu-Giroux M**, Tanser F, Boily MC, Pillay D, Joseph SA, and Bäernighausen T (2017). Determinants of time from HIV infection to linkage-to-care in rural KwaZulu-Natal, South Africa. AIDS 31:1017-1024.
+**Maheu-Giroux M**, Tanser F, Boily MC, Pillay D, Joseph SA, and Bäernighausen T (2017). Determinants of time from HIV infection to linkage-to-care in rural KwaZulu-Natal, South Africa. *AIDS* 31:1017-1024.
 </a>
 
 #  
 ## 2016
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/26388170" target="_blank">
-**Maheu-Giroux M** (2016). Oxantel pamoate and deworming programmes. The Lancet Infectious Diseases 16(1):5-6.
+**Maheu-Giroux M** (2016). Oxantel pamoate and deworming programmes. *The Lancet Infectious Diseases* 16(1):5-6.
 </a>
 
 #  
 <a class="one" href="http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005065&type=printable" target="_blank">
-Castro MC, **Maheu-Giroux M**, Chiyaka C, and Singer BH (2016). Malaria incidence rates from time series of 2-wave panel surveys. PLOS Computational Biology. 12(8):e1005065.
+Castro MC, **Maheu-Giroux M**, Chiyaka C, and Singer BH (2016). Malaria incidence rates from time series of 2-wave panel surveys. *PLOS Computational Biology* 12(8):e1005065.
 </a>
 
 # 
 <a class="one" href="https://bmcpregnancychildbirth.biomedcentral.com/track/pdf/10.1186/s12884-016-0871-6?site=bmcpregnancychildbirth.biomedcentral.com" target="_blank">
-**Maheu-Giroux M**, Filippi V, Samadoulougou S, Castro MC, Maulet N, Meda N, Pouliot M, and Kirakoya-Samadoulougou F (2016). Risk factors for vaginal fistula symptoms in sub-Saharan Africa: a pooled analysis of national household surveys. BMC Pregnancy and Childbirth 16(1):1-10.
+**Maheu-Giroux M**, Filippi V, Samadoulougou S, Castro MC, Maulet N, Meda N, Pouliot M, and Kirakoya-Samadoulougou F (2016). Risk factors for vaginal fistula symptoms in sub-Saharan Africa: a pooled analysis of national household surveys. *BMC Pregnancy and Childbirth* 16(1):1-10.
 </a>
 
 #  
 ## 2015
 <a class="one" href="http://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0004020&type=printable" target="_blank">
-Joseph SA, Casapía M, Montresor A, Rahme E, Ward BJ, Marquis GS, Pezo L, Blouin B, **Maheu-Giroux M**, and Gyorkos TW (2015). The effect of deworming timing and frequency on growth in one-year old children living in an STH-endemic area of Peru: a randomized controlled trial. PLOS Neglected Tropical Diseases 9(10):e0004020.
+Joseph SA, Casapía M, Montresor A, Rahme E, Ward BJ, Marquis GS, Pezo L, Blouin B, **Maheu-Giroux M**, and Gyorkos TW (2015). The effect of deworming timing and frequency on growth in one-year old children living in an STH-endemic area of Peru: a randomized controlled trial. *PLOS Neglected Tropical Diseases* 9(10):e0004020.
 </a>
 
 # 
 <a class="one" href="http://www.thelancet.com/journals/langlo/article/PIIS2214-109X(15)00030-3/fulltext" target="_blank">
-**Maheu-Giroux M**, Filippi V, Samadoulougou S, Castro MC, Maulet N, Meda N, and Kirakoya-Samadoulougou F (2015). Fistula in sub-Saharan Africa – Authors’ reply. The Lancet Global Health. 3(8):e442.
+**Maheu-Giroux M**, Filippi V, Samadoulougou S, Castro MC, Maulet N, Meda N, and Kirakoya-Samadoulougou F (2015). Fistula in sub-Saharan Africa – Authors’ reply. *The Lancet Global Health* 3(8):e442.
 </a>
 
 # 
 <a class="one" href="http://www.thelancet.com/pdfs/journals/langlo/PIIS2214-109X(14)70348-1.pdf" target="_blank">
-**Maheu-Giroux M**, Filippi V, Samadoulougou S, Castro MC, Maulet N, Meda N, and Kirakoya-Samadoulougou F (2015). Prevalence of symptoms of vaginal fistula in 19 sub-Saharan Africa countries: a meta-analysis of national household survey data. The Lancet Global Health 3(5):e271-e278.
+**Maheu-Giroux M**, Filippi V, Samadoulougou S, Castro MC, Maulet N, Meda N, and Kirakoya-Samadoulougou F (2015). Prevalence of symptoms of vaginal fistula in 19 sub-Saharan Africa countries: a meta-analysis of national household survey data. *The Lancet Global Health* 3(5):e271-e278.
 </a>
 
 # 
 ## 2014
 <a class="one" href="journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0003369&type=printable" target="_blank">
-Joseph SA, Casapía M, Blouin B, **Maheu-Giroux M**, Rahme E, and Gyorkos TW (2014). Risk factors associated with malnutrition in one-year-old children living in the Peruvian Amazon. PLOS Neglected Tropical Diseases 8(12):e3369.
+Joseph SA, Casapía M, Blouin B, **Maheu-Giroux M**, Rahme E, and Gyorkos TW (2014). Risk factors associated with malnutrition in one-year-old children living in the Peruvian Amazon. *PLOS Neglected Tropical Diseases* 8(12):e3369.
 </a>
 
 # 
 <a class="one" href="https://malariajournal.biomedcentral.com/track/pdf/10.1186/1475-2875-13-477?site=malariajournal.biomedcentral.com" target="_blank">
-**Maheu-Giroux M** and Castro MC (2014). Cost-effectiveness of larviciding for urban malaria control in Tanzania. Malaria Journal 13(1):447. (*Highly Accessed)
+**Maheu-Giroux M** and Castro MC (2014). Cost-effectiveness of larviciding for urban malaria control in Tanzania. *Malaria Journal* 13(1):447. (*Highly Accessed)
 </a>
 
 # 
 <a class="one" href="https://malariajournal.biomedcentral.com/track/pdf/10.1186/1475-2875-13-440?site=malariajournal.biomedcentral.com" target="_blank">
-**Maheu-Giroux M** and Castro MC (2014). Factors affecting providers’ delivery of Intermittent Preventive Therapy for malaria in pregnancy: a five-country analysis of national Service Provision Assessment surveys. Malaria Journal 13(1):440.
+**Maheu-Giroux M** and Castro MC (2014). Factors affecting providers’ delivery of Intermittent Preventive Therapy for malaria in pregnancy: a five-country analysis of national Service Provision Assessment surveys. *Malaria Journal* 13(1):440.
 </a>
 
 # 
 <a class="one" href="http://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0003007&type=printable" target="_blank">
-Thériault FL, **Maheu-Giroux M**, Blouin B, Casapía M, and Gyorkos TW (2014). Effects of a post-deworming health hygiene education intervention on absenteeism in school-age children of the Peruvian Amazon. PLOS Neglected Tropical Diseases 8(8):e3007. 
+Thériault FL, **Maheu-Giroux M**, Blouin B, Casapía M, and Gyorkos TW (2014). Effects of a post-deworming health hygiene education intervention on absenteeism in school-age children of the Peruvian Amazon. *PLOS Neglected Tropical Diseases* 8(8):e3007. 
 </a>
 
 # 
 <a class="one" href="https://parasitesandvectors.biomedcentral.com/track/pdf/10.1186/1756-3305-7-350?site=parasitesandvectors.biomedcentral.com" target="_blank">
-Samadoulougou S, **Maheu-Giroux M**, Kirakoya-Samadoulougou F, de Keukeleire M, Castro MC, and Robert A (2014). Multilevel and geo-statistical modeling of malaria risk in children of Burkina Faso. Parasites & Vectors 7(1):350.
+Samadoulougou S, **Maheu-Giroux M**, Kirakoya-Samadoulougou F, de Keukeleire M, Castro MC, and Robert A (2014). Multilevel and geo-statistical modeling of malaria risk in children of Burkina Faso. *Parasites & Vectors* 7(1):350.
 </a>
 
 # 
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4228373/" target="_blank">
-Tanser F, de Oliveira T, **Maheu-Giroux M** and Baernighausen TW (2014). Concentrated HIV epidemics within generalized ones in sub-Saharan Africa. Current Opinion in HIV and AIDS 9(2):115-125.
+Tanser F, de Oliveira T, **Maheu-Giroux M** and Baernighausen TW (2014). Concentrated HIV epidemics within generalized ones in sub-Saharan Africa. *Current Opinion in HIV and AIDS* 9(2):115-125.
 </a>
 
 # 
 ## 2013
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/24448936" target="_blank">
-Gyorkos TW, **Maheu-Giroux M**, Blouin B, Saavedra L, and Casapía M (2013). Efficacy of a single dose of albendazole for soil-transmitted helminth infections in school children of Iquitos, Peru. Revista Peruana de Medicina Experimental y Salud Pública 30(4):601-607.
+Gyorkos TW, **Maheu-Giroux M**, Blouin B, Saavedra L, and Casapía M (2013). Efficacy of a single dose of albendazole for soil-transmitted helminth infections in school children of Iquitos, Peru. *Revista Peruana de Medicina Experimental y Salud Pública* 30(4):601-607.
 </a>
 
 # 
 <a class="one" href="https://malariajournal.biomedcentral.com/track/pdf/10.1186/1475-2875-12-422?site=malariajournal.biomedcentral.com" target="_blank">
-**Maheu-Giroux M** and Castro MC (2013). Do malaria vector control measures impact disease-related behaviors and knowledge? Evidence from a large-scale larviciding intervention in Tanzania. Malaria Journal 12:422. (*Highly Accessed)
+**Maheu-Giroux M** and Castro MC (2013). Do malaria vector control measures impact disease-related behaviors and knowledge? Evidence from a large-scale larviciding intervention in Tanzania. *Malaria Journal* 12:422. (*Highly Accessed)
 </a>
 
 # 
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3772033/pdf/pntd.0002397.pdf" target="_blank">
-Gyorkos TW, **Maheu-Giroux M**, Blouin B, and Casapía M (2013). Impact of health education on soil-transmitted helminth infections in schoolchildren of the Peruvian Amazon: A cluster-randomized controlled trial. PLOS Neglected Tropical Diseases 7(9):e2397.
+Gyorkos TW, **Maheu-Giroux M**, Blouin B, and Casapía M (2013). Impact of health education on soil-transmitted helminth infections in schoolchildren of the Peruvian Amazon: A cluster-randomized controlled trial. *PLOS Neglected Tropical Diseases* 7(9):e2397.
 </a>
 
 # 
 <a class="one" href="http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0071638&type=printable" target="_blank">
-**Maheu-Giroux M** and Castro MC (2013). Impact of community-based larviciding on the prevalence of malaria infection in Dar es Salaam, Tanzania. PLOS ONE. 8(8):e71638. 
+**Maheu-Giroux M** and Castro MC (2013). Impact of community-based larviciding on the prevalence of malaria infection in Dar es Salaam, Tanzania. *PLOS One* 8(8):e71638. 
 </a>
 
 # 
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/23925280" target="_blank">
-Blouin B, Penny ME, **Maheu-Giroux M**, Casapía M, Aguilar E, Silva H, Creed-Kanashiro H, Joseph SA, Gagnon A, Rahme E, and Gyorkos TW (2013). Timing of umbilical cord clamping and infant anemia: the role of maternal anemia. Paediatrics & International Child Health. 33(2):79-85.
+Blouin B, Penny ME, **Maheu-Giroux M**, Casapía M, Aguilar E, Silva H, Creed-Kanashiro H, Joseph SA, Gagnon A, Rahme E, and Gyorkos TW (2013). Timing of umbilical cord clamping and infant anemia: the role of maternal anemia. *Paediatrics & International Child Health* 33(2):79-85.
 </a>
 
 # 
 ## 2012
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/22566383" target="_blank">
-Gyorkos TW, **Maheu-Giroux** M, Blouin B, Creed-Kanashiro H, Casapía M, Aguilar E, Silva H, Joseph SA, and Penny ME (2012). A hospital policy change toward delayed cord clamping is effective in improving hemoglobin levels and anemia status of 8-month-old Peruvian infants. Journal of Tropical Pediatrics 58(6):435-440.
+Gyorkos TW, **Maheu-Giroux** M, Blouin B, Creed-Kanashiro H, Casapía M, Aguilar E, Silva H, Joseph SA, and Penny ME (2012). A hospital policy change toward delayed cord clamping is effective in improving hemoglobin levels and anemia status of 8-month-old Peruvian infants. *Journal of Tropical Pediatrics* 58(6):435-440.
 </a>
 
 # 
 ## 2011
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/21709936" target="_blank">
-Blouin B, Penny ME, Casapía M, Aguilar E, Silva H, Joseph SA, Creed-Kanashiro H, **Maheu-Giroux M**, and Gyorkos TW (2011). Effect of a two-component intervention to change hospital practice from early to delayed umbilical cord clamping in the Peruvian Amazon. Pan American Journal of Public Health 29(5):322-328.
+Blouin B, Penny ME, Casapía M, Aguilar E, Silva H, Joseph SA, Creed-Kanashiro H, **Maheu-Giroux M**, and Gyorkos TW (2011). Effect of a two-component intervention to change hospital practice from early to delayed umbilical cord clamping in the Peruvian Amazon. *Pan American Journal of Public Health* 29(5):322-328.
 </a>
 
 # 
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/21349565" target="_blank">
-Gyorkos TW, **Maheu-Giroux M**, Casapía M, Joseph SA, and Creed-Kanashiro H (2011). Stunting and helminth infection in early preschool-age children in a resource-poor community in the Amazon lowlands of Peru. Transactions of the Royal Society for Tropical Medicine & Hygiene 105(4):204-208.
+Gyorkos TW, **Maheu-Giroux M**, Casapía M, Joseph SA, and Creed-Kanashiro H (2011). Stunting and helminth infection in early preschool-age children in a resource-poor community in the Amazon lowlands of Peru. *Transactions of the Royal Society for Tropical Medicine & Hygiene* 105(4):204-208.
 </a>
 
 # 
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/21257247" target="_blank">
-**Maheu-Giroux M**, Casapía M, and Gyorkos TW (2011). On the validity of self-reports and indirect reports to ascertain malaria prevalence in settings of hypoendemicity. Social Science & Medicine 72(5):635-640.
+**Maheu-Giroux M**, Casapía M, and Gyorkos TW (2011). On the validity of self-reports and indirect reports to ascertain malaria prevalence in settings of hypoendemicity. *Social Science & Medicine* 72(5):635-640.
 </a>
 
 # 
 ## 2010
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/20188688" target="_blank">
-**Maheu-Giroux M**, Sotto-Calle VE, Casapía M, Berrang-Ford L, Buckeridge DL, Coomes OT, and Gyorkos TW (2010). Risk of malaria transmission from fish ponds in the Peruvian Amazon. Acta Tropica 115(1-2):112-118.
+**Maheu-Giroux M**, Sotto-Calle VE, Casapía M, Berrang-Ford L, Buckeridge DL, Coomes OT, and Gyorkos TW (2010). Risk of malaria transmission from fish ponds in the Peruvian Amazon. *Acta Tropica* 115(1-2):112-118.
 </a>
 
 # 
 ## 2007
 <a class="one" href="https://link.springer.com/article/10.1007/s10980-006-9024-z" target="_blank">
-**Maheu-Giroux M** and de Blois S (2007). The landscape ecology of Phragmites australis invasion in networks of linear wetlands. Landscape Ecology 22(2):285-301.
+**Maheu-Giroux M** and de Blois S (2007). The landscape ecology of Phragmites australis invasion in networks of linear wetlands. *Landscape Ecology* 22(2):285-301.
 </a>
 
 # 
 ## 2005
 <a class="one" href="https://www.sciencedirect.com/science/article/pii/S0304377005001452" target="_blank">
-**Maheu-Giroux M** and de Blois S (2005). Mapping the invasive species Phragmites australis in linear wetlands corridors. Aquatic Botany 83(4):310-320. (*Top 25 accessed articles)
+**Maheu-Giroux M** and de Blois S (2005). Mapping the invasive species Phragmites australis in linear wetlands corridors. *Aquatic Botany* 83(4):310-320. (*Top 25 accessed articles)
 </a>
 
 #  
@@ -212,12 +212,12 @@ Gyorkos TW, **Maheu-Giroux M**, Casapía M, Joseph SA, and Creed-Kanashiro H (20
 
 #  
 <a class="one" href="http://science.sciencemag.org/content/346/6206/174.1.full" target="_blank">
-**Maheu-Giroux M** (2014). How Medicine Became Modern – “The Remedy: Robert Koch, Arthur Conan Doyle, and the Quest to Cure Tuberculosis”. Science 346(6206):174.
+**Maheu-Giroux M** (2014). How Medicine Became Modern – “The Remedy: Robert Koch, Arthur Conan Doyle, and the Quest to Cure Tuberculosis”. *Science* 346(6206):174.
 </a>
 
 #  
 <a class="one" href="https://www.hcs.harvard.edu/hghr/online/vaccines-cholera-haiti/">
-**Maheu-Giroux M** (2011). Change of mind: vaccines now to be used for cholera control in Haïti. Harvard College Global Health Review. (12/31/2011)
+**Maheu-Giroux M** (2011). Change of mind: vaccines now to be used for cholera control in Haïti. *Harvard College Global Health Review* (12/31/2011).
 </a>  
  
 
