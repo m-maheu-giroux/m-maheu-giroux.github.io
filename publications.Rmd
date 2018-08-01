@@ -111,7 +111,7 @@ Joseph SA, Casapía M, Montresor A, Rahme E, Ward BJ, Marquis GS, Pezo L, Blouin
 
 # 
 ## 2014
-<a class="one" href="journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0003369&type=printable" target="_blank">
+<a class="one" href="http://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0003369&type=printable" target="_blank">
 Joseph SA, Casapía M, Blouin B, **Maheu-Giroux M**, Rahme E, and Gyorkos TW (2014). Risk factors associated with malnutrition in one-year-old children living in the Peruvian Amazon. *PLOS Neglected Tropical Diseases* 8(12):e3369.
 </a>
 
