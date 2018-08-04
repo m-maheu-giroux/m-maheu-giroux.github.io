@@ -1,6 +1,8 @@
 
 ```{r setup, include=FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+library(emo) # https://github.com/hadley/emo 
+# EMOJI SEARCHER = http://emoji.muan.co/
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116328745-1"></script>
@@ -143,10 +145,10 @@ Fellowship'17 Mathematical Epidemiology (Imperial College London)
 #
 ## <i class="glyphicon glyphicon-flash"></i> News
 <a class="one" target="_blank">
-**2018-07-10**: Our team's project to conduct a model-based impact evaluation of pre-exposure prophylaxis on HIV transmission in Montréal was funded by the *Canadian Institutes of Health Research*! L'équipe est très contente ;)  
+**2018-07-10**: Our team's project to conduct a model-based impact evaluation of pre-exposure prophylaxis on HIV transmission in Montréal was funded by the *Canadian Institutes of Health Research*! L'équipe est très contente `r emo::ji("nerd_face")`.  
 **2018-05-09**: Charlotte Lanièce (PhD candidate) and Arnaud Godin (MSc candidate) were both awarded *CanHepC Training Fellowships*. Congratulations!  
 **2018-05-04**: Arnaud Godin (MSc candidate) received a *Master's Training Award* from the *Fonds de la recherche du Québec - Santé*. Félicitations!  
-**2017-09-01**: Carla Doyle (PhD student) is the recepient of an *Engage Studentship*. Bravo!  
+**2017-09-01**: Carla Doyle (PhD student) is the recepient of an *Engage Studentship*. `r emo::ji("woman_student")`    
 </a> 
 
 </div>
