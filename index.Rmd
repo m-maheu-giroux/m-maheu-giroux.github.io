@@ -1,6 +1,7 @@
 
 ```{r setup, include=FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+# devtools::install_github("hadley/emo")
 library(emo) # https://github.com/hadley/emo 
 # EMOJI SEARCHER = http://emoji.muan.co/
 ```
@@ -124,11 +125,11 @@ Bayesian Statistics / Modeling / Measurments and Disease Burden
 #
 #
 ## <i class="glyphicon glyphicon-education"></i> Education
-BSc'03 Biology (Université de Montréal)  
-MSc'05 Ecology (McGill University)  
-MSc'09 Epidemiology (McGill University)  
+Fellowship'17 Mathematical Epidemiology (Imperial College London)  
 ScD'15 Global Health and Population (Harvard University)  
-Fellowship'17 Mathematical Epidemiology (Imperial College London)
+MSc'09 Epidemiology (McGill University)  
+MSc'05 Ecology (McGill University)  
+BSc'03 Biology (Université de Montréal)  
 
 #
 #
