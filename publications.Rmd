@@ -231,7 +231,7 @@ Owen BN, **Maheu-Giroux M**, Matse S, Mnisi Z, Baral S, Ketende SC, Baggaley RF,
 
 # 
 <a class="one" href="https://dhsprogram.com/pubs/pdf/MR22/MR22.pdf">
-**Maheu-Giroux M, Joseph** L, Belisle P, Lancione S, and Eaton JW (2017). Assessing the Impact of Imperfect Immunoassays on HIV Prevalence Estimates from Surveys Conducted by The DHS Program. DHS Methodological Report No. 22. 58 pages. Rockville, MD, USA.
+**Maheu-Giroux M**, Joseph L, Belisle P, Lancione S, and Eaton JW (2017). Assessing the Impact of Imperfect Immunoassays on HIV Prevalence Estimates from Surveys Conducted by The DHS Program. DHS Methodological Report No. 22. 58 pages. Rockville, MD, USA.
 </a>
 
 # 
