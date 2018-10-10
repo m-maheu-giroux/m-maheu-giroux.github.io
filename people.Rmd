@@ -53,7 +53,7 @@ Master Student in Epidemiology (McGill). Research Topic: *Modeling the potential
 </div>
 <div class="column right">
 ### <i class="glyphicon glyphicon-user"></i> Carla Doyle
-PhD Student in Epidemiology (McGill). Research Topic: *Modeling of HIV transmission among men who have sex with men in Montréal*. Co-supervisor: [Joseph Cox](https://www.mcgill.ca/epi-biostat-occh/joseph-cox).
+PhD Student in Epidemiology (McGill). Research Topic: *Model-based impact evaluation of pre-exposure prophylaxis (PrEP) on HIV transmission among Montréal men who have sex with men*. Co-supervisor: [Joseph Cox](https://www.mcgill.ca/epi-biostat-occh/joseph-cox).
 </div>
 </div>
 
@@ -79,7 +79,7 @@ PhD Student in Epidemiology (Imperial College London). Research Topic: *Neglecte
 
 #  
 #  
-# Postdocoral Fellows
+# Postdoctoral Fellow
 
 <div class="row">
 <div class="column left">
@@ -87,7 +87,7 @@ PhD Student in Epidemiology (Imperial College London). Research Topic: *Neglecte
 </div>
 <div class="column right">
 ### <i class="glyphicon glyphicon-user"></i> Rachael Milwid
-Postdoc (McGill). Research Topic: *Modeling the impacts and optimization of HIV prevention packages among Montréal men who have sex with men*. Personal webpage [here](https://rmilwid.wordpress.com/)
+Postdoc (McGill). Research Topic: *Modeling the impacts and optimization of HIV prevention packages among Montréal men who have sex with men*. Personal webpage: [here](https://rmilwid.wordpress.com/).
 </div>
 </div>
 
