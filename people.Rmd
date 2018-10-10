@@ -77,9 +77,19 @@ PhD Student in Epidemiology (Imperial College London). Research Topic: *Neglecte
 </div>
 </div>
 
+#  
+#  
+# Postdocoral Fellows
 
-</body>
-
+<div class="row">
+<div class="column left">
+<img src="Rachael_Milwid.jpg"; align="left" /> 
+</div>
+<div class="column right">
+### <i class="glyphicon glyphicon-user"></i> Rachael Milwid
+Postdoc (McGill). Research Topic: *Modeling the impacts and optimization of HIV prevention packages among Montréal men who have sex with men*. Personal webpage [here](https://rmilwid.wordpress.com/)
+</div>
+</div>
 
 #
 #  
@@ -87,3 +97,7 @@ PhD Student in Epidemiology (Imperial College London). Research Topic: *Neglecte
 #  
 ### <i class="glyphicon glyphicon-user"></i> Isabel Tavitian-Exley
 PhD (Imperial College London). Thesis: *The relevance of polydrug use on HIV and associated injecting and sexual risk behaviours among people who inject drugs*. Primary supervisor: [Marie Claude Boily](http://www.imperial.ac.uk/people/mc.boily)
+
+
+
+</body>
