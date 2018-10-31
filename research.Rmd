@@ -27,7 +27,7 @@ Measurements of population health and its determinants is a key step to benchmar
 #  
 #  
 # <i class="glyphicon glyphicon-stats"></i> Impact and economic evaluations
-By comprehensively assessing the effects - intendend and unintended - of a health program, impact evaluations can generate new evidence, promote accountability, and prioritize public health actions. Combinined with complimentary cost-effectivness analyses, impact evaluation can help policy-makers chose those interventions that provides the biggest *bang for the buck*.
+By comprehensively assessing the effects - intended and unintended - of a health program, impact evaluations can generate new evidence, promote accountability, and prioritize public health actions. Combined with complimentary cost-effectiveness analyses, impact evaluation can help policy-makers chose those interventions that provides the biggest *bang for the buck*.
 
 * Cost-effectiveness of accelerated HIV response scenarios in Côte d'Ivoire.
 * Model-based impact evaluation of pre-exposure prophylaxis to reduce HIV transmission amogn men who have sex with men in Montréal.
