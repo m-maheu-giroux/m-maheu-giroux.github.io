@@ -39,6 +39,14 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 ## Under Review
 <div class = "class-name">
+**Maheu-Giroux M**, Jahn A, Kalua T, Mganga A, Eaton JW (2018). HIV surveillance based on routine testing data from antenatal clinics in Malawi (2011-2018): measuring and adjusting for bias from imperfect testing coverage.  
+</div>
+
+<div class = "class-name">
+Greenwald ZR, **Maheu-Giroux M**, Szabo J, Robin-Bérubé JA, Boissonnault M, Nguyen VK, Thomas R (2018). Cohort Profile: l’Actuel Pre-Exposure Prophylaxis (PrEP) Cohort study
+</div>
+
+<div class = "class-name">
 **Maheu-Giroux M**, Diabaté S, Boily MC, Jean-Paul N, Vesga JF, Baral S, Abo K, Wogwin V, Diouf D, Alary M (2018). Cost-effectiveness of accelerated HIV response scenarios in Côte d’Ivoire.  
 </div>
 
