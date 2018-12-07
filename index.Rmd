@@ -146,6 +146,7 @@ BSc'03 Biology (Université de Montréal)
 #
 ## <i class="glyphicon glyphicon-flash"></i> News
 <a class="one" target="_blank">
+**2017-10-10**: Congratulatiosn to Carla Doyle (PhD student) who has been awarded an *UWW-Engage Fellowship*.  
 **2018-07-10**: Our team's project to conduct a model-based impact evaluation of pre-exposure prophylaxis on HIV transmission in Montréal was funded by the *Canadian Institutes of Health Research*! L'équipe est très contente `r emo::ji("nerd_face")`.  
 **2018-05-09**: Charlotte Lanièce (PhD candidate) and Arnaud Godin (MSc candidate) were both awarded *CanHepC Training Fellowships*. Congratulations!  
 **2018-05-04**: Arnaud Godin (MSc candidate) received a *Master's Training Award* from the *Fonds de la recherche du Québec - Santé*. Félicitations!  
