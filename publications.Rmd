@@ -47,11 +47,6 @@ Feel free to email me to obtain a copy of any of the papers below.
 Greenwald ZR, **Maheu-Giroux M**, Szabo J, Robin-Bérubé JA, Boissonnault M, Nguyen VK, Thomas R (2018). Cohort Profile: l’Actuel Pre-Exposure Prophylaxis (PrEP) Cohort study
 </div>
 
-#
-<div class = "class-name">
-**Maheu-Giroux M**, Diabaté S, Boily MC, Jean-Paul N, Vesga JF, Baral S, Abo K, Wogwin V, Diouf D, Alary M (2018). Cost-effectiveness of accelerated HIV response scenarios in Côte d’Ivoire.  
-</div>
-
 #  
 <div class = "class-name">
 Owen BN, **Maheu-Giroux M**, Matse S, Mnisi Z, Baral S, Ketende SC, Baggaley RF, and Boily MC (2018). Prevalence and determinants of anal intercourse among female sex workers in Swaziland. 
@@ -59,6 +54,10 @@ Owen BN, **Maheu-Giroux M**, Matse S, Mnisi Z, Baral S, Ketende SC, Baggaley RF,
 
 #
 ## Published
+<a class="one" href="" target="_blank">
+**[33]** **Maheu-Giroux M**, Diabaté S, Boily MC, Jean-Paul N, Vesga JF, Baral S, Abo K, Wogwin V, Diouf D, Alary M (2018). Cost-effectiveness of accelerated HIV response scenarios in Côte d’Ivoire. *JAIDS Journal of Acquired Immune Deficiency Syndromes* (Accepted)
+</a>
+
 <a class="one" href="https://doi.org/10.1016/S1473-3099(18)30270-6" target="_blank">
 **[32]** **Maheu-Giroux M** and Joseph SA (2018). Moxidectin for deworming: from trials to implementation. *The Lancet Infectious Diseases* S1473-3099(18)30270-6.
 </a>
