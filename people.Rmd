@@ -67,15 +67,6 @@ PhD Student in Epidemiology (McGill). Research Topic: *HCV elimination among HIV
 </div>
 </div>
 
-<div class="row">
-<div class="column left">
-<img src="Branwen_Owen.jpg"; align="left" /> 
-</div>
-<div class="column right">
-### <i class="glyphicon glyphicon-user"></i> Branwen Owen
-PhD Student in Epidemiology (Imperial College London). Research Topic: *Neglected risk factors in HIV transmission and implications for prevention*. Primary supervisor: [Marie Claude Boily](http://www.imperial.ac.uk/people/mc.boily).   
-</div>
-</div>
 
 #  
 #  
@@ -98,6 +89,7 @@ Postdoc (McGill). Research Topic: *Modeling the impacts and optimization of HIV 
 ### <i class="glyphicon glyphicon-user"></i> Isabel Tavitian-Exley
 PhD (Imperial College London). Thesis: *The relevance of polydrug use on HIV and associated injecting and sexual risk behaviours among people who inject drugs*. Primary supervisor: [Marie Claude Boily](http://www.imperial.ac.uk/people/mc.boily)
 
-
+### <i class="glyphicon glyphicon-user"></i> Branwen Owen
+PhD (Imperial College London). Thesis: *Neglected risk factors in HIV transmission and implications for prevention*. Primary supervisor: [Marie Claude Boily](http://www.imperial.ac.uk/people/mc.boily).   
 
 </body>
