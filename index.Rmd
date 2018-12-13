@@ -120,7 +120,7 @@ As of 2017, I have joined the Department of Epidemiology and Biostatistics at [M
 #
 ## <i class="glyphicon glyphicon-list"></i> Research Interests
 Population Health / Infectious Disease Epidemiology / Impact Evaluation  
-Bayesian Statistics / Modeling / Measurments and Disease Burden
+Bayesian Statistics / Modeling / Measurements and Disease Burden
 
 #
 #
