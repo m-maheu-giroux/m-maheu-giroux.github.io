@@ -82,6 +82,16 @@ Postdoc (McGill). Research Topic: *Modeling the impacts and optimization of HIV 
 </div>
 </div>
 
+<div class="row">
+<div class="column left">
+<img src="Katia_Giguere.jpg"; align="left" /> 
+</div>
+<div class="column right">
+### <i class="glyphicon glyphicon-user"></i> Katia Giguère
+Postdoc (McGill). Research Topic: *Estimating gaps in HIV knowledge stats to reach the first UNAIDS 90-90-90 target in sub-Saharan Africa*.
+</div>
+</div>
+
 #
 #  
 # Past Supervision
