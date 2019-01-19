@@ -44,7 +44,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 #
 <div class = "class-name">
-Greenwald ZR, **Maheu-Giroux M**, Szabo J, Robin-Bérubé JA, Boissonnault M, Nguyen VK, Thomas R (2018). Cohort Profile: l’Actuel Pre-Exposure Prophylaxis (PrEP) Cohort study
+Greenwald ZR, **Maheu-Giroux M**, Szabo J, Robin-Bérubé JA, Boissonnault M, Nguyen VK, Thomas R (2018). Cohort Profile: l’Actuel Pre-Exposure Prophylaxis (PrEP) Cohort study.
 </div>
 
 #  
@@ -54,7 +54,7 @@ Owen BN, **Maheu-Giroux M**, Matse S, Mnisi Z, Baral S, Ketende SC, Baggaley RF,
 
 #
 ## Published
-<a class="one" href="" target="_blank">
+<a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/30649034" target="_blank">
 **[33]** **Maheu-Giroux M**, Diabaté S, Boily MC, Jean-Paul N, Vesga JF, Baral S, Abo K, Wogwin V, Diouf D, Alary M (2018). Cost-effectiveness of accelerated HIV response scenarios in Côte d’Ivoire. *JAIDS Journal of Acquired Immune Deficiency Syndromes* (Accepted)
 </a>
 
