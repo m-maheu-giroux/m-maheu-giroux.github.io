@@ -38,6 +38,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 
 ## Under Review
+<div class = "class-name">
 <a class="one" href="https://doi.org/10.1101/532010" target="_blank">
 **Maheu-Giroux M**, Marsh K, Bhatkoti R, Doyle C, Godin A, Lanièce Delaunay C, Jonhson LF, Jhan A, Abo K, Mbofana F, Boily MC, Buckeridge DL, Hankins C, and Eaton JW (2019). National HIV testing and diagnosis coverage in sub-Saharan Africa: a new modeling tool for estimating the “first 90” from program and survey data. (Preprint available)
 </div>
