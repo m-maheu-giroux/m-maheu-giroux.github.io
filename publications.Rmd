@@ -39,22 +39,22 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 ## Under Review
 <a class="one" href="https://doi.org/10.1101/532010" target="_blank">
-**Maheu-Giroux M**, Marsh K, Bhatkoti R, Doyle C, Godin A, Lanièce Delaunay C, Jonhson LF, Jhan A, Abo K, Mbofana F, Boily MC, Buckeridge DL, Hankins C, and Eaton JW (2019). National HIV testing and diagnosis coverage in sub-Saharan Africa: a new modeling tool for estimating the “first 90” from program and survey data. (Preprint available)  
+**[37]** **Maheu-Giroux M**, Marsh K, Bhatkoti R, Doyle C, Godin A, Lanièce Delaunay C, Jonhson LF, Jhan A, Abo K, Mbofana F, Boily MC, Buckeridge DL, Hankins C, and Eaton JW (2019). National HIV testing and diagnosis coverage in sub-Saharan Africa: a new modeling tool for estimating the “first 90” from program and survey data. (Preprint available)  
 </a>
   
 #
 <div class = "class-name">
-**Maheu-Giroux M**, Jahn A, Kalua T, Mganga A, Eaton JW (2018). HIV surveillance based on routine testing data from antenatal clinics in Malawi (2011-2018): measuring and adjusting for bias from imperfect testing coverage.  
+**[36]** **Maheu-Giroux M**, Jahn A, Kalua T, Mganga A, Eaton JW (2018). HIV surveillance based on routine testing data from antenatal clinics in Malawi (2011-2018): measuring and adjusting for bias from imperfect testing coverage.  
 </div>
 
 #
 <div class = "class-name">
-Greenwald ZR, **Maheu-Giroux M**, Szabo J, Robin-Bérubé JA, Boissonnault M, Nguyen VK, Thomas R (2018). Cohort Profile: l’Actuel Pre-Exposure Prophylaxis (PrEP) Cohort study.  
+**[35]** Greenwald ZR, **Maheu-Giroux M**, Szabo J, Robin-Bérubé JA, Boissonnault M, Nguyen VK, Thomas R (2018). Cohort Profile: l’Actuel Pre-Exposure Prophylaxis (PrEP) Cohort study.  
 </div>
 
 #  
 <div class = "class-name">
-Owen BN, **Maheu-Giroux M**, Matse S, Mnisi Z, Baral S, Ketende SC, Baggaley RF, and Boily MC (2018). Prevalence and determinants of anal intercourse among female sex workers in Swaziland. 
+**[34]** Owen BN, **Maheu-Giroux M**, Matse S, Mnisi Z, Baral S, Ketende SC, Baggaley RF, and Boily MC (2018). Prevalence and determinants of anal intercourse among female sex workers in Swaziland. 
 </div>
 
 #
