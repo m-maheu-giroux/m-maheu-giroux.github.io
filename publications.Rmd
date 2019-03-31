@@ -60,7 +60,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 #
 ## Published
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/30649034" target="_blank">
-**[33]** **Maheu-Giroux M**, Diabaté S, Boily MC, Jean-Paul N, Vesga JF, Baral S, Abo K, Wogwin V, Diouf D, Alary M (2018). Cost-effectiveness of accelerated HIV response scenarios in Côte d’Ivoire. *JAIDS Journal of Acquired Immune Deficiency Syndromes* 80(5):503-512.
+**[33]** **Maheu-Giroux M**, Diabaté S, Boily MC, Jean-Paul N, Vesga JF, Baral S, Abo K, Wogwin V, Diouf D, Alary M (2019). Cost-effectiveness of accelerated HIV response scenarios in Côte d’Ivoire. *JAIDS Journal of Acquired Immune Deficiency Syndromes* 80(5):503-512.
 </a>
 
 <a class="one" href="https://doi.org/10.1016/S1473-3099(18)30270-6" target="_blank">
