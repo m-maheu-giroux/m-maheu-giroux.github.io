@@ -1,3 +1,3 @@
 # Website
 
-See here for the results (link)http://matmg.com/.
+See here for the result: http://matmg.com/
