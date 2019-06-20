@@ -39,25 +39,29 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 ## Under Review
 <a class="one" href="https://doi.org/10.1101/532010" target="_blank">
-**[37]** **Maheu-Giroux M**, Marsh K, Bhatkoti R, Doyle C, Godin A, Lanièce Delaunay C, Jonhson LF, Jhan A, Abo K, Mbofana F, Boily MC, Buckeridge DL, Hankins C, and Eaton JW (2019). National HIV testing and diagnosis coverage in sub-Saharan Africa: a new modeling tool for estimating the “first 90” from program and survey data. (Preprint available)  
+**[38]** **Maheu-Giroux M**, Marsh K, Bhatkoti R, Doyle C, Godin A, Lanièce Delaunay C, Jonhson LF, Jhan A, Abo K, Mbofana F, Boily MC, Buckeridge DL, Hankins C, and Eaton JW (2019). National HIV testing and diagnosis coverage in sub-Saharan Africa: a new modeling tool for estimating the “first 90” from program and survey data. (Preprint available)  
 </a>
   
 #
 <div class = "class-name">
-**[36]** **Maheu-Giroux M**, Jahn A, Kalua T, Mganga A, Eaton JW (2019). HIV surveillance based on routine testing data from antenatal clinics in Malawi (2011-2018): measuring and adjusting for bias from imperfect testing coverage.  
+**[37]** **Maheu-Giroux M**, Jahn A, Kalua T, Mganga A, Eaton JW (2019). HIV surveillance based on routine testing data from antenatal clinics in Malawi (2011-2018): measuring and adjusting for bias from imperfect testing coverage.  
 </div>
 
 #  
 <div class = "class-name">
-**[35]** Owen BN, **Maheu-Giroux M**, Matse S, Mnisi Z, Baral S, Ketende SC, Baggaley RF, and Boily MC (2019). Prevalence and determinants of anal intercourse among female sex workers in Swaziland. 
+**[36]** Owen BN, **Maheu-Giroux M**, Matse S, Mnisi Z, Baral S, Ketende SC, Baggaley RF, and Boily MC (2019). Prevalence and determinants of anal intercourse among female sex workers in Swaziland. 
 </div>
 
 #
 ## Published
 <a class="one" href="https://bmjopen.bmj.com/" target="_blank">
-**[34]** Greenwald ZR, **Maheu-Giroux M**, Szabo J, Robin-Bérubé JA, Boissonnault M, Nguyen VK, Thomas R (2019). Cohort Profile: l’Actuel Pre-Exposure Prophylaxis (PrEP) Cohort study. *BMJ Open* (Accepted). 
+**[35]** Greenwald ZR, **Maheu-Giroux M**, Szabo J, Robin-Bérubé JA, Boissonnault M, Nguyen VK, Thomas R (2019). Cohort Profile: l’Actuel Pre-Exposure Prophylaxis (PrEP) Cohort study. *BMJ Open* (Accepted). 
 </a>
   
+<a class="one" href="https://doi.org/10.1016/S2542-5196(19)30071-3" target="_blank">
+**[34]** **Maheu-Giroux M** and Castro MC (2019). Attribution of reductions in malaria prevalence in Dar es Salaam, Tanzania. *The Lancet Planetary Health* 3(6):e246.
+</a>
+    
 <a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/30649034" target="_blank">
 **[33]** **Maheu-Giroux M**, Diabaté S, Boily MC, Jean-Paul N, Vesga JF, Baral S, Abo K, Wogwin V, Diouf D, Alary M (2019). Cost-effectiveness of accelerated HIV response scenarios in Côte d’Ivoire. *JAIDS Journal of Acquired Immune Deficiency Syndromes* 80(5):503-512.
 </a>
@@ -238,6 +242,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 #  
 # Reports
+<div class = "class-name">
+Blouin B and **Maheu-Giroux M** (2019). Bias assessment and adjustments of antenatal care routine testing HIV prevalence estimates for use to monitor epidemic trends - Protocol for estimating spatial patterns and trends in ANC HIV prevalence, adjusting for variation in coverage and completeness. Report submitted to UNAIDS. 62 pages.
+
+</div>
+
 <div class = "class-name">
 **Maheu-Giroux M** (2017). A Bayesian framework for global, regional, and national estimates of violence against women statistics. Reported submitted to the World Health Organization, Dept. of Reproductive Health and Research. 88 pages.
 </div>
