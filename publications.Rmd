@@ -54,8 +54,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 #
 ## Published
-<a class="one" href="https://bmjopen.bmj.com/" target="_blank">
-**[35]** Greenwald ZR, **Maheu-Giroux M**, Szabo J, Robin-Bérubé JA, Boissonnault M, Nguyen VK, Thomas R (2019). Cohort Profile: l’Actuel Pre-Exposure Prophylaxis (PrEP) Cohort study. *BMJ Open* (Accepted). 
+<a class="one" href="http://dx.doi.org/10.1136/bmjopen-2018-028768" target="_blank">
+**[35]** Greenwald ZR, **Maheu-Giroux M**, Szabo J, Robin-Bérubé JA, Boissonnault M, Nguyen VK, Thomas R (2019). Cohort Profile: l’Actuel Pre-Exposure Prophylaxis (PrEP) Cohort study. *BMJ Open* 9:e028768. 
 </a>
   
 <a class="one" href="https://doi.org/10.1016/S2542-5196(19)30071-3" target="_blank">
