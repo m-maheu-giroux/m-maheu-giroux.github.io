@@ -6,11 +6,13 @@
 #
 #
 # <i class="fa fa-gear fa-spin fa-2x" style="color: chartreuse4"></i> Disease transmission dynamics
-Mathematical models of infectious diseases - computer simulation of epidemics - enable researchers to study their transmission dynamics, to predict the potential population-level impact of interventions, and to optimize prevention/control programs. So far, my work as mainly focused on HIV and other STBBIs.
+Mathematical models of infectious diseases -computer simulation of epidemics- enable researchers to study their transmission dynamics, to predict the potential population-level impact of interventions, and to optimize prevention/control programs. So far, my work as mainly focused on HIV and other STBBIs.
 
-* Dynamics of HIV transmission among MSM in Québec
-* Elimination of HCV among HIV coinfected populations in Canada
+* Dynamics of HIV transmission among MSM in Québec.
+* Elimination of HCV among HIV coinfected populations in Canada.
 * Impact of targetted HIV treatment-as-prevention scenarios in Côte d'Ivoire.
+* Cervical cancer elimination in high HIV prevalence settings through cancer screening and HPV vaccination.
+
 
 <img src="Network_Epi.gif" width=50% heigth=50%/>  
 
@@ -22,6 +24,7 @@ Measurements of population health and its determinants is a key step to benchmar
 
 * Integrative Systems Modeling to estimate UNAIDS' first 90 (proportion of people living with HIV aware of their status) in sub-Saharan Africa. 
 * Bayesian latent class model to ascertain the impact of imperfect immunoassays on HIV prevalence estimates.
+* Bias assessment of routine HIV testing data from pregnant women at antenatal care.
 * Global, regional, and national estimates of violence against women statistics.
 
 #  
@@ -32,4 +35,5 @@ By comprehensively assessing the effects - intended and unintended - of a health
 * Cost-effectiveness of accelerated HIV response scenarios in Côte d'Ivoire.
 * Model-based impact evaluation of pre-exposure prophylaxis to reduce HIV transmission amogn men who have sex with men in Montréal.
 * Potential impact and cost-effectiveness of prison-based interventions on HCV transmission among people who inject drugs.
+* Impact of scaling-up HIV self-testing on HIV transmission in Côte d'Ivoire, Mali, and Sénégal.
 
