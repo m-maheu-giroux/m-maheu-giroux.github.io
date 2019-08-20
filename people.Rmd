@@ -37,58 +37,82 @@
 #  
 # Currently Supervised
 
-<div class="row">
-<div class="column left">
-<img src="Arnaud_Godin.jpg"; align="left" /> 
-</div>
-<div class="column right">
-### <i class="glyphicon glyphicon-user"></i> Arnaud Godin
-Master Student in Epidemiology (McGill). Research Topic: *Modeling the potential impact of different prison-based prevention and treatment strategies on HCV transmission in Montréal*. Co-supervisor: [Joseph Cox](https://www.mcgill.ca/epi-biostat-occh/joseph-cox).  
-</div>
-</div>
 
-<div class="row">
-<div class="column left">
-<img src="Carla_Doyle.jpg"; align="left" /> 
+
+<div class = "row">
+<div class = "column left">
+<img src = "Carla_Doyle.jpg"; align = "left" /> 
 </div>
-<div class="column right">
-### <i class="glyphicon glyphicon-user"></i> Carla Doyle
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Carla Doyle
 PhD Student in Epidemiology (McGill). Research Topic: *Model-based impact evaluation of pre-exposure prophylaxis (PrEP) on HIV transmission among Montréal men who have sex with men*. Co-supervisor: [Joseph Cox](https://www.mcgill.ca/epi-biostat-occh/joseph-cox).
 </div>
 </div>
 
-<div class="row">
-<div class="column left">
-<img src="Charlotte_Laniece.jpg"; align="left" /> 
+<div class = "row">
+<div class = "column left">
+<img src = "Charlotte_Laniece.jpg"; align = "left" /> 
 </div>
-<div class="column right">
-### <i class="glyphicon glyphicon-user"></i> Charlotte Lanièce
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Charlotte Lanièce
 PhD Student in Epidemiology (McGill). Research Topic: *HCV elimination among HIV co-infected populations in Canada*. Primary supervisor: [Marina Klein](http://rimuhc.ca/-/marina-klein-md-msc).  
 </div>
 </div>
 
+<div class = "row">
+<div class = "column left">
+<img src = "James_Stannah.jpg"; align="left" /> 
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> James Stannah
+PhD Student in Epidemiology (McGill). Research Topic: *Structural determinants of HIV acquisition and transmisison risks among key populations in sub-Saharan Africa*. Co-supervisor: [Marie-Claude Boily](https://www.imperial.ac.uk/people/mc.boily).
+</div>
+</div>
 
 #  
 #  
 # Postdoctoral Fellow
 
-<div class="row">
-<div class="column left">
-<img src="Rachael_Milwid.jpg"; align="left" /> 
+<div class = "row">
+<div class = "column left">
+<img src = "Rachael_Milwid.jpg"; align="left" /> 
 </div>
-<div class="column right">
-### <i class="glyphicon glyphicon-user"></i> Rachael Milwid
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Rachael Milwid
 Postdoc (McGill). Research Topic: *Modeling the impacts and optimization of HIV prevention packages among Montréal men who have sex with men*. Personal webpage: [here](https://rmilwid.wordpress.com/).
 </div>
 </div>
 
-<div class="row">
-<div class="column left">
-<img src="Katia_Giguere.jpg"; align="left" /> 
+<div class = "row">
+<div class = "column left">
+<img src = "Katia_Giguere.jpg"; align="left" /> 
 </div>
-<div class="column right">
-### <i class="glyphicon glyphicon-user"></i> Katia Giguère
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Katia Giguère
 Postdoc (McGill). Research Topic: *Estimating gaps in HIV knowledge status to reach the first UNAIDS 90-90-90 target in sub-Saharan Africa*.
+</div>
+</div>
+
+#  
+# Research Assitants
+#  
+<div class = "row">
+<div class = "column left">
+<img src = "Arnaud_Godin.jpg"; align="left" /> 
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Arnaud Godin
+Arnaud holds a BSc in Economics from Université Laval and a Master in Epidemiology from McGill.
+</div>
+</div>
+
+<div class = "row">
+<div class = "column left">
+<img src = "Yiqing_Xia.jpg"; align="left" /> 
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Yiqing Xia
+Yiqing graduated with a Bachelor of Medicine from Fudan University in 2017. She then completed a Master of Public Health from McGill. 
 </div>
 </div>
 
@@ -96,10 +120,14 @@ Postdoc (McGill). Research Topic: *Estimating gaps in HIV knowledge status to re
 #  
 # Past Supervision
 #  
-### <i class="glyphicon glyphicon-user"></i> Isabel Tavitian-Exley
-PhD (Imperial College London). Thesis: *The relevance of polydrug use on HIV and associated injecting and sexual risk behaviours among people who inject drugs*. Primary supervisor: [Marie Claude Boily](http://www.imperial.ac.uk/people/mc.boily)
 
-### <i class="glyphicon glyphicon-user"></i> Branwen Owen
+### Arnaud Godin (MSc'19)
+MSc Epidemiology (McGill). Thesis: *Modeling the potential impact of different prison-based prevention and treatment strategies on HCV transmission in Montréal*. Co-supervisor: [Joseph Cox](https://www.mcgill.ca/epi-biostat-occh/joseph-cox).  
+  
+### Branwen Nia Owen (PhD'18)
 PhD (Imperial College London). Thesis: *Neglected risk factors in HIV transmission and implications for prevention*. Primary supervisor: [Marie Claude Boily](http://www.imperial.ac.uk/people/mc.boily).   
+  
+### Isabel Tavitian-Exley (PhD'16)
+PhD (Imperial College London). Thesis: *The relevance of polydrug use on HIV and associated injecting and sexual risk behaviours among people who inject drugs*. Primary supervisor: [Marie Claude Boily](http://www.imperial.ac.uk/people/mc.boily)
 
 </body>
