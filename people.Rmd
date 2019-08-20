@@ -71,7 +71,7 @@ PhD Student in Epidemiology (McGill). Research Topic: *Structural determinants o
 
 #  
 #  
-# Postdoctoral Fellow
+# Postdoctoral Fellows
 
 <div class = "row">
 <div class = "column left">
@@ -94,7 +94,7 @@ Postdoc (McGill). Research Topic: *Estimating gaps in HIV knowledge status to re
 </div>
 
 #  
-# Research Assitants
+# Research Assistants
 #  
 <div class = "row">
 <div class = "column left">
