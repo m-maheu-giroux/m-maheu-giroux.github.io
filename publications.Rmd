@@ -38,7 +38,16 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 
 ## Under Review
+#  
+<div class = "class-name">
+**[40]** Godin A, Kronfli N, Cox J, Alary M, and **Maheu-Giroux M** (2019). The role of prison-based interventions for hepatitis C virus micro-elimination among people who inject drugs in Montréal, Canada.
+</div>
 
+#  
+<div class = "class-name">
+**[39]** Blouin B, Eaton JW, Mahy M, and **Maheu-Giroux M** (2019). ANCRTAdjust: An R package to adjust routine HIV testing data from antenatal care to reduce bias in estimating HIV prevalence trends. 
+</div>
+  
 #  
 <div class = "class-name">
 **[38]** Owen BN, **Maheu-Giroux M**, Matse S, Mnisi Z, Baral S, Ketende SC, Baggaley RF, and Boily MC (2019). Prevalence and determinants of anal intercourse among female sex workers in Swaziland. 
