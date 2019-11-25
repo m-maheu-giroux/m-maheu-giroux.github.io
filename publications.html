@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -22,9 +23,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
-<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
-<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -73,9 +73,7 @@ h6 {
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -89,7 +87,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -99,6 +96,9 @@ img {
 }
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -114,7 +114,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -134,6 +133,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -155,19 +191,73 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -311,9 +401,8 @@ Feel free to email me to obtain a copy of any of the papers below.</p>
 <h1></h1>
 <div id="published" class="section level2">
 <h2>Published</h2>
-<p><a class="one" href="https://doi.org/10.1101/532010" target="_blank"> <strong>[37]</strong> <strong>Maheu-Giroux M</strong>, Marsh K, Bhatkoti R, Doyle C, Godin A, Lanièce Delaunay C, Jonhson LF, Jhan A, Abo K, Mbofana F, Boily MC, Buckeridge DL, Hankins C, and Eaton JW (2019). National HIV testing and diagnosis coverage in sub-Saharan Africa: a new modeling tool for estimating the “first 90” from program and survey data. AIDS (In Press)<br />
-</a></p>
-<p><a class="one" href="https://journals.lww.com/aidsonline/pages/default.aspx" target="_blank"> <strong>[36]</strong> <strong>Maheu-Giroux M</strong>, Jahn A, Kalua T, Mganga A, Eaton JW (2019). HIV surveillance based on routine testing data from antenatal clinics in Malawi (2011-2018): measuring and adjusting for bias from imperfect testing coverage. AIDS (In Press) </a></p>
+<p><a class="one" href="https://doi.org/10.1097/QAD.0000000000002386" target="_blank"> <strong>[37]</strong> <strong>Maheu-Giroux M</strong>, Marsh K, Bhatkoti R, Doyle C, Godin A, Lanièce Delaunay C, Jonhson LF, Jhan A, Abo K, Mbofana F, Boily MC, Buckeridge DL, Hankins C, and Eaton JW (2019). National HIV testing and diagnosis coverage in sub-Saharan Africa: a new modeling tool for estimating the “first 90” from program and survey data. AIDS 33(3):S255. </a></p>
+<p><a class="one" href="https://doi.org/10.1097/QAD.0000000000002356" target="_blank"> <strong>[36]</strong> <strong>Maheu-Giroux M</strong>, Jahn A, Kalua T, Mganga A, Eaton JW (2019). HIV surveillance based on routine testing data from antenatal clinics in Malawi (2011-2018): measuring and adjusting for bias from imperfect testing coverage. AIDS 33(3):S213. </a></p>
 <p><a class="one" href="http://dx.doi.org/10.1136/bmjopen-2018-028768" target="_blank"> <strong>[35]</strong> Greenwald ZR, <strong>Maheu-Giroux M</strong>, Szabo J, Robin-Bérubé JA, Boissonnault M, Nguyen VK, Thomas R (2019). Cohort Profile: l’Actuel Pre-Exposure Prophylaxis (PrEP) Cohort study. <em>BMJ Open</em> 9:e028768. </a></p>
 <p><a class="one" href="https://doi.org/10.1016/S2542-5196(19)30071-3" target="_blank"> <strong>[34]</strong> <strong>Maheu-Giroux M</strong> and Castro MC (2019). Attribution of reductions in malaria prevalence in Dar es Salaam, Tanzania. <em>The Lancet Planetary Health</em> 3(6):e246. </a></p>
 <p><a class="one" href="https://www.ncbi.nlm.nih.gov/pubmed/30649034" target="_blank"> <strong>[33]</strong> <strong>Maheu-Giroux M</strong>, Diabaté S, Boily MC, Jean-Paul N, Vesga JF, Baral S, Abo K, Wogwin V, Diouf D, Alary M (2019). Cost-effectiveness of accelerated HIV response scenarios in Côte d’Ivoire. <em>JAIDS Journal of Acquired Immune Deficiency Syndromes</em> 80(5):503-512. </a></p>
@@ -527,6 +616,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
