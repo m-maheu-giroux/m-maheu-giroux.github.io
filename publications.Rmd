@@ -57,11 +57,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Published
   
 <a class="one" href="https://doi.org/10.1097/QAD.0000000000002386" target="_blank">
-**[37]** **Maheu-Giroux M**, Marsh K, Bhatkoti R, Doyle C, Godin A, Lanièce Delaunay C, Jonhson LF, Jhan A, Abo K, Mbofana F, Boily MC, Buckeridge DL, Hankins C, and Eaton JW (2019). National HIV testing and diagnosis coverage in sub-Saharan Africa: a new modeling tool for estimating the “first 90” from program and survey data. AIDS 33(3):S255. 
+**[37]** **Maheu-Giroux M**, Marsh K, Bhatkoti R, Doyle C, Godin A, Lanièce Delaunay C, Jonhson LF, Jhan A, Abo K, Mbofana F, Boily MC, Buckeridge DL, Hankins C, and Eaton JW (2019). National HIV testing and diagnosis coverage in sub-Saharan Africa: a new modeling tool for estimating the “first 90” from program and survey data. AIDS 33(Suppl 3):S295-S302. 
 </a>
   
 <a class="one" href="https://doi.org/10.1097/QAD.0000000000002356" target="_blank">
-**[36]** **Maheu-Giroux M**, Jahn A, Kalua T, Mganga A, Eaton JW (2019). HIV surveillance based on routine testing data from antenatal clinics in Malawi (2011-2018): measuring and adjusting for bias from imperfect testing coverage. AIDS 33(3):S213.
+**[36]** **Maheu-Giroux M**, Jahn A, Kalua T, Mganga A, Eaton JW (2019). HIV surveillance based on routine testing data from antenatal clinics in Malawi (2011-2018): measuring and adjusting for bias from imperfect testing coverage. AIDS 33(Suppl 3):S295-S269.
 </a>
   
 <a class="one" href="http://dx.doi.org/10.1136/bmjopen-2018-028768" target="_blank">
