@@ -40,6 +40,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Under Review
 #  
 <div class = "class-name">
+**[41]** Lanièce CD, Cox J, Klein M, Lambert G, Grace D, Lachowsky N, and **Maheu-Giroux M** (2019). Trends in HCV seroprevalence and associated risk factors among men who have sex with men in Montréal: results from three cross-sectional surveys (2005, 2009, 2018).
+</div>
+
+#  
+<div class = "class-name">
 **[40]** Godin A, Kronfli N, Cox J, Alary M, and **Maheu-Giroux M** (2019). The role of prison-based interventions for hepatitis C virus micro-elimination among people who inject drugs in Montréal, Canada. (pre-print available [here](https://www.medrxiv.org/content/medrxiv/early/2019/10/21/19008409.full.pdf).)
 </div>
 
@@ -232,7 +237,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 # 
 <a class="one" href="https://www.sciencedirect.com/science/article/pii/S0304377005001452" target="_blank">
-**[1]** **Maheu-Giroux M** and de Blois S (2005). Mapping the invasive species Phragmites australis in linear wetlands corridors. *Aquatic Botany* 83(4):310-320. (*Top 25 accessed articles)
+**[1]** **Maheu-Giroux M** and de Blois S (2005). Mapping the invasive species Phragmites australis in linear wetlands corridors. *Aquatic Botany* 83(4):310-320.
 </a>
 
 #  
