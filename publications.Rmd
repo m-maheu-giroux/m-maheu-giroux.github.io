@@ -40,22 +40,27 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Under Review
 #  
 <div class = "class-name">
-**[41]** Lanièce CD, Cox J, Klein M, Lambert G, Grace D, Lachowsky N, and **Maheu-Giroux M** (2019). Trends in HCV seroprevalence and associated risk factors among men who have sex with men in Montréal: results from three cross-sectional surveys (2005, 2009, 2018).
-</div>
-
-#  
-<div class = "class-name">
-**[40]** Godin A, Kronfli N, Cox J, Alary M, and **Maheu-Giroux M** (2019). The role of prison-based interventions for hepatitis C virus micro-elimination among people who inject drugs in Montréal, Canada. (pre-print available [here](https://www.medrxiv.org/content/medrxiv/early/2019/10/21/19008409.full.pdf).)
-</div>
-
-#  
-<div class = "class-name">
-**[39]** Blouin B, Eaton JW, Mahy M, and **Maheu-Giroux M** (2019). ANCRTAdjust: An R package to adjust routine HIV testing data from antenatal care to reduce bias in estimating HIV prevalence trends. 
+**[42]** Zhao N, Charland K, Carabali M, Nsoesie E, **Maheu-Giroux M**, Rees E, Yuan M, Balaguera CG, Jaramillo Ramirez G, Zinszer K (2020). Machine learning and dengue forecasting: comparing random forests and artificial neural networks for predicting dengue burdens at the national and sub-national scales in Colombia. (pre-print available [here](https://www.biorxiv.org/content/10.1101/2020.01.14.906297v1.full.pdf).)
 </div>
   
 #  
 <div class = "class-name">
-**[38]** Owen BN, **Maheu-Giroux M**, Matse S, Mnisi Z, Baral S, Ketende SC, Baggaley RF, and Boily MC (2019). Prevalence and determinants of anal intercourse among female sex workers in Swaziland. 
+**[41]** Lanièce CD, Cox J, Klein M, Lambert G, Grace D, Lachowsky N, and **Maheu-Giroux M** (2020). Trends in HCV seroprevalence and associated risk factors among men who have sex with men in Montréal: results from three cross-sectional surveys (2005, 2009, 2018).
+</div>
+
+#  
+<div class = "class-name">
+**[40]** Godin A, Kronfli N, Cox J, Alary M, and **Maheu-Giroux M** (2020). The role of prison-based interventions for hepatitis C virus micro-elimination among people who inject drugs in Montréal, Canada. (pre-print available [here](https://www.medrxiv.org/content/medrxiv/early/2019/10/21/19008409.full.pdf).)
+</div>
+
+#  
+<div class = "class-name">
+**[39]** Blouin B, Eaton JW, Mahy M, and **Maheu-Giroux M** (2020). ANCRTAdjust: An R package to adjust routine HIV testing data from antenatal care to reduce bias in estimating HIV prevalence trends. 
+</div>
+  
+#  
+<div class = "class-name">
+**[38]** Owen BN, **Maheu-Giroux M**, Matse S, Mnisi Z, Baral S, Ketende SC, Baggaley RF, and Boily MC (2020). Prevalence and determinants of anal intercourse among female sex workers in Swaziland. 
 </div>
 
 #
