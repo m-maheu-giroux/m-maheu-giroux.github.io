@@ -146,6 +146,7 @@ BSc'03 Biology (Université de Montréal)
 #
 ## <i class="glyphicon glyphicon-flash"></i> News
 <a class="one" target="_blank">
+**2020-01-30**: Congratulations to Arnaud Godin (former MSc student) for receiving the *Best Master's Award* from the *Réseau de recherche en santé des populations du Québec*.  
 **2019-07-11**: Our grant *Elimination of cervical cancer through vaccination and screening in high HIV prevalence settings* has been funded by the *Canadian Institutes of Health Research*. Exciting collaborations with *Université Laval*, *Imperial College*, *LSHTM*, and *Wits University*.  
 **2019-04-30**: Congratulations to Carla Doyle and Charlotte Lanièce (PhD students) who are both recipient of *Doctoral Training Awards* from the *Fonds de la recherche du Québec - Santé*!!! `r emo::ji("woman_student")` + `r emo::ji("woman_student")`  
 **2018-10-10**: Congratulations to Carla Doyle (PhD student) who has been awarded an *UWW-Engage Fellowship*.  
