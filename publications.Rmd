@@ -65,14 +65,15 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[39]** Blouin B, Eaton JW, Mahy M, and **Maheu-Giroux M** (2020). ANCRTAdjust: An R package to adjust routine HIV testing data from antenatal care to reduce bias in estimating HIV prevalence trends. 
 </div>
   
-#  
-<div class = "class-name">
-**[38]** Owen BN, **Maheu-Giroux M**, Matse S, Mnisi Z, Baral S, Ketende SC, Baggaley RF, and Boily MC (2020). Prevalence and determinants of anal intercourse among female sex workers in Swaziland. 
-</div>
-
 #
 ## Published
   
+#  
+<a class="one" href="https://journals.plos.org/plosone/" target="_blank">
+**[38]** Owen BN, **Maheu-Giroux M**, Matse S, Mnisi Z, Baral S, Ketende SC, Baggaley RF, and Boily MC (2020). Prevalence and determinants of anal intercourse among female sex workers in Swaziland. PLOS One (Accepted).
+</a>
+
+#  
 <a class="one" href="https://doi.org/10.1097/QAD.0000000000002386" target="_blank">
 **[37]** **Maheu-Giroux M**, Marsh K, Bhatkoti R, Doyle C, Godin A, Lanièce Delaunay C, Jonhson LF, Jhan A, Abo K, Mbofana F, Boily MC, Buckeridge DL, Hankins C, and Eaton JW (2019). National HIV testing and diagnosis coverage in sub-Saharan Africa: a new modeling tool for estimating the “first 90” from program and survey data. AIDS 33(Suppl 3):S295-S302. 
 </a>
