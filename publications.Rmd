@@ -41,6 +41,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 #  
 <div class = "class-name">
+**[44]** Doyle C, **Maheu-Giroux M**, Lambert G, Mishra S, Apelian H, Messier-Peet M, Otis J, Grace D, Hart TA, Moore DM, Lachowsky NJ, Cox J, and the Engage Study Team (2020). Combination HIV prevention among Montreal gay, bisexual, and other men who have sex with men in the PrEP era: a latent class analysis.
+</div>
+
+#  
+<div class = "class-name">
 **[43]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora A, Ramirez C, Edmonds A, Sosanya K, Taylor T, Plankey M, Cederbaum J, Seidman D, Weber K, Golub E, Wells J, Bolivar H, Konkle-Parker D, Boily MC (2020). Patterns and trajectories of anal intercourse practice over the life course among HIV-negative US women in the WIHS cohort.
 </div>
   
