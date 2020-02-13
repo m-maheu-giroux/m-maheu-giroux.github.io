@@ -74,8 +74,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Published
   
 #  
-<a class="one" href="https://journals.plos.org/plosone/" target="_blank">
-**[38]** Owen BN, **Maheu-Giroux M**, Matse S, Mnisi Z, Baral S, Ketende SC, Baggaley RF, and Boily MC (2020). Prevalence and determinants of anal intercourse among female sex workers in Swaziland. PLOS One (Accepted).
+<a class="one" href="https://doi.org/10.1371/journal.pone.0228849" target="_blank">
+**[38]** Owen BN, **Maheu-Giroux M**, Matse S, Mnisi Z, Baral S, Ketende SC, Baggaley RF, and Boily MC (2020). Prevalence and determinants of anal intercourse among female sex workers in Swaziland. PLOS One 15(2):e0228849.
 </a>
 
 #  
