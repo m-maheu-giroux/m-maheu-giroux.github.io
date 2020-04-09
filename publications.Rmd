@@ -69,8 +69,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Published
 
 #  
-<a class="one" href="https://www.medrxiv.org/content/medrxiv/early/2019/10/21/19008409.full.pdf" target="_blank">
-**[39]** Godin A, Kronfli N, Cox J, Alary M, and **Maheu-Giroux M** (2020). The role of prison-based interventions for hepatitis C virus micro-elimination among people who inject drugs in Montréal, Canada. *International Journal of Drug Policy* (Accepted).
+<a class="one" href="https://doi.org/10.1016/j.drugpo.2020.102738" target="_blank">
+**[39]** Godin A, Kronfli N, Cox J, Alary M, and **Maheu-Giroux M** (2020). The role of prison-based interventions for hepatitis C virus micro-elimination among people who inject drugs in Montréal, Canada. *International Journal of Drug Policy* (In Press).
 </a>
   
 #  
