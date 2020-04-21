@@ -111,10 +111,11 @@ a.one {
 #
 #
 # __Mathieu Maheu-Giroux, ScD__
+### Canada Research Chair (Tier 2) in *Population Health Modeling*
 ### Assistant Professor, McGill University
 I am an interdisciplinary public health researcher and my work has focused primarily on 1) infectious disease modeling, 2) epidemiology and measurements, and 3) impact and economic evaluations of public health interventions. 
 
-As of 2017, I have joined the Department of Epidemiology and Biostatistics at [McGill University](https://www.mcgill.ca/epi-biostat-occh/). Prior to this appointment, I was a sponsored researcher in the Department of Infectious Disease Epidemiology at [Imperial College London](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/). My research program is funded by a FRQS Junior 1 Research Scholar Award. 
+As of 2017, I have joined the Department of Epidemiology and Biostatistics at [McGill University](https://www.mcgill.ca/epi-biostat-occh/). Prior to this appointment, I was a sponsored researcher in the Department of Infectious Disease Epidemiology at [Imperial College London](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/). 
 
 #
 #
@@ -146,6 +147,7 @@ BSc'03 Biology (Université de Montréal)
 #
 ## <i class="glyphicon glyphicon-flash"></i> News
 <a class="one" target="_blank">
+**2020-04-20**: Jorge Luis Flores (MSc student) was awarded a *Frederick Banting and Charles Best Canada Graduate Scholarships* from the *Canadian Institutes of Health Research* `r emo::ji("nerd_face")`.  
 **2020-01-30**: Congratulations to Arnaud Godin (former MSc student) for receiving the *Best Master's Award* from the *Réseau de recherche en santé des populations du Québec*.  
 **2019-07-11**: Our grant *Elimination of cervical cancer through vaccination and screening in high HIV prevalence settings* has been funded by the *Canadian Institutes of Health Research*. Exciting collaborations with *Université Laval*, *Imperial College*, *LSHTM*, and *Wits University*.  
 **2019-04-30**: Congratulations to Carla Doyle and Charlotte Lanièce (PhD students) who are both recipient of *Doctoral Training Awards* from the *Fonds de la recherche du Québec - Santé*!!! `r emo::ji("woman_student")` + `r emo::ji("woman_student")`  
