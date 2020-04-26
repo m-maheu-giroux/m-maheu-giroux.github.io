@@ -78,6 +78,17 @@ pre { /* Code block - determines code spacing between lines */
 </head>
 
 <style>
+.box {
+     text-align: left;
+     font-family: arial;
+     font-size: 14px;
+     padding: 10px 5px;
+     border-radius: 5px;
+     background-color: whitesmoke;
+ }
+ </style>
+ 
+<style>
 .class-name {
      text-align: left;
      font-family: arial;
@@ -107,6 +118,8 @@ a.one {
 </div>
 
 
+
+
 <div class="column right">
 #
 #
@@ -116,6 +129,22 @@ a.one {
 I am an interdisciplinary public health researcher and my work has focused primarily on 1) infectious disease modeling, 2) epidemiology and measurements, and 3) impact and economic evaluations of public health interventions. 
 
 As of 2017, I have joined the Department of Epidemiology and Biostatistics at [McGill University](https://www.mcgill.ca/epi-biostat-occh/). Prior to this appointment, I was a sponsored researcher in the Department of Infectious Disease Epidemiology at [Imperial College London](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/). 
+
+
+<div class = "box">
+# Modélisation de la COVID-19 au Québec
+
+<img src="cover_mcgill.png" align = "center" width = "250" height = "190" />
+
+Nous travaillons en collaboration avec l'*Institut national d'excellence en santé et services sociaux* et l'*Institut national de santé publique du Québec* sur le suivi épidémiologique du COVID-19 au Québec. 
+
+Les résultats sont présentés [ici](https://www.inspq.qc.ca/covid-19/donnees/projections/hospitalisation). Pour obtenir les précisions méthodologiques sur nos travaux, veuillez consulter les précisions méthodologiques [suivantes](./Modelisation COVID McGill.pdf).
+
+## Collaborateurs
+Université McGill - [McGill Clinical & Health Informatics](http://mchi.mcgill.ca/)  
+Université Laval - [Groupe de recherche en modélisation mathématique des maladie infectieuses](http://www.marc-brisson.net/accueil)
+
+</div>
 
 #
 #
