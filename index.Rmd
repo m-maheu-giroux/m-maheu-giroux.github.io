@@ -134,7 +134,7 @@ As of 2017, I have joined the Department of Epidemiology and Biostatistics at [M
 <div class = "box">
 # Modélisation de la COVID-19 au Québec
 
-<img src="cover_mcgill.png" align = "center" width = "250" height = "190" />
+<img src="cover_mcgill.png" align = "center" width = "350" height = "190" />
 
 Nous travaillons en collaboration avec l'*Institut national d'excellence en santé et services sociaux* et l'*Institut national de santé publique du Québec* sur le suivi épidémiologique du COVID-19 au Québec. 
 
