@@ -59,19 +59,19 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[43]** Zhao N, Charland K, Carabali M, Nsoesie E, **Maheu-Giroux M**, Rees E, Yuan M, Balaguera CG, Jaramillo Ramirez G, Zinszer K (2020). Machine learning and dengue forecasting: comparing random forests and artificial neural networks for predicting dengue burdens at the national and sub-national scales in Colombia. (pre-print available [here](https://www.biorxiv.org/content/10.1101/2020.01.14.906297v1.full.pdf).)
 </div>
   
-#  
-<div class = "class-name">
-**[42]** Lanièce CD, Cox J, Klein M, Lambert G, Grace D, Lachowsky N, and **Maheu-Giroux M** (2020). Trends in HCV seroprevalence and associated risk factors among men who have sex with men in Montréal: results from three cross-sectional surveys (2005, 2009, 2018).
-(pre-print available [here](https://www.medrxiv.org/content/10.1101/2020.01.27.20018994v1.full.pdf).)
-</div>
 
 #  
 <div class = "class-name">
-**[41]** Blouin B, Eaton JW, Mahy M, and **Maheu-Giroux M** (2020). ANCRTAdjust: An R package to adjust routine HIV testing data from antenatal care to reduce bias in estimating HIV prevalence trends. 
+**[42]** Blouin B, Eaton JW, Mahy M, and **Maheu-Giroux M** (2020). ANCRTAdjust: An R package to adjust routine HIV testing data from antenatal care to reduce bias in estimating HIV prevalence trends. 
 </div>
   
 #
 ## Published
+
+#  
+<a class="one" href = "https://www.medrxiv.org/content/10.1101/2020.01.27.20018994v1.full.pdf" target="_blank">
+**[41]** Lanièce CD, Cox J, Klein M, Lambert G, Grace D, Lachowsky N, and **Maheu-Giroux M** (2020). Trends in HCV seroprevalence and associated risk factors among men who have sex with men in Montréal: results from three cross-sectional surveys (2005, 2009, 2018). *Sexually Transmitted Infections* (Accpeted).
+</a>
 
 #  
 <a class="one" href="https://www.jsm.jsexmed.org/" target="_blank">
