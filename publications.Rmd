@@ -51,26 +51,25 @@ Feel free to email me to obtain a copy of any of the papers below.
   
 #  
 <div class = "class-name">
-**[44]** Doyle C, **Maheu-Giroux M**, Lambert G, Mishra S, Apelian H, Messier-Peet M, Otis J, Grace D, Hart TA, Moore DM, Lachowsky NJ, Cox J, and the Engage Study Team (2020). Combination HIV prevention among Montreal gay, bisexual, and other men who have sex with men in the PrEP era: a latent class analysis.
-</div>
-
-#  
-<div class = "class-name">
-**[43]** Zhao N, Charland K, Carabali M, Nsoesie E, **Maheu-Giroux M**, Rees E, Yuan M, Balaguera CG, Jaramillo Ramirez G, Zinszer K (2020). Machine learning and dengue forecasting: comparing random forests and artificial neural networks for predicting dengue burdens at the national and sub-national scales in Colombia. (pre-print available [here](https://www.biorxiv.org/content/10.1101/2020.01.14.906297v1.full.pdf).)
+**[44]** Zhao N, Charland K, Carabali M, Nsoesie E, **Maheu-Giroux M**, Rees E, Yuan M, Balaguera CG, Jaramillo Ramirez G, Zinszer K (2020). Machine learning and dengue forecasting: comparing random forests and artificial neural networks for predicting dengue burdens at the national and sub-national scales in Colombia. (pre-print available [here](https://www.biorxiv.org/content/10.1101/2020.01.14.906297v1.full.pdf).)
 </div>
   
-
 #  
 <div class = "class-name">
-**[42]** Blouin B, Eaton JW, Mahy M, and **Maheu-Giroux M** (2020). ANCRTAdjust: An R package to adjust routine HIV testing data from antenatal care to reduce bias in estimating HIV prevalence trends. 
+**[43]** Blouin B, Eaton JW, Mahy M, and **Maheu-Giroux M** (2020). ANCRTAdjust: An R package to adjust routine HIV testing data from antenatal care to reduce bias in estimating HIV prevalence trends. 
 </div>
   
 #
 ## Published
 
 #  
+<a class="one" href = "https://www.springer.com/journal/10461" target="_blank">
+**[42]** Doyle C, **Maheu-Giroux M**, Lambert G, Mishra S, Apelian H, Messier-Peet M, Otis J, Grace D, Hart TA, Moore DM, Lachowsky NJ, Cox J, and the Engage Study Team (2020). Combination HIV prevention among Montreal gay, bisexual, and other men who have sex with men in the PrEP era: a latent class analysis. *AIDS and Behavior* (Accepted).
+</a>
+
+#  
 <a class="one" href = "https://www.medrxiv.org/content/10.1101/2020.01.27.20018994v1.full.pdf" target="_blank">
-**[41]** Lanièce CD, Cox J, Klein M, Lambert G, Grace D, Lachowsky N, and **Maheu-Giroux M** (2020). Trends in HCV seroprevalence and associated risk factors among men who have sex with men in Montréal: results from three cross-sectional surveys (2005, 2009, 2018). *Sexually Transmitted Infections* (Accpeted).
+**[41]** Lanièce CD, Cox J, Klein M, Lambert G, Grace D, Lachowsky N, and **Maheu-Giroux M** (2020). Trends in HCV seroprevalence and associated risk factors among men who have sex with men in Montréal: results from three cross-sectional surveys (2005, 2009, 2018). *Sexually Transmitted Infections* (Accepted).
 </a>
 
 #  
