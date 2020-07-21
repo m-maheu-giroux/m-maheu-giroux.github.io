@@ -40,13 +40,19 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Under Review
 # 
 #  
+#  
+<div class = "class-name">
+**[47]** Godin A, Xia Y, Buckeridge D, Mishra S, Douwes-Schultz D, Shen Y, Lavigne M, Drolet M, Schmidt A, Brisson M, and **Maheu-Giroux M** (2020). Importation of SARS-CoV-2 following the *"semaine de relâche"* and Québec’s COVID-19 burden - a mathematical modeling study.
+</div>
+  
+#  
 <div class = "class-name">
 **[46]** Giguère K, Eaton JW, Marsh K, Johnson LF, Johnson CC, Ehui E, Jahn A, Wanyeky I, Mbofana F, Bakiono F, Mahy M, **Maheu-Giroux M** (2020). Trends in knowledge of HIV status and efficiency of HIV testing services in sub-Saharan Africa (2000-2020): a modelling study of survey and HIV testing program data.
 </div>
   
 #
 <div class = "class-name">
-**[45]** Xia Y, Greenwald Z, Milwid R, Trottier C, Boissonnault M, Gaul N, Charest L, Landry G, Szabo J, Thomas R, **Maheu-Giroux M** (2020). Pre-exposure prophylaxis uptake among users of non-occupational post-exposure prophylaxis: a longitudinal analysis of attendees at a large sexual health clinic in Montréal.
+**[45]** Xia Y, Greenwald Z, Milwid R, Trottier C, Boissonnault M, Gaul N, Charest L, Landry G, Szabo J, Thomas R, **Maheu-Giroux M** (2020). Pre-exposure prophylaxis uptake among men who have sex with men who used non-occupational post-exposure prophylaxis: a longitudinal analysis of attendees at a large sexual health clinic in Montréal (Canada).
 </div>
   
 #  
@@ -63,8 +69,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Published
 
 #  
-<a class="one" href = "https://www.springer.com/journal/10461" target="_blank">
-**[42]** Doyle C, **Maheu-Giroux M**, Lambert G, Mishra S, Apelian H, Messier-Peet M, Otis J, Grace D, Hart TA, Moore DM, Lachowsky NJ, Cox J, and the Engage Study Team (2020). Combination HIV prevention among Montreal gay, bisexual, and other men who have sex with men in the PrEP era: a latent class analysis. *AIDS and Behavior* (Accepted).
+<a class="one" href = "https://pubmed.ncbi.nlm.nih.gov/32648063/" target="_blank">
+**[42]** Doyle C, **Maheu-Giroux M**, Lambert G, Mishra S, Apelian H, Messier-Peet M, Otis J, Grace D, Hart TA, Moore DM, Lachowsky NJ, Cox J, and the Engage Study Team (2020). Combination HIV prevention among Montreal gay, bisexual, and other men who have sex with men in the PrEP era: a latent class analysis. *AIDS and Behavior* (DOI: 10.1007/s10461-020-02965-4).
 </a>
 
 #  
@@ -76,7 +82,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 <a class="one" href="https://www.jsm.jsexmed.org/" target="_blank">
 **[40]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora A, Ramirez C, Edmonds A, Sosanya K, Taylor T, Plankey M, Cederbaum J, Seidman D, Weber K, Golub E, Wells J, Bolivar H, Konkle-Parker D, Boily MC (2020). Patterns and trajectories of anal intercourse practice over the life course among HIV-negative US women in the WIHS cohort. *Journal of Sexual Medicine* (Accepted).
 </a>
-
+9
 #  
 <a class="one" href="https://doi.org/10.1016/j.drugpo.2020.102738" target="_blank">
 **[39]** Godin A, Kronfli N, Cox J, Alary M, and **Maheu-Giroux M** (2020). The role of prison-based interventions for hepatitis C virus micro-elimination among people who inject drugs in Montréal, Canada. *International Journal of Drug Policy* (Apr 8;102738)
