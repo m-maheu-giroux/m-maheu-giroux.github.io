@@ -42,7 +42,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 #  
 <div class = "class-name">
-**[47]** Godin A, Xia Y, Buckeridge D, Mishra S, Douwes-Schultz D, Shen Y, Lavigne M, Drolet M, Schmidt A, Brisson M, and **Maheu-Giroux M** (2020). Importation of SARS-CoV-2 following the *"semaine de relâche"* and Québec’s COVID-19 burden - a mathematical modeling study.
+**[47]** Godin A, Xia Y, Buckeridge D, Mishra S, Douwes-Schultz D, Shen Y, Lavigne M, Drolet M, Schmidt A, Brisson M, and **Maheu-Giroux M** (2020). Importation of SARS-CoV-2 following the *"semaine de relâche"* and Québec’s COVID-19 burden - a mathematical modeling study. (pre-print available [here](https://www.medrxiv.org/content/10.1101/2020.07.20.20158451v1).)
 </div>
   
 #  
