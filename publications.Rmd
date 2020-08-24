@@ -42,7 +42,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 #  
 <div class = "class-name">
-**[47]** Godin A, Xia Y, Buckeridge D, Mishra S, Douwes-Schultz D, Shen Y, Lavigne M, Drolet M, Schmidt A, Brisson M, and **Maheu-Giroux M** (2020). Importation of SARS-CoV-2 following the *"semaine de relâche"* and Québec’s COVID-19 burden - a mathematical modeling study. (pre-print available [here](https://www.medrxiv.org/content/10.1101/2020.07.20.20158451v1).)
+**[47]** Godin A, Xia Y, Buckeridge D, Mishra S, Douwes-Schultz D, Shen Y, Lavigne M, Drolet M, Schmidt A, Brisson M, and **Maheu-Giroux M** (2020). The role of case importation in explaining differences in early SARS-CoV-2 transmission dynamics in Canada - a mathematical modeling study of surveillance data. (pre-print available [here](https://www.medrxiv.org/content/10.1101/2020.07.20.20158451v1).)
 </div>
   
 #  
@@ -50,24 +50,25 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[46]** Giguère K, Eaton JW, Marsh K, Johnson LF, Johnson CC, Ehui E, Jahn A, Wanyeky I, Mbofana F, Bakiono F, Mahy M, **Maheu-Giroux M** (2020). Trends in knowledge of HIV status and efficiency of HIV testing services in sub-Saharan Africa (2000-2020): a modelling study of survey and HIV testing program data.
 </div>
   
-#
-<div class = "class-name">
-**[45]** Xia Y, Greenwald Z, Milwid R, Trottier C, Boissonnault M, Gaul N, Charest L, Landry G, Szabo J, Thomas R, **Maheu-Giroux M** (2020). Pre-exposure prophylaxis uptake among men who have sex with men who used non-occupational post-exposure prophylaxis: a longitudinal analysis of attendees at a large sexual health clinic in Montréal (Canada).
-</div>
-  
 #  
 <div class = "class-name">
-**[44]** Zhao N, Charland K, Carabali M, Nsoesie E, **Maheu-Giroux M**, Rees E, Yuan M, Balaguera CG, Jaramillo Ramirez G, Zinszer K (2020). Machine learning and dengue forecasting: comparing random forests and artificial neural networks for predicting dengue burdens at the national and sub-national scales in Colombia. (pre-print available [here](https://www.biorxiv.org/content/10.1101/2020.01.14.906297v1.full.pdf).)
-</div>
-  
-#  
-<div class = "class-name">
-**[43]** Blouin B, Eaton JW, Mahy M, and **Maheu-Giroux M** (2020). ANCRTAdjust: An R package to adjust routine HIV testing data from antenatal care to reduce bias in estimating HIV prevalence trends. 
+**[45]** Blouin B, Eaton JW, Mahy M, and **Maheu-Giroux M** (2020). ANCRTAdjust: An R package to adjust routine HIV testing data from antenatal care to reduce bias in estimating HIV prevalence trends. 
 </div>
   
 #
 ## Published
-
+#
+  
+#  
+<a class="one" href = "https://www.biorxiv.org/content/10.1101/2020.01.14.906297v1.full.pdf" target="_blank">
+**[44]** Zhao N, Charland K, Carabali M, Nsoesie E, **Maheu-Giroux M**, Rees E, Yuan M, Balaguera CG, Jaramillo Ramirez G, Zinszer K (2020). Machine learning and dengue forecasting: comparing random forests and artificial neural networks for predicting dengue burdens at the national and sub-national scales in Colombia. *PLOS Neglected Tropical Diseases*. (Accepted) 
+</a>
+  
+#  
+<a class="one" href = "https://journals.lww.com/jaids/Abstract/9000/Pre_exposure_prophylaxis_uptake_among_men_who_have.96108.aspx" target="_blank">
+**[43]** Xia Y, Greenwald Z, Milwid R, Trottier C, Boissonnault M, Gaul N, Charest L, Landry G, Szabo J, Thomas R, **Maheu-Giroux M** (2020). Pre-exposure prophylaxis uptake among men who have sex with men who used non-occupational post-exposure prophylaxis: a longitudinal analysis of attendees at a large sexual health clinic in Montréal (Canada). *JAIDS Journal of Acquired Immune Deficiency Syndromes*. (DOI: 10.1097/QAI.0000000000002472).
+</a>
+  
 #  
 <a class="one" href = "https://pubmed.ncbi.nlm.nih.gov/32648063/" target="_blank">
 **[42]** Doyle C, **Maheu-Giroux M**, Lambert G, Mishra S, Apelian H, Messier-Peet M, Otis J, Grace D, Hart TA, Moore DM, Lachowsky NJ, Cox J, and the Engage Study Team (2020). Combination HIV prevention among Montreal gay, bisexual, and other men who have sex with men in the PrEP era: a latent class analysis. *AIDS and Behavior* (DOI: 10.1007/s10461-020-02965-4).
