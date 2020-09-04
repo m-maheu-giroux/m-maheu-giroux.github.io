@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -22,9 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
-<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
-<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -73,9 +72,7 @@ h6 {
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -89,7 +86,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -99,6 +95,9 @@ img {
 }
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -114,7 +113,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -134,6 +132,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -155,19 +190,74 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -281,8 +371,26 @@ $(document).ready(function () {
 <div id="section-1" class="section level1">
 <h1></h1>
 </div>
-<div id="currently-supervised" class="section level1">
-<h1>Currently Supervised</h1>
+<div id="currently-supervised-master" class="section level1">
+<h1>Currently Supervised (Master)</h1>
+<div class="row">
+<div class="column left">
+<p><img src = "Jorge_Flores.jpg"; align = "left" /></p>
+</div>
+<div class="column right">
+<h3 id="jorge-luis-flores"><i class = "glyphicon glyphicon-user"> </i> Jorge Luis Flores</h3>
+<p>MSc Student in Epidemiology (McGill). Research Topic: <em>Sexualized substance use, sexually transmitted infections, and pre-exposure prophylaxis among men who have sex with men: longitudinal analyses of sexual health clinic attendees in Montréal</em>.</p>
+</div>
+</div>
+</div>
+<div id="section-2" class="section level1">
+<h1></h1>
+</div>
+<div id="section-3" class="section level1">
+<h1></h1>
+</div>
+<div id="currently-supervised-doctoral" class="section level1">
+<h1>Currently Supervised (Doctoral)</h1>
 <div class="row">
 <div class="column left">
 <p><img src = "Carla_Doyle.jpg"; align = "left" /></p>
@@ -297,13 +405,13 @@ $(document).ready(function () {
 <p><img src = "Charlotte_Laniece.jpg"; align = "left" /></p>
 </div>
 <div class="column right">
-<h3 id="charlotte-laniece"><i class = "glyphicon glyphicon-user"> </i> Charlotte Lanièce</h3>
+<h3 id="charlotte-lanièce"><i class = "glyphicon glyphicon-user"> </i> Charlotte Lanièce</h3>
 <p>PhD Student in Epidemiology (McGill). Research Topic: <em>HCV elimination among HIV co-infected populations in Canada</em>. Primary supervisor: <a href="http://rimuhc.ca/-/marina-klein-md-msc">Marina Klein</a>.</p>
 </div>
 </div>
 <div class="row">
 <div class="column left">
-<p><img src = "James_Stannah.jpg"; align="left" /></p>
+<p><img src = "James_Stannah.jpg"; align = "left" /></p>
 </div>
 <div class="column right">
 <h3 id="james-stannah"><i class = "glyphicon glyphicon-user"> </i> James Stannah</h3>
@@ -312,25 +420,25 @@ $(document).ready(function () {
 </div>
 <div class="row">
 <div class="column left">
-<p><img src = "Jorge_Flores.jpg"; align="left" /></p>
+<p><img src = "Salome_Kuchukhidze.jpg"; align = "left" /></p>
 </div>
 <div class="column right">
-<h3 id="jorge-luis-flores"><i class = "glyphicon glyphicon-user"> </i> Jorge Luis Flores</h3>
-<p>MSc Student in Epidemiology (McGill). Research Topic: <em>Sexualized substance use, sexually transmitted infections, and pre-exposure prophylaxis among men who have sex with men: longitudinal analyses of sexual health clinic attendees in Montréal</em>.</p>
+<h3 id="salome-kuchukhidze"><i class = "glyphicon glyphicon-user"> </i> Salome Kuchukhidze</h3>
+<p>PhD Student in Epidemiology (McGill). Research Topic: <em>HIV testing services and diagnosis coverage among key populations</em>.</p>
 </div>
 </div>
 </div>
-<div id="section-2" class="section level1">
+<div id="section-4" class="section level1">
 <h1></h1>
 </div>
-<div id="section-3" class="section level1">
+<div id="section-5" class="section level1">
 <h1></h1>
 </div>
 <div id="postdoctoral-fellows" class="section level1">
 <h1>Postdoctoral Fellows</h1>
 <div class="row">
 <div class="column left">
-<p><img src = "Rachael_Milwid.jpg"; align="left" /></p>
+<p><img src = "Rachael_Milwid.jpg"; align = "left" /></p>
 </div>
 <div class="column right">
 <h3 id="rachael-milwid"><i class = "glyphicon glyphicon-user"> </i> Rachael Milwid</h3>
@@ -339,21 +447,21 @@ $(document).ready(function () {
 </div>
 <div class="row">
 <div class="column left">
-<p><img src = "Katia_Giguere.jpg"; align="left" /></p>
+<p><img src = "Katia_Giguere.jpg"; align = "left" /></p>
 </div>
 <div class="column right">
-<h3 id="katia-giguere"><i class = "glyphicon glyphicon-user"> </i> Katia Giguère</h3>
+<h3 id="katia-giguère"><i class = "glyphicon glyphicon-user"> </i> Katia Giguère</h3>
 <p>Postdoc (McGill). Research Topic: <em>Estimating gaps in HIV knowledge status to reach the first UNAIDS 90-90-90 target in sub-Saharan Africa</em>.</p>
 </div>
 </div>
 </div>
-<div id="section-4" class="section level1">
+<div id="section-6" class="section level1">
 <h1></h1>
 </div>
 <div id="research-assistants" class="section level1">
 <h1>Research Assistants</h1>
 </div>
-<div id="section-5" class="section level1">
+<div id="section-7" class="section level1">
 <h1></h1>
 <div class="row">
 <div class="column left">
@@ -374,27 +482,45 @@ $(document).ready(function () {
 </div>
 </div>
 </div>
-<div id="section-6" class="section level1">
+<div id="section-8" class="section level1">
 <h1></h1>
 </div>
-<div id="section-7" class="section level1">
+<div id="undergraduate-student" class="section level1">
+<h1>Undergraduate student</h1>
+</div>
+<div id="section-9" class="section level1">
+<h1></h1>
+<div class="row">
+<div class="column left">
+<p><img src = "Caroline_Hodgins.jpg"; align="left" /></p>
+</div>
+<div class="column right">
+<h3 id="caroline-hodgins"><i class = "glyphicon glyphicon-user"> </i> Caroline Hodgins</h3>
+<p>Caroline is studying Biochemstry at McGill. She is a <em>2020 Global Health Scholar</em> working on HIV diagnosis among clients of female sex workers.</p>
+</div>
+</div>
+</div>
+<div id="section-10" class="section level1">
+<h1></h1>
+</div>
+<div id="section-11" class="section level1">
 <h1></h1>
 </div>
 <div id="past-supervision" class="section level1">
 <h1>Past Supervision</h1>
 </div>
-<div id="section-8" class="section level1">
+<div id="section-12" class="section level1">
 <h1></h1>
 <div id="arnaud-godin-msc19" class="section level3">
-<h3>Arnaud Godin (MSc’19)</h3>
+<h3>Arnaud Godin (MSc'19)</h3>
 <p>MSc Epidemiology (McGill). Thesis: <em>Modeling the potential impact of different prison-based prevention and treatment strategies on HCV transmission in Montréal</em>. Co-supervisor: <a href="https://www.mcgill.ca/epi-biostat-occh/joseph-cox">Joseph Cox</a>.</p>
 </div>
 <div id="branwen-nia-owen-phd18" class="section level3">
-<h3>Branwen Nia Owen (PhD’18)</h3>
+<h3>Branwen Nia Owen (PhD'18)</h3>
 <p>PhD (Imperial College London). Thesis: <em>Neglected risk factors in HIV transmission and implications for prevention</em>. Primary supervisor: <a href="http://www.imperial.ac.uk/people/mc.boily">Marie Claude Boily</a>.</p>
 </div>
 <div id="isabel-tavitian-exley-phd16" class="section level3">
-<h3>Isabel Tavitian-Exley (PhD’16)</h3>
+<h3>Isabel Tavitian-Exley (PhD'16)</h3>
 <p>PhD (Imperial College London). Thesis: <em>The relevance of polydrug use on HIV and associated injecting and sexual risk behaviours among people who inject drugs</em>. Primary supervisor: <a href="http://www.imperial.ac.uk/people/mc.boily">Marie Claude Boily</a></p>
 </body>
 </div>
@@ -417,6 +543,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

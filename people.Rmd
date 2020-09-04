@@ -32,12 +32,25 @@
 </style>
 </head>
 <body>
+  
+    
+#  
+#  
+# Currently Supervised (Master)
+  
+<div class = "row">
+<div class = "column left">
+<img src = "Jorge_Flores.jpg"; align = "left" /> 
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Jorge Luis Flores
+MSc Student in Epidemiology (McGill). Research Topic: *Sexualized substance use, sexually transmitted infections, and pre-exposure prophylaxis among men who have sex with men: longitudinal analyses of sexual health clinic attendees in Montréal*.
+</div>
+</div>
 
 #  
 #  
-# Currently Supervised
-
-
+# Currently Supervised (Doctoral)
 
 <div class = "row">
 <div class = "column left">
@@ -61,7 +74,7 @@ PhD Student in Epidemiology (McGill). Research Topic: *HCV elimination among HIV
 
 <div class = "row">
 <div class = "column left">
-<img src = "James_Stannah.jpg"; align="left" /> 
+<img src = "James_Stannah.jpg"; align = "left" /> 
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> James Stannah
@@ -71,14 +84,13 @@ PhD Student in Epidemiology (McGill). Research Topic: *Structural determinants o
 
 <div class = "row">
 <div class = "column left">
-<img src = "Jorge_Flores.jpg"; align="left" /> 
+<img src = "Salome_Kuchukhidze.jpg"; align = "left" /> 
 </div>
 <div class = "column right">
-### <i class = "glyphicon glyphicon-user"> </i> Jorge Luis Flores
-MSc Student in Epidemiology (McGill). Research Topic: *Sexualized substance use, sexually transmitted infections, and pre-exposure prophylaxis among men who have sex with men: longitudinal analyses of sexual health clinic attendees in Montréal*.
+### <i class = "glyphicon glyphicon-user"> </i> Salome Kuchukhidze
+PhD Student in Epidemiology (McGill). Research Topic: *HIV testing services and diagnosis coverage among key populations*. 
 </div>
 </div>
-
 
 #  
 #  
@@ -86,7 +98,7 @@ MSc Student in Epidemiology (McGill). Research Topic: *Sexualized substance use,
 
 <div class = "row">
 <div class = "column left">
-<img src = "Rachael_Milwid.jpg"; align="left" /> 
+<img src = "Rachael_Milwid.jpg"; align = "left" /> 
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Rachael Milwid
@@ -96,7 +108,7 @@ Postdoc (McGill). Research Topic: *Modeling the impacts and optimization of HIV 
 
 <div class = "row">
 <div class = "column left">
-<img src = "Katia_Giguere.jpg"; align="left" /> 
+<img src = "Katia_Giguere.jpg"; align = "left" /> 
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Katia Giguère
@@ -126,6 +138,21 @@ Arnaud holds a BSc in Economics from Université Laval and a Master in Epidemiol
 Yiqing graduated with a Bachelor of Medicine from Fudan University in 2017. She then completed a Master of Public Health at McGill. 
 </div>
 </div>
+
+
+#  
+# Undergraduate student
+#  
+<div class = "row">
+<div class = "column left">
+<img src = "Caroline_Hodgins.jpg"; align="left" /> 
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Caroline Hodgins
+Caroline is studying Biochemstry at McGill. She is a *2020 Global Health Scholar* working on HIV diagnosis among clients of female sex workers.
+</div>
+</div>
+
 
 #
 #  
