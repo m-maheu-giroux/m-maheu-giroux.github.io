@@ -177,7 +177,7 @@ BSc'03 Biology (Université de Montréal)
 #
 ## <i class="glyphicon glyphicon-flash"></i> News
 <a class="one" target="_blank">
-**2020-08-21**: James Stannah (PhD candidate) was awarded an *Internal Studentship* from the *Faculty of Medicine* of McGill University!  
+**2020-08-21**: James Stannah (PhD candidate) was awarded a *Max E. Binz Fellowship* from McGill University!  
 **2020-04-20**: Jorge Luis Flores (MSc student) was awarded a *Frederick Banting and Charles Best Canada Graduate Scholarships* from the *Canadian Institutes of Health Research* `r emo::ji("nerd_face")`.  
 **2020-01-30**: Congratulations to Arnaud Godin (former MSc student) for receiving the *Best Master's Award* from the *Réseau de recherche en santé des populations du Québec*.  
 **2019-07-11**: Our grant *Elimination of cervical cancer through vaccination and screening in high HIV prevalence settings* has been funded by the *Canadian Institutes of Health Research*. Exciting collaborations with *Université Laval*, *Imperial College*, *LSHTM*, and *Wits University*.  
