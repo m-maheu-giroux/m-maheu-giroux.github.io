@@ -42,18 +42,29 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 #  
 <div class = "class-name">
-**[47]** Godin A, Xia Y, Buckeridge D, Mishra S, Douwes-Schultz D, Shen Y, Lavigne M, Drolet M, Schmidt A, Brisson M, and **Maheu-Giroux M** (2020). The role of case importation in explaining differences in early SARS-CoV-2 transmission dynamics in Canada - a mathematical modeling study of surveillance data. (pre-print available [here](https://www.medrxiv.org/content/10.1101/2020.07.20.20158451v1).)
+**[49]** Xia Y, Milwid RM, Godin A, Boily MC, Johnson LF, Marsh K, Eaton JW, **Maheu-Giroux M** (2020). Accuracy of self-reported HIV testing history and awareness of HIV-positive status among people living with HIV in four sub-Saharan Africa countries.
+</div>  
+
+#  
+<div class = "class-name">
+**[48]** Soni N, Giguère K, Boily MC, Fogel JM, **Maheu-Giroux M**, Dimitrov D, Eshleman SH, Mitchell KM (2020). Under-reporting of known HIV-positive status among people living with HIV: a systematic review and meta-analysis.
+</div>  
+
+#  
+<div class = "class-name">
+**[47]** Carabali M, **Maheu-Giroux M**, Kaufman J (2020). Dengue, severity paradox and socioeconomic distribution among Afro-Colombians. 
+</div>  
+
+#  
+<div class = "class-name">
+**[46]** Godin A, Xia Y, Buckeridge D, Mishra S, Douwes-Schultz D, Shen Y, Lavigne M, Drolet M, Schmidt A, Brisson M, and **Maheu-Giroux M** (2020). The role of case importation in explaining differences in early SARS-CoV-2 transmission dynamics in Canada - a mathematical modeling study of surveillance data. (pre-print available [here](https://www.medrxiv.org/content/10.1101/2020.07.20.20158451v1).)
 </div>
   
 #  
 <div class = "class-name">
-**[46]** Giguère K, Eaton JW, Marsh K, Johnson LF, Johnson CC, Ehui E, Jahn A, Wanyeky I, Mbofana F, Bakiono F, Mahy M, **Maheu-Giroux M** (2020). Trends in knowledge of HIV status and efficiency of HIV testing services in sub-Saharan Africa (2000-2020): a modelling study of survey and HIV testing program data.
+**[45]** Giguère K, Eaton JW, Marsh K, Johnson LF, Johnson CC, Ehui E, Jahn A, Wanyeky I, Mbofana F, Bakiono F, Mahy M, **Maheu-Giroux M** (2020). Trends in knowledge of HIV status and efficiency of HIV testing services in sub-Saharan Africa (2000-2020): a modelling study of survey and HIV testing program data.
 </div>
   
-#  
-<div class = "class-name">
-**[45]** Blouin B, Eaton JW, Mahy M, and **Maheu-Giroux M** (2020). ANCRTAdjust: An R package to adjust routine HIV testing data from antenatal care to reduce bias in estimating HIV prevalence trends. 
-</div>
   
 #
 ## Published
