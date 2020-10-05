@@ -42,7 +42,12 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 #  
 <div class = "class-name">
-**[51]** Stoeckl H, Sardinha L, Meyer S, **Maheu-Giroux M**, and García-Moreno C (2020). Physical, sexual and psychological intimate partner violence and non-partner sexual violence against women and girls: a systematic review protocol for producing global, regional and country estimates. 
+**[52]** Stoeckl H, Sardinha L, Meyer S, **Maheu-Giroux M**, and García-Moreno C (2020). Physical, sexual and psychological intimate partner violence and non-partner sexual violence against women and girls: a systematic review protocol for producing global, regional and country estimates. 
+</div>  
+
+#  
+<div class = "class-name">
+**[51]** Silhol R, Geidelberg L, Mitchell KM, Mishra S, Dimitrov D, Bowring A, Béhanzin L, Guédou F, Diabaté S, Schwartz S, Njindam IM, Billong SC, Levitt D, Mukandavire C, **Maheu-Giroux M**, Rönn M, Dalal S, Vickerman P, Baral S, Alary M, Boily MC (2020). Estimating the potential impact of disruptions due to COVID-19 on HIV in the largest cities of Cameroon and Benin. (Submitted to JIAS)
 </div>  
 
 #  
