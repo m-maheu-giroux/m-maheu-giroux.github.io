@@ -42,6 +42,16 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 #  
 <div class = "class-name">
+**[51]** Stoeckl H, Sardinha L, Meyer S, **Maheu-Giroux M**, and García-Moreno C (2020). Physical, sexual and psychological intimate partner violence and non-partner sexual violence against women and girls: a systematic review protocol for producing global, regional and country estimates. 
+</div>  
+
+#  
+<div class = "class-name">
+**[50]** Cox J, Apelian H, Moodie EEM, Messier-Peet M, Hart TA, Grace D, Moore DM, Lachowsky NJ, Armstrong HL, Jollimore J, Skakoon-Sparling S, Rodrigues R, Tan DHS, **Maheu-Giroux M**, Noor SW, Lebouché B, Tremblay C, Olarewaju G, Lambert G, and the Engage Study Team (2020). HIV pre-exposure prophylaxis (PrEP) use among urban Canadian gay, bisexual and other men who have sex with men for whom PrEP is clinically recommended: baseline results from the Engage Cohort Study. 
+</div>  
+
+#  
+<div class = "class-name">
 **[49]** Xia Y, Milwid RM, Godin A, Boily MC, Johnson LF, Marsh K, Eaton JW, **Maheu-Giroux M** (2020). Accuracy of self-reported HIV testing history and awareness of HIV-positive status among people living with HIV in four sub-Saharan Africa countries.
 </div>  
 
