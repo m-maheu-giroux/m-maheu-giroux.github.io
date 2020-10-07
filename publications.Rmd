@@ -42,12 +42,17 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 #  
 <div class = "class-name">
-**[52]** Stoeckl H, Sardinha L, Meyer S, **Maheu-Giroux M**, and García-Moreno C (2020). Physical, sexual and psychological intimate partner violence and non-partner sexual violence against women and girls: a systematic review protocol for producing global, regional and country estimates. 
+**[53]** Stoeckl H, Sardinha L, Meyer S, **Maheu-Giroux M**, and García-Moreno C (2020). Physical, sexual and psychological intimate partner violence and non-partner sexual violence against women and girls: a systematic review protocol for producing global, regional and country estimates. 
 </div>  
 
 #  
 <div class = "class-name">
-**[51]** Silhol R, Geidelberg L, Mitchell KM, Mishra S, Dimitrov D, Bowring A, Béhanzin L, Guédou F, Diabaté S, Schwartz S, Njindam IM, Billong SC, Levitt D, Mukandavire C, **Maheu-Giroux M**, Rönn M, Dalal S, Vickerman P, Baral S, Alary M, Boily MC (2020). Estimating the potential impact of disruptions due to COVID-19 on HIV in the largest cities of Cameroon and Benin. (Submitted to JIAS)
+**[52]** Rouveau N, Ky-Zerbo O, Boye S, Simo Fotso A, d’Elbée M, **Maheu-Giroux M**, Silhol R, Kra Kouassi A, Vautier A, Doumenc-Aïdara C, Breton G, Keita A, Ehui E, Cheikh Tidiane N, Boily MC, Terris-Prestholt F, Pourette D, Desclaux A, Larmarange J, the ATLAS Team. Describing, analysing and understanding the effects of the introduction of HIV self-testing in West Africa through the ATLAS programme in Côte d'Ivoire, Mali and Senegal.
+</div>  
+
+#  
+<div class = "class-name">
+**[51]** Silhol R, Geidelberg L, Mitchell KM, Mishra S, Dimitrov D, Bowring A, Béhanzin L, Guédou F, Diabaté S, Schwartz S, Njindam IM, Billong SC, Levitt D, Mukandavire C, **Maheu-Giroux M**, Rönn M, Dalal S, Vickerman P, Baral S, Alary M, Boily MC (2020). Estimating the potential impact of disruptions due to COVID-19 on HIV in the largest cities of Cameroon and Benin.
 </div>  
 
 #  
