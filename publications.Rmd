@@ -87,12 +87,12 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 #  
 <a class="one" href = "https://www.sciencedirect.com/science/article/pii/S1201971220322517" target="_blank">
-**[45]** Godin A+, Xia Y+ (+ co-first author), Buckeridge D, Mishra S, Douwes-Schultz D, Shen Y, Lavigne M, Drolet M, Schmidt A, Brisson M, and **Maheu-Giroux M** (2020). The role of case importation in explaining differences in early SARS-CoV-2 transmission dynamics in Canada - a mathematical modeling study of surveillance data. *The International Journal of Infectious Diseases*. (Accpeted)
+**[45]** Godin A+, Xia Y+ (+ co-first author), Buckeridge D, Mishra S, Douwes-Schultz D, Shen Y, Lavigne M, Drolet M, Schmidt A, Brisson M, and **Maheu-Giroux M** (2020). The role of case importation in explaining differences in early SARS-CoV-2 transmission dynamics in Canada - a mathematical modeling study of surveillance data. *The International Journal of Infectious Diseases*. (Accepted)
 </a>
 
 #  
-<a class="one" href = "https://www.biorxiv.org/content/10.1101/2020.01.14.906297v1.full.pdf" target="_blank">
-**[44]** Zhao N, Charland K, Carabali M, Nsoesie E, **Maheu-Giroux M**, Rees E, Yuan M, Balaguera CG, Jaramillo Ramirez G, Zinszer K (2020). Machine learning and dengue forecasting: comparing random forests and artificial neural networks for predicting dengue burdens at the national and sub-national scales in Colombia. *PLOS Neglected Tropical Diseases*. (Accepted) 
+<a class="one" href = " https://doi.org/10.1371/journal.pntd.0008056" target="_blank">
+**[44]** Zhao N, Charland K, Carabali M, Nsoesie E, **Maheu-Giroux M**, Rees E, Yuan M, Balaguera CG, Jaramillo Ramirez G, Zinszer K (2020). Machine learning and dengue forecasting: comparing random forests and artificial neural networks for predicting dengue burdens at the national and sub-national scales in Colombia. *PLOS Neglected Tropical Diseases* 14(9):e0008056.
 </a>
   
 #  
