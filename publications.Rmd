@@ -42,9 +42,19 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 #  
 <div class = "class-name">
-**[53]** Stoeckl H, Sardinha L, Meyer S, **Maheu-Giroux M**, and García-Moreno C (2020). Physical, sexual and psychological intimate partner violence and non-partner sexual violence against women and girls: a systematic review protocol for producing global, regional and country estimates. 
+**[55]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2020). ). A framework to model global, regional, and national estimates of intimate partner violence. (pre-print [here](https://doi.org/10.1101/2020.11.19.20235101)) 
 </div>  
 
+#  
+<div class = "class-name">
+**[54]** Stoeckl H, Sardinha L, Meyer S, **Maheu-Giroux M**, and García-Moreno C (2020). Physical, sexual and psychological intimate partner violence and non-partner sexual violence against women and girls: a systematic review protocol for producing global, regional and country estimates. 
+</div>  
+
+#  
+<div class = "class-name">
+**[53]** Godin A, Eaton JW, Giguère K, Marsh K, Leigh J, Jahn A, Mbofana F, **Maheu-Giroux M** (2020). Monitoring HIV incidence trends from routine surveillance of recent HIV infection in sub-Saharan Africa.
+</div>  
+  
 #  
 <div class = "class-name">
 **[52]** Rouveau N, Ky-Zerbo O, Boye S, Simo Fotso A, d’Elbée M, **Maheu-Giroux M**, Silhol R, Kra Kouassi A, Vautier A, Doumenc-Aïdara C, Breton G, Keita A, Ehui E, Cheikh Tidiane N, Boily MC, Terris-Prestholt F, Pourette D, Desclaux A, Larmarange J, the ATLAS Team. Describing, analysing and understanding the effects of the introduction of HIV self-testing in West Africa through the ATLAS programme in Côte d'Ivoire, Mali and Senegal.
@@ -62,7 +72,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 #  
 <div class = "class-name">
-**[49]** Soni N, Giguère K, Boily MC, Fogel JM, **Maheu-Giroux M**, Dimitrov D, Eshleman SH, Mitchell KM (2020). Under-reporting of known HIV-positive status among people living with HIV: a systematic review and meta-analysis.
+**[49]** Soni N, Giguère K, Boily MC, Fogel JM, **Maheu-Giroux M**, Dimitrov D, Eshleman SH, Mitchell KM (2020). Under-reporting of known HIV-positive status among people living with HIV: a systematic review and meta-analysis. (pre-print [here](http://dx.doi.org/10.2139/ssrn.3690926))
 </div>  
 
 #  
