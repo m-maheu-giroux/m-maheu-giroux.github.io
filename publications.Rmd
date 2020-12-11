@@ -42,7 +42,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 #  
 <div class = "class-name">
-**[55]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2020). ). A framework to model global, regional, and national estimates of intimate partner violence. (pre-print [here](https://doi.org/10.1101/2020.11.19.20235101)) 
+**[55]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2020). A framework to model global, regional, and national estimates of intimate partner violence. (pre-print [here](https://doi.org/10.1101/2020.11.19.20235101)) 
 </div>  
 
 #  
@@ -75,15 +75,16 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[49]** Soni N, Giguère K, Boily MC, Fogel JM, **Maheu-Giroux M**, Dimitrov D, Eshleman SH, Mitchell KM (2020). Under-reporting of known HIV-positive status among people living with HIV: a systematic review and meta-analysis. (pre-print [here](http://dx.doi.org/10.2139/ssrn.3690926))
 </div>  
 
-#  
-<div class = "class-name">
-**[48]** Carabali M, **Maheu-Giroux M**, Kaufman J (2020). Dengue, severity paradox and socioeconomic distribution among Afro-Colombians. 
-</div>  
   
 #
 ## Published
 #
   
+#  
+<a class="one" href = "https://journals.lww.com/epidem/pages/default.aspx" target = "_blank">
+**[48]** Carabali M, **Maheu-Giroux M**, Kaufman J (2020). Dengue, severity paradox and socioeconomic distribution among Afro-Colombians. *Epidemiology*. (Accepted)
+</a>  
+
 #  
 <a class="one" href = "https://doi.org/10.1101/2020.10.20.20216283" target = "_blank">
 **[47]** Giguère K, Eaton JW, Marsh K, Johnson LF, Johnson CC, Ehui E, Jahn A, Wanyeky I, Mbofana F, Bakiono F, Mahy M, **Maheu-Giroux M** (2020). Trends in knowledge of HIV status and efficiency of HIV testing services in sub-Saharan Africa (2000-2020): a modelling study of survey and HIV testing program data. *The Lancet HIV*. (Accepted)
