@@ -48,6 +48,17 @@ MSc Student in Epidemiology (McGill). Research Topic: *Sexualized substance use,
 </div>
 </div>
 
+
+<div class = "row">
+<div class = "column left">
+<img src = "Lily_Yang.png"; align = "left" /> 
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Lily Yang
+MSc Student in Epidemiology (McGill). Research Topic: *Trends and disparities in cervical cancer screening uptake in high HIV prevalence settings: a systematic analysis of population-based surveys in sub-Saharan Africa*.
+</div>
+</div>
+
 #  
 #  
 # Currently Supervised (Doctoral)
