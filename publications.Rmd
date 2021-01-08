@@ -107,7 +107,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a>
   
 #  
-<a class="one" href = "https://journals.lww.com/jaids/Abstract/9000/Pre_exposure_prophylaxis_uptake_among_men_who_have.96108.aspx" target = "_blank">
+<a class="one" href = "https://pubmed.ncbi.nlm.nih.gov/33136737/" target = "_blank">
 **[43]** Xia Y, Greenwald Z, Milwid R, Trottier C, Boissonnault M, Gaul N, Charest L, Landry G, Szabo J, Thomas R, **Maheu-Giroux M** (2020). Pre-exposure prophylaxis uptake among men who have sex with men who used non-occupational post-exposure prophylaxis: a longitudinal analysis of attendees at a large sexual health clinic in Montréal (Canada). *JAIDS Journal of Acquired Immune Deficiency Syndromes* 85(4):408-415 (DOI: 10.1097/QAI.0000000000002472).
 </a>
   
