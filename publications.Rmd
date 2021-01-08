@@ -54,25 +54,21 @@ Feel free to email me to obtain a copy of any of the papers below.
 <div class = "class-name">
 **[53]** Godin A, Eaton JW, Giguère K, Marsh K, Leigh J, Jahn A, Mbofana F, **Maheu-Giroux M** (2020). Monitoring HIV incidence trends from routine surveillance of recent HIV infection in sub-Saharan Africa.
 </div>  
-  
+
+
 #  
 <div class = "class-name">
-**[52]** Rouveau N, Ky-Zerbo O, Boye S, Simo Fotso A, d’Elbée M, **Maheu-Giroux M**, Silhol R, Kra Kouassi A, Vautier A, Doumenc-Aïdara C, Breton G, Keita A, Ehui E, Cheikh Tidiane N, Boily MC, Terris-Prestholt F, Pourette D, Desclaux A, Larmarange J, the ATLAS Team. Describing, analysing and understanding the effects of the introduction of HIV self-testing in West Africa through the ATLAS programme in Côte d'Ivoire, Mali and Senegal.
+**[52]** Silhol R, Geidelberg L, Mitchell KM, Mishra S, Dimitrov D, Bowring A, Béhanzin L, Guédou F, Diabaté S, Schwartz S, Njindam IM, Billong SC, Levitt D, Mukandavire C, **Maheu-Giroux M**, Rönn M, Dalal S, Vickerman P, Baral S, Alary M, Boily MC (2020). Estimating the potential impact of disruptions due to COVID-19 on HIV in the largest cities of Cameroon and Benin.
 </div>  
 
 #  
 <div class = "class-name">
-**[51]** Silhol R, Geidelberg L, Mitchell KM, Mishra S, Dimitrov D, Bowring A, Béhanzin L, Guédou F, Diabaté S, Schwartz S, Njindam IM, Billong SC, Levitt D, Mukandavire C, **Maheu-Giroux M**, Rönn M, Dalal S, Vickerman P, Baral S, Alary M, Boily MC (2020). Estimating the potential impact of disruptions due to COVID-19 on HIV in the largest cities of Cameroon and Benin.
+**[51]** Cox J, Apelian H, Moodie EEM, Messier-Peet M, Hart TA, Grace D, Moore DM, Lachowsky NJ, Armstrong HL, Jollimore J, Skakoon-Sparling S, Rodrigues R, Tan DHS, **Maheu-Giroux M**, Noor SW, Lebouché B, Tremblay C, Olarewaju G, Lambert G, and the Engage Study Team (2020). HIV pre-exposure prophylaxis (PrEP) use among urban Canadian gay, bisexual and other men who have sex with men for whom PrEP is clinically recommended: baseline results from the Engage Cohort Study. 
 </div>  
 
 #  
 <div class = "class-name">
-**[50]** Cox J, Apelian H, Moodie EEM, Messier-Peet M, Hart TA, Grace D, Moore DM, Lachowsky NJ, Armstrong HL, Jollimore J, Skakoon-Sparling S, Rodrigues R, Tan DHS, **Maheu-Giroux M**, Noor SW, Lebouché B, Tremblay C, Olarewaju G, Lambert G, and the Engage Study Team (2020). HIV pre-exposure prophylaxis (PrEP) use among urban Canadian gay, bisexual and other men who have sex with men for whom PrEP is clinically recommended: baseline results from the Engage Cohort Study. 
-</div>  
-
-#  
-<div class = "class-name">
-**[49]** Soni N, Giguère K, Boily MC, Fogel JM, **Maheu-Giroux M**, Dimitrov D, Eshleman SH, Mitchell KM (2020). Under-reporting of known HIV-positive status among people living with HIV: a systematic review and meta-analysis. (pre-print [here](http://dx.doi.org/10.2139/ssrn.3690926))
+**[50]** Soni N, Giguère K, Boily MC, Fogel JM, **Maheu-Giroux M**, Dimitrov D, Eshleman SH, Mitchell KM (2020). Under-reporting of known HIV-positive status among people living with HIV: a systematic review and meta-analysis. (pre-print [here](http://dx.doi.org/10.2139/ssrn.3690926))
 </div>  
 
   
@@ -80,6 +76,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Published
 #
   
+#  
+<a class="one" href = "https://bmcpublichealth.biomedcentral.com/articles" target = "_blank">
+**[49]** Rouveau N, Ky-Zerbo O, Boye S, Simo Fotso A, d’Elbée M, **Maheu-Giroux M**, Silhol R, Kra Kouassi A, Vautier A, Doumenc-Aïdara C, Breton G, Keita A, Ehui E, Cheikh Tidiane N, Boily MC, Terris-Prestholt F, Pourette D, Desclaux A, Larmarange J, the ATLAS Team. Describing, analysing and understanding the effects of the introduction of HIV self-testing in West Africa through the ATLAS programme in Côte d'Ivoire, Mali and Senegal.*BMC Public Health*. (Accepted)
+</a>  
+
 #  
 <a class="one" href = "https://journals.lww.com/epidem/pages/default.aspx" target = "_blank">
 **[48]** Carabali M, **Maheu-Giroux M**, Kaufman J (2020). Dengue, severity paradox and socioeconomic distribution among Afro-Colombians. *Epidemiology*. (Accepted)
