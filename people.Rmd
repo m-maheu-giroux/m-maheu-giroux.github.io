@@ -117,15 +117,6 @@ Postdoc (McGill). Research Topic: *Modeling the impacts and optimization of HIV 
 </div>
 </div>
 
-<div class = "row">
-<div class = "column left">
-<img src = "Katia_Giguere.jpg"; align = "left" /> 
-</div>
-<div class = "column right">
-### <i class = "glyphicon glyphicon-user"> </i> Katia Giguère
-Postdoc (McGill). Research Topic: *Estimating gaps in HIV knowledge status to reach the first UNAIDS 90-90-90 target in sub-Saharan Africa*.
-</div>
-</div>
 
 #  
 # Research Assistants
@@ -170,6 +161,9 @@ Caroline is studying Biochemstry at McGill. She is a *2020 Global Health Scholar
 # Past Supervision
 #  
 
+### Katia Giguère (Fellowship'20)
+Postdoctoral fellowship (McGill). Research Topic: *Estimating gaps in HIV knowledge status to reach the first UNAIDS 90-90-90 target in sub-Saharan Africa*.
+  
 ### Arnaud Godin (MSc'19)
 MSc Epidemiology (McGill). Thesis: *Modeling the potential impact of different prison-based prevention and treatment strategies on HCV transmission in Montréal*. Co-supervisor: [Joseph Cox](https://www.mcgill.ca/epi-biostat-occh/joseph-cox).  
   
