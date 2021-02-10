@@ -42,9 +42,13 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 #  
 <div class = "class-name">
+**[56]** Giguère K, Vassal AF, Bacon J, Vaziri M, Thomas R, **Maheu-Giroux M** (2021). Characteristics of new HIV diagnoses over 1983-2019: a clinic-based study in Montréal (Canada).
+</div>  
+  
+<div class = "class-name">
 **[55]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2021). A framework to model global, regional, and national estimates of intimate partner violence. (pre-print [here](https://doi.org/10.1101/2020.11.19.20235101)) 
 </div>  
-
+  
 #  
 <div class = "class-name">
 **[54]** Stoeckl H, Sardinha L, Meyer S, **Maheu-Giroux M**, and García-Moreno C (2021). Physical, sexual and psychological intimate partner violence and non-partner sexual violence against women and girls: a systematic review protocol for producing global, regional and country estimates. 
@@ -54,17 +58,10 @@ Feel free to email me to obtain a copy of any of the papers below.
 <div class = "class-name">
 **[53]** Godin A, Eaton JW, Giguère K, Marsh K, Leigh J, Jahn A, Mbofana F, **Maheu-Giroux M** (2021). Monitoring HIV incidence trends from routine surveillance of recent HIV infection in sub-Saharan Africa.
 </div>  
-
-
+  
 #  
 <div class = "class-name">
-**[52]** Silhol R, Geidelberg L, Mitchell KM, Mishra S, Dimitrov D, Bowring A, Béhanzin L, Guédou F, Diabaté S, Schwartz S, Njindam IM, Billong SC, Levitt D, Mukandavire C, **Maheu-Giroux M**, Rönn M, Dalal S, Vickerman P, Baral S, Alary M, Boily MC (2021). Estimating the potential impact of disruptions due to COVID-19 on HIV in the largest cities of Cameroon and Benin.
-</div>  
-
-
-#  
-<div class = "class-name">
-**[51]** Soni N, Giguère K, Boily MC, Fogel JM, **Maheu-Giroux M**, Dimitrov D, Eshleman SH, Mitchell KM (2021). Under-reporting of known HIV-positive status among people living with HIV: a systematic review and meta-analysis. (pre-print [here](http://dx.doi.org/10.2139/ssrn.3690926))
+**[52]** Soni N, Giguère K, Boily MC, Fogel JM, **Maheu-Giroux M**, Dimitrov D, Eshleman SH, Mitchell KM (2021). Under-reporting of known HIV-positive status among people living with HIV: a systematic review and meta-analysis. (pre-print [here](http://dx.doi.org/10.2139/ssrn.3690926))
 </div>  
 
   
@@ -72,6 +69,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Published
 #
 
+#  
+<a class="one" href = "https://journals.lww.com/jaids/pages/default.aspx" target = "_blank">
+**[51]** Silhol R, Geidelberg L, Mitchell KM, Mishra S, Dimitrov D, Bowring A, Béhanzin L, Guédou F, Diabaté S, Schwartz S, Billong SC, Njindam IM, Levitt D, Mukandavire C, **Maheu-Giroux M**, Rönn MM, Dalal S, Vickerman P, Baral S, Alary M, Boily MC (2021). Assessing the potential impact of disruptions due to COVID-19 on HIV among key and lower-risk populations in the largest cities of Cameroon and Benin. *JAIDS – Journal of Acquired Immune Deficiency Syndrome* (Accepted).
+</a>  
+  
 #  
 <a class="one" href = "https://doi.org/10.1186/s12889-021-10212-1" target = "_blank">
 **[50]** Cox J, Apelian H, Moodie EEM, Messier-Peet M, Hart TA, Grace D, Moore DM, Lachowsky NJ, Armstrong HL, Jollimore J, Skakoon-Sparling S, Rodrigues R, Tan DHS, **Maheu-Giroux M**, Noor SW, Lebouché B, Tremblay C, Olarewaju G, Lambert G, and the Engage Study Team (2021). HIV pre-exposure prophylaxis (PrEP) use among urban Canadian gay, bisexual and other men who have sex with men for whom PrEP is clinically recommended: baseline results from the Engage Cohort Study. *CMAJ Open*. (Accepted)
@@ -93,8 +95,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a>
   
 #  
-<a class="one" href = "https://doi.org/10.1101/2020.09.16.20196105" target = "_blank">
-**[46]** Xia Y, Milwid RM, Godin A, Boily MC, Johnson LF, Marsh K, Eaton JW, **Maheu-Giroux M** (2021). Accuracy of self-reported HIV testing history and awareness of HIV-positive status among people living with HIV in four sub-Saharan Africa countries. *AIDS*. (Accepted)
+<a class="one" href = "https://pubmed.ncbi.nlm.nih.gov/33252484/" target = "_blank">
+**[46]** Xia Y, Milwid RM, Godin A, Boily MC, Johnson LF, Marsh K, Eaton JW, **Maheu-Giroux M** (2021). Accuracy of self-reported HIV testing history and awareness of HIV-positive status among people living with HIV in four sub-Saharan Africa countries. *AIDS* 35(3):503-510. (Accepted)
 </a>
   
 #  
