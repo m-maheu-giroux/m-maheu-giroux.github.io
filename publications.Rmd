@@ -39,12 +39,33 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 ## Under Review
 # 
+
 #  
+<div class = "class-name">
+**[60]** Milwid R, Xia Y, Doyle C, Cox J, Lambert G, Grace D, Thomas R, Mishra S, Boily MC, **Maheu-Giroux M** (2021). HIV transmission dynamics among gay, bisexual, and other men who have sex with men in Montreal between 1975-2017: a mathematical modeling study.
+</div>  
+
+#  
+<div class = "class-name">
+**[59]** Flores Anato JL, Panagiotoglou D, Greenwald Z, Trottier T, Thomas R, **Maheu-Giroux M** (2021). Chemsex practices and pre-exposure prophylaxis (PrEP) trajectories among individuals consulting for PrEP at a large sexual health clinic in Montréal, Canada (2013-2020).
+</div>  
+  
+#  
+<div class = "class-name">
+**[58]** Sardinha L, **Maheu-Giroux M**, Stöckl H, Meyer S, García-Moreno C (2021). Global, regional, and national prevalence of intimate partner violence against women (2018).
+</div>  
+
+#  
+<div class = "class-name">
+**[57]** Lanièce Delaunay C, Godin A, Kronfli N, Panagiotoglou D, Cox J, Alary M, Klein M, and **Maheu-Giroux M** (2021). Beyond hepatitis C elimination as a public health threat: what do we expect of epidemics among priority populations post-elimination?
+</div>  
+
 #  
 <div class = "class-name">
 **[56]** Giguère K, Vassal AF, Bacon J, Vaziri M, Thomas R, **Maheu-Giroux M** (2021). Characteristics of new HIV diagnoses over 1983-2019: a clinic-based study in Montréal (Canada).
 </div>  
-  
+
+#    
 <div class = "class-name">
 **[55]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2021). A framework to model global, regional, and national estimates of intimate partner violence. (pre-print [here](https://doi.org/10.1101/2020.11.19.20235101)) 
 </div>  
