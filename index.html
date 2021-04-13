@@ -25,6 +25,15 @@
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
   pre:not([class]) {
@@ -69,6 +78,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
@@ -276,42 +286,42 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fa fa-home"></span>
+    <span class="fas fa-home"></span>
      
     Home
   </a>
 </li>
 <li>
   <a href="research.html">
-    <span class="fa fa-calculator"></span>
+    <span class="fas fa-calculator"></span>
      
     Research
   </a>
 </li>
 <li>
   <a href="publications.html">
-    <span class="fa fa-clipboard"></span>
+    <span class="fas fa-clipboard"></span>
      
     Publications
   </a>
 </li>
 <li>
   <a href="people.html">
-    <span class="fa fa-cogs"></span>
+    <span class="fas fa-cogs"></span>
      
     People
   </a>
 </li>
 <li>
   <a href="contact.html">
-    <span class="fa fa-paperclip"></span>
+    <span class="fas fa-paperclip"></span>
      
     Contact
   </a>
 </li>
 <li>
   <a href="opportunities.html">
-    <span class="fa fa-comments"></span>
+    <span class="fas fa-comments"></span>
      
     Opportunities
   </a>
@@ -479,7 +489,8 @@ BSc'03 Biology (Université de Montréal)</p>
 <h1 id="section-9"></h1>
 <h1 id="section-10"></h1>
 <h2 id="news"><i class="glyphicon glyphicon-flash"></i> News</h2>
-<p><a class="one" target="_blank"> <strong>2020-08-21</strong>: James Stannah (PhD candidate) was awarded a <em>Max E. Binz Fellowship</em> from McGill University!<br />
+<p><a class="one" target="_blank"> <strong>2021-04-06</strong>: Lily Yang (MSc student) was awarded a <em>Frederick Banting and Charles Best Canada Graduate Scholarships</em> from the <em>Canadian Institutes of Health Research</em> 👩‍🎓.<br />
+<strong>2020-08-21</strong>: James Stannah (PhD candidate) was awarded a <em>Max E. Binz Fellowship</em> from McGill University!<br />
 <strong>2020-04-20</strong>: Jorge Luis Flores (MSc student) was awarded a <em>Frederick Banting and Charles Best Canada Graduate Scholarships</em> from the <em>Canadian Institutes of Health Research</em> 🤓.<br />
 <strong>2020-01-30</strong>: Congratulations to Arnaud Godin (former MSc student) for receiving the <em>Best Master's Award</em> from the <em>Réseau de recherche en santé des populations du Québec</em>.<br />
 <strong>2019-07-11</strong>: Our grant <em>Elimination of cervical cancer through vaccination and screening in high HIV prevalence settings</em> has been funded by the <em>Canadian Institutes of Health Research</em>. Exciting collaborations with <em>Université Laval</em>, <em>Imperial College</em>, <em>LSHTM</em>, and <em>Wits University</em>.<br />
@@ -501,7 +512,7 @@ BSc'03 Biology (Université de Montréal)</p>
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

@@ -179,6 +179,7 @@ BSc'03 Biology (Université de Montréal)
 #
 ## <i class="glyphicon glyphicon-flash"></i> News
 <a class="one" target="_blank">
+**2021-04-06**: Lily Yang (MSc student) was awarded a *Frederick Banting and Charles Best Canada Graduate Scholarships* from the *Canadian Institutes of Health Research* `r emo::ji("woman_student")`.  
 **2020-08-21**: James Stannah (PhD candidate) was awarded a *Max E. Binz Fellowship* from McGill University!  
 **2020-04-20**: Jorge Luis Flores (MSc student) was awarded a *Frederick Banting and Charles Best Canada Graduate Scholarships* from the *Canadian Institutes of Health Research* `r emo::ji("nerd_face")`.  
 **2020-01-30**: Congratulations to Arnaud Godin (former MSc student) for receiving the *Best Master's Award* from the *Réseau de recherche en santé des populations du Québec*.  
