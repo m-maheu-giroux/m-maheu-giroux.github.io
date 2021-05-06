@@ -42,6 +42,16 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 #  
 <div class = "class-name">
+**[70]** Panagiotoglou D, Abrahamowicz M, Buckeridge D, Caro JJ, de Montigny L, Latimer EA, **Maheu-Giroux M**, and Strumpf EC (2021). Protocol for an economic evaluation of Montréal’s harm reduction interventions for people who inject drugs. 
+</div>  
+  
+#  
+<div class = "class-name">
+**[69]** Simo Fosto A, Kouassi Kra A, **Maheu-Giroux M**, Boye S, d’Elbée M, Ky-Zerbo O, Rouveau N, N’Guessan NK, Geoffroy O, Vautier A, Larmarange, the ATLAS Study Team (2021). Is it possible to recruit HIV self-test users for an anonymous phone-based survey using passive recruitment without financial incentives? Lessons learned from a pilot study in Côte d’Ivoire.
+</div>  
+  
+#  
+<div class = "class-name">
 **[68]** Mitchell KM, **Maheu-Giroux M**, Dimitrov D, Moor M, Hughes JP, Donnel D, Beyrer C, El-Sadr W, Cohen MS, Boily MC (2021). How can progress toward Ending the HIV Epidemic in the United States be monitored? 
 </div>  
 
@@ -87,43 +97,44 @@ Feel free to email me to obtain a copy of any of the papers below.
   
 #  
 <div class = "class-name">
-**[59]** Boye S, Bouaré S, Ky-Zerbo O, Rouveau N, Simo Fotso A, d’Elbée M, Silhol S, Maheu-Giroux M, Vautier A, Breton G, Keita A, Bekelynck A, Desclaux A, Larmarange J, Pourette D, and the ATLAS Team (2021). Enthusiasm for introducing and integrating HIV self-testing but doubts about users: a baseline qualitative analysis of key stakeholders’ attitudes and perceptions in Côte d’Ivoire, Senegal, and Mali. 
-</div>  
-  
-#  
-<div class = "class-name">
-**[58]** Giguère K, Vassal AF, Bacon J, Vaziri M, Thomas R, **Maheu-Giroux M** (2021). Characteristics of new HIV diagnoses over 1983-2019: a clinic-based study in Montréal (Canada).
+**[59]** Giguère K, Vassal AF, Bacon J, Vaziri M, Thomas R, **Maheu-Giroux M** (2021). Characteristics of new HIV diagnoses over 1983-2019: a clinic-based study in Montréal (Canada).
 </div>  
 
 #  
 <div class = "class-name">
-**[57]** Ky-Zerbo O, Desclaux A, Brou Kouadio A, Rouveau R, Vautier A, Sow S, Sidi Camara C, Boye S, Pourette D, Sidibe Y, Maheu-Giroux M, Larmarange J, and the ATLAS Team (2021). Enthusiasm for introducing and integrating HIV self-testing but doubts about users: a baseline qualitative analysis of key stakeholders’ attitudes and perceptions in Côte d’Ivoire, Senegal, and Mali. 
-</div>  
-  
-#  
-<div class = "class-name">
-**[56]** d’Elbée M, Traore MM, Badiane K, Vautier A, Simo Fosto A, Kabemba OK, Rouveau N, Godfrey-Faussett P, Maheu-Giroux M, Boily MC, Medley G, Larmarange J, Terris-Prestholt F, and the ATLAS Team (2021). Preparing for sustainable scale-up: economic analysis of HIV self-testing kits provision by civil society organizations to key populations and their sexual partners in Côte d’Ivoire, Senegal, and Mali
+**[58]** Ky-Zerbo O, Desclaux A, Brou Kouadio A, Rouveau R, Vautier A, Sow S, Sidi Camara C, Boye S, Pourette D, Sidibe Y, Maheu-Giroux M, Larmarange J, and the ATLAS Team (2021). Enthusiasm for introducing and integrating HIV self-testing but doubts about users: a baseline qualitative analysis of key stakeholders’ attitudes and perceptions in Côte d’Ivoire, Senegal, and Mali. 
 </div>  
   
 #    
 <div class = "class-name">
-**[55]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2021). A framework to model global, regional, and national estimates of intimate partner violence. (pre-print [here](https://doi.org/10.1101/2020.11.19.20235101)) 
+**[57]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2021). A framework to model global, regional, and national estimates of intimate partner violence. (pre-print [here](https://doi.org/10.1101/2020.11.19.20235101)) 
 </div>  
  
 #  
 <div class = "class-name">
-**[54]** Godin A, Eaton JW, Giguère K, Marsh K, Leigh J, Jahn A, Mbofana F, **Maheu-Giroux M** (2021). Monitoring HIV incidence trends from routine surveillance of recent HIV infection in sub-Saharan Africa.
+**[56]** Godin A, Eaton JW, Giguère K, Marsh K, Leigh J, Jahn A, Mbofana F, **Maheu-Giroux M** (2021). Monitoring HIV incidence trends from routine surveillance of recent HIV infection in sub-Saharan Africa.
 </div>  
   
 #  
 <div class = "class-name">
-**[53]** Soni N, Giguère K, Boily MC, Fogel JM, **Maheu-Giroux M**, Dimitrov D, Eshleman SH, Mitchell KM (2021). Under-reporting of known HIV-positive status among people living with HIV: a systematic review and meta-analysis. (pre-print [here](http://dx.doi.org/10.2139/ssrn.3690926))
+**[55]** Soni N, Giguère K, Boily MC, Fogel JM, **Maheu-Giroux M**, Dimitrov D, Eshleman SH, Mitchell KM (2021). Under-reporting of known HIV-positive status among people living with HIV: a systematic review and meta-analysis. (pre-print [here](http://dx.doi.org/10.2139/ssrn.3690926))
 </div>  
 
   
 #
 ## Published
 #
+
+
+#  
+<a class="one" href = "" target = "_blank">
+**[54]** d’Elbée M, Traore MM, Badiane K, Vautier A, Simo Fosto A, Kabemba OK, Rouveau N, Godfrey-Faussett P, **Maheu-Giroux M**, Boily MC, Medley G, Larmarange J, Terris-Prestholt F, and the ATLAS Team (2021). Preparing for sustainable scale-up: economic analysis of HIV self-testing kits provision by civil society organizations to key populations and their sexual partners in Côte d’Ivoire, Senegal, and Mali. *Frontiers in Public Health* (Accepted).
+</a>  
+  
+#  
+<a class="one" href = "" target = "_blank">
+**[53]** Boye S, Bouaré S, Ky-Zerbo O, Rouveau N, Simo Fotso A, d’Elbée M, Silhol S, **Maheu-Giroux M**, Vautier A, Breton G, Keita A, Bekelynck A, Desclaux A, Larmarange J, Pourette D, and the ATLAS Team (2021). Challenges of HIV self-test distribution for index testing when HIV status disclosure is low: an ethnographic study in Bamako (Mali) as part of the ATLAS project. Frontiers in Public Health. *Frontiers in Public Health* (Accepted).
+</a>  
 
 #  
 <a class="one" href = "https://bmjopen.bmj.com/" target = "_blank">
