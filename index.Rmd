@@ -19,9 +19,9 @@ library(emo) # https://github.com/hadley/emo
 <style type="text/css">
 body{ /* Normal  */
   font-size: 14px;
-   min-width: 700px;        /* Suppose you want minimum width of 1000px */
+   min-width: 500px;        /* Suppose you want minimum width of 1000px */
    width: auto !important;  /* Firefox will set width as auto */
-   width: 700px;            /* As IE6 ignores !important it will set width as 1100px; */
+   width: 500px;            /* As IE6 ignores !important it will set width as 1100px; */
   }
 h1 { /* Header 1 */
   font-size: 26px;
@@ -53,14 +53,14 @@ pre { /* Code block - determines code spacing between lines */
 /* Create two equal columns that floats next to each other */
 .column {
     float: left;
-    width: 40%;
+    width: 80%;
     padding: 10px;
 }
 .left {
-  width: 25%;
+  width: 50%;
 }
 .right {
-  width: 75%;
+  width: 50%;
 }
 /* Clear floats after the columns */
 .row:after {
@@ -69,7 +69,7 @@ pre { /* Code block - determines code spacing between lines */
     clear: both;
 }
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 700px) {
     .column {
         width: 100%;
     }
@@ -112,9 +112,16 @@ a.one {
     background-color: whitesmoke;
 </style>
 
+
+<style>
+fixed-width-image { 
+  width: 50px;
+  }  
+</style>
+
 <div class="row">
 <div class="column left">
-<img src="Head Edited.jpg" align="left"; width:250px" />
+<img src="Head Edited.jpg"; align="left"; width = "250"; height = "250">
 </div>
 
 
