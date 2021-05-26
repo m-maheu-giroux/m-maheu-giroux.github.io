@@ -146,8 +146,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a>  
   
 #  
-<a class="one" href = "https://doi.org/10.1186/s12889-021-10212-1" target = "_blank">
-**[50]** Cox J, Apelian H, Moodie EEM, Messier-Peet M, Hart TA, Grace D, Moore DM, Lachowsky NJ, Armstrong HL, Jollimore J, Skakoon-Sparling S, Rodrigues R, Tan DHS, **Maheu-Giroux M**, Noor SW, Lebouché B, Tremblay C, Olarewaju G, Lambert G, and the Engage Study Team (2021). HIV pre-exposure prophylaxis (PrEP) use among urban Canadian gay, bisexual and other men who have sex with men for whom PrEP is clinically recommended: baseline results from the Engage Cohort Study. *CMAJ Open*. (Accepted)
+<a class="one" href = "https://doi.org/10.9778/cmajo.20200198" target = "_blank">
+**[50]** Cox J, Apelian H, Moodie EEM, Messier-Peet M, Hart TA, Grace D, Moore DM, Lachowsky NJ, Armstrong HL, Jollimore J, Skakoon-Sparling S, Rodrigues R, Tan DHS, **Maheu-Giroux M**, Noor SW, Lebouché B, Tremblay C, Olarewaju G, Lambert G, and the Engage Study Team (2021). HIV pre-exposure prophylaxis (PrEP) use among urban Canadian gay, bisexual and other men who have sex with men for whom PrEP is clinically recommended: baseline results from the Engage Cohort Study. *CMAJ Open* 9(2):E529-E538.
 </a>  
 
 #  
