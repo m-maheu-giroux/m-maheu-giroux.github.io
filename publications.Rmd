@@ -69,59 +69,59 @@ Feel free to email me to obtain a copy of any of the papers below.
 <div class = "class-name">
 **[65]** Milwid R, Xia Y, Doyle C, Cox J, Lambert G, Grace D, Thomas R, Mishra S, Boily MC, **Maheu-Giroux M** (2021). HIV transmission dynamics among gay, bisexual, and other men who have sex with men in Montreal between 1975-2017: a mathematical modeling study.
 </div>  
-
-#  
-<div class = "class-name">
-**[64]** Flores Anato JL, Panagiotoglou D, Greenwald Z, Trottier T, Thomas R, **Maheu-Giroux M** (2021). Chemsex practices and pre-exposure prophylaxis (PrEP) trajectories among individuals consulting for PrEP at a large sexual health clinic in Montréal, Canada (2013-2020).
-</div>  
   
 #  
 <div class = "class-name">
-**[63]** Sardinha L, García-Moreno C, Meyer SR, **Maheu-Giroux M**, Stöckl H (2021). A persistent pandemic: the global prevalence of sexual violence. 
+**[64]** Sardinha L, García-Moreno C, Meyer SR, **Maheu-Giroux M**, Stöckl H (2021). A persistent pandemic: the global prevalence of sexual violence. 
 </div> 
   
 #  
 <div class = "class-name">
-**[62]** Sardinha L, **Maheu-Giroux M**, Stöckl H, Meyer S, García-Moreno C (2021). Global, regional, and national prevalence of intimate partner violence against women (2018).
-</div>  
-
-#  
-<div class = "class-name">
-**[61]** Lanièce Delaunay C, Godin A, Kronfli N, Panagiotoglou D, Cox J, Alary M, Klein M, and **Maheu-Giroux M** (2021). Beyond hepatitis C elimination as a public health threat: what do we expect of epidemics among priority populations post-elimination?
+**[63]** Sardinha L, **Maheu-Giroux M**, Stöckl H, Meyer S, García-Moreno C (2021). Global, regional, and national prevalence of intimate partner violence against women (2018).
 </div>  
   
 #  
 <div class = "class-name">
-**[60]** Giguère K, Vassal AF, Bacon J, Vaziri M, Thomas R, **Maheu-Giroux M** (2021). Characteristics of new HIV diagnoses over 1983-2019: a clinic-based study in Montréal (Canada).
+**[62]** Giguère K, Vassal AF, Bacon J, Vaziri M, Thomas R, **Maheu-Giroux M** (2021). Characteristics of new HIV diagnoses over 1983-2019: a clinic-based study in Montréal (Canada).
 </div>  
 
 #  
 <div class = "class-name">
-**[59]** Ky-Zerbo O, Desclaux A, Brou Kouadio A, Rouveau R, Vautier A, Sow S, Sidi Camara C, Boye S, Pourette D, Sidibe Y, Maheu-Giroux M, Larmarange J, and the ATLAS Team (2021). Enthusiasm for introducing and integrating HIV self-testing but doubts about users: a baseline qualitative analysis of key stakeholders’ attitudes and perceptions in Côte d’Ivoire, Senegal, and Mali. 
+**[61]** Ky-Zerbo O, Desclaux A, Brou Kouadio A, Rouveau R, Vautier A, Sow S, Sidi Camara C, Boye S, Pourette D, Sidibe Y, Maheu-Giroux M, Larmarange J, and the ATLAS Team (2021). Enthusiasm for introducing and integrating HIV self-testing but doubts about users: a baseline qualitative analysis of key stakeholders’ attitudes and perceptions in Côte d’Ivoire, Senegal, and Mali. 
 </div>  
   
 #    
 <div class = "class-name">
-**[58]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2021). A framework to model global, regional, and national estimates of intimate partner violence. (pre-print [here](https://doi.org/10.1101/2020.11.19.20235101)) 
+**[60]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2021). A framework to model global, regional, and national estimates of intimate partner violence. (pre-print [here](https://doi.org/10.1101/2020.11.19.20235101)) 
 </div>  
  
 #  
 <div class = "class-name">
-**[57]** Godin A, Eaton JW, Giguère K, Marsh K, Leigh J, Jahn A, Mbofana F, **Maheu-Giroux M** (2021). Monitoring HIV incidence trends from routine surveillance of recent HIV infection in sub-Saharan Africa.
+**[59]** Godin A, Eaton JW, Giguère K, Marsh K, Leigh J, Jahn A, Mbofana F, **Maheu-Giroux M** (2021). Monitoring HIV incidence trends from routine surveillance of recent HIV infection in sub-Saharan Africa.
 </div>  
   
 
 #
 ## Published
 #
-
-#  
+  
+#
+<a class="one" href = "" target = "_blank">
+**[58]** Flores Anato JL, Panagiotoglou D, Greenwald Z, Trottier T, Thomas R, **Maheu-Giroux M** (2021). Chemsex practices and pre-exposure prophylaxis (PrEP) trajectories among individuals consulting for PrEP at a large sexual health clinic in Montréal, Canada (2013-2020). *Alcohol and Drug Dependence* (Accepted).
+</a>
+  
+#
+<a class="one" href = "" target = "_blank">
+**[57]** Lanièce Delaunay C, Godin A, Kronfli N, Panagiotoglou D, Cox J, Alary M, Klein M, and **Maheu-Giroux M** (2021). Can hepatitis C elimination targets be sustained among people who inject drugs post-2030? *International Journal of Drug Policy* (Accepted).
+</a>
+  
+#
 <a class="one" href = "" target = "_blank">
 **[56]** Duchesne L, Dussault C, Godin A, **Maheu-Giroux M**, Kronfli N (2021). Implementing opt-out Hepatitis C screening in Canadian provincial prisons: a model-based cost-effectiveness study. *International Journal of Drug Policy* (Accepted).
-</div>  
-
+</a>
+  
 #  
-<a class="one" href = "http://dx.doi.org/10.2139/ssrn.3690926" target = "_blank">
+<a class="one" href = "http://doi.org/10.1007/s10461-021-03310-z" target = "_blank">
 **[55]** Soni N, Giguère K, Boily MC, Fogel JM, **Maheu-Giroux M**, Dimitrov D, Eshleman SH, Mitchell KM (2021). Under-reporting of known HIV-positive status among people living with HIV: a systematic review and meta-analysis. *AIDS and Behavior* (Accepted).
 </a>  
   
