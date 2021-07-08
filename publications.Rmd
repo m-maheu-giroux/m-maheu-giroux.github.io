@@ -39,7 +39,16 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 ## Under Review
 # 
-
+#  
+<div class = "class-name">
+**[72]** Flores Anato JL, Panagiotoglou D, Greenwald ZR, Blanchette M, Trottier C, Vaziri M, Charest L, Szabo J, Thomas R, and **Maheu-Giroux M** (2021). Chemsex and incidence of sexually transmitted infections among Canadian pre-exposure prophylaxis (PrEP) users in the l’Actuel PrEP Cohort (2013-2020). 
+</div>  
+  
+#  
+<div class = "class-name">
+**[71]** Hodgins C, Stannah J, Kuchukhidze S, Diabaté S, Eaton JW, Boily MC, **Maheu-Giroux M** (2021). HIV prevalence, population sizes, and HIV prevention among men who paid for sex in sub-Saharan Africa: a meta-analysis of 82 population-based surveys (2000-2020). 
+</div>  
+  
 #  
 <div class = "class-name">
 **[70]** Panagiotoglou D, Abrahamowicz M, Buckeridge D, Caro JJ, de Montigny L, Latimer EA, **Maheu-Giroux M**, and Strumpf EC (2021). Protocol for an economic evaluation of Montréal’s harm reduction interventions for people who inject drugs. 
@@ -95,28 +104,28 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[60]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2021). A framework to model global, regional, and national estimates of intimate partner violence. (pre-print [here](https://doi.org/10.1101/2020.11.19.20235101)) 
 </div>  
  
-#  
-<div class = "class-name">
-**[59]** Godin A, Eaton JW, Giguère K, Marsh K, Leigh J, Jahn A, Mbofana F, **Maheu-Giroux M** (2021). Monitoring HIV incidence trends from routine surveillance of recent HIV infection in sub-Saharan Africa.
-</div>  
-  
 
 #
 ## Published
 #
-  
+
 #
 <a class="one" href = "" target = "_blank">
+**[59]** Godin A, Eaton JW, Giguère K, Marsh K, Leigh J, Jahn A, Mbofana F, **Maheu-Giroux M** (2021). Monitoring HIV incidence trends from routine surveillance of recent HIV infection in sub-Saharan Africa. *AIDS* (Accepted).
+</a>
+    
+#
+<a class="one" href = "http://doi.org/10.1016/j.drugalcdep.2021.108875" target = "_blank">
 **[58]** Flores Anato JL, Panagiotoglou D, Greenwald Z, Trottier T, Thomas R, **Maheu-Giroux M** (2021). Chemsex practices and pre-exposure prophylaxis (PrEP) trajectories among individuals consulting for PrEP at a large sexual health clinic in Montréal, Canada (2013-2020). *Drug and Alcohol Dependence* (Accepted).
 </a>
   
 #
-<a class="one" href = "" target = "_blank">
+<a class="one" href = "https://doi.org/10.1016/j.drugpo.2021.103343" target = "_blank">
 **[57]** Lanièce Delaunay C, Godin A, Kronfli N, Panagiotoglou D, Cox J, Alary M, Klein M, and **Maheu-Giroux M** (2021). Can hepatitis C elimination targets be sustained among people who inject drugs post-2030? *International Journal of Drug Policy* (Accepted).
 </a>
   
 #
-<a class="one" href = "" target = "_blank">
+<a class="one" href = "https://doi.org/10.1016/j.drugpo.2021.103345" target = "_blank">
 **[56]** Duchesne L, Dussault C, Godin A, **Maheu-Giroux M**, Kronfli N (2021). Implementing opt-out Hepatitis C screening in Canadian provincial prisons: a model-based cost-effectiveness study. *International Journal of Drug Policy* (Accepted).
 </a>
   
@@ -142,7 +151,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 #  
 <a class="one" href = "https://doi.org/10.1097/QAI.0000000000002663" target = "_blank">
-**[51]** Silhol R, Geidelberg L, Mitchell KM, Mishra S, Dimitrov D, Bowring A, Béhanzin L, Guédou F, Diabaté S, Schwartz S, Billong SC, Njindam IM, Levitt D, Mukandavire C, **Maheu-Giroux M**, Rönn MM, Dalal S, Vickerman P, Baral S, Alary M, Boily MC (2021). Assessing the potential impact of disruptions due to COVID-19 on HIV among key and lower-risk populations in the largest cities of Cameroon and Benin. *JAIDS – Journal of Acquired Immune Deficiency Syndrome* (Accepted).
+**[51]** Silhol R, Geidelberg L, Mitchell KM, Mishra S, Dimitrov D, Bowring A, Béhanzin L, Guédou F, Diabaté S, Schwartz S, Billong SC, Njindam IM, Levitt D, Mukandavire C, **Maheu-Giroux M**, Rönn MM, Dalal S, Vickerman P, Baral S, Alary M, Boily MC (2021). Assessing the potential impact of disruptions due to COVID-19 on HIV among key and lower-risk populations in the largest cities of Cameroon and Benin. *JAIDS – Journal of Acquired Immune Deficiency Syndrome* 87(3):899-911.
 </a>  
   
 #  
