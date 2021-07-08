@@ -166,17 +166,17 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 #  
 <a class="one" href = "https://doi.org/10.1097/ede.0000000000001353" target = "_blank">
-**[48]** Carabali M, **Maheu-Giroux M**, Kaufman J (2021). Dengue, severity paradox and socioeconomic distribution among Afro-Colombians. *Epidemiology*. (Accepted)
+**[48]** Carabali M, **Maheu-Giroux M**, Kaufman J (2021). Dengue, severity paradox and socioeconomic distribution among Afro-Colombians. *Epidemiology* 32(4):541-550.
 </a>  
 
 #  
-<a class="one" href = "https://doi.org/10.1101/2020.10.20.20216283" target = "_blank">
-**[47]** Giguère K, Eaton JW, Marsh K, Johnson LF, Johnson CC, Ehui E, Jahn A, Wanyeky I, Mbofana F, Bakiono F, Mahy M, **Maheu-Giroux M** (2021). Trends in knowledge of HIV status and efficiency of HIV testing services in sub-Saharan Africa (2000-2020): a modelling study of survey and HIV testing program data. *The Lancet HIV*. (Accepted)
+<a class="one" href = "https://doi.org/10.1016/S2352-3018(20)30315-5" target = "_blank">
+**[47]** Giguère K, Eaton JW, Marsh K, Johnson LF, Johnson CC, Ehui E, Jahn A, Wanyeky I, Mbofana F, Bakiono F, Mahy M, **Maheu-Giroux M** (2021). Trends in knowledge of HIV status and efficiency of HIV testing services in sub-Saharan Africa (2000-2020): a modelling study of survey and HIV testing program data. *The Lancet HIV* 8(5):e284-293. 
 </a>
   
 #  
 <a class="one" href = "https://doi.org/10.1097/QAD.0000000000002759" target = "_blank">
-**[46]** Xia Y, Milwid RM, Godin A, Boily MC, Johnson LF, Marsh K, Eaton JW, **Maheu-Giroux M** (2021). Accuracy of self-reported HIV testing history and awareness of HIV-positive status among people living with HIV in four sub-Saharan Africa countries. *AIDS* 35(3):503-510. (Accepted)
+**[46]** Xia Y, Milwid RM, Godin A, Boily MC, Johnson LF, Marsh K, Eaton JW, **Maheu-Giroux M** (2021). Accuracy of self-reported HIV testing history and awareness of HIV-positive status among people living with HIV in four sub-Saharan Africa countries. *AIDS* 35(3):503-510.
 </a>
   
 #  
@@ -196,22 +196,22 @@ Feel free to email me to obtain a copy of any of the papers below.
   
 #  
 <a class="one" href = "https://doi.org/10.1007/s10461-020-02965-4" target = "_blank">
-**[42]** Doyle C, **Maheu-Giroux M**, Lambert G, Mishra S, Apelian H, Messier-Peet M, Otis J, Grace D, Hart TA, Moore DM, Lachowsky NJ, Cox J, and the Engage Study Team (2020). Combination HIV prevention among Montreal gay, bisexual, and other men who have sex with men in the PrEP era: a latent class analysis. *AIDS and Behavior*.
+**[42]** Doyle C, **Maheu-Giroux M**, Lambert G, Mishra S, Apelian H, Messier-Peet M, Otis J, Grace D, Hart TA, Moore DM, Lachowsky NJ, Cox J, and the Engage Study Team (2020). Combination HIV prevention among Montreal gay, bisexual, and other men who have sex with men in the PrEP era: a latent class analysis. *AIDS and Behavior* 25:269-283.
 </a>
 
 #  
 <a class="one" href = "https://doi.org/10.1136/sextrans-2020-054464" target = "_blank">
-**[41]** Lanièce CD, Cox J, Klein M, Lambert G, Grace D, Lachowsky N, and **Maheu-Giroux M** (2020). Trends in HCV seroprevalence and associated risk factors among men who have sex with men in Montréal: results from three cross-sectional surveys (2005, 2009, 2018). *Sexually Transmitted Infections*.
+**[41]** Lanièce CD, Cox J, Klein M, Lambert G, Grace D, Lachowsky N, and **Maheu-Giroux M** (2020). Trends in HCV seroprevalence and associated risk factors among men who have sex with men in Montréal: results from three cross-sectional surveys (2005, 2009, 2018). *Sexually Transmitted Infections* 97:290-296.
 </a>
 
 #  
 <a class="one" href = "https://doi.org/10.1016/j.jsxm.2020.06.007" target = "_blank">
-**[40]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora A, Ramirez C, Edmonds A, Sosanya K, Taylor T, Plankey M, Cederbaum J, Seidman D, Weber K, Golub E, Wells J, Bolivar H, Konkle-Parker D, Boily MC (2020). Patterns and trajectories of anal intercourse practice over the life course among HIV-negative US women in the WIHS cohort. *The Journal of Sexual Medicine*.
+**[40]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora A, Ramirez C, Edmonds A, Sosanya K, Taylor T, Plankey M, Cederbaum J, Seidman D, Weber K, Golub E, Wells J, Bolivar H, Konkle-Parker D, Boily MC (2020). Patterns and trajectories of anal intercourse practice over the life course among HIV-negative US women in the WIHS cohort. *The Journal of Sexual Medicine* 17(9):1629-1642.
 </a>
   
 #  
 <a class="one" href = "https://doi.org/10.1016/j.drugpo.2020.102738" target = "_blank">
-**[39]** Godin A, Kronfli N, Cox J, Alary M, and **Maheu-Giroux M** (2020). The role of prison-based interventions for hepatitis C virus micro-elimination among people who inject drugs in Montréal, Canada. *International Journal of Drug Policy*.
+**[39]** Godin A, Kronfli N, Cox J, Alary M, and **Maheu-Giroux M** (2020). The role of prison-based interventions for hepatitis C virus micro-elimination among people who inject drugs in Montréal, Canada. *International Journal of Drug Policy* 88:102738.
 </a>
   
 #  
@@ -250,13 +250,13 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a>
 
 #  
-<a class="one" href = "https://www.ncbi.nlm.nih.gov/pubmed/28699018" target = "_blank">
-**[30]** Tavitian-Exley I, Boily MC, Heimer R, Uusküla A, Levina O, and **Maheu-Giroux M** (2018). Polydrug use and HIV risk heterogeneity among people who inject drugs: a latent class analysis. *AIDS and Behavior* DOI 10.1007/s10461-017-1836-0
+<a class="one" href = "https://doi.org/10.1007/s10461-017-1836-0" target = "_blank">
+**[30]** Tavitian-Exley I, Boily MC, Heimer R, Uusküla A, Levina O, and **Maheu-Giroux M** (2018). Polydrug use and HIV risk heterogeneity among people who inject drugs: a latent class analysis. *AIDS and Behavior* 22(4):1329-1340.
 </a>
 
 #  
-<a class="one" href = "https://www.ncbi.nlm.nih.gov/pubmed/28633387" target = "_blank">
-**[29]** **Maheu-Giroux M**, Baral S, Vesga JF, Diouf D, Diabaté S, Alary M, Abo K, and Boily MC (2017). Anal intercourse among female sex workers in Côte d’Ivoire: prevalence, frequency, determinants, and model-based estimates of its population-level impact on HIV transmission. *American Journal of Epidemiology* DOI: 10.1093/aje/kwx244.
+<a class="one" href = "https://doi.org/10.1093/aje/kwx244" target = "_blank">
+**[29]** **Maheu-Giroux M**, Baral S, Vesga JF, Diouf D, Diabaté S, Alary M, Abo K, and Boily MC (2017). Anal intercourse among female sex workers in Côte d’Ivoire: prevalence, frequency, determinants, and model-based estimates of its population-level impact on HIV transmission. *American Journal of Epidemiology* 187(2):287-197.
 </a>
 
 #  
