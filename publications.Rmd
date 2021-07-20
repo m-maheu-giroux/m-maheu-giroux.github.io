@@ -63,54 +63,54 @@ Feel free to email me to obtain a copy of any of the papers below.
 <div class = "class-name">
 **[68]** Mitchell KM, **Maheu-Giroux M**, Dimitrov D, Moor M, Hughes JP, Donnel D, Beyrer C, El-Sadr W, Cohen MS, Boily MC (2021). How can progress toward Ending the HIV Epidemic in the United States be monitored? 
 </div>  
-
+  
 #  
 <div class = "class-name">
-**[67]** Mishra S, Ma H, Moloney G, Yiu KCY, Darvin D, Landsman D, Kwong JC, Calzavara A, Straus S, Chan AK, Gournis E, Rilkoff H, Xia Y, Katz A, Williamson T, Malikov K, Kustra R, **Maheu-Giroux M**, Sander B, Baral SD, and the COVID-19 Heterogeneity Research Group (2021). Increasing concentration of COVID-19 by socioeconomic determinants and geography in Toronto, Canada: an observational study.
+**[67]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2021). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (pre-print [here](https://doi.org/10.1101/2021.03.31.21254700))  
 </div>  
 
 #  
 <div class = "class-name">
-**[66]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2021). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (pre-print [here](https://doi.org/10.1101/2021.03.31.21254700))  
-</div>  
-
-#  
-<div class = "class-name">
-**[65]** Milwid R, Xia Y, Doyle C, Cox J, Lambert G, Grace D, Thomas R, Mishra S, Boily MC, **Maheu-Giroux M** (2021). HIV transmission dynamics among gay, bisexual, and other men who have sex with men in Montreal between 1975-2017: a mathematical modeling study.
+**[66]** Milwid R, Xia Y, Doyle C, Cox J, Lambert G, Grace D, Thomas R, Mishra S, Boily MC, **Maheu-Giroux M** (2021). HIV transmission dynamics among gay, bisexual, and other men who have sex with men in Montreal between 1975-2017: a mathematical modeling study.
 </div>  
   
 #  
 <div class = "class-name">
-**[64]** Sardinha L, García-Moreno C, Meyer SR, **Maheu-Giroux M**, Stöckl H (2021). A persistent pandemic: the global prevalence of sexual violence. 
+**[65]** Sardinha L, García-Moreno C, Meyer SR, **Maheu-Giroux M**, Stöckl H (2021). A persistent pandemic: the global prevalence of sexual violence. 
 </div> 
   
 #  
 <div class = "class-name">
-**[63]** Sardinha L, **Maheu-Giroux M**, Stöckl H, Meyer S, García-Moreno C (2021). Global, regional, and national prevalence of intimate partner violence against women (2018).
+**[64]** Sardinha L, **Maheu-Giroux M**, Stöckl H, Meyer S, García-Moreno C (2021). Global, regional, and national prevalence of intimate partner violence against women (2018).
 </div>  
   
 #  
 <div class = "class-name">
-**[62]** Giguère K, Vassal AF, Bacon J, Vaziri M, Thomas R, **Maheu-Giroux M** (2021). Characteristics of new HIV diagnoses over 1983-2019: a clinic-based study in Montréal (Canada).
+**[63]** Giguère K, Vassal AF, Bacon J, Vaziri M, Thomas R, **Maheu-Giroux M** (2021). Characteristics of new HIV diagnoses over 1983-2019: a clinic-based study in Montréal (Canada).
 </div>  
 
 #  
 <div class = "class-name">
-**[61]** Ky-Zerbo O, Desclaux A, Brou Kouadio A, Rouveau R, Vautier A, Sow S, Sidi Camara C, Boye S, Pourette D, Sidibe Y, Maheu-Giroux M, Larmarange J, and the ATLAS Team (2021). Enthusiasm for introducing and integrating HIV self-testing but doubts about users: a baseline qualitative analysis of key stakeholders’ attitudes and perceptions in Côte d’Ivoire, Senegal, and Mali. 
+**[62]** Ky-Zerbo O, Desclaux A, Brou Kouadio A, Rouveau R, Vautier A, Sow S, Sidi Camara C, Boye S, Pourette D, Sidibe Y, Maheu-Giroux M, Larmarange J, and the ATLAS Team (2021). Enthusiasm for introducing and integrating HIV self-testing but doubts about users: a baseline qualitative analysis of key stakeholders’ attitudes and perceptions in Côte d’Ivoire, Senegal, and Mali. 
 </div>  
   
 #    
 <div class = "class-name">
-**[60]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2021). A framework to model global, regional, and national estimates of intimate partner violence. (pre-print [here](https://doi.org/10.1101/2020.11.19.20235101)) 
+**[61]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2021). A framework to model global, regional, and national estimates of intimate partner violence. (pre-print [here](https://doi.org/10.1101/2020.11.19.20235101)) 
 </div>  
  
 
 #
 ## Published
 #
-
+#  
+  
+<a class="one" href = "https://doi.org/10.1101/2021.04.01.21254585" target = "_blank">
+**[60]** Mishra S, Ma H, Moloney G, Yiu KCY, Darvin D, Landsman D, Kwong JC, Calzavara A, Straus S, Chan AK, Gournis E, Rilkoff H, Xia Y, Katz A, Williamson T, Malikov K, Kustra R, **Maheu-Giroux M**, Sander B, Baral SD, and the COVID-19 Heterogeneity Research Group (2021). Increasing concentration of COVID-19 by socioeconomic determinants and geography in Toronto, Canada: an observational study. *Annals of Epidemiology* (Accepted).
+</a>
+    
 #
-<a class="one" href = "" target = "_blank">
+<a class="one" href = "http://doi.org/10.1097/QAD.0000000000003021" target = "_blank">
 **[59]** Godin A, Eaton JW, Giguère K, Marsh K, Leigh J, Jahn A, Mbofana F, **Maheu-Giroux M** (2021). Monitoring HIV incidence trends from routine surveillance of recent HIV infection in sub-Saharan Africa. *AIDS* (Accepted).
 </a>
     
