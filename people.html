@@ -19,18 +19,31 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -43,32 +56,7 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
@@ -79,10 +67,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -99,40 +83,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -160,7 +117,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -172,7 +129,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -183,10 +140,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -198,7 +168,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -276,42 +245,42 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fa fa-home"></span>
+    <span class="fas fa-home"></span>
      
     Home
   </a>
 </li>
 <li>
   <a href="research.html">
-    <span class="fa fa-calculator"></span>
+    <span class="fas fa-calculator"></span>
      
     Research
   </a>
 </li>
 <li>
   <a href="publications.html">
-    <span class="fa fa-clipboard"></span>
+    <span class="fas fa-clipboard"></span>
      
     Publications
   </a>
 </li>
 <li>
   <a href="people.html">
-    <span class="fa fa-cogs"></span>
+    <span class="fas fa-cogs"></span>
      
     People
   </a>
 </li>
 <li>
   <a href="contact.html">
-    <span class="fa fa-paperclip"></span>
+    <span class="fas fa-paperclip"></span>
      
     Contact
   </a>
 </li>
 <li>
   <a href="opportunities.html">
-    <span class="fa fa-comments"></span>
+    <span class="fas fa-comments"></span>
      
     Opportunities
   </a>
@@ -324,7 +293,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -375,20 +344,29 @@ $(document).ready(function () {
 <h1>Currently Supervised (Master)</h1>
 <div class="row">
 <div class="column left">
-<p><img src = "Jorge_Flores.jpg"; align = "left" /></p>
-</div>
-<div class="column right">
-<h3 id="jorge-luis-flores"><i class = "glyphicon glyphicon-user"> </i> Jorge Luis Flores</h3>
-<p>MSc Student in Epidemiology (McGill). Research Topic: <em>Sexualized substance use, sexually transmitted infections, and pre-exposure prophylaxis among men who have sex with men: longitudinal analyses of sexual health clinic attendees in Montréal</em>.</p>
-</div>
-</div>
-<div class="row">
-<div class="column left">
-<p><img src = "Lily_Yang.png"; align = "left" /></p>
+<p><img src = "Lily_Yang.png"; align = "left"; width = "100"; height = "100" /></p>
 </div>
 <div class="column right">
 <h3 id="lily-yang"><i class = "glyphicon glyphicon-user"> </i> Lily Yang</h3>
 <p>MSc Student in Epidemiology (McGill). Research Topic: <em>Trends and disparities in cervical cancer screening uptake in high HIV prevalence settings: a systematic analysis of population-based surveys in sub-Saharan Africa</em>.</p>
+</div>
+</div>
+<div class="row">
+<div class="column left">
+<p><img src = "Ingrid_Lu.jpg"; align = "left"; width = "100"; height = "100" /></p>
+</div>
+<div class="column right">
+<h3 id="ingrid-lu"><i class = "glyphicon glyphicon-user"> </i> Ingrid Lu</h3>
+<p>MSc Student in Epidemiology (McGill). Research Topic: <em>TBD</em>.</p>
+</div>
+</div>
+<div class="row">
+<div class="column left">
+<p><img src = "Stephen_Juwono.jpg"; align = "left"; width = "100"; height = "100" /></p>
+</div>
+<div class="column right">
+<h3 id="stephen-juwono"><i class = "glyphicon glyphicon-user"> </i> Stephen Juwono</h3>
+<p>MSc Student in Epidemiology (McGill). Research Topic: <em>TBD</em>.</p>
 </div>
 </div>
 </div>
@@ -402,7 +380,7 @@ $(document).ready(function () {
 <h1>Currently Supervised (Doctoral)</h1>
 <div class="row">
 <div class="column left">
-<p><img src = "Carla_Doyle.jpg"; align = "left" /></p>
+<p><img src = "Carla_Doyle.jpg"; align = "left"; width = "100"; height = "100" /></p>
 </div>
 <div class="column right">
 <h3 id="carla-doyle"><i class = "glyphicon glyphicon-user"> </i> Carla Doyle</h3>
@@ -411,7 +389,7 @@ $(document).ready(function () {
 </div>
 <div class="row">
 <div class="column left">
-<p><img src = "Charlotte_Laniece.jpg"; align = "left" /></p>
+<p><img src = "Charlotte_Laniece.jpg"; align = "left"; width = "100"; height = "100" /></p>
 </div>
 <div class="column right">
 <h3 id="charlotte-lanièce"><i class = "glyphicon glyphicon-user"> </i> Charlotte Lanièce</h3>
@@ -420,7 +398,7 @@ $(document).ready(function () {
 </div>
 <div class="row">
 <div class="column left">
-<p><img src = "James_Stannah.jpg"; align = "left" /></p>
+<p><img src = "James_Stannah.jpg"; align = "left"; width = "100"; height = "100" /></p>
 </div>
 <div class="column right">
 <h3 id="james-stannah"><i class = "glyphicon glyphicon-user"> </i> James Stannah</h3>
@@ -429,88 +407,83 @@ $(document).ready(function () {
 </div>
 <div class="row">
 <div class="column left">
-<p><img src = "Salome_Kuchukhidze.jpg"; align = "left" /></p>
+<p><img src = "Salome_Kuchukhidze.jpg"; align = "left"; width = "100"; height = "100" /></p>
 </div>
 <div class="column right">
 <h3 id="salome-kuchukhidze"><i class = "glyphicon glyphicon-user"> </i> Salome Kuchukhidze</h3>
 <p>PhD Student in Epidemiology (McGill). Research Topic: <em>HIV testing services and diagnosis coverage among key populations</em>.</p>
 </div>
 </div>
+<div class="row">
+<div class="column left">
+<p><img src = "Yiqing_Xia.jpg"; align = "left"; width = "100"; height = "100" /></p>
+</div>
+<div class="column right">
+<h3 id="yiqing-xia"><i class = "glyphicon glyphicon-user"> </i> Yiqing Xia</h3>
+<p>PhD Student in Epidemiology (McGill). Research Topic: <em>TBD</em>.</p>
+</div>
+</div>
 </div>
 <div id="section-4" class="section level1">
 <h1></h1>
 </div>
+<div id="research-assistants" class="section level1">
+<h1>Research Assistants</h1>
+</div>
 <div id="section-5" class="section level1">
 <h1></h1>
-</div>
-<div id="postdoctoral-fellows" class="section level1">
-<h1>Postdoctoral Fellows</h1>
 <div class="row">
 <div class="column left">
-<p><img src = "Rachael_Milwid.jpg"; align = "left" /></p>
+<p><img src = "Jorge_Flores.jpg"; align = "left"; width = "100"; height = "100" /></p>
 </div>
 <div class="column right">
-<h3 id="rachael-milwid"><i class = "glyphicon glyphicon-user"> </i> Rachael Milwid</h3>
-<p>Postdoc (McGill). Research Topic: <em>Modeling the impacts and optimization of HIV prevention packages among Montréal men who have sex with men</em>. Personal webpage: <a href="https://rmilwid.wordpress.com/">here</a>.</p>
+<h3 id="jorge-luis-flores"><i class = "glyphicon glyphicon-user"> </i> Jorge Luis Flores</h3>
+<p>Jorge holds a BSc in Microbiology and Immunology and recently graduated with a MSc in Epidemiology both from McGill Unviersity.</p>
 </div>
 </div>
 </div>
 <div id="section-6" class="section level1">
 <h1></h1>
 </div>
-<div id="research-assistants" class="section level1">
-<h1>Research Assistants</h1>
+<div id="undergraduate-student" class="section level1">
+<h1>Undergraduate student</h1>
 </div>
 <div id="section-7" class="section level1">
 <h1></h1>
 <div class="row">
 <div class="column left">
-<p><img src = "Arnaud_Godin.jpg"; align="left" /></p>
-</div>
-<div class="column right">
-<h3 id="arnaud-godin"><i class = "glyphicon glyphicon-user"> </i> Arnaud Godin</h3>
-<p>Arnaud holds a BSc in Economics from Université Laval and a Master in Epidemiology from McGill.</p>
-</div>
-</div>
-<div class="row">
-<div class="column left">
-<p><img src = "Yiqing_Xia.jpg"; align="left" /></p>
-</div>
-<div class="column right">
-<h3 id="yiqing-xia"><i class = "glyphicon glyphicon-user"> </i> Yiqing Xia</h3>
-<p>Yiqing graduated with a Bachelor of Medicine from Fudan University in 2017. She then completed a Master of Public Health at McGill.</p>
-</div>
-</div>
-</div>
-<div id="section-8" class="section level1">
-<h1></h1>
-</div>
-<div id="undergraduate-student" class="section level1">
-<h1>Undergraduate student</h1>
-</div>
-<div id="section-9" class="section level1">
-<h1></h1>
-<div class="row">
-<div class="column left">
-<p><img src = "Caroline_Hodgins.jpg"; align="left" /></p>
+<p><img src = "Caroline_Hodgins.jpg"; align = "left"; width = "100"; height = "100" /></p>
 </div>
 <div class="column right">
 <h3 id="caroline-hodgins"><i class = "glyphicon glyphicon-user"> </i> Caroline Hodgins</h3>
 <p>Caroline is studying Biochemstry at McGill. She is a <em>2020 Global Health Scholar</em> working on HIV diagnosis among clients of female sex workers.</p>
 </div>
 </div>
+<div class="row">
+<div class="column left">
+<p><img src = "Paul_Muset.jpg"; align = "left"; width = "100"; height = "100" /></p>
 </div>
-<div id="section-10" class="section level1">
+<div class="column right">
+<h3 id="paul-muset"><i class = "glyphicon glyphicon-user"> </i> Paul Muset</h3>
+<p>Paul is a Medical Student at McGill. He is a <em>2021 Global Health Scholar</em> working on HIV testing modalities.</p>
+</div>
+</div>
+</div>
+<div id="section-8" class="section level1">
 <h1></h1>
 </div>
-<div id="section-11" class="section level1">
+<div id="section-9" class="section level1">
 <h1></h1>
 </div>
 <div id="past-supervision" class="section level1">
 <h1>Past Supervision</h1>
 </div>
-<div id="section-12" class="section level1">
+<div id="section-10" class="section level1">
 <h1></h1>
+<div id="rachael-milwid-fellowship21" class="section level3">
+<h3>Rachael Milwid (Fellowship'21)</h3>
+<p>Postdoc (McGill). Research Topic: <em>Modeling the impacts and optimization of HIV prevention packages among Montréal men who have sex with men</em>. Personal webpage: <a href="https://rmilwid.wordpress.com/">here</a>.</p>
+</div>
 <div id="katia-giguère-fellowship20" class="section level3">
 <h3>Katia Giguère (Fellowship'20)</h3>
 <p>Postdoctoral fellowship (McGill). Research Topic: <em>Estimating gaps in HIV knowledge status to reach the first UNAIDS 90-90-90 target in sub-Saharan Africa</em>.</p>
@@ -539,7 +512,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -557,7 +530,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

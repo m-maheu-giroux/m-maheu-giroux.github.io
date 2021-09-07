@@ -40,22 +40,31 @@
   
 <div class = "row">
 <div class = "column left">
-<img src = "Jorge_Flores.jpg"; align = "left" /> 
-</div>
-<div class = "column right">
-### <i class = "glyphicon glyphicon-user"> </i> Jorge Luis Flores
-MSc Student in Epidemiology (McGill). Research Topic: *Sexualized substance use, sexually transmitted infections, and pre-exposure prophylaxis among men who have sex with men: longitudinal analyses of sexual health clinic attendees in Montréal*.
-</div>
-</div>
-
-
-<div class = "row">
-<div class = "column left">
-<img src = "Lily_Yang.png"; align = "left" /> 
+<img src = "Lily_Yang.png"; align = "left"; width = "100"; height = "100" /> 
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Lily Yang
 MSc Student in Epidemiology (McGill). Research Topic: *Trends and disparities in cervical cancer screening uptake in high HIV prevalence settings: a systematic analysis of population-based surveys in sub-Saharan Africa*.
+</div>
+</div>
+  
+<div class = "row">
+<div class = "column left">
+<img src = "Ingrid_Lu.jpg"; align = "left"; width = "100"; height = "100" /> 
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Ingrid Lu
+MSc Student in Epidemiology (McGill). Research Topic: *TBD*.
+</div>
+</div>
+
+<div class = "row">
+<div class = "column left">
+<img src = "Stephen_Juwono.jpg"; align = "left"; width = "100"; height = "100" /> 
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Stephen Juwono
+MSc Student in Epidemiology (McGill). Research Topic: *TBD*.
 </div>
 </div>
 
@@ -65,7 +74,7 @@ MSc Student in Epidemiology (McGill). Research Topic: *Trends and disparities in
 
 <div class = "row">
 <div class = "column left">
-<img src = "Carla_Doyle.jpg"; align = "left" /> 
+<img src = "Carla_Doyle.jpg"; align = "left"; width = "100"; height = "100" /> 
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Carla Doyle
@@ -75,7 +84,7 @@ PhD Student in Epidemiology (McGill). Research Topic: *Model-based impact evalua
 
 <div class = "row">
 <div class = "column left">
-<img src = "Charlotte_Laniece.jpg"; align = "left" /> 
+<img src = "Charlotte_Laniece.jpg"; align = "left"; width = "100"; height = "100" /> 
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Charlotte Lanièce
@@ -85,7 +94,7 @@ PhD Student in Epidemiology (McGill). Research Topic: *HCV elimination among HIV
 
 <div class = "row">
 <div class = "column left">
-<img src = "James_Stannah.jpg"; align = "left" /> 
+<img src = "James_Stannah.jpg"; align = "left"; width = "100"; height = "100" /> 
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> James Stannah
@@ -95,49 +104,35 @@ PhD Student in Epidemiology (McGill). Research Topic: *Structural determinants o
 
 <div class = "row">
 <div class = "column left">
-<img src = "Salome_Kuchukhidze.jpg"; align = "left" /> 
+<img src = "Salome_Kuchukhidze.jpg"; align = "left"; width = "100"; height = "100" /> 
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Salome Kuchukhidze
 PhD Student in Epidemiology (McGill). Research Topic: *HIV testing services and diagnosis coverage among key populations*. 
 </div>
 </div>
-
-#  
-#  
-# Postdoctoral Fellows
-
+  
 <div class = "row">
 <div class = "column left">
-<img src = "Rachael_Milwid.jpg"; align = "left" /> 
+<img src = "Yiqing_Xia.jpg"; align = "left"; width = "100"; height = "100" /> 
 </div>
 <div class = "column right">
-### <i class = "glyphicon glyphicon-user"> </i> Rachael Milwid
-Postdoc (McGill). Research Topic: *Modeling the impacts and optimization of HIV prevention packages among Montréal men who have sex with men*. Personal webpage: [here](https://rmilwid.wordpress.com/).
+### <i class = "glyphicon glyphicon-user"> </i> Yiqing Xia
+PhD Student in Epidemiology (McGill). Research Topic: *TBD*. 
 </div>
 </div>
-
+  
 
 #  
 # Research Assistants
 #  
 <div class = "row">
 <div class = "column left">
-<img src = "Arnaud_Godin.jpg"; align="left" /> 
+<img src = "Jorge_Flores.jpg"; align = "left"; width = "100"; height = "100" /> 
 </div>
 <div class = "column right">
-### <i class = "glyphicon glyphicon-user"> </i> Arnaud Godin
-Arnaud holds a BSc in Economics from Université Laval and a Master in Epidemiology from McGill.
-</div>
-</div>
-
-<div class = "row">
-<div class = "column left">
-<img src = "Yiqing_Xia.jpg"; align="left" /> 
-</div>
-<div class = "column right">
-### <i class = "glyphicon glyphicon-user"> </i> Yiqing Xia
-Yiqing graduated with a Bachelor of Medicine from Fudan University in 2017. She then completed a Master of Public Health at McGill. 
+### <i class = "glyphicon glyphicon-user"> </i> Jorge Luis Flores
+Jorge holds a BSc in Microbiology and Immunology and recently graduated with a MSc in Epidemiology both from McGill Unviersity.
 </div>
 </div>
 
@@ -147,7 +142,7 @@ Yiqing graduated with a Bachelor of Medicine from Fudan University in 2017. She 
 #  
 <div class = "row">
 <div class = "column left">
-<img src = "Caroline_Hodgins.jpg"; align="left" /> 
+<img src = "Caroline_Hodgins.jpg"; align = "left"; width = "100"; height = "100" /> 
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Caroline Hodgins
@@ -156,10 +151,23 @@ Caroline is studying Biochemstry at McGill. She is a *2020 Global Health Scholar
 </div>
 
 
+<div class = "row">
+<div class = "column left">
+<img src = "Paul_Muset.jpg"; align = "left"; width = "100"; height = "100" /> 
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Paul Muset
+Paul is a Medical Student at McGill. He is a *2021 Global Health Scholar* working on HIV testing modalities.
+</div>
+</div>
+
 #
 #  
 # Past Supervision
 #  
+
+### Rachael Milwid (Fellowship'21)
+Postdoc (McGill). Research Topic: *Modeling the impacts and optimization of HIV prevention packages among Montréal men who have sex with men*. Personal webpage: [here](https://rmilwid.wordpress.com/).
 
 ### Katia Giguère (Fellowship'20)
 Postdoctoral fellowship (McGill). Research Topic: *Estimating gaps in HIV knowledge status to reach the first UNAIDS 90-90-90 target in sub-Saharan Africa*.
