@@ -182,15 +182,14 @@ BSc'03 Biology (Université de Montréal)
 ## <i class="glyphicon glyphicon-flash"></i> News
 <a class="one" target="_blank">
 **2021-09-01**: Salome Kuchukhidze and James Stannah (PhD candidates) were awarded *Max E. Binz Fellowships* from McGill University!  
-
 **2021-04-31**: Yiqing Xia (PhD student), James Stannah (PhD student), Lily Yang (MSc student), Arnaud Godin (RA), and Adrien Allorant (post-doc) were awarded scholarships from the *Fonds de la recherche du Québec - Santé*.  
 **2021-04-06**: Lily Yang (MSc student) was awarded a *Frederick Banting and Charles Best Canada Graduate Scholarships* from the *Canadian Institutes of Health Research* `r emo::ji("woman_student")`.  
+**2021-01-15**: Honored to be awarded (with Caroline Colijn, Julien Arino, and Marc Brisson) the *Prix du scientifique de l'année* from the *Société Radio-Canada*.  
 **2020-08-21**: James Stannah (PhD candidate) was awarded a *Max E. Binz Fellowship* from McGill University!  
 **2020-04-20**: Jorge Luis Flores (MSc student) was awarded a *Frederick Banting and Charles Best Canada Graduate Scholarships* from the *Canadian Institutes of Health Research* `r emo::ji("nerd_face")`.  
 **2020-01-30**: Congratulations to Arnaud Godin (former MSc student) for receiving the *Best Master's Award* from the *Réseau de recherche en santé des populations du Québec*.  
 **2019-07-11**: Our grant *Elimination of cervical cancer through vaccination and screening in high HIV prevalence settings* has been funded by the *Canadian Institutes of Health Research*. Exciting collaborations with *Université Laval*, *Imperial College*, *LSHTM*, and *Wits University*.  
 **2019-04-30**: Congratulations to Carla Doyle and Charlotte Lanièce (PhD students) who are both recipient of *Doctoral Training Awards* from the *Fonds de la recherche du Québec - Santé*!!! `r emo::ji("woman_student")` + `r emo::ji("woman_student")`  
-
 </a> 
 
 </div>
