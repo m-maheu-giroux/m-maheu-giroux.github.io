@@ -41,22 +41,22 @@ Feel free to email me to obtain a copy of any of the papers below.
 # 
 #  
 <div class = "class-name">
-**[79]** Kronfli N, Dussault C, Maheu-Giroux M, Halavrezos A, Chalifoux S, Sherman J, Park H, Del Balso L, Cheng MP, Poulin S, Cox J (2021). Seroprevalence and risk factors for SARS-CoV-2 among incarcerated adult men in Quebec, Canada (2021): a cross-sectional study. (pre-print [here](http://dx.doi.org/10.2139/ssrn.3959665))
+**[79]** Kronfli N, Dussault C, **Maheu-Giroux M**, Halavrezos A, Chalifoux S, Sherman J, Park H, Del Balso L, Cheng MP, Poulin S, Cox J (2021). Seroprevalence and risk factors for SARS-CoV-2 among incarcerated adult men in Quebec, Canada (2021): a cross-sectional study. (pre-print [here](http://dx.doi.org/10.2139/ssrn.3959665))
 </div>  
   
 # 
 <div class = "class-name">
-**[78]** Lanièce Delaunay C, Maheu-Giroux M, Marathe G, Saeed S, Martel-Laferrière, Cooper CL, Walmsey S, Cox J, Wong A, and Klein MB, for the Canadian Coinfection Cohort Investigators (2021). Gaps in hepatitis C virus prevention and care for HIV-hepatitis C virus co-infected people who injected drugs in Canada. 
+**[78]** Lanièce Delaunay C, **Maheu-Giroux M**, Marathe G, Saeed S, Martel-Laferrière, Cooper CL, Walmsey S, Cox J, Wong A, and Klein MB, for the Canadian Coinfection Cohort Investigators (2021). Gaps in hepatitis C virus prevention and care for HIV-hepatitis C virus co-infected people who injected drugs in Canada. 
 </div>  
   
 # 
 <div class = "class-name">
-**[77]** Ky-Zerbo O, Desclaux A, Boye S, Vautier A, Rouveau N, Kouadio Brou A, Fotso Arlette S, Pourette D, Maheux-Giroux M, Sow S, Camara CS, Clémence DA, Keita A, Boily MC, Silhol R, D’elbée M, Bekelynck A, Gueye Papa A, Diop Papa M, Geoffroy O, Kamemba Odé K, Diallo S, Ehui E, Ndour Cheick T, and Larmarange J for the ATLAS team (2021). Willingness to use and distribute HIV self-test kits to clients and partners: a qualitative analysis of female sex workers’ collective opinion and attitude in Côte d’Ivoire, Mali, and Senegal. 
+**[77]** Ky-Zerbo O, Desclaux A, Boye S, Vautier A, Rouveau N, Kouadio Brou A, Fotso Arlette S, Pourette D, **Maheu-Giroux M**, Sow S, Camara CS, Clémence DA, Keita A, Boily MC, Silhol R, D’elbée M, Bekelynck A, Gueye Papa A, Diop Papa M, Geoffroy O, Kamemba Odé K, Diallo S, Ehui E, Ndour Cheick T, and Larmarange J for the ATLAS team (2021). Willingness to use and distribute HIV self-test kits to clients and partners: a qualitative analysis of female sex workers’ collective opinion and attitude in Côte d’Ivoire, Mali, and Senegal. 
 </div>  
   
 # 
 <div class = "class-name">
-**[76]** Vickers DM, Bara SD, Mishra S, Kwong JC, Sundaram M, Katz A, Calzavara A, Maheu-Giroux M, Buckeridge DL, Williamson T (2021). Stringency of containment and closure policies and their association with growth of SARS-CoV-2 cases in Canada prior to accelerated vaccine roll-out. (pre-print [here](https://ssrn.com/abstract=3947387))
+**[76]** Vickers DM, Bara SD, Mishra S, Kwong JC, Sundaram M, Katz A, Calzavara A, **Maheu-Giroux M**, Buckeridge DL, Williamson T (2021). Stringency of containment and closure policies and their association with growth of SARS-CoV-2 cases in Canada prior to accelerated vaccine roll-out. (pre-print [here](https://ssrn.com/abstract=3947387))
 </div>  
   
 # 
@@ -126,7 +126,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a>  
   
 <a class="one" href = "https://doi.org/10.3389/fpubh.2021.653481" target = "_blank">
-**[62]** Ky-Zerbo O, Desclaux A, Brou Kouadio A, Rouveau R, Vautier A, Sow S, Sidi Camara C, Boye S, Pourette D, Sidibe Y, Maheu-Giroux M, Larmarange J, and the ATLAS Team (2021). Enthusiasm for introducing and integrating HIV self-testing but doubts about users: a baseline qualitative analysis of key stakeholders’ attitudes and perceptions in Côte d’Ivoire, Senegal, and Mali. *Frontiers in Public Health* 9:1525.
+**[62]** Ky-Zerbo O, Desclaux A, Brou Kouadio A, Rouveau R, Vautier A, Sow S, Sidi Camara C, Boye S, Pourette D, Sidibe Y, **Maheu-Giroux M**, Larmarange J, and the ATLAS Team (2021). Enthusiasm for introducing and integrating HIV self-testing but doubts about users: a baseline qualitative analysis of key stakeholders’ attitudes and perceptions in Côte d’Ivoire, Senegal, and Mali. *Frontiers in Public Health* 9:1525.
 </a>  
   
 <a class="one" href = "https://doi.org/10.1002/jia2.25790" target = "_blank">
