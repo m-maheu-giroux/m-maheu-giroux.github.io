@@ -40,6 +40,17 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Under Review
 # 
 #  
+
+<div class = "class-name">
+**[81]** Xia Y, Ma H, Mishra S, Buckeridge DL, Brisson M, Kronfli N, Sander B, Chan A, Verma A, Ganser I, **Maheu-Giroux M** (2021). Mortality trends and length of stays among hospitalized COVID-19 patients in Ontario and Québec (Canada): a cohort study of the first three epidemic waves. (pre-print [here](https://doi.org/10.1101/2021.12.07.21267416))
+</div>  
+  
+# 
+<div class = "class-name">
+**[80]** Staagdegaard L, Soni N, Bellerose M, Dala S, Bloem P, Brisson M, **Maheu-Giroux M**, Barnabas R, Drolet M, Mayaud P, Rönn MM, Boily MC (2021). Immunogenicity, safety, and efficacy of the HPV vaccines in people living with HIV: a systematic review and meta-analysis.
+</div>  
+  
+# 
 <div class = "class-name">
 **[79]** Kronfli N, Dussault C, **Maheu-Giroux M**, Halavrezos A, Chalifoux S, Sherman J, Park H, Del Balso L, Cheng MP, Poulin S, Cox J (2021). Seroprevalence and risk factors for SARS-CoV-2 among incarcerated adult men in Quebec, Canada (2021): a cross-sectional study. (pre-print [here](http://dx.doi.org/10.2139/ssrn.3959665))
 </div>  
