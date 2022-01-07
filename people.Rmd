@@ -36,7 +36,7 @@
     
 #  
 #  
-# Currently Supervised (Master)
+# Masters
   
 <div class = "row">
 <div class = "column left">
@@ -70,7 +70,7 @@ MSc Student in Epidemiology (McGill). Research Topic: *TBD*.
 
 #  
 #  
-# Currently Supervised (Doctoral)
+# Doctoral 
 
 <div class = "row">
 <div class = "column left">
@@ -121,10 +121,22 @@ PhD Student in Epidemiology (McGill). Research Topic: *HIV testing services and 
 PhD Student in Epidemiology (McGill). Research Topic: *TBD*. 
 </div>
 </div>
-  
 
 #  
-# Research Assistants
+# Postdoctoral
+#
+<div class = "row">
+<div class = "column left">
+<img src = "Adrien_Allorant.jpg"; align = "left"; width = "100"; height = "100" /> 
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Adrien Allorant
+Postdoc (McGill). Research Topic: *Optimizing HIV testing services to end AIDS in sub-Saharan Africa*.
+</div>
+</div>
+
+#  
+# Research Assistant
 #  
 <div class = "row">
 <div class = "column left">
@@ -138,7 +150,7 @@ Jorge holds a BSc in Microbiology and Immunology and recently graduated with a M
 
 
 #  
-# Undergraduate student
+# Undergraduate
 #  
 <div class = "row">
 <div class = "column left">
@@ -165,6 +177,9 @@ Paul is a Medical Student at McGill. He is a *2021 Global Health Scholar* workin
 #  
 # Past Supervision
 #  
+
+### Jorge Luis Flores Anato (MSc'21)
+MSc Epidemiology (McGill). Thesis: *Chemsex, sexually transmitted infections, and pre-exposure prophylaxis among men who have sex with men: longitudinal analyses of sexual health clinic attendees in Montréal*. 
 
 ### Rachael Milwid (Fellowship'21)
 Postdoc (McGill). Research Topic: *Modeling the impacts and optimization of HIV prevention packages among Montréal men who have sex with men*. Personal webpage: [here](https://rmilwid.wordpress.com/).
