@@ -52,42 +52,37 @@ Feel free to email me to obtain a copy of any of the papers below.
   
 # 
 <div class = "class-name">
-**[78]** Kronfli N, Dussault C, **Maheu-Giroux M**, Halavrezos A, Chalifoux S, Sherman J, Park H, Del Balso L, Cheng MP, Poulin S, Cox J (2021). Seroprevalence and risk factors for SARS-CoV-2 among incarcerated adult men in Quebec, Canada (2021): a cross-sectional study. (pre-print [here](http://dx.doi.org/10.2139/ssrn.3959665))
+**[78]** Lanièce Delaunay C, **Maheu-Giroux M**, Marathe G, Saeed S, Martel-Laferrière, Cooper CL, Walmsey S, Cox J, Wong A, and Klein MB, for the Canadian Coinfection Cohort Investigators (2021). Gaps in hepatitis C virus prevention and care for HIV-hepatitis C virus co-infected people who injected drugs in Canada. 
 </div>  
   
 # 
 <div class = "class-name">
-**[77]** Lanièce Delaunay C, **Maheu-Giroux M**, Marathe G, Saeed S, Martel-Laferrière, Cooper CL, Walmsey S, Cox J, Wong A, and Klein MB, for the Canadian Coinfection Cohort Investigators (2021). Gaps in hepatitis C virus prevention and care for HIV-hepatitis C virus co-infected people who injected drugs in Canada. 
+**[77]** Ky-Zerbo O, Desclaux A, Boye S, Vautier A, Rouveau N, Kouadio Brou A, Fotso Arlette S, Pourette D, **Maheu-Giroux M**, Sow S, Camara CS, Clémence DA, Keita A, Boily MC, Silhol R, D’elbée M, Bekelynck A, Gueye Papa A, Diop Papa M, Geoffroy O, Kamemba Odé K, Diallo S, Ehui E, Ndour Cheick T, and Larmarange J for the ATLAS team (2021). Willingness to use and distribute HIV self-test kits to clients and partners: a qualitative analysis of female sex workers’ collective opinion and attitude in Côte d’Ivoire, Mali, and Senegal. 
 </div>  
   
 # 
 <div class = "class-name">
-**[76]** Ky-Zerbo O, Desclaux A, Boye S, Vautier A, Rouveau N, Kouadio Brou A, Fotso Arlette S, Pourette D, **Maheu-Giroux M**, Sow S, Camara CS, Clémence DA, Keita A, Boily MC, Silhol R, D’elbée M, Bekelynck A, Gueye Papa A, Diop Papa M, Geoffroy O, Kamemba Odé K, Diallo S, Ehui E, Ndour Cheick T, and Larmarange J for the ATLAS team (2021). Willingness to use and distribute HIV self-test kits to clients and partners: a qualitative analysis of female sex workers’ collective opinion and attitude in Côte d’Ivoire, Mali, and Senegal. 
+**[76]** Vickers DM, Bara SD, Mishra S, Kwong JC, Sundaram M, Katz A, Calzavara A, **Maheu-Giroux M**, Buckeridge DL, Williamson T (2021). Stringency of containment and closure policies and their association with growth of SARS-CoV-2 cases in Canada prior to accelerated vaccine roll-out. (pre-print [here](https://ssrn.com/abstract=3947387))
 </div>  
   
 # 
 <div class = "class-name">
-**[75]** Vickers DM, Bara SD, Mishra S, Kwong JC, Sundaram M, Katz A, Calzavara A, **Maheu-Giroux M**, Buckeridge DL, Williamson T (2021). Stringency of containment and closure policies and their association with growth of SARS-CoV-2 cases in Canada prior to accelerated vaccine roll-out. (pre-print [here](https://ssrn.com/abstract=3947387))
-</div>  
-  
-# 
-<div class = "class-name">
-**[74]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora A, Ramirez C, Edmonds A, Sosanya K, Taylor T, Plankey M, Cederbaum J, Seidman D, Weber K, Golub E, Wells J, Bolivar H, Konkle-Parker D, Pregartner G, Boily MC (2021). Longitudinal determinants of anal intercourse among women with, and without HIV in the United States. 
+**[75]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora A, Ramirez C, Edmonds A, Sosanya K, Taylor T, Plankey M, Cederbaum J, Seidman D, Weber K, Golub E, Wells J, Bolivar H, Konkle-Parker D, Pregartner G, Boily MC (2021). Longitudinal determinants of anal intercourse among women with, and without HIV in the United States. 
 </div>  
    
 #  
 <div class = "class-name">
-**[73]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2021). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (pre-print [here](https://doi.org/10.1101/2021.03.31.21254700))  
+**[74]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2021). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (pre-print [here](https://doi.org/10.1101/2021.03.31.21254700))  
 </div>  
 
 #  
 <div class = "class-name">
-**[72]** Milwid R, Xia Y, Doyle C, Cox J, Lambert G, Grace D, Thomas R, Mishra S, Boily MC, **Maheu-Giroux M** (2021). Past dynamics of HIV transmission among men who have sex with men in Montréal, Canada: a mathematical modeling study. (pre-print [here](https://doi.org/10.1101/2021.08.29.21262800))
+**[73]** Milwid R, Xia Y, Doyle C, Cox J, Lambert G, Grace D, Thomas R, Mishra S, Boily MC, **Maheu-Giroux M** (2021). Past dynamics of HIV transmission among men who have sex with men in Montréal, Canada: a mathematical modeling study. (pre-print [here](https://doi.org/10.1101/2021.08.29.21262800))
 </div>  
   
 #    
 <div class = "class-name">
-**[71]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2021). A framework to model global, regional, and national estimates of intimate partner violence. (pre-print [here](https://doi.org/10.1101/2020.11.19.20235101)) 
+**[72]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2021). A framework to model global, regional, and national estimates of intimate partner violence. (pre-print [here](https://doi.org/10.1101/2020.11.19.20235101)) 
 </div>  
  
 #  
@@ -96,47 +91,51 @@ Feel free to email me to obtain a copy of any of the papers below.
 #
 ## Published
 
-  
+
+<a class = "one" href = "http://dx.doi.org/10.2139/ssrn.3959665" target = "_blank">
+**[71]** Kronfli N, Dussault C, **Maheu-Giroux M**, Halavrezos A, Chalifoux S, Sherman J, Park H, Del Balso L, Cheng MP, Poulin S, Cox J (2021). Seroprevalence and risk factors for SARS-CoV-2 among incarcerated adult men in Quebec, Canada (2021): a cross-sectional study. *Clinical Infectious Diseases*. (Accepted)
+</a>
+ 
 #  
-<a class="one" href = "https://doi.org/10.1101/2021.07.23.21261039" target = "_blank">
+<a class = "one" href = "https://doi.org/10.1101/2021.07.23.21261039" target = "_blank">
 **[70]** Xia Y, Ma H, Moloney G, Velásquez García HA, Sirski M, Janjua NZ, Vickers D, Williamson T, Katz A, Yu K, Kustra R, Buckeridge DL, Brisson M, Baral SD, Mishra S, and **Maheu-Giroux M** (2021). Geographical concentration of COVID-19 cases by social and structural determinants in 16 large metropolitan areas in Canada – a cross-sectional study. *Canadian Medical Association Journal*. (Accepted)
 </a>
   
 #  
-<a class="one" href = "https://doi.org/10.1186/s40814-021-00965-2" target = "_blank">
+<a class = "one" href = "https://doi.org/10.1186/s40814-021-00965-2" target = "_blank">
 **[69]** Simo Fosto A, Kouassi Kra A, **Maheu-Giroux M**, Boye S, d’Elbée M, Ky-Zerbo O, Rouveau N, N’Guessan NK, Geoffroy O, Vautier A, Larmarange, the ATLAS Study Team (2021). Is it possible to recruit HIV self-test users for an anonymous phone-based survey using passive recruitment without financial incentives? Lessons learned from a pilot study in Côte d’Ivoire. *Pilot and Feasibility Studies* 8:4.
 </a>
   
 #  
-<a class="one" href = "" target = "_blank">
+<a class = "one" href = "" target = "_blank">
 **[68]** Sardinha L, **Maheu-Giroux M**, Stöckl H, Meyer S, García-Moreno C (2021). Global, regional, and national prevalence of intimate partner violence against women (2018). *The Lancet*. (Accepted)
 </a> 
   
-<a class="one" href = "https://doi.org/sextrans-2021-055215" target = "_blank">
+<a class = "one" href = "https://doi.org/sextrans-2021-055215" target = "_blank">
 **[67]** Flores Anato JL, Panagiotoglou D, Greenwald ZR, Blanchette M, Trottier C, Vaziri M, Charest L, Szabo J, Thomas R, and **Maheu-Giroux M** (2021). Chemsex and incidence of sexually transmitted infections among Canadian pre-exposure prophylaxis (PrEP) users in the l’Actuel PrEP Cohort (2013-2020). *Sexually Transmitted Infections*. (Accepted)
 </a>   
   
-<a class="one" href = "https://doi.org/10.1371/journal.pmed.1003861" target = "_blank">
+<a class = "one" href = "https://doi.org/10.1371/journal.pmed.1003861" target = "_blank">
 **[66]** Hodgins C, Stannah J, Kuchukhidze S, Lycias Z, Eaton JW, Boily MC, **Maheu-Giroux M** (2021). Population sizes, HIV prevalence, and HIV prevention among men who paid for sex in sub-Saharan Africa: a meta-analysis of 87 population-based surveys (2000-2020). *PLOS Medicine*. (Accepted)
 </a>   
   
-<a class="one" href = "https://doi.org/10.1136/bmjopen-2021-053191" target = "_blank">
+<a class = "one" href = "https://doi.org/10.1136/bmjopen-2021-053191" target = "_blank">
 **[65]** Panagiotoglou D, Abrahamowicz M, Buckeridge D, Caro JJ, de Montigny L, Latimer EA, **Maheu-Giroux M**, and Strumpf EC (2021). Evaluating Montréal's harm reduction interventions for people who inject drugs: protocol for observational study and cost-effectiveness analysis. *BMJ Open* 11(10):e053191.
 </a>   
   
-<a class="one" href = "https://doi.org/10.1371/journal.pone.0258383" target = "_blank">
+<a class = "one" href = "https://doi.org/10.1371/journal.pone.0258383" target = "_blank">
 **[64]** Giguère K, Vaziri M, Olivier C, Charest L, Szabo J, Thomas R, **Maheu-Giroux M** (2021). Characteristics of new HIV diagnoses over 1983-2019: a clinic-based study in Montréal (Canada). *PLOS One* 16(10):e0258383.
 </a>  
   
-<a class="one" href = "https://doi.org/10.1093/cid/ciab976" target = "_blank">
+<a class = "one" href = "https://doi.org/10.1093/cid/ciab976" target = "_blank">
 **[63]** Mitchell KM, **Maheu-Giroux M**, Dimitrov D, Moor M, Hughes JP, Donnel D, Beyrer C, El-Sadr W, Cohen MS, Boily MC (2021). How can progress toward Ending the HIV Epidemic in the United States be monitored? *Clinical Infectious Diseases* (In Press).
 </a>  
   
-<a class="one" href = "https://doi.org/10.3389/fpubh.2021.653481" target = "_blank">
+<a class = "one" href = "https://doi.org/10.3389/fpubh.2021.653481" target = "_blank">
 **[62]** Ky-Zerbo O, Desclaux A, Brou Kouadio A, Rouveau R, Vautier A, Sow S, Sidi Camara C, Boye S, Pourette D, Sidibe Y, **Maheu-Giroux M**, Larmarange J, and the ATLAS Team (2021). Enthusiasm for introducing and integrating HIV self-testing but doubts about users: a baseline qualitative analysis of key stakeholders’ attitudes and perceptions in Côte d’Ivoire, Senegal, and Mali. *Frontiers in Public Health* 9:1525.
 </a>  
   
-<a class="one" href = "https://doi.org/10.1002/jia2.25790" target = "_blank">
+<a class = "one" href = "https://doi.org/10.1002/jia2.25790" target = "_blank">
 **[61]** **Maheu-Giroux M**, Ciaranello AL, Salomon JA, Sohn AH (2021). Refining global HIV estimates for decision-making: advances in analytic and modeling methods used by the Joint United Nations Programme on HIV/AIDS. *Journal of the International AIDS Society* 24(S5):e25790.
 </a>
    
