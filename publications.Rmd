@@ -42,6 +42,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 
 <div class = "class-name">
+**[81]** Doyle CM, Cox J, Milwid RM, Bitera R, Lanièce Delaunay C, Alary M, Lambert G, Tremblay C, Mishra S, and **Maheu-Grioux M** (2022). Measuring progress towards reaching zero new HIV infections among key populations in Québec using routine surveillance data: a mathematical modeling study. 
+</div>  
+
+#  
+<div class = "class-name">
 **[80]** Xia Y, Ma H, Buckeridge DL, Brisson M, Sander B, Chan A, Verma A, Ganser I, Kronfli N, Mishra S, **Maheu-Giroux M** (2022). Mortality trends and length of stays among hospitalized COVID-19 patients in Ontario and Québec (Canada): a cohort study of the first three epidemic waves. (pre-print [here](https://doi.org/10.1101/2021.12.07.21267416))
 </div>  
   
