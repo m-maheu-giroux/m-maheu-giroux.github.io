@@ -121,7 +121,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a>   
   
 <a class = "one" href = "https://doi.org/10.1371/journal.pmed.1003861" target = "_blank">
-**[66]** Hodgins C, Stannah J, Kuchukhidze S, Lycias Z, Eaton JW, Boily MC, **Maheu-Giroux M** (2022). Population sizes, HIV prevalence, and HIV prevention among men who paid for sex in sub-Saharan Africa: a meta-analysis of 87 population-based surveys (2000-2020). *PLOS Medicine*. (Accepted)
+**[66]** Hodgins C, Stannah J, Kuchukhidze S, Lycias Z, Eaton JW, Boily MC, **Maheu-Giroux M** (2022). Population sizes, HIV prevalence, and HIV prevention among men who paid for sex in sub-Saharan Africa: a meta-analysis of 87 population-based surveys (2000-2020). *PLOS Medicine* 19(1):e1003861.
 </a>   
   
 <a class = "one" href = "https://doi.org/10.1136/bmjopen-2021-053191" target = "_blank">
