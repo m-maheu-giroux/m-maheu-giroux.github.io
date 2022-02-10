@@ -42,12 +42,17 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 
 <div class = "class-name">
+**[82]** Fotso A, Johnson C, Vautier A, Kouamé KB, Diop PM, Silhol R, Maheu-Giroux M, Boily MC, Rouveau N, Doumenc-Aïdara, Baggaley R, Ehui E, Larmarange J, and the ATLAS Team (2022). Using routine programmatic data to estimate the population-level impacts of HIV self-testing: the example of the Atlas program in Côte d’Ivoire. (preprint [here]((https://doi.org/10.1101/2022.02.08.2227067)))
+</div>  
+ 
+#
+<div class = "class-name">
 **[81]** Doyle CM, Cox J, Milwid RM, Bitera R, Lanièce Delaunay C, Alary M, Lambert G, Tremblay C, Mishra S, and **Maheu-Grioux M** (2022). Measuring progress towards reaching zero new HIV infections among key populations in Québec using routine surveillance data: a mathematical modeling study. 
 </div>  
 
 #  
 <div class = "class-name">
-**[80]** Xia Y, Ma H, Buckeridge DL, Brisson M, Sander B, Chan A, Verma A, Ganser I, Kronfli N, Mishra S, **Maheu-Giroux M** (2022). Mortality trends and length of stays among hospitalized COVID-19 patients in Ontario and Québec (Canada): a cohort study of the first three epidemic waves. (pre-print [here](https://doi.org/10.1101/2021.12.07.21267416))
+**[80]** Xia Y, Ma H, Buckeridge DL, Brisson M, Sander B, Chan A, Verma A, Ganser I, Kronfli N, Mishra S, **Maheu-Giroux M** (2022). Mortality trends and length of stays among hospitalized COVID-19 patients in Ontario and Québec (Canada): a cohort study of the first three epidemic waves. (preprint [here](https://doi.org/10.1101/2021.12.07.21267416))
 </div>  
   
 # 
@@ -67,7 +72,7 @@ Feel free to email me to obtain a copy of any of the papers below.
   
 # 
 <div class = "class-name">
-**[76]** Vickers DM, Bara SD, Mishra S, Kwong JC, Sundaram M, Katz A, Calzavara A, **Maheu-Giroux M**, Buckeridge DL, Williamson T (2022). Stringency of containment and closure policies and their association with growth of SARS-CoV-2 cases in Canada prior to accelerated vaccine roll-out. (pre-print [here](https://ssrn.com/abstract=3947387))
+**[76]** Vickers DM, Bara SD, Mishra S, Kwong JC, Sundaram M, Katz A, Calzavara A, **Maheu-Giroux M**, Buckeridge DL, Williamson T (2022). Stringency of containment and closure policies and their association with growth of SARS-CoV-2 cases in Canada prior to accelerated vaccine roll-out. (preprint [here](https://ssrn.com/abstract=3947387))
 </div>  
   
 # 
@@ -77,17 +82,17 @@ Feel free to email me to obtain a copy of any of the papers below.
    
 #  
 <div class = "class-name">
-**[74]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (pre-print [here](https://doi.org/10.1101/2021.03.31.21254700))  
+**[74]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
 </div>  
 
 #  
 <div class = "class-name">
-**[73]** Milwid R, Xia Y, Doyle C, Cox J, Lambert G, Grace D, Thomas R, Mishra S, Boily MC, **Maheu-Giroux M** (2022). Past dynamics of HIV transmission among men who have sex with men in Montréal, Canada: a mathematical modeling study. (pre-print [here](https://doi.org/10.1101/2021.08.29.21262800))
+**[73]** Milwid R, Xia Y, Doyle C, Cox J, Lambert G, Grace D, Thomas R, Mishra S, Boily MC, **Maheu-Giroux M** (2022). Past dynamics of HIV transmission among men who have sex with men in Montréal, Canada: a mathematical modeling study. (preprint [here](https://doi.org/10.1101/2021.08.29.21262800))
 </div>  
   
 #    
 <div class = "class-name">
-**[72]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2022). A framework to model global, regional, and national estimates of intimate partner violence. (pre-print [here](https://doi.org/10.1101/2020.11.19.20235101)) 
+**[72]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2022). A framework to model global, regional, and national estimates of intimate partner violence. (preprint [here](https://doi.org/10.1101/2020.11.19.20235101)) 
 </div>  
  
 #  
