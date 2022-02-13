@@ -42,7 +42,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 
 <div class = "class-name">
-**[82]** Fotso A, Johnson C, Vautier A, Kouamé KB, Diop PM, Silhol R, Maheu-Giroux M, Boily MC, Rouveau N, Doumenc-Aïdara, Baggaley R, Ehui E, Larmarange J, and the ATLAS Team (2022). Using routine programmatic data to estimate the population-level impacts of HIV self-testing: the example of the Atlas program in Côte d’Ivoire. (preprint [here]((https://doi.org/10.1101/2022.02.08.2227067)))
+**[82]** Fotso A, Johnson C, Vautier A, Kouamé KB, Diop PM, Silhol R, Maheu-Giroux M, Boily MC, Rouveau N, Doumenc-Aïdara, Baggaley R, Ehui E, Larmarange J, and the *ATLAS Team* (2022). Using routine programmatic data to estimate the population-level impacts of HIV self-testing: the example of the Atlas program in Côte d’Ivoire. (preprint [here]((https://doi.org/10.1101/2022.02.08.2227067)))
 </div>  
  
 #
@@ -62,37 +62,32 @@ Feel free to email me to obtain a copy of any of the papers below.
   
 # 
 <div class = "class-name">
-**[78]** Lanièce Delaunay C, **Maheu-Giroux M**, Marathe G, Saeed S, Martel-Laferrière, Cooper CL, Walmsey S, Cox J, Wong A, and Klein MB, for the Canadian Coinfection Cohort Investigators (2022). Gaps in hepatitis C virus prevention and care for HIV-hepatitis C virus co-infected people who injected drugs in Canada. 
+**[78]** Ky-Zerbo O, Desclaux A, Boye S, Vautier A, Rouveau N, Kouadio Brou A, Fotso Arlette S, Pourette D, **Maheu-Giroux M**, Sow S, Camara CS, Clémence DA, Keita A, Boily MC, Silhol R, D’elbée M, Bekelynck A, Gueye Papa A, Diop Papa M, Geoffroy O, Kamemba Odé K, Diallo S, Ehui E, Ndour Cheick T, and Larmarange J for the *ATLAS Team* (2022). Willingness to use and distribute HIV self-test kits to clients and partners: a qualitative analysis of female sex workers’ collective opinion and attitude in Côte d’Ivoire, Mali, and Senegal. 
 </div>  
   
 # 
 <div class = "class-name">
-**[77]** Ky-Zerbo O, Desclaux A, Boye S, Vautier A, Rouveau N, Kouadio Brou A, Fotso Arlette S, Pourette D, **Maheu-Giroux M**, Sow S, Camara CS, Clémence DA, Keita A, Boily MC, Silhol R, D’elbée M, Bekelynck A, Gueye Papa A, Diop Papa M, Geoffroy O, Kamemba Odé K, Diallo S, Ehui E, Ndour Cheick T, and Larmarange J for the ATLAS team (2022). Willingness to use and distribute HIV self-test kits to clients and partners: a qualitative analysis of female sex workers’ collective opinion and attitude in Côte d’Ivoire, Mali, and Senegal. 
+**[77]** Vickers DM, Bara SD, Mishra S, Kwong JC, Sundaram M, Katz A, Calzavara A, **Maheu-Giroux M**, Buckeridge DL, Williamson T (2022). Stringency of containment and closure policies and their association with growth of SARS-CoV-2 cases in Canada prior to accelerated vaccine roll-out. (preprint [here](https://ssrn.com/abstract=3947387))
 </div>  
   
 # 
 <div class = "class-name">
-**[76]** Vickers DM, Bara SD, Mishra S, Kwong JC, Sundaram M, Katz A, Calzavara A, **Maheu-Giroux M**, Buckeridge DL, Williamson T (2022). Stringency of containment and closure policies and their association with growth of SARS-CoV-2 cases in Canada prior to accelerated vaccine roll-out. (preprint [here](https://ssrn.com/abstract=3947387))
-</div>  
-  
-# 
-<div class = "class-name">
-**[75]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora A, Ramirez C, Edmonds A, Sosanya K, Taylor T, Plankey M, Cederbaum J, Seidman D, Weber K, Golub E, Wells J, Bolivar H, Konkle-Parker D, Pregartner G, Boily MC (2022). Longitudinal determinants of anal intercourse among women with, and without HIV in the United States. 
+**[76]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora A, Ramirez C, Edmonds A, Sosanya K, Taylor T, Plankey M, Cederbaum J, Seidman D, Weber K, Golub E, Wells J, Bolivar H, Konkle-Parker D, Pregartner G, Boily MC (2022). Longitudinal determinants of anal intercourse among women with, and without HIV in the United States. 
 </div>  
    
 #  
 <div class = "class-name">
-**[74]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
+**[75]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
 </div>  
 
 #  
 <div class = "class-name">
-**[73]** Milwid R, Xia Y, Doyle C, Cox J, Lambert G, Grace D, Thomas R, Mishra S, Boily MC, **Maheu-Giroux M** (2022). Past dynamics of HIV transmission among men who have sex with men in Montréal, Canada: a mathematical modeling study. (preprint [here](https://doi.org/10.1101/2021.08.29.21262800))
+**[74]** Milwid R, Xia Y, Doyle C, Cox J, Lambert G, Grace D, Thomas R, Mishra S, Boily MC, **Maheu-Giroux M** (2022). Past dynamics of HIV transmission among men who have sex with men in Montréal, Canada: a mathematical modeling study. (preprint [here](https://doi.org/10.1101/2021.08.29.21262800))
 </div>  
   
 #    
 <div class = "class-name">
-**[72]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2022). A framework to model global, regional, and national estimates of intimate partner violence. (preprint [here](https://doi.org/10.1101/2020.11.19.20235101)) 
+**[73]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2022). A framework to model global, regional, and national estimates of intimate partner violence. (preprint [here](https://doi.org/10.1101/2020.11.19.20235101)) 
 </div>  
  
 #  
@@ -101,7 +96,12 @@ Feel free to email me to obtain a copy of any of the papers below.
 #
 ## Published
 
+# 
+<a class = "one" href = "http://dx.doi.org/10.2139/ssrn.3959665" target = "_blank">
+**[72]** Lanièce Delaunay C, **Maheu-Giroux M**, Marathe G, Saeed S, Martel-Laferrière, Cooper CL, Walmsey S, Cox J, Wong A, and Klein MB, for the *Canadian Coinfection Cohort Investigators* (2022). Gaps in hepatitis C virus prevention and care for HIV-hepatitis C virus co-infected people who injected drugs in Canada. *International Journal of Drug Policy*. (Accepted)
+</a>
 
+#  
 <a class = "one" href = "http://dx.doi.org/10.2139/ssrn.3959665" target = "_blank">
 **[71]** Kronfli N, Dussault C, **Maheu-Giroux M**, Halavrezos A, Chalifoux S, Sherman J, Park H, Del Balso L, Cheng MP, Poulin S, Cox J (2022). Seroprevalence and risk factors for SARS-CoV-2 among incarcerated adult men in Quebec, Canada (2021): a cross-sectional study. *Clinical Infectious Diseases*. (Accepted)
 </a>
@@ -113,7 +113,7 @@ Feel free to email me to obtain a copy of any of the papers below.
   
 #  
 <a class = "one" href = "https://doi.org/10.1186/s40814-021-00965-2" target = "_blank">
-**[69]** Simo Fosto A, Kouassi Kra A, **Maheu-Giroux M**, Boye S, d’Elbée M, Ky-Zerbo O, Rouveau N, N’Guessan NK, Geoffroy O, Vautier A, Larmarange, the ATLAS Study Team (2022). Is it possible to recruit HIV self-test users for an anonymous phone-based survey using passive recruitment without financial incentives? Lessons learned from a pilot study in Côte d’Ivoire. *Pilot and Feasibility Studies* 8:4.
+**[69]** Simo Fosto A, Kouassi Kra A, **Maheu-Giroux M**, Boye S, d’Elbée M, Ky-Zerbo O, Rouveau N, N’Guessan NK, Geoffroy O, Vautier A, Larmarange, the *ATLAS Team* (2022). Is it possible to recruit HIV self-test users for an anonymous phone-based survey using passive recruitment without financial incentives? Lessons learned from a pilot study in Côte d’Ivoire. *Pilot and Feasibility Studies* 8:4.
 </a>
   
 #  
@@ -142,15 +142,15 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a>  
   
 <a class = "one" href = "https://doi.org/10.3389/fpubh.2021.653481" target = "_blank">
-**[62]** Ky-Zerbo O, Desclaux A, Brou Kouadio A, Rouveau R, Vautier A, Sow S, Sidi Camara C, Boye S, Pourette D, Sidibe Y, **Maheu-Giroux M**, Larmarange J, and the ATLAS Team (2021). Enthusiasm for introducing and integrating HIV self-testing but doubts about users: a baseline qualitative analysis of key stakeholders’ attitudes and perceptions in Côte d’Ivoire, Senegal, and Mali. *Frontiers in Public Health* 9:1525.
+**[62]** Ky-Zerbo O, Desclaux A, Brou Kouadio A, Rouveau R, Vautier A, Sow S, Sidi Camara C, Boye S, Pourette D, Sidibe Y, **Maheu-Giroux M**, Larmarange J, and the *ATLAS Team* (2021). Enthusiasm for introducing and integrating HIV self-testing but doubts about users: a baseline qualitative analysis of key stakeholders’ attitudes and perceptions in Côte d’Ivoire, Senegal, and Mali. *Frontiers in Public Health* 9:1525.
 </a>  
   
 <a class = "one" href = "https://doi.org/10.1002/jia2.25790" target = "_blank">
 **[61]** **Maheu-Giroux M**, Ciaranello AL, Salomon JA, Sohn AH (2021). Refining global HIV estimates for decision-making: advances in analytic and modeling methods used by the Joint United Nations Programme on HIV/AIDS. *Journal of the International AIDS Society* 24(S5):e25790.
 </a>
    
-<a class="one" href = "https://doi.org/10.1101/2021.04.01.21254585" target = "_blank">
-**[60]** Mishra S, Ma H, Moloney G, Yiu KCY, Darvin D, Landsman D, Kwong JC, Calzavara A, Straus S, Chan AK, Gournis E, Rilkoff H, Xia Y, Katz A, Williamson T, Malikov K, Kustra R, **Maheu-Giroux M**, Sander B, Baral SD, and the COVID-19 Heterogeneity Research Group (2021). Increasing concentration of COVID-19 by socioeconomic determinants and geography in Toronto, Canada: an observational study. *Annals of Epidemiology*.
+<a class="one" href = "https://doi.org/10.1016/j.annepidem.2021.07.007" target = "_blank">
+**[60]** Mishra S, Ma H, Moloney G, Yiu KCY, Darvin D, Landsman D, Kwong JC, Calzavara A, Straus S, Chan AK, Gournis E, Rilkoff H, Xia Y, Katz A, Williamson T, Malikov K, Kustra R, **Maheu-Giroux M**, Sander B, Baral SD, and the COVID-19 Heterogeneity Research Group (2021). Increasing concentration of COVID-19 by socioeconomic determinants and geography in Toronto, Canada: an observational study. *Annals of Epidemiology* 65:84-92.
 </a>
     
 #
@@ -180,12 +180,12 @@ Feel free to email me to obtain a copy of any of the papers below.
   
 #  
 <a class="one" href = "http://doi.org/10.3389/fpubh.2021.653612" target = "_blank">
-**[54]** d’Elbée M, Traore MM, Badiane K, Vautier A, Simo Fosto A, Kabemba OK, Rouveau N, Godfrey-Faussett P, **Maheu-Giroux M**, Boily MC, Medley G, Larmarange J, Terris-Prestholt F, and the ATLAS Team (2021). Preparing for sustainable scale-up: economic analysis of HIV self-testing kits provision by civil society organizations to key populations and their sexual partners in Côte d’Ivoire, Senegal, and Mali. *Frontiers in Public Health* (Accepted).
+**[54]** d’Elbée M, Traore MM, Badiane K, Vautier A, Simo Fosto A, Kabemba OK, Rouveau N, Godfrey-Faussett P, **Maheu-Giroux M**, Boily MC, Medley G, Larmarange J, Terris-Prestholt F, and the *ATLAS Team* (2021). Preparing for sustainable scale-up: economic analysis of HIV self-testing kits provision by civil society organizations to key populations and their sexual partners in Côte d’Ivoire, Senegal, and Mali. *Frontiers in Public Health* (Accepted).
 </a>  
   
 #  
 <a class="one" href = "http://doi.org/10.3389/fpubh.2021.653543" target = "_blank">
-**[53]** Boye S, Bouaré S, Ky-Zerbo O, Rouveau N, Simo Fotso A, d’Elbée M, Silhol S, **Maheu-Giroux M**, Vautier A, Breton G, Keita A, Bekelynck A, Desclaux A, Larmarange J, Pourette D, and the ATLAS Team (2021). Challenges of HIV self-test distribution for index testing when HIV status disclosure is low: an ethnographic study in Bamako (Mali) as part of the ATLAS project. Frontiers in Public Health. *Frontiers in Public Health* (Accepted).
+**[53]** Boye S, Bouaré S, Ky-Zerbo O, Rouveau N, Simo Fotso A, d’Elbée M, Silhol S, **Maheu-Giroux M**, Vautier A, Breton G, Keita A, Bekelynck A, Desclaux A, Larmarange J, Pourette D, and the *ATLAS Team* (2021). Challenges of HIV self-test distribution for index testing when HIV status disclosure is low: an ethnographic study in Bamako (Mali) as part of the ATLAS project. Frontiers in Public Health. *Frontiers in Public Health* (Accepted).
 </a>  
 
 #  
@@ -205,7 +205,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 #  
 <a class="one" href = "https://doi.org/10.1186/s12889-021-10212-1" target = "_blank">
-**[49]** Rouveau N, Ky-Zerbo O, Boye S, Simo Fotso A, d’Elbée M, **Maheu-Giroux M**, Silhol R, Kra Kouassi A, Vautier A, Doumenc-Aïdara C, Breton G, Keita A, Ehui E, Cheikh Tidiane N, Boily MC, Terris-Prestholt F, Pourette D, Desclaux A, Larmarange J, the ATLAS Team (2021). Describing, analysing and understanding the effects of the introduction of HIV self-testing in West Africa through the ATLAS programme in Côte d'Ivoire, Mali and Senegal. *BMC Public Health* 21:181.
+**[49]** Rouveau N, Ky-Zerbo O, Boye S, Simo Fotso A, d’Elbée M, **Maheu-Giroux M**, Silhol R, Kra Kouassi A, Vautier A, Doumenc-Aïdara C, Breton G, Keita A, Ehui E, Cheikh Tidiane N, Boily MC, Terris-Prestholt F, Pourette D, Desclaux A, Larmarange J, the *ATLAS Team* (2021). Describing, analysing and understanding the effects of the introduction of HIV self-testing in West Africa through the ATLAS programme in Côte d'Ivoire, Mali and Senegal. *BMC Public Health* 21:181.
 </a>  
 
 #  
