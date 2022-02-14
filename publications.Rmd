@@ -107,8 +107,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a>
  
 #  
-<a class = "one" href = "https://doi.org/10.1101/2021.07.23.21261039" target = "_blank">
-**[70]** Xia Y, Ma H, Moloney G, Velásquez García HA, Sirski M, Janjua NZ, Vickers D, Williamson T, Katz A, Yu K, Kustra R, Buckeridge DL, Brisson M, Baral SD, Mishra S, and **Maheu-Giroux M** (2022). Geographical concentration of COVID-19 cases by social and structural determinants in 16 large metropolitan areas in Canada – a cross-sectional study. *Canadian Medical Association Journal*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1503/cmaj.211249" target = "_blank">
+**[70]** Xia Y, Ma H, Moloney G, Velásquez García HA, Sirski M, Janjua NZ, Vickers D, Williamson T, Katz A, Yu K, Kustra R, Buckeridge DL, Brisson M, Baral SD, Mishra S, and **Maheu-Giroux M** (2022). Geographical concentration of COVID-19 cases by social and structural determinants in 16 large metropolitan areas in Canada – a cross-sectional study. *Canadian Medical Association Journal* 194(6):E195-E204.
 </a>
   
 #  
