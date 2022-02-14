@@ -67,27 +67,22 @@ Feel free to email me to obtain a copy of any of the papers below.
   
 # 
 <div class = "class-name">
-**[77]** Vickers DM, Bara SD, Mishra S, Kwong JC, Sundaram M, Katz A, Calzavara A, **Maheu-Giroux M**, Buckeridge DL, Williamson T (2022). Stringency of containment and closure policies and their association with growth of SARS-CoV-2 cases in Canada prior to accelerated vaccine roll-out. (preprint [here](https://ssrn.com/abstract=3947387))
-</div>  
-  
-# 
-<div class = "class-name">
-**[76]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora A, Ramirez C, Edmonds A, Sosanya K, Taylor T, Plankey M, Cederbaum J, Seidman D, Weber K, Golub E, Wells J, Bolivar H, Konkle-Parker D, Pregartner G, Boily MC (2022). Longitudinal determinants of anal intercourse among women with, and without HIV in the United States. 
+**[77]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora A, Ramirez C, Edmonds A, Sosanya K, Taylor T, Plankey M, Cederbaum J, Seidman D, Weber K, Golub E, Wells J, Bolivar H, Konkle-Parker D, Pregartner G, Boily MC (2022). Longitudinal determinants of anal intercourse among women with, and without HIV in the United States. 
 </div>  
    
 #  
 <div class = "class-name">
-**[75]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
+**[76]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
 </div>  
 
 #  
 <div class = "class-name">
-**[74]** Milwid R, Xia Y, Doyle C, Cox J, Lambert G, Grace D, Thomas R, Mishra S, Boily MC, **Maheu-Giroux M** (2022). Past dynamics of HIV transmission among men who have sex with men in Montréal, Canada: a mathematical modeling study. (preprint [here](https://doi.org/10.1101/2021.08.29.21262800))
+**[75]** Milwid R, Xia Y, Doyle C, Cox J, Lambert G, Grace D, Thomas R, Mishra S, Boily MC, **Maheu-Giroux M** (2022). Past dynamics of HIV transmission among men who have sex with men in Montréal, Canada: a mathematical modeling study. (preprint [here](https://doi.org/10.1101/2021.08.29.21262800))
 </div>  
   
 #    
 <div class = "class-name">
-**[73]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2022). A framework to model global, regional, and national estimates of intimate partner violence. (preprint [here](https://doi.org/10.1101/2020.11.19.20235101)) 
+**[74]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2022). A framework to model global, regional, and national estimates of intimate partner violence. (preprint [here](https://doi.org/10.1101/2020.11.19.20235101)) 
 </div>  
  
 #  
@@ -96,6 +91,12 @@ Feel free to email me to obtain a copy of any of the papers below.
 #
 ## Published
 
+
+# 
+<a class = "one" href = "https://ssrn.com/abstract=3947387" target = "_blank">
+**[73]** Vickers DM, Bara SD, Mishra S, Kwong JC, Sundaram M, Katz A, Calzavara A, **Maheu-Giroux M**, Buckeridge DL, Williamson T (2022). Stringency of containment and closure policies and their association with growth of SARS-CoV-2 cases in Canada prior to accelerated vaccine roll-out.
+</a>
+  
 # 
 <a class = "one" href = "http://dx.doi.org/10.2139/ssrn.3959665" target = "_blank">
 **[72]** Lanièce Delaunay C, **Maheu-Giroux M**, Marathe G, Saeed S, Martel-Laferrière, Cooper CL, Walmsey S, Cox J, Wong A, and Klein MB, for the *Canadian Coinfection Cohort Investigators* (2022). Gaps in hepatitis C virus prevention and care for HIV-hepatitis C virus co-infected people who injected drugs in Canada. *International Journal of Drug Policy*. (Accepted)
@@ -108,7 +109,7 @@ Feel free to email me to obtain a copy of any of the papers below.
  
 #  
 <a class = "one" href = "https://doi.org/10.1503/cmaj.211249" target = "_blank">
-**[70]** Xia Y, Ma H, Moloney G, Velásquez García HA, Sirski M, Janjua NZ, Vickers D, Williamson T, Katz A, Yu K, Kustra R, Buckeridge DL, Brisson M, Baral SD, Mishra S, and **Maheu-Giroux M** (2022). Geographical concentration of COVID-19 cases by social and structural determinants in 16 large metropolitan areas in Canada – a cross-sectional study. *Canadian Medical Association Journal* 194(6):E195-E204.
+**[70]** Xia Y, Ma H, Moloney G, Velásquez García HA, Sirski M, Janjua NZ, Vickers D, Williamson T, Katz A, Yu K, Kustra R, Buckeridge DL, Brisson M, Baral SD, Mishra S, and **Maheu-Giroux M** (2022). Geographical concentration of SARS-CoV-2 cases by social determinants of health in metropolitan areas in Canada: a cross-sectional study. *Canadian Medical Association Journal* 194(6):E195-E204.
 </a>
   
 #  
