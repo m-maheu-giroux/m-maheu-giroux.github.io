@@ -94,7 +94,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 # 
 <a class = "one" href = "https://ssrn.com/abstract=3947387" target = "_blank">
-**[73]** Vickers DM, Bara SD, Mishra S, Kwong JC, Sundaram M, Katz A, Calzavara A, **Maheu-Giroux M**, Buckeridge DL, Williamson T (2022). Stringency of containment and closure policies and their association with growth of SARS-CoV-2 cases in Canada prior to accelerated vaccine roll-out.
+**[73]** Vickers DM, Bara SD, Mishra S, Kwong JC, Sundaram M, Katz A, Calzavara A, **Maheu-Giroux M**, Buckeridge DL, Williamson T (2022). Stringency of containment and closure policies and their association with growth of SARS-CoV-2 cases in Canada prior to accelerated vaccine roll-out. *International Journal of Infectious Diseases*. (Accepted)
 </a>
   
 # 
