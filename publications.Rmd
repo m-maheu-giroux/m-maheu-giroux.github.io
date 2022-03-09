@@ -42,6 +42,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 
 <div class = "class-name">
+**[83]** Traore MM, Badiane (co-first author), Vautier A, Fotso AS, Kabemba OK, Rouveau N, Maheu-Grioux M, Boily MC, Larmarange J, Terris-Prestholt F, d’Elbée M, and the *ATLAS Team* (2022). Economic analysis of HIV self-testing distribution and HIV testing services in health facilities in West Africa: Finding from the ATLAS project.
+</div>  
+
+#  
+<div class = "class-name">
 **[82]** Fotso A, Johnson C, Vautier A, Kouamé KB, Diop PM, Silhol R, Maheu-Giroux M, Boily MC, Rouveau N, Doumenc-Aïdara, Baggaley R, Ehui E, Larmarange J, and the *ATLAS Team* (2022). Using routine programmatic data to estimate the population-level impacts of HIV self-testing: the example of the Atlas program in Côte d’Ivoire. (preprint [here]((https://doi.org/10.1101/2022.02.08.2227067)))
 </div>  
  
@@ -74,15 +79,10 @@ Feel free to email me to obtain a copy of any of the papers below.
 <div class = "class-name">
 **[76]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
 </div>  
-
-#  
-<div class = "class-name">
-**[75]** Milwid R, Xia Y, Doyle C, Cox J, Lambert G, Grace D, Thomas R, Mishra S, Boily MC, **Maheu-Giroux M** (2022). Past dynamics of HIV transmission among men who have sex with men in Montréal, Canada: a mathematical modeling study. (preprint [here](https://doi.org/10.1101/2021.08.29.21262800))
-</div>  
   
 #    
 <div class = "class-name">
-**[74]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2022). A framework to model global, regional, and national estimates of intimate partner violence. (preprint [here](https://doi.org/10.1101/2020.11.19.20235101)) 
+**[75]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2022). A framework to model global, regional, and national estimates of intimate partner violence. (preprint [here](https://doi.org/10.1101/2020.11.19.20235101)) 
 </div>  
  
 #  
@@ -93,13 +93,18 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 
 # 
-<a class = "one" href = "https://ssrn.com/abstract=3947387" target = "_blank">
+<a class = "one" href = "https://doi.org/10.1186/s12879-022-07207-7" target = "_blank">
+**[74]** Milwid R, Xia Y, Doyle C, Cox J, Lambert G, Thomas R, Mishra S, Grace D, Lachowsky NJ, Hart TA, Boily MC, and **Maheu-Giroux M** (2022). Past dynamics of HIV transmission among men who have sex with men in Montréal, Canada: a mathematical modeling study. *BMC Infectious Diseases* 22:233. 
+</a> 
+
+# 
+<a class = "one" href = "https://doi.org/10.1016/j.ijid.2022.02.030" target = "_blank">
 **[73]** Vickers DM, Bara SD, Mishra S, Kwong JC, Sundaram M, Katz A, Calzavara A, **Maheu-Giroux M**, Buckeridge DL, Williamson T (2022). Stringency of containment and closure policies and their association with growth of SARS-CoV-2 cases in Canada prior to accelerated vaccine roll-out. *International Journal of Infectious Diseases*. (Accepted)
 </a>
   
 # 
-<a class = "one" href = "http://dx.doi.org/10.2139/ssrn.3959665" target = "_blank">
-**[72]** Lanièce Delaunay C, **Maheu-Giroux M**, Marathe G, Saeed S, Martel-Laferrière, Cooper CL, Walmsey S, Cox J, Wong A, and Klein MB, for the *Canadian Coinfection Cohort Investigators* (2022). Gaps in hepatitis C virus prevention and care for HIV-hepatitis C virus co-infected people who injected drugs in Canada. *International Journal of Drug Policy*. (Accepted)
+<a class = "one" href = "http://doi.org/10.1016/j.drugpo.2022.103627" target = "_blank">
+**[72]** Lanièce Delaunay C, **Maheu-Giroux M**, Marathe G, Saeed S, Martel-Laferrière, Cooper CL, Walmsey S, Cox J, Wong A, and Klein MB, for the *Canadian Coinfection Cohort Investigators* (2022). Gaps in hepatitis C virus prevention and care for HIV-hepatitis C virus co-infected people who injected drugs in Canada. *International Journal of Drug Policy* 103:1-10.
 </a>
 
 #  
@@ -118,8 +123,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a>
   
 #  
-<a class = "one" href = "" target = "_blank">
-**[68]** Sardinha L, **Maheu-Giroux M**, Stöckl H, Meyer S, García-Moreno C (2022). Global, regional, and national prevalence of intimate partner violence against women (2018). *The Lancet*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1016/S0140-6736(21)02664-7" target = "_blank">
+**[68]** Sardinha L, **Maheu-Giroux M**, Stöckl H, Meyer S, García-Moreno C (2022). Global, regional, and national prevalence of intimate partner violence against women (2018). *The Lancet*.
 </a> 
   
 <a class = "one" href = "https://doi.org/sextrans-2021-055215" target = "_blank">
