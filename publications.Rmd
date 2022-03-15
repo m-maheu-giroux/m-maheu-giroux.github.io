@@ -67,22 +67,17 @@ Feel free to email me to obtain a copy of any of the papers below.
   
 # 
 <div class = "class-name">
-**[78]** Ky-Zerbo O, Desclaux A, Boye S, Vautier A, Rouveau N, Kouadio Brou A, Fotso Arlette S, Pourette D, **Maheu-Giroux M**, Sow S, Camara CS, Clémence DA, Keita A, Boily MC, Silhol R, D’elbée M, Bekelynck A, Gueye Papa A, Diop Papa M, Geoffroy O, Kamemba Odé K, Diallo S, Ehui E, Ndour Cheick T, and Larmarange J for the *ATLAS Team* (2022). Willingness to use and distribute HIV self-test kits to clients and partners: a qualitative analysis of female sex workers’ collective opinion and attitude in Côte d’Ivoire, Mali, and Senegal. 
-</div>  
-  
-# 
-<div class = "class-name">
-**[77]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora A, Ramirez C, Edmonds A, Sosanya K, Taylor T, Plankey M, Cederbaum J, Seidman D, Weber K, Golub E, Wells J, Bolivar H, Konkle-Parker D, Pregartner G, Boily MC (2022). Longitudinal determinants of anal intercourse among women with, and without HIV in the United States. 
+**[78]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora A, Ramirez C, Edmonds A, Sosanya K, Taylor T, Plankey M, Cederbaum J, Seidman D, Weber K, Golub E, Wells J, Bolivar H, Konkle-Parker D, Pregartner G, Boily MC (2022). Longitudinal determinants of anal intercourse among women with, and without HIV in the United States. 
 </div>  
    
 #  
 <div class = "class-name">
-**[76]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
+**[77]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
 </div>  
   
 #    
 <div class = "class-name">
-**[75]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2022). A framework to model global, regional, and national estimates of intimate partner violence. (preprint [here](https://doi.org/10.1101/2020.11.19.20235101)) 
+**[76]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2022). A framework to model global, regional, and national estimates of intimate partner violence. (preprint [here](https://doi.org/10.1101/2020.11.19.20235101)) 
 </div>  
  
 #  
@@ -93,13 +88,18 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 
 # 
+<a class = "one" href = "" target = "_blank">
+**[75]** Ky-Zerbo O, Desclaux A, Boye S, Vautier A, Rouveau N, Kouadio Brou A, Fotso Arlette S, Pourette D, **Maheu-Giroux M**, Sow S, Camara CS, Clémence DA, Keita A, Boily MC, Silhol R, D’elbée M, Bekelynck A, Gueye Papa A, Diop Papa M, Geoffroy O, Kamemba Odé K, Diallo S, Ehui E, Ndour Cheick T, and Larmarange J for the *ATLAS Team* (2022). Willingness to use and distribute HIV self-test kits to clients and partners: a qualitative analysis of female sex workers’ collective opinion and attitude in Côte d’Ivoire, Mali, and Senegal. *Women's Health*. (Accepted)
+</a> 
+  
+# 
 <a class = "one" href = "https://doi.org/10.1186/s12879-022-07207-7" target = "_blank">
 **[74]** Milwid R, Xia Y, Doyle C, Cox J, Lambert G, Thomas R, Mishra S, Grace D, Lachowsky NJ, Hart TA, Boily MC, and **Maheu-Giroux M** (2022). Past dynamics of HIV transmission among men who have sex with men in Montréal, Canada: a mathematical modeling study. *BMC Infectious Diseases* 22:233. 
 </a> 
 
 # 
 <a class = "one" href = "https://doi.org/10.1016/j.ijid.2022.02.030" target = "_blank">
-**[73]** Vickers DM, Bara SD, Mishra S, Kwong JC, Sundaram M, Katz A, Calzavara A, **Maheu-Giroux M**, Buckeridge DL, Williamson T (2022). Stringency of containment and closure policies and their association with growth of SARS-CoV-2 cases in Canada prior to accelerated vaccine roll-out. *International Journal of Infectious Diseases*. (Accepted)
+**[73]** Vickers DM, Bara SD, Mishra S, Kwong JC, Sundaram M, Katz A, Calzavara A, **Maheu-Giroux M**, Buckeridge DL, Williamson T (2022). Stringency of containment and closure policies and their association with growth of SARS-CoV-2 cases in Canada prior to accelerated vaccine roll-out. *International Journal of Infectious Diseases* 118:73-82.
 </a>
   
 # 
