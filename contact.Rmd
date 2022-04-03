@@ -1,3 +1,8 @@
+---
+output:
+  html_document: default
+---
+
 <style>
 .colleft {
 float: left;
@@ -20,15 +25,14 @@ text-align: center;
 #  
 #  
 # Office
-My office is located on the third floor of Purvis Hall (Rm 43).  
+My office is located at the School of Population and Global Health, 12th floor (Room 1268).  
 
 #  
 ###Dept of Epidemiology, Biostatistics & Occupational Health  
 
-1020 Avenue des Pins Ouest  
-(Purvis Hall)  
+2001 Avenue McGill College 
 Montréal, Québec  
-H3A 1A2  
+H3A 1G1  
 CANADA
      
 Phone: (+1) 514-398-5110  
