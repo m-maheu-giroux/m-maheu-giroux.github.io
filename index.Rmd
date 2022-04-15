@@ -163,6 +163,7 @@ BSc'03 Biology (Université de Montréal)
 #
 ## <i class="glyphicon glyphicon-flash"></i> News
 <a class="one" target="_blank">
+**2022-04-15**: Yiqing Xia (PhD student) was awarded a *Doctoral Aaward - Canada Graduate Scholarships* from the *Canadian Institutes of Health Research*.  
 **2022-04-01**: Ingrid Lu (MSc student) was awarded a *Frederick Banting and Charles Best Canada Graduate Scholarships* from the *Canadian Institutes of Health Research*.  
 **2021-09-01**: Salome Kuchukhidze and James Stannah (PhD candidates) were awarded *Max E. Binz Fellowships* from McGill University!  
 **2021-04-31**: Yiqing Xia (PhD student), James Stannah (PhD student), Lily Yang (MSc student), Arnaud Godin (RA), and Adrien Allorant (post-doc) were awarded scholarships from the *Fonds de la recherche du Québec - Santé*.  
