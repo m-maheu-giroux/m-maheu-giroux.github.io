@@ -88,7 +88,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 
 # 
-<a class = "one" href = "" target = "_blank">
+<a class = "one" href = "https://doi.org/10.1177/17455057221092268" target = "_blank">
 **[75]** Ky-Zerbo O, Desclaux A, Boye S, Vautier A, Rouveau N, Kouadio Brou A, Fotso Arlette S, Pourette D, **Maheu-Giroux M**, Sow S, Camara CS, Clémence DA, Keita A, Boily MC, Silhol R, D’elbée M, Bekelynck A, Gueye Papa A, Diop Papa M, Geoffroy O, Kamemba Odé K, Diallo S, Ehui E, Ndour Cheick T, and Larmarange J for the *ATLAS Team* (2022). Willingness to use and distribute HIV self-test kits to clients and partners: a qualitative analysis of female sex workers’ collective opinion and attitude in Côte d’Ivoire, Mali, and Senegal. *Women's Health*. (Accepted)
 </a> 
   
