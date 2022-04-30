@@ -42,6 +42,16 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 #  
 <div class = "class-name">
+**[88]** Ky-Zerbo O, Desclaux A, Boye S, **Maheu-Giroux M**, Rouveau N, Vautier A, Camara CS, Kouadio BA, Sow S, Gueye PA, Geoffroy O, Kamemba OK, Ehui E, Ndour CT, Keita A, Larmarange J, and the ATLAS Team (2022). “I take it and give it to my partners who will give it to their partners”:  Secondary distribution of HIV self-tests (HIVST) by key populations in Côte d’Ivoire, Mali, and Senegal. 
+</div>  
+  
+#  
+<div class = "class-name">
+**[87]** Kouassi Kra A, Simo Fosto A, N’guessan KN, Geoffroy O, Younoussa S, Kabemba OK, Gueye PA, Ndeye PD, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, and the ATLAS Team (2022). Profile of HIV self-testing users in Côte d’Ivoire, Mali and Senegal: feasibility of secondary distribution and capacity to reach vulnerable groups beyond key populations.
+</div>  
+
+#  
+<div class = "class-name">
 **[86]** Boye S, Kouadio A, Kouvahe AF, Vautier A, Ky-Zerbo O, Rouveau N, **Maheu-Giroux M**, Larmarange J, Pourette D, and the ATLAS Team (2022). Organisation of testing services, barriers and facilitators to routine HIV self-testing during sexually transmitted infection consultations: a qualitative study of patients and providers in Abidjan, Côte d’Ivoire.
 </div>  
   
