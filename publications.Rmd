@@ -65,41 +65,35 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[84]** Caya C, **Maheu-Giroux M**, Xia Y, Serhir B, Morin V, Corsini R, Goldfarb D, Wong T, Singh AE, and Yansouni C (2022). Stopping syphyllis transmission in Artic communities through rapid diagnostic testing: the STAR study protocol.
 </div>  
   
-#
-<div class = "class-name">
-**[83]** Traore MM, Badiane (co-first author), Vautier A, Fotso AS, Kabemba OK, Rouveau N, **Maheu-Giroux M**, Boily MC, Larmarange J, Terris-Prestholt F, d’Elbée M, and the *ATLAS Team* (2022). Economic analysis of HIV self-testing distribution and HIV testing services in health facilities in West Africa: Finding from the ATLAS project.
-</div>  
 
 #  
 <div class = "class-name">
-**[82]** Fotso A, Johnson C, Vautier A, Kouamé KB, Diop PM, Silhol R, **Maheu-Giroux** M, Boily MC, Rouveau N, Doumenc-Aïdara, Baggaley R, Ehui E, Larmarange J, and the *ATLAS Team* (2022). Using routine programmatic data to estimate the population-level impacts of HIV self-testing: the example of the Atlas program in Côte d’Ivoire. (preprint [here]((https://doi.org/10.1101/2022.02.08.2227067)))
+**[83]** Fotso A, Johnson C, Vautier A, Kouamé KB, Diop PM, Silhol R, **Maheu-Giroux** M, Boily MC, Rouveau N, Doumenc-Aïdara, Baggaley R, Ehui E, Larmarange J, and the *ATLAS Team* (2022). Using routine programmatic data to estimate the population-level impacts of HIV self-testing: the example of the Atlas program in Côte d’Ivoire. (preprint [here]((https://doi.org/10.1101/2022.02.08.2227067)))
 </div>  
  
 #
 <div class = "class-name">
-**[81]** Doyle CM, Cox J, Milwid RM, Bitera R, Lanièce Delaunay C, Alary M, Lambert G, Tremblay C, Mishra S, and **Maheu-Giroux M** (2022). Measuring progress towards reaching zero new HIV infections among key populations in Québec using routine surveillance data: a mathematical modeling study. 
+**[82]** Doyle CM, Cox J, Milwid RM, Bitera R, Lanièce Delaunay C, Alary M, Lambert G, Tremblay C, Mishra S, and **Maheu-Giroux M** (2022). Measuring progress towards reaching zero new HIV infections among key populations in Québec using routine surveillance data: a mathematical modeling study. 
 </div>  
 
   
 # 
 <div class = "class-name">
-**[80]** Staagdegaard L, Soni N, Bellerose M, Dala S, Bloem P, Brisson M, **Maheu-Giroux M**, Barnabas R, Drolet M, Mayaud P, Rönn MM, Boily MC (2022). Immunogenicity, safety, and efficacy of the HPV vaccines in people living with HIV: a systematic review and meta-analysis.
+**[81]** Staagdegaard L, Soni N, Bellerose M, Dala S, Bloem P, Brisson M, **Maheu-Giroux M**, Barnabas R, Drolet M, Mayaud P, Rönn MM, Boily MC (2022). Immunogenicity, safety, and efficacy of the HPV vaccines in people living with HIV: a systematic review and meta-analysis.
 </div>  
   
 # 
 <div class = "class-name">
-**[79]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora A, Ramirez C, Edmonds A, Sosanya K, Taylor T, Plankey M, Cederbaum J, Seidman D, Weber K, Golub E, Wells J, Bolivar H, Konkle-Parker D, Pregartner G, Boily MC (2022). Longitudinal determinants of anal intercourse among women with, and without HIV in the United States. (preprint [here](https://doi.org/10.21203/rs.3.rs-1161742/v1)) 
+**[80]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora A, Ramirez C, Edmonds A, Sosanya K, Taylor T, Plankey M, Cederbaum J, Seidman D, Weber K, Golub E, Wells J, Bolivar H, Konkle-Parker D, Pregartner G, Boily MC (2022). Longitudinal determinants of anal intercourse among women with, and without HIV in the United States. (preprint [here](https://doi.org/10.21203/rs.3.rs-1161742/v1)) 
 </div>  
    
 #  
 <div class = "class-name">
-**[78]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
+**[79]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
 </div>  
   
 #    
-<div class = "class-name">
-**[77]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2022). A framework to model global, regional, and national estimates of intimate partner violence. (preprint [here](https://doi.org/10.1101/2020.11.19.20235101)) 
-</div>  
+
  
 #  
 #  
@@ -107,15 +101,26 @@ Feel free to email me to obtain a copy of any of the papers below.
 #
 ## Published
 
+
+#  
+<a class = "one" href = "https://doi.org/10.3389/frhs.2022.886513" target = "_blank">
+**[78]** Traore MM, Badiane (co-first author), Vautier A, Fotso AS, Kabemba OK, Rouveau N, **Maheu-Giroux M**, Boily MC, Larmarange J, Terris-Prestholt F, d’Elbée M, and the ATLAS Team (2022). Economic analysis of low volume interventions using real-world data: Costs of HIV self-testing distribution and HIV testing services in west Africa from the ATLAS project. *Frontiers in Health Services*. (Accepted)
+</a>  
+
+#  
+<a class = "one" href = "https://doi.org/10.1186/s12874‑022‑01634‑5" target = "_blank">
+**[77]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2022). A framework to model global, regional, and national estimates of intimate partner violence. *BMC Medical Research Methodology* 22:159.
+</a> 
+  
 #  
 <a class = "one" href = "https://doi.org/10.1016/j.ijid.2022.04.048" target = "_blank">
-**[76]** Xia Y, Ma H, Buckeridge DL, Brisson M, Sander B, Chan A, Verma A, Ganser I, Kronfli N, Mishra S, **Maheu-Giroux M** (2022). Mortality trends and length of stays among hospitalized COVID-19 patients in Ontario and Québec (Canada): a cohort study of the first three epidemic waves. *The International Journal of Infectious Diseases*. 
+**[76]** Xia Y, Ma H, Buckeridge DL, Brisson M, Sander B, Chan A, Verma A, Ganser I, Kronfli N, Mishra S, **Maheu-Giroux M** (2022). Mortality trends and length of stays among hospitalized COVID-19 patients in Ontario and Québec (Canada): a cohort study of the first three epidemic waves. *The International Journal of Infectious Diseases* 121:1-10. 
 </a> 
   
   
 # 
 <a class = "one" href = "https://doi.org/10.1177/17455057221092268" target = "_blank">
-**[75]** Ky-Zerbo O, Desclaux A, Boye S, Vautier A, Rouveau N, Kouadio Brou A, Fotso Arlette S, Pourette D, **Maheu-Giroux M**, Sow S, Camara CS, Clémence DA, Keita A, Boily MC, Silhol R, D’elbée M, Bekelynck A, Gueye Papa A, Diop Papa M, Geoffroy O, Kamemba Odé K, Diallo S, Ehui E, Ndour Cheick T, and Larmarange J for the *ATLAS Team* (2022). Willingness to use and distribute HIV self-test kits to clients and partners: a qualitative analysis of female sex workers’ collective opinion and attitude in Côte d’Ivoire, Mali, and Senegal. *Women's Health*.
+**[75]** Ky-Zerbo O, Desclaux A, Boye S, Vautier A, Rouveau N, Kouadio Brou A, Fotso Arlette S, Pourette D, **Maheu-Giroux M**, Sow S, Camara CS, Clémence DA, Keita A, Boily MC, Silhol R, D’elbée M, Bekelynck A, Gueye Papa A, Diop Papa M, Geoffroy O, Kamemba Odé K, Diallo S, Ehui E, Ndour Cheick T, and Larmarange J for the *ATLAS Team* (2022). Willingness to use and distribute HIV self-test kits to clients and partners: a qualitative analysis of female sex workers’ collective opinion and attitude in Côte d’Ivoire, Mali, and Senegal. *Women's Health* 18:1-11.
 </a> 
   
 # 
