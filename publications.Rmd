@@ -82,14 +82,10 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[81]** Staagdegaard L, Soni N, Bellerose M, Dala S, Bloem P, Brisson M, **Maheu-Giroux M**, Barnabas R, Drolet M, Mayaud P, Rönn MM, Boily MC (2022). Immunogenicity, safety, and efficacy of the HPV vaccines in people living with HIV: a systematic review and meta-analysis.
 </div>  
   
-# 
-<div class = "class-name">
-**[80]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora A, Ramirez C, Edmonds A, Sosanya K, Taylor T, Plankey M, Cederbaum J, Seidman D, Weber K, Golub E, Wells J, Bolivar H, Konkle-Parker D, Pregartner G, Boily MC (2022). Longitudinal determinants of anal intercourse among women with, and without HIV in the United States. (preprint [here](https://doi.org/10.21203/rs.3.rs-1161742/v1)) 
-</div>  
    
 #  
 <div class = "class-name">
-**[79]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
+**[80]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
 </div>  
   
 #    
@@ -103,12 +99,17 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 
 #  
-<a class = "one" href = "https://doi.org/10.3389/frhs.2022.886513" target = "_blank">
-**[78]** Traore MM, Badiane (co-first author), Vautier A, Fotso AS, Kabemba OK, Rouveau N, **Maheu-Giroux M**, Boily MC, Larmarange J, Terris-Prestholt F, d’Elbée M, and the ATLAS Team (2022). Economic analysis of low volume interventions using real-world data: Costs of HIV self-testing distribution and HIV testing services in west Africa from the ATLAS project. *Frontiers in Health Services*. (Accepted)
+<a class = "one" href = "https://doi.org/10.21203/rs.3.rs-1161742/v1" target = "_blank">
+**[79]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora AA, Ramirez C, Edmonds A, Sosanya K, Taylor TT, Plankey M, Cederbaum JA, Seidman D, Weber KM, Golub ET, Wells J, Bolivar H, Konkle-Parker D, Pregartner G, Boily MC  (2022). Longitudinal determinants of anal intercourse among women with, and without HIV in the United States. *BMC Women's Health*. (Accepted)
 </a>  
 
 #  
-<a class = "one" href = "https://doi.org/10.1186/s12874‑022‑01634‑5" target = "_blank">
+<a class = "one" href = "https://doi.org/10.3389/frhs.2022.886513" target = "_blank">
+**[78]** Traore MM, Badiane (co-first author), Vautier A, Fotso AS, Kabemba OK, Rouveau N, **Maheu-Giroux M**, Boily MC, Larmarange J, Terris-Prestholt F, d’Elbée M, and the ATLAS Team (2022). Economic analysis of low volume interventions using real-world data: Costs of HIV self-testing distribution and HIV testing services in west Africa from the ATLAS project. *Frontiers in Health Services* 2:886513.
+</a>  
+
+#  
+<a class = "one" href = "https://doi.org/10.1186/s12874-022-01634-5" target = "_blank">
 **[77]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2022). A framework to model global, regional, and national estimates of intimate partner violence. *BMC Medical Research Methodology* 22:159.
 </a> 
   
