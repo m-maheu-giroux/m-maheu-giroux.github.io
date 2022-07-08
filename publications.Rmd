@@ -65,27 +65,15 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[84]** Caya C, **Maheu-Giroux M**, Xia Y, Serhir B, Morin V, Corsini R, Goldfarb D, Wong T, Singh AE, and Yansouni C (2022). Stopping syphyllis transmission in Artic communities through rapid diagnostic testing: the STAR study protocol.
 </div>  
   
-
-#  
-<div class = "class-name">
-**[83]** Fotso A, Johnson C, Vautier A, Kouamé KB, Diop PM, Silhol R, **Maheu-Giroux** M, Boily MC, Rouveau N, Doumenc-Aïdara, Baggaley R, Ehui E, Larmarange J, and the *ATLAS Team* (2022). Using routine programmatic data to estimate the population-level impacts of HIV self-testing: the example of the Atlas program in Côte d’Ivoire. (preprint [here]((https://doi.org/10.1101/2022.02.08.2227067)))
-</div>  
  
 #
 <div class = "class-name">
-**[82]** Doyle CM, Cox J, Milwid RM, Bitera R, Lanièce Delaunay C, Alary M, Lambert G, Tremblay C, Mishra S, and **Maheu-Giroux M** (2022). Measuring progress towards reaching zero new HIV infections among key populations in Québec using routine surveillance data: a mathematical modeling study. 
-</div>  
-
-  
-# 
-<div class = "class-name">
-**[81]** Staagdegaard L, Soni N, Bellerose M, Dala S, Bloem P, Brisson M, **Maheu-Giroux M**, Barnabas R, Drolet M, Mayaud P, Rönn MM, Boily MC (2022). Immunogenicity, safety, and efficacy of the HPV vaccines in people living with HIV: a systematic review and meta-analysis.
+**[83]** Doyle CM, Cox J, Milwid RM, Bitera R, Lanièce Delaunay C, Alary M, Lambert G, Tremblay C, Mishra S, and **Maheu-Giroux M** (2022). Measuring progress towards reaching zero new HIV infections among key populations in Québec using routine surveillance data: a mathematical modeling study. 
 </div>  
   
-   
 #  
 <div class = "class-name">
-**[80]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
+**[82]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
 </div>  
   
 #    
@@ -97,6 +85,15 @@ Feel free to email me to obtain a copy of any of the papers below.
 #
 ## Published
 
+# 
+<a class = "one" href = "" target = "_blank">
+**[81]** Staagdegaard L, Soni N, Bellerose M, Dala S, Bloem P, Brisson M, **Maheu-Giroux M**, Barnabas R, Drolet M, Mayaud P, Rönn MM, Boily MC (2022). Immunogenicity, safety, and efficacy of the HPV vaccines in people living with HIV: a systematic review and meta-analysis. *eClinical Medicine*. (Accepted)
+</a>   
+
+#  
+<a class = "one" href = "https://doi.org/10.1101/2022.02.08.2227067" target = "_blank">
+**[80]** Simo Fotso A, Johnson C, Vautier A, Kouamé KB, Diop PM, Silhol R, **Maheu-Giroux** M, Boily MC, Rouveau N, Doumenc-Aïdara S, Baggaley R, Ehui E, Larmarange J, and the *ATLAS Team* (2022). Routine programmatic dat show a positive population-level impact of HIV self-testing: the case of Côte d'Ivoire and implications for implementation. *AIDS*. (Accepted)
+</a>   
 
 #  
 <a class = "one" href = "https://doi.org/10.21203/rs.3.rs-1161742/v1" target = "_blank">
