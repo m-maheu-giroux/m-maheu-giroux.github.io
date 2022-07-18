@@ -42,6 +42,21 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 #  
 <div class = "class-name">
+**[91]** Kronfli N, Dussault C, **Maheu-Giroux M**, Halavrezos A, Chalifoux S, Park Y, Del Balso L, Cheng MP, Cox J (2022). Importance of occupation for SARS-CoV-2 seroprevalence and COVID-19 vaccination among correctional workers in Quebec, Canada (2021).  
+</div>  
+  
+#  
+<div class = "class-name">
+**[90]** Lanièce Delaunay C, Klein MB, Godin A, Cox J, Kronfli N, Lebouché B, Doyle CM, **Maheu-Giroux M** (2022). Public health interventions, priority populations, and the impact of COVID-19 disruptions on hepatitis C elimination among people who have injected drugs in Montreal (Canada): a modeling study.  
+</div>  
+  
+#  
+<div class = "class-name">
+**[89]** Yang L, Boily MC, Rönn MM, Obiri-Yeboah D, Morhason-Bello I, Meda N, Lompo Olga, Mayaud P, Pickles M, Hodgins C, Brisson M, Delany-Moretlwe S, **Maheu-Giroux M** (2022). Regional and country-level trends in cervical cancer screening coverage in high HIV prevalence settings: a systematic analysis of population-based surveys in sub-Saharan Africa (2000-2020). 
+</div>  
+  
+#  
+<div class = "class-name">
 **[88]** Ky-Zerbo O, Desclaux A, Boye S, **Maheu-Giroux M**, Rouveau N, Vautier A, Camara CS, Kouadio BA, Sow S, Gueye PA, Geoffroy O, Kamemba OK, Ehui E, Ndour CT, Keita A, Larmarange J, and the ATLAS Team (2022). “I take it and give it to my partners who will give it to their partners”:  Secondary distribution of HIV self-tests (HIVST) by key populations in Côte d’Ivoire, Mali, and Senegal. 
 </div>  
   
@@ -96,8 +111,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a>   
 
 #  
-<a class = "one" href = "https://doi.org/10.21203/rs.3.rs-1161742/v1" target = "_blank">
-**[79]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora AA, Ramirez C, Edmonds A, Sosanya K, Taylor TT, Plankey M, Cederbaum JA, Seidman D, Weber KM, Golub ET, Wells J, Bolivar H, Konkle-Parker D, Pregartner G, Boily MC  (2022). Longitudinal determinants of anal intercourse among women with, and without HIV in the United States. *BMC Women's Health*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1186/s12905-022-01849-0" target = "_blank">
+**[79]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora AA, Ramirez C, Edmonds A, Sosanya K, Taylor TT, Plankey M, Cederbaum JA, Seidman D, Weber KM, Golub ET, Wells J, Bolivar H, Konkle-Parker D, Pregartner G, Boily MC  (2022). Longitudinal determinants of anal intercourse among women with, and without HIV in the United States. *BMC Women's Health* 22:291.
 </a>  
 
 #  
