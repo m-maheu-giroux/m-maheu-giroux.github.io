@@ -52,7 +52,7 @@ Feel free to email me to obtain a copy of any of the papers below.
   
 #  
 <div class = "class-name">
-**[89]** Yang L, Boily MC, Rönn MM, Obiri-Yeboah D, Morhason-Bello I, Meda N, Lompo Olga, Mayaud P, Pickles M, Hodgins C, Brisson M, Delany-Moretlwe S, **Maheu-Giroux M** (2022). Regional and country-level trends in cervical cancer screening coverage in high HIV prevalence settings: a systematic analysis of population-based surveys in sub-Saharan Africa (2000-2020). 
+**[89]** Yang L, Boily MC, Rönn MM, Obiri-Yeboah D, Morhason-Bello I, Meda N, Lompo Olga, Mayaud P, Pickles M, Hodgins C, Brisson M, Delany-Moretlwe S, **Maheu-Giroux M** (2022). Regional and country-level trends in cervical cancer screening coverage in high HIV prevalence settings: a systematic analysis of population-based surveys in sub-Saharan Africa (2000-2020). pre-print [here](http://dx.doi.org/10.2139/ssrn.4128886).
 </div>  
   
 #  
