@@ -80,15 +80,9 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[84]** Caya C, **Maheu-Giroux M**, Xia Y, Serhir B, Morin V, Corsini R, Goldfarb D, Wong T, Singh AE, and Yansouni C (2022). Stopping syphyllis transmission in Artic communities through rapid diagnostic testing: the STAR study protocol.
 </div>  
   
- 
-#
-<div class = "class-name">
-**[83]** Doyle CM, Cox J, Milwid RM, Bitera R, Lanièce Delaunay C, Alary M, Lambert G, Tremblay C, Mishra S, and **Maheu-Giroux M** (2022). Measuring progress towards reaching zero new HIV infections among key populations in Québec using routine surveillance data: a mathematical modeling study. 
-</div>  
-  
 #  
 <div class = "class-name">
-**[82]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
+**[83]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
 </div>  
   
 #    
@@ -99,6 +93,12 @@ Feel free to email me to obtain a copy of any of the papers below.
 # 
 #
 ## Published
+
+
+# 
+<a class = "one" href = "" target = "_blank">
+**[82]** Doyle CM, Cox J, Milwid RM, Bitera R, Lanièce Delaunay C, Alary M, Lambert G, Tremblay C, Mishra S, and **Maheu-Giroux M** (2022). Measuring progress towards reaching zero new HIV infections among key populations in Québec using routine surveillance data: a mathematical modeling study. *Journal of the International AIDS Society*. (Accepted)
+</a> 
 
 # 
 <a class = "one" href = "" target = "_blank">
