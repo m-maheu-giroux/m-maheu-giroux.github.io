@@ -72,7 +72,7 @@ Feel free to email me to obtain a copy of any of the papers below.
   
 #  
 <div class = "class-name">
-**[85]** Kuchukhidze S, Panagiotoglou D, Boily MC, Diabaté S, Eaton JW, Mbofana F, Sardinha L, Schrubbe L, Stöckl H, Wanyenze R, and **Maheu-Giroux M** (2022). The effect of intimate partner violence on women’s risk of HIV acquisition and engagement in the HIV treatment and care cascade: an individual-participant data meta-analysis of nationally representative surveys in sub-Saharan Africa.
+**[85]** Kuchukhidze S, Panagiotoglou D, Boily MC, Diabaté S, Eaton JW, Mbofana F, Sardinha L, Schrubbe L, Stöckl H, Wanyenze R, and **Maheu-Giroux M** (2022). The effect of intimate partner violence on women’s risk of HIV acquisition and engagement in the HIV treatment and care cascade: an individual-participant data meta-analysis of nationally representative surveys in sub-Saharan Africa. (preprint [here](https://doi.org/10.1101/2022.08.04.22278331))  
 </div>  
   
 #
@@ -101,8 +101,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a> 
 
 # 
-<a class = "one" href = "" target = "_blank">
-**[81]** Staagdegaard L, Soni N, Bellerose M, Dala S, Bloem P, Brisson M, **Maheu-Giroux M**, Barnabas R, Drolet M, Mayaud P, Rönn MM, Boily MC (2022). Immunogenicity, safety, and efficacy of the HPV vaccines in people living with HIV: a systematic review and meta-analysis. *eClinical Medicine*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1016/j.eclinm.2022.101585" target = "_blank">
+**[81]** Staagdegaard L, Soni N, Bellerose M, Dala S, Bloem P, Brisson M, **Maheu-Giroux M**, Barnabas R, Drolet M, Mayaud P, Rönn MM, Boily MC (2022). Immunogenicity, safety, and efficacy of the HPV vaccines in people living with HIV: a systematic review and meta-analysis. *eClinical Medicine* 52:101585.
 </a>   
 
 #  

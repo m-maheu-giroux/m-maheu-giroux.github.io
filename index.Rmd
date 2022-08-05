@@ -163,6 +163,10 @@ BSc'03 Biology (Université de Montréal)
 #
 ## <i class="glyphicon glyphicon-flash"></i> News
 <a class="one" target="_blank">
+**2022-06-02**: Lily Yang and James Stannah received the *Young Investigator Prize* from the *International AIDS Society/Quebec AIDS Research Network* at the AIDS2022 conference.  
+<img src="IAS-YIP.jpg" align="left" width = "400" height = "175">
+</a> 
+<a class="one" target="_blank"> 
 **2022-06-02**: Congratulations to Salome Kuchukhidze (PhD student) and Ingrid Lu (MSc Student) who received scholarships from the *Fonds de la recherche du Québec - Santé*.  
 **2022-04-15**: Yiqing Xia (PhD student) was awarded a *Doctoral Award - Canada Graduate Scholarships* from the *Canadian Institutes of Health Research*.  
 **2022-04-01**: Ingrid Lu (MSc student) was awarded a *Frederick Banting and Charles Best Canada Graduate Scholarships* from the *Canadian Institutes of Health Research*.  
