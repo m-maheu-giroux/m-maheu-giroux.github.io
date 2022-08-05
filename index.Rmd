@@ -163,7 +163,7 @@ BSc'03 Biology (Université de Montréal)
 #
 ## <i class="glyphicon glyphicon-flash"></i> News
 <a class="one" target="_blank">
-**2022-06-02**: Lily Yang and James Stannah received the *Young Investigator Prize* from the *International AIDS Society/Quebec AIDS Research Network* at the AIDS2022 conference.  
+**2022-08-01**: Lily Yang and James Stannah received the *Young Investigator Prize* from the *International AIDS Society/Quebec AIDS Research Network* at the AIDS2022 conference.  
 <img src="IAS-YIP.jpg" align="left" width = "400" height = "175">
 </a> 
 <a class="one" target="_blank"> 
