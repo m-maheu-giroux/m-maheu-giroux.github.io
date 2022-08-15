@@ -97,7 +97,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 # 
 <a class = "one" href = "" target = "_blank">
-**[83]** Caya C, **Maheu-Giroux M**, Xia Y, Serhir B, Morin V, Corsini R, Goldfarb D, Wong T, Singh AE, and Yansouni C (2022). Stopping syphyllis transmission in Artic communities through rapid diagnostic testing: the STAR study protocol. *PLoS One*. (Accepted)
+**[83]** Caya C, **Maheu-Giroux M**, Xia Y, Serhir B, Morin V, Corsini R, Goldfarb D, Wong T, Singh AE, and Yansouni C (2022). Stopping syphilis transmission in Artic communities through rapid diagnostic testing: the STAR study protocol. *PLoS One*. (Accepted)
 </a> 
 
 # 
