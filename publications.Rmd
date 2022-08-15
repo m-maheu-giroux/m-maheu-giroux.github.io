@@ -42,6 +42,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 #  
 <div class = "class-name">
+**[92]** Yokoji K, Giguère K (co-first authors), Rönn MM, Dalal S, Mayaud P, Kelly H, Delany-Moretlwe S, Drolet M, Brisson M, Boily MC, **Maheu-Giroux M** (2022). Protection from naturally acquired antibodies against type-specific human papillomavirus reinfection by HIV status: a systematic review and meta-analysis.  
+</div>  
+  
+#  
+<div class = "class-name">
 **[91]** Kronfli N, Dussault C, **Maheu-Giroux M**, Halavrezos A, Chalifoux S, Park Y, Del Balso L, Cheng MP, Cox J (2022). Importance of occupation for SARS-CoV-2 seroprevalence and COVID-19 vaccination among correctional workers in Quebec, Canada (2021).  
 </div>  
   
@@ -75,14 +80,10 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[85]** Kuchukhidze S, Panagiotoglou D, Boily MC, Diabaté S, Eaton JW, Mbofana F, Sardinha L, Schrubbe L, Stöckl H, Wanyenze R, and **Maheu-Giroux M** (2022). The effect of intimate partner violence on women’s risk of HIV acquisition and engagement in the HIV treatment and care cascade: an individual-participant data meta-analysis of nationally representative surveys in sub-Saharan Africa. (preprint [here](https://doi.org/10.1101/2022.08.04.22278331))  
 </div>  
   
-#
-<div class = "class-name">
-**[84]** Caya C, **Maheu-Giroux M**, Xia Y, Serhir B, Morin V, Corsini R, Goldfarb D, Wong T, Singh AE, and Yansouni C (2022). Stopping syphyllis transmission in Artic communities through rapid diagnostic testing: the STAR study protocol.
-</div>  
-  
+
 #  
 <div class = "class-name">
-**[83]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
+**[84]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
 </div>  
   
 #    
@@ -94,9 +95,13 @@ Feel free to email me to obtain a copy of any of the papers below.
 #
 ## Published
 
-
 # 
 <a class = "one" href = "" target = "_blank">
+**[83]** Caya C, **Maheu-Giroux M**, Xia Y, Serhir B, Morin V, Corsini R, Goldfarb D, Wong T, Singh AE, and Yansouni C (2022). Stopping syphyllis transmission in Artic communities through rapid diagnostic testing: the STAR study protocol. *PLoS One*. (Accepted)
+</a> 
+
+# 
+<a class = "one" href = "https://doi.org/10.1002/jia2.25994" target = "_blank">
 **[82]** Doyle CM, Cox J, Milwid RM, Bitera R, Lanièce Delaunay C, Alary M, Lambert G, Tremblay C, Mishra S, and **Maheu-Giroux M** (2022). Measuring progress towards reaching zero new HIV infections among key populations in Québec using routine surveillance data: a mathematical modeling study. *Journal of the International AIDS Society*. (Accepted)
 </a> 
 
