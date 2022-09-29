@@ -42,7 +42,12 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 #  
 <div class = "class-name">
-**[92]** Yokoji K, Giguère K (co-first authors), Rönn MM, Dalal S, Mayaud P, Kelly H, Delany-Moretlwe S, Drolet M, Brisson M, Boily MC, **Maheu-Giroux M** (2022). Protection from naturally acquired antibodies against type-specific human papillomavirus reinfection by HIV status: a systematic review and meta-analysis.  
+**[93]** Silhol R, Nordsletten A, **Maheu-Giroux M**, Elmes J, Staunton R, Owen B, Shacklett B, McGowan I, Gomez Feliciano K, van der Straten A, Eller LA, Robb M, Mararazzo J, Dimitrov D, Boily MC (2022). The association between heterosexual anal intercourse and HIV acquisition in three prospective cohorts of women. pre-print [here](https://doi.org/10.1101/2022.09.07.22279674).
+</div>  
+  
+#  
+<div class = "class-name">
+**[92]** Yokoji K, Giguère K (co-first authors), Rönn MM, Dalal S, Mayaud P, Kelly H, Delany-Moretlwe S, Drolet M, Brisson M, Boily MC, **Maheu-Giroux M** (2022). Association of naturally acquired type-specific HPV antibodies and subsequent HPV re-detection: Systematic review and meta-analysis.  
 </div>  
   
 #  
@@ -96,13 +101,13 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Published
 
 # 
-<a class = "one" href = "" target = "_blank">
-**[83]** Caya C, **Maheu-Giroux M**, Xia Y, Serhir B, Morin V, Corsini R, Goldfarb D, Wong T, Singh AE, and Yansouni C (2022). Stopping syphilis transmission in Artic communities through rapid diagnostic testing: the STAR study protocol. *PLoS One*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1371/journal.pone.0273713" target = "_blank">
+**[83]** Caya C, **Maheu-Giroux M**, Xia Y, Serhir B, Morin V, Corsini R, Goldfarb D, Wong T, Singh AE, and Yansouni C (2022). Stopping syphilis transmission in Artic communities through rapid diagnostic testing: the STAR study protocol. *PLoS One* 17(9):e0273713.
 </a> 
 
 # 
 <a class = "one" href = "https://doi.org/10.1002/jia2.25994" target = "_blank">
-**[82]** Doyle CM, Cox J, Milwid RM, Bitera R, Lanièce Delaunay C, Alary M, Lambert G, Tremblay C, Mishra S, and **Maheu-Giroux M** (2022). Measuring progress towards reaching zero new HIV infections among key populations in Québec using routine surveillance data: a mathematical modeling study. *Journal of the International AIDS Society*. (Accepted)
+**[82]** Doyle CM, Cox J, Milwid RM, Bitera R, Lanièce Delaunay C, Alary M, Lambert G, Tremblay C, Mishra S, and **Maheu-Giroux M** (2022). Measuring progress towards reaching zero new HIV acquisitions among key populations in Québec (Canada) using routine surveillance data: a mathematical modelling study. *Journal of the International AIDS Society* 25:e25994.
 </a> 
 
 # 
@@ -111,8 +116,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a>   
 
 #  
-<a class = "one" href = "https://doi.org/10.1101/2022.02.08.2227067" target = "_blank">
-**[80]** Simo Fotso A, Johnson C, Vautier A, Kouamé KB, Diop PM, Silhol R, **Maheu-Giroux** M, Boily MC, Rouveau N, Doumenc-Aïdara S, Baggaley R, Ehui E, Larmarange J, and the *ATLAS Team* (2022). Routine programmatic dat show a positive population-level impact of HIV self-testing: the case of Côte d'Ivoire and implications for implementation. *AIDS*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1097/QAD.0000000000003328" target = "_blank">
+**[80]** Simo Fotso A, Johnson C, Vautier A, Kouamé KB, Diop PM, Silhol R, **Maheu-Giroux** M, Boily MC, Rouveau N, Doumenc-Aïdara S, Baggaley R, Ehui E, Larmarange J, and the *ATLAS Team* (2022). Routine programmatic data show a positive population-level impact of HIV self-testing: the case of Côte d'Ivoire and implications for implementation. *AIDS* 36(13):1871-1879.
 </a>   
 
 #  
