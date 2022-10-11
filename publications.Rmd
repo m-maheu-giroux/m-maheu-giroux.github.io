@@ -80,15 +80,10 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[86]** Boye S, Kouadio A, Kouvahe AF, Vautier A, Ky-Zerbo O, Rouveau N, **Maheu-Giroux M**, Larmarange J, Pourette D, and the ATLAS Team (2022). Organisation of testing services, barriers and facilitators to routine HIV self-testing during sexually transmitted infection consultations: a qualitative study of patients and providers in Abidjan, Côte d’Ivoire.
 </div>  
   
-#  
-<div class = "class-name">
-**[85]** Kuchukhidze S, Panagiotoglou D, Boily MC, Diabaté S, Eaton JW, Mbofana F, Sardinha L, Schrubbe L, Stöckl H, Wanyenze R, and **Maheu-Giroux M** (2022). The effect of intimate partner violence on women’s risk of HIV acquisition and engagement in the HIV treatment and care cascade: an individual-participant data meta-analysis of nationally representative surveys in sub-Saharan Africa. (preprint [here](https://doi.org/10.1101/2022.08.04.22278331))  
-</div>  
-  
 
 #  
 <div class = "class-name">
-**[84]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
+**[85]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
 </div>  
   
 #    
@@ -99,6 +94,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 # 
 #
 ## Published
+
+# 
+<a class = "one" href = "doi.org/10.1101/2022.08.04.22278331" target = "_blank">
+**[84]** Kuchukhidze S, Panagiotoglou D, Boily MC, Diabaté S, Eaton JW, Mbofana F, Sardinha L, Schrubbe L, Stöckl H, Wanyenze R, and **Maheu-Giroux M** (2022). The effects of intimate partner violence on women’s risk of HIV acquisition and engagement in the HIV treatment and care cascade: a pooled analysis of nationally representative surveys in sub-Saharan Africa. *The Lancet HIV* (Accepted).
+</a> 
 
 # 
 <a class = "one" href = "https://doi.org/10.1371/journal.pone.0273713" target = "_blank">
