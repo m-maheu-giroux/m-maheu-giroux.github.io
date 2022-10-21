@@ -42,6 +42,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 #  
 <div class = "class-name">
+**[94]** Flores Anato JL, Ma H, Hamilton MA, Xia Y, Harper S, Buckeridge D, Brisson M, Hillmer MP, Malikov K, Aidin Kerem, Beall R, Baral S, Dubé È, Mishra S, **Maheu-Giroux M** (2022). Impact of a vaccine passport on first-dose vaccine coverage by age and area-level social determinants of health in the Canadian provinces of Québec and Ontario: an interrupted time series analysis. pre-print [here](https://doi.org/10.1101/2022.10.18.22281192). 
+</div>  
+  
+#  
+<div class = "class-name">
 **[93]** Silhol R, Nordsletten A, **Maheu-Giroux M**, Elmes J, Staunton R, Owen B, Shacklett B, McGowan I, Gomez Feliciano K, van der Straten A, Eller LA, Robb M, Mararazzo J, Dimitrov D, Boily MC (2022). The association between heterosexual anal intercourse and HIV acquisition in three prospective cohorts of women. pre-print [here](https://doi.org/10.1101/2022.09.07.22279674).
 </div>  
   
