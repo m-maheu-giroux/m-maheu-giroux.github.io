@@ -55,40 +55,36 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[92]** Yokoji K, Giguère K (co-first authors), Rönn MM, Dalal S, Mayaud P, Kelly H, Delany-Moretlwe S, Drolet M, Brisson M, Boily MC, **Maheu-Giroux M** (2022). Association of naturally acquired type-specific HPV antibodies and subsequent HPV re-detection: Systematic review and meta-analysis.  
 </div>  
   
+  
 #  
 <div class = "class-name">
-**[91]** Kronfli N, Dussault C, **Maheu-Giroux M**, Halavrezos A, Chalifoux S, Park Y, Del Balso L, Cheng MP, Cox J (2022). Importance of occupation for SARS-CoV-2 seroprevalence and COVID-19 vaccination among correctional workers in Quebec, Canada (2021).  
+**[91]** Lanièce Delaunay C, Klein MB, Godin A, Cox J, Kronfli N, Lebouché B, Doyle CM, **Maheu-Giroux M** (2022). Public health interventions, priority populations, and the impact of COVID-19 disruptions on hepatitis C elimination among people who have injected drugs in Montreal (Canada): a modeling study.  
 </div>  
   
 #  
 <div class = "class-name">
-**[90]** Lanièce Delaunay C, Klein MB, Godin A, Cox J, Kronfli N, Lebouché B, Doyle CM, **Maheu-Giroux M** (2022). Public health interventions, priority populations, and the impact of COVID-19 disruptions on hepatitis C elimination among people who have injected drugs in Montreal (Canada): a modeling study.  
+**[90]** Yang L, Boily MC, Rönn MM, Obiri-Yeboah D, Morhason-Bello I, Meda N, Lompo Olga, Mayaud P, Pickles M, Hodgins C, Brisson M, Delany-Moretlwe S, **Maheu-Giroux M** (2022). Regional and country-level trends in cervical cancer screening coverage in high HIV prevalence settings: a systematic analysis of population-based surveys in sub-Saharan Africa (2000-2020). pre-print [here](http://dx.doi.org/10.2139/ssrn.4128886).
 </div>  
   
 #  
 <div class = "class-name">
-**[89]** Yang L, Boily MC, Rönn MM, Obiri-Yeboah D, Morhason-Bello I, Meda N, Lompo Olga, Mayaud P, Pickles M, Hodgins C, Brisson M, Delany-Moretlwe S, **Maheu-Giroux M** (2022). Regional and country-level trends in cervical cancer screening coverage in high HIV prevalence settings: a systematic analysis of population-based surveys in sub-Saharan Africa (2000-2020). pre-print [here](http://dx.doi.org/10.2139/ssrn.4128886).
+**[89]** Ky-Zerbo O, Desclaux A, Boye S, **Maheu-Giroux M**, Rouveau N, Vautier A, Camara CS, Kouadio BA, Sow S, Gueye PA, Geoffroy O, Kamemba OK, Ehui E, Ndour CT, Keita A, Larmarange J, and the ATLAS Team (2022). “I take it and give it to my partners who will give it to their partners”:  Secondary distribution of HIV self-tests (HIVST) by key populations in Côte d’Ivoire, Mali, and Senegal. 
 </div>  
   
 #  
 <div class = "class-name">
-**[88]** Ky-Zerbo O, Desclaux A, Boye S, **Maheu-Giroux M**, Rouveau N, Vautier A, Camara CS, Kouadio BA, Sow S, Gueye PA, Geoffroy O, Kamemba OK, Ehui E, Ndour CT, Keita A, Larmarange J, and the ATLAS Team (2022). “I take it and give it to my partners who will give it to their partners”:  Secondary distribution of HIV self-tests (HIVST) by key populations in Côte d’Ivoire, Mali, and Senegal. 
-</div>  
-  
-#  
-<div class = "class-name">
-**[87]** Kouassi Kra A, Simo Fosto A, N’guessan KN, Geoffroy O, Younoussa S, Kabemba OK, Gueye PA, Ndeye PD, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, and the ATLAS Team (2022). Profile of HIV self-testing users in Côte d’Ivoire, Mali and Senegal: feasibility of secondary distribution and capacity to reach vulnerable groups beyond key populations.
+**[88]** Kouassi Kra A, Simo Fosto A, N’guessan KN, Geoffroy O, Younoussa S, Kabemba OK, Gueye PA, Ndeye PD, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, and the ATLAS Team (2022). Profile of HIV self-testing users in Côte d’Ivoire, Mali and Senegal: feasibility of secondary distribution and capacity to reach vulnerable groups beyond key populations.
 </div>  
 
 #  
 <div class = "class-name">
-**[86]** Boye S, Kouadio A, Kouvahe AF, Vautier A, Ky-Zerbo O, Rouveau N, **Maheu-Giroux M**, Larmarange J, Pourette D, and the ATLAS Team (2022). Organisation of testing services, barriers and facilitators to routine HIV self-testing during sexually transmitted infection consultations: a qualitative study of patients and providers in Abidjan, Côte d’Ivoire.
+**[87]** Boye S, Kouadio A, Kouvahe AF, Vautier A, Ky-Zerbo O, Rouveau N, **Maheu-Giroux M**, Larmarange J, Pourette D, and the ATLAS Team (2022). Organisation of testing services, barriers and facilitators to routine HIV self-testing during sexually transmitted infection consultations: a qualitative study of patients and providers in Abidjan, Côte d’Ivoire.
 </div>  
   
 
 #  
 <div class = "class-name">
-**[85]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
+**[86]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2022). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
 </div>  
   
 #    
@@ -99,6 +95,13 @@ Feel free to email me to obtain a copy of any of the papers below.
 # 
 #
 ## Published
+
+
+#  
+<a class = "one" href = "" target = "_blank">
+**[85]** Kronfli N, Dussault C, **Maheu-Giroux M**, Halavrezos A, Chalifoux S, Park Y, Del Balso L, Cheng MP, Cox J (2022). Importance of occupation for SARS-CoV-2 seroprevalence and COVID-19 vaccination among correctional workers in Quebec, Canada (2021). *Frontiers in Public Health* (Accepted).  
+</a> 
+
 
 # 
 <a class = "one" href = "doi.org/10.1101/2022.08.04.22278331" target = "_blank">
