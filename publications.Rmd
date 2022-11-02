@@ -40,6 +40,13 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Under Review
 # 
 
+
+#  
+<div class = "class-name">
+**[95]** Stansfield S, Heitner J, Mitchell K, Doyle CM, Milwid R, Moore J, Donnell D, Hanscom B, Xia Y, **Maheu-Giroux M**, Van de Vijver D, Wang H, Barnabas R, Boily MC, Dimitrov D (2022). Population-level impact of expanding PrEP coverage by offering long-acting injectable PrEP to MSM in three high resources settings: a model comparison analysis.
+</div>  
+
+
 #  
 <div class = "class-name">
 **[94]** Flores Anato JL, Ma H, Hamilton MA, Xia Y, Harper S, Buckeridge D, Brisson M, Hillmer MP, Malikov K, Aidin Kerem, Beall R, Baral S, Dubé È, Mishra S, **Maheu-Giroux M** (2022). Impact of a vaccine passport on first-dose vaccine coverage by age and area-level social determinants of health in the Canadian provinces of Québec and Ontario: an interrupted time series analysis. pre-print [here](https://doi.org/10.1101/2022.10.18.22281192). 
