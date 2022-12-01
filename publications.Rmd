@@ -40,6 +40,10 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Under Review
 # 
 
+#  
+<div class = "class-name">
+**[96]** Stannah J, Soni R, Lam JKS, Giguère K, Mitchell K, Kronfli N, Larmarange J, Moh R, N’zebo Nouaman M, Kouamé GM, **Maheu-Giroux M**, Boily MC (2022). Trends in HIV testing, the treatment cascade, and HIV incidence among men who have sex with men in Africa: a systematic review and meta-regression analysis. pre-print [here](https://doi.org/10.1101/2022.11.14.22282329).
+</div>  
 
 #  
 <div class = "class-name">
@@ -104,17 +108,16 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[86]** Yang L, Boily MC, Rönn MM, Obiri-Yeboah D, Morhason-Bello I, Meda N, Lompo Olga, Mayaud P, Pickles M, Hodgins C, Brisson M, Delany-Moretlwe S, **Maheu-Giroux M** (2022). Regional and country-level trends in cervical cancer screening coverage in sub-Saharan Africa: a systematic analysis of population-based surveys (2000-2020). *PLoS Medicine* (Accepted).
 </a> 
   
-#  
-<a class = "one" href = "" target = "_blank">
-**[85]** Kronfli N, Dussault C, **Maheu-Giroux M**, Halavrezos A, Chalifoux S, Park Y, Del Balso L, Cheng MP, Cox J (2022). Importance of occupation for SARS-CoV-2 seroprevalence and COVID-19 vaccination among correctional workers in Quebec, Canada (2021). *Frontiers in Public Health* (Accepted).  
-</a> 
-
-
 # 
-<a class = "one" href = "doi.org/10.1101/2022.08.04.22278331" target = "_blank">
-**[84]** Kuchukhidze S, Panagiotoglou D, Boily MC, Diabaté S, Eaton JW, Mbofana F, Sardinha L, Schrubbe L, Stöckl H, Wanyenze R, and **Maheu-Giroux M** (2022). The effects of intimate partner violence on women’s risk of HIV acquisition and engagement in the HIV treatment and care cascade: a pooled analysis of nationally representative surveys in sub-Saharan Africa. *The Lancet HIV* (Accepted).
+<a class = "one" href = "http://doi.org/10.1101/2022.08.04.22278331" target = "_blank">
+**[85]** Kuchukhidze S, Panagiotoglou D, Boily MC, Diabaté S, Eaton JW, Mbofana F, Sardinha L, Schrubbe L, Stöckl H, Wanyenze R, and **Maheu-Giroux M** (2022). The effects of intimate partner violence on women’s risk of HIV acquisition and engagement in the HIV treatment and care cascade: a pooled analysis of nationally representative surveys in sub-Saharan Africa. *The Lancet HIV* (Accepted).
+</a>
+  
+#  
+<a class = "one" href = "http://doi.org/10.3389/fpubh.2022.1021871" target = "_blank">
+**[84]** Kronfli N, Dussault C, **Maheu-Giroux M**, Halavrezos A, Chalifoux S, Park Y, Del Balso L, Cheng MP, Cox J (2022). Importance of occupation for SARS-CoV-2 seroprevalence and COVID-19 vaccination among correctional workers in Quebec, Canada (2021). *Frontiers in Public Health* 10:1021871.  
 </a> 
-
+  
 # 
 <a class = "one" href = "https://doi.org/10.1371/journal.pone.0273713" target = "_blank">
 **[83]** Caya C, **Maheu-Giroux M**, Xia Y, Serhir B, Morin V, Corsini R, Goldfarb D, Wong T, Singh AE, and Yansouni C (2022). Stopping syphilis transmission in Artic communities through rapid diagnostic testing: the STAR study protocol. *PLoS One* 17(9):e0273713.
