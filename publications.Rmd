@@ -108,8 +108,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 
 #  
-<a class = "one" href = "http://dx.doi.org/10.2139/ssrn.4128886" target = "_blank">
-**[86]** Yang L, Boily MC, Rönn MM, Obiri-Yeboah D, Morhason-Bello I, Meda N, Lompo Olga, Mayaud P, Pickles M, Hodgins C, Brisson M, Delany-Moretlwe S, **Maheu-Giroux M** (2023). Regional and country-level trends in cervical cancer screening coverage in sub-Saharan Africa: a systematic analysis of population-based surveys (2000-2020). *PLoS Medicine* (Accepted).
+<a class = "one" href = "https://doi.org/10.1371/journal.pmed.1004143" target = "_blank">
+**[86]** Yang L, Boily MC, Rönn MM, Obiri-Yeboah D, Morhason-Bello I, Meda N, Lompo Olga, Mayaud P, Pickles M, Hodgins C, Brisson M, Delany-Moretlwe S, **Maheu-Giroux M** (2023). Regional and country-level trends in cervical cancer screening coverage in sub-Saharan Africa: a systematic analysis of population-based surveys (2000-2020). *PLoS Medicine* 20(1):e1004143.
 </a> 
   
 # 
