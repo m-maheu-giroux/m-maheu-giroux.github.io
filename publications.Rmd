@@ -203,7 +203,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[68]** Sardinha L, **Maheu-Giroux M**, Stöckl H, Meyer S, García-Moreno C (2022). Global, regional, and national prevalence of intimate partner violence against women (2018). *The Lancet* 399(10327):803-813.
 </a> 
   
-<a class = "one" href = "https://dx.doi.org/sextrans-2021-055215" target = "_blank">
+<a class = "one" href = "http://dx.doi.org/10.1136/sextrans-2021-055215" target = "_blank">
 **[67]** Flores Anato JL, Panagiotoglou D, Greenwald ZR, Blanchette M, Trottier C, Vaziri M, Charest L, Szabo J, Thomas R, and **Maheu-Giroux M** (2022). Chemsex and incidence of sexually transmitted infections among Canadian pre-exposure prophylaxis (PrEP) users in the l’Actuel PrEP Cohort (2013-2020). *Sexually Transmitted Infections* 0:1-8.
 </a>   
   
