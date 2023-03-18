@@ -37,8 +37,13 @@ Feel free to email me to obtain a copy of any of the papers below.
 # Peer-reviewed papers  
 #  
 
-## Under Review
+## Submitted
 # 
+
+#  
+<div class = "class-name">
+**[98]** Kuchukhidze S, Panagiotoglou, Boily MC, Diabaté s, Eaton JW, Stöckl H, Mbofana F, Wanyenze RK, and **Maheu-Giroux M** (2023). Characteristics of male perpetrators of IPV and implications for women’s HIV status: a pooled analysis of cohabiting couples from sub-Saharan Africa (2000-2020). 
+</div>  
 
 #  
 <div class = "class-name">
@@ -113,8 +118,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a> 
   
 # 
-<a class = "one" href = "http://doi.org/10.1101/2022.08.04.22278331" target = "_blank">
-**[85]** Kuchukhidze S, Panagiotoglou D, Boily MC, Diabaté S, Eaton JW, Mbofana F, Sardinha L, Schrubbe L, Stöckl H, Wanyenze R, and **Maheu-Giroux M** (2022). The effects of intimate partner violence on women’s risk of HIV acquisition and engagement in the HIV treatment and care cascade: a pooled analysis of nationally representative surveys in sub-Saharan Africa. *The Lancet HIV* (Accepted).
+<a class = "one" href = "https://doi.org/10.1016/S2352-3018(22)00305-8" target = "_blank">
+**[85]** Kuchukhidze S, Panagiotoglou D, Boily MC, Diabaté S, Eaton JW, Mbofana F, Sardinha L, Schrubbe L, Stöckl H, Wanyenze R, and **Maheu-Giroux M** (2022). The effects of intimate partner violence on women’s risk of HIV acquisition and engagement in the HIV treatment and care cascade: a pooled analysis of nationally representative surveys in sub-Saharan Africa. *The Lancet HIV* 10(2):E107-E117.
 </a>
   
 #  
