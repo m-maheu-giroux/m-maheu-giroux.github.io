@@ -100,7 +100,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Published
   
 #  
-<a class = "one" href = "" target = "_blank">
+<a class = "one" href = "https://doi.org/10.1016/j.drugpo.2023.104026" target = "_blank">
 **[87]** Lanièce Delaunay C, Klein MB, Godin A, Cox J, Kronfli N, Lebouché B, Doyle CM, **Maheu-Giroux M** (2023). Public health interventions, priority populations, and the impact of COVID-19 disruptions on hepatitis C elimination among people who have injected drugs in Montreal (Canada): a modeling study. *International Journal of Drug Policy*. (Accepted)
 </a>  
 
