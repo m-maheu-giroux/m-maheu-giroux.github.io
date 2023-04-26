@@ -13,7 +13,7 @@
 
 <title>index.knit</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -59,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -140,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -173,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -182,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -235,7 +236,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -414,13 +415,23 @@ a.one {
 </div>
 <div id="mathieu-maheu-giroux-scd" class="section level1">
 <h1><strong>Mathieu Maheu-Giroux, ScD</strong></h1>
-<div id="canada-research-chair-tier-2-in-population-health-modeling" class="section level3">
-<h3>Canada Research Chair (Tier 2) in <em>Population Health Modeling</em></h3>
+<div id="canada-research-chair-tier-2-in-population-health-modeling"
+class="section level3">
+<h3>Canada Research Chair (Tier 2) in <em>Population Health
+Modeling</em></h3>
 </div>
 <div id="associate-professor-mcgill-university" class="section level3">
 <h3>Associate Professor, McGill University</h3>
-<p>I am an interdisciplinary public health researcher and my work has focused primarily on 1) infectious disease modeling, 2) epidemiology and measurements, and 3) impact and economic evaluations of public health interventions.</p>
-<p>In 2017 joined the Department of Epidemiology and Biostatistics at <a href="https://www.mcgill.ca/epi-biostat-occh/">McGill University</a>. Prior to this appointment, I was a sponsored researcher in the Department of Infectious Disease Epidemiology at <a href="https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/">Imperial College London</a>.</p>
+<p>I am an interdisciplinary public health researcher and my work has
+focused primarily on 1) infectious disease modeling, 2) epidemiology and
+measurements, and 3) impact and economic evaluations of public health
+interventions.</p>
+<p>In 2017 joined the Department of Epidemiology and Biostatistics at <a
+href="https://www.mcgill.ca/epi-biostat-occh/">McGill University</a>.
+Prior to this appointment, I was a sponsored researcher in the
+Department of Infectious Disease Epidemiology at <a
+href="https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/">Imperial
+College London</a>.</p>
 </div>
 </div>
 <div id="section-2" class="section level1">
@@ -430,7 +441,8 @@ a.one {
 <h1></h1>
 <div id="research-interests" class="section level2">
 <h2><i class="glyphicon glyphicon-list"></i> Research Interests</h2>
-<p>Population Health / Infectious Disease Epidemiology / Impact Evaluation<br />
+<p>Population Health / Infectious Disease Epidemiology / Impact
+Evaluation<br />
 Bayesian Statistics / Modeling / Measurements and Disease Burden</p>
 </div>
 </div>
@@ -441,7 +453,8 @@ Bayesian Statistics / Modeling / Measurements and Disease Burden</p>
 <h1></h1>
 <div id="education" class="section level2">
 <h2><i class="glyphicon glyphicon-education"></i> Education</h2>
-<p>Fellowship’17 Mathematical Epidemiology (Imperial College London)<br />
+<p>Fellowship’17 Mathematical Epidemiology (Imperial College
+London)<br />
 ScD’15 Global Health and Population (Harvard University)<br />
 MSc’09 Epidemiology (McGill University)<br />
 MSc’05 Ecology (McGill University)<br />
@@ -459,7 +472,8 @@ BSc’03 Biology (Université de Montréal)</p>
 <div id="links" class="section level2">
 <h2><i class="glyphicon glyphicon-link"></i> Links</h2>
 <p><a href="http://orcid.org/0000-0002-8363-4388">ORCID</a><br />
-<a href="https://www.researchgate.net/profile/Mathieu_Maheu-Giroux">ResearchGate</a><br />
+<a
+href="https://www.researchgate.net/profile/Mathieu_Maheu-Giroux">ResearchGate</a><br />
 <a href="https://www.publons.com/a/1355066/">Publons</a><br />
 <a href="https://ca.linkedin.com/in/mmgiroux">LinkedIn</a><br />
 <a href="https://twitter.com/Mat__MG">Twitter</a><br />
@@ -473,17 +487,46 @@ BSc’03 Biology (Université de Montréal)</p>
 <h1></h1>
 <div id="news" class="section level2">
 <h2><i class="glyphicon glyphicon-flash"></i> News</h2>
-<p><a class="one" target="_blank"> <strong>2022-08-15</strong>: Stephen Juwono (MSc student) was awarded the <em>Max E. Binz Fellowships</em> from McGill University. </a> <a class="one" target="_blank"> <strong>2022-08-01</strong>: Lily Yang and James Stannah received the <em>Young Investigator Prize</em> from the <em>International AIDS Society/Quebec AIDS Research Network</em> at the AIDS2022 conference.<br />
-<img src="IAS-YIP.jpg" align="left" width = "400" height = "175"> </a> <a class="one" target="_blank"> <strong>2022-06-02</strong>: Congratulations to Salome Kuchukhidze (PhD student) and Ingrid Lu (MSc Student) who received scholarships from the <em>Fonds de la recherche du Québec - Santé</em>.<br />
-<strong>2022-04-15</strong>: Yiqing Xia (PhD student) was awarded a <em>Doctoral Award - Canada Graduate Scholarships</em> from the <em>Canadian Institutes of Health Research</em>.<br />
-<strong>2022-04-01</strong>: Ingrid Lu (MSc student) was awarded a <em>Frederick Banting and Charles Best Canada Graduate Scholarships</em> from the <em>Canadian Institutes of Health Research</em>.<br />
-<strong>2021-09-01</strong>: Salome Kuchukhidze and James Stannah (PhD candidates) were awarded <em>Max E. Binz Fellowships</em> from McGill University!<br />
-<strong>2021-04-31</strong>: Yiqing Xia (PhD student), James Stannah (PhD student), Lily Yang (MSc student), Arnaud Godin (RA), and Adrien Allorant (post-doc) were awarded scholarships from the <em>Fonds de la recherche du Québec - Santé</em>.<br />
-<strong>2021-04-06</strong>: Lily Yang (MSc student) was awarded a <em>Frederick Banting and Charles Best Canada Graduate Scholarships</em> from the <em>Canadian Institutes of Health Research</em> 👩‍🎓.<br />
-<strong>2021-01-15</strong>: Honored to be awarded (with Caroline Colijn, Julien Arino, and Marc Brisson) the <em>Prix du scientifique de l’année</em> from the <em>Société Radio-Canada</em>.<br />
-<strong>2020-08-21</strong>: James Stannah (PhD candidate) was awarded a <em>Max E. Binz Fellowship</em> from McGill University!<br />
-<strong>2020-04-20</strong>: Jorge Luis Flores (MSc student) was awarded a <em>Frederick Banting and Charles Best Canada Graduate Scholarships</em> from the <em>Canadian Institutes of Health Research</em> 🤓.<br />
-<strong>2020-01-30</strong>: Congratulations to Arnaud Godin (former MSc student) for receiving the <em>Best Master’s Award</em> from the <em>Réseau de recherche en santé des populations du Québec</em>.<br />
+<p><a class="one" target="https://wellcome.org/grant-funding/people-and-projects/grants-awarded/transforming-response-hiv-epidemics-amongst-key">
+<strong>2023-04-25</strong>: With collaborators at the University of
+Bristol, Imperial College London, PAC-CI, Johns Hopkins, and the London
+School of Hygiene and Tropical Meicine, our projects titled
+<em>Transforming the response to the HIV epidemics amongst key
+populations: Addressing structural factors for achieving HIV
+elimination</em> has been funded through a Discovery Award from the
+Wellcome Trust. </a></p>
+<p><a class="one" target="_blank"> <strong>2022-08-15</strong>: Stephen
+Juwono (MSc student) was awarded the <em>Max E. Binz Fellowships</em>
+from McGill University. </a></p>
+<p><a class="one" target="_blank"> <strong>2022-08-01</strong>: Lily
+Yang and James Stannah received the <em>Young Investigator Prize</em>
+from the <em>International AIDS Society/Quebec AIDS Research
+Network</em> at the AIDS2022 conference.<br />
+<img src="IAS-YIP.jpg" align="left" width = "400" height = "175">
+</a></p>
+<p><a class="one" target="_blank"> <strong>2022-06-02</strong>:
+Congratulations to Salome Kuchukhidze (PhD student) and Ingrid Lu (MSc
+Student) who received scholarships from the <em>Fonds de la recherche du
+Québec - Santé</em>.<br />
+<strong>2022-04-15</strong>: Yiqing Xia (PhD student) was awarded a
+<em>Doctoral Award - Canada Graduate Scholarships</em> from the
+<em>Canadian Institutes of Health Research</em>.<br />
+<strong>2022-04-01</strong>: Ingrid Lu (MSc student) was awarded a
+<em>Frederick Banting and Charles Best Canada Graduate Scholarships</em>
+from the <em>Canadian Institutes of Health Research</em>.<br />
+<strong>2021-09-01</strong>: Salome Kuchukhidze and James Stannah (PhD
+candidates) were awarded <em>Max E. Binz Fellowships</em> from McGill
+University!<br />
+<strong>2021-04-31</strong>: Yiqing Xia (PhD student), James Stannah
+(PhD student), Lily Yang (MSc student), Arnaud Godin (RA), and Adrien
+Allorant (post-doc) were awarded scholarships from the <em>Fonds de la
+recherche du Québec - Santé</em>.<br />
+<strong>2021-04-06</strong>: Lily Yang (MSc student) was awarded a
+<em>Frederick Banting and Charles Best Canada Graduate Scholarships</em>
+from the <em>Canadian Institutes of Health Research</em> 👩‍🎓.<br />
+<strong>2021-01-15</strong>: Honored to be awarded (with Caroline
+Colijn, Julien Arino, and Marc Brisson) the <em>Prix du scientifique de
+l’année</em> from the <em>Société Radio-Canada</em>.<br />
 </a></p>
 </div>
 </div>

@@ -162,13 +162,19 @@ BSc'03 Biology (Université de Montréal)
 #
 #
 ## <i class="glyphicon glyphicon-flash"></i> News
+<a class="one" target="https://wellcome.org/grant-funding/people-and-projects/grants-awarded/transforming-response-hiv-epidemics-amongst-key">
+**2023-04-25**: With collaborators at the University of Bristol, Imperial College London, PAC-CI, Johns Hopkins, and the London School of Hygiene and Tropical Meicine, our projects titled *Transforming the response to the HIV epidemics amongst key populations: Addressing structural factors for achieving HIV elimination* has been funded through a Discovery Award from the Wellcome Trust.
+</a> 
+  
 <a class="one" target="_blank">
 **2022-08-15**: Stephen Juwono (MSc student) was awarded the *Max E. Binz Fellowships* from McGill University.
 </a> 
+  
 <a class="one" target="_blank">
 **2022-08-01**: Lily Yang and James Stannah received the *Young Investigator Prize* from the *International AIDS Society/Quebec AIDS Research Network* at the AIDS2022 conference.  
 <img src="IAS-YIP.jpg" align="left" width = "400" height = "175">
 </a> 
+  
 <a class="one" target="_blank"> 
 **2022-06-02**: Congratulations to Salome Kuchukhidze (PhD student) and Ingrid Lu (MSc Student) who received scholarships from the *Fonds de la recherche du Québec - Santé*.  
 **2022-04-15**: Yiqing Xia (PhD student) was awarded a *Doctoral Award - Canada Graduate Scholarships* from the *Canadian Institutes of Health Research*.  
@@ -177,9 +183,6 @@ BSc'03 Biology (Université de Montréal)
 **2021-04-31**: Yiqing Xia (PhD student), James Stannah (PhD student), Lily Yang (MSc student), Arnaud Godin (RA), and Adrien Allorant (post-doc) were awarded scholarships from the *Fonds de la recherche du Québec - Santé*.  
 **2021-04-06**: Lily Yang (MSc student) was awarded a *Frederick Banting and Charles Best Canada Graduate Scholarships* from the *Canadian Institutes of Health Research* `r emo::ji("woman_student")`.  
 **2021-01-15**: Honored to be awarded (with Caroline Colijn, Julien Arino, and Marc Brisson) the *Prix du scientifique de l'année* from the *Société Radio-Canada*.  
-**2020-08-21**: James Stannah (PhD candidate) was awarded a *Max E. Binz Fellowship* from McGill University!  
-**2020-04-20**: Jorge Luis Flores (MSc student) was awarded a *Frederick Banting and Charles Best Canada Graduate Scholarships* from the *Canadian Institutes of Health Research* `r emo::ji("nerd_face")`.  
-**2020-01-30**: Congratulations to Arnaud Godin (former MSc student) for receiving the *Best Master's Award* from the *Réseau de recherche en santé des populations du Québec*.  
 </a> 
 
 </div>
