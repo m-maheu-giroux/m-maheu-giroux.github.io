@@ -38,6 +38,12 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 
 ## Submitted
+
+<div class = "class-name">
+**[101]** Doyle CM, Milwid RM, Cox J, Xia Y, Lambert G, Tremblay C, Otis J, Boily MC, Baril JG, Mercure SA, Thomas R, Trottier B, Mishra S, **Maheu-Giroux M** (2023). Population-level impact of pre-exposure prophylaxis on HIV acquisitions among men who have sex with men: a mathematical modeling study in Montréal, Canada (2013-2021). Pre-print [here](https://doi.org/10.1101/2023.05.31.23290795). 
+</div>  
+   
+#  
 <div class = "class-name">
 **[100]** Allorant A, Muset P, Hodgins C, Kirakoya-Samadoulougou F, Namachapa K, Mbofana F, Panagiotglou, Johnson LF, Eaton JW, and **Maheu-Giroux M** (2023). Temporal trends and determinants of HIV testing at antenatal care in sub-Saharan Africa: a pooled analysis of population-based surveys (2005-2021).  
 </div>  
@@ -98,8 +104,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a>  
  
 #  
-<a class = "one" href = "" target = "_blank">
-**[89]** Ky-Zerbo O, Desclaux A, Boye S, **Maheu-Giroux M**, Rouveau N, Vautier A, Camara CS, Kouadio BA, Sow S, Gueye PA, Geoffroy O, Kamemba OK, Ehui E, Ndour CT, Keita A, Larmarange J, and the ATLAS Team (2023). “I take it and give it to my partners who will give it to their partners”: Secondary distribution of HIV self-tests (HIVST) by key populations in Côte d’Ivoire, Mali, and Senegal. *BMC Supplements*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1186/s12879‑023‑08319‑4" target = "_blank">
+**[89]** Ky-Zerbo O, Desclaux A, Boye S, **Maheu-Giroux M**, Rouveau N, Vautier A, Camara CS, Kouadio BA, Sow S, Gueye PA, Geoffroy O, Kamemba OK, Ehui E, Ndour CT, Keita A, Larmarange J, and the ATLAS Team (2023). “I take it and give it to my partners who will give it to their partners”: Secondary distribution of HIV self-tests (HIVST) by key populations in Côte d’Ivoire, Mali, and Senegal. *BMC Infectious Diseases* 22:970.
 </a>  
 
 #  
