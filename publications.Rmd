@@ -45,7 +45,7 @@ Feel free to email me to obtain a copy of any of the papers below.
    
 #  
 <div class = "class-name">
-**[100]** Allorant A, Muset P, Hodgins C, Kirakoya-Samadoulougou F, Namachapa K, Mbofana F, Panagiotglou, Johnson LF, Eaton JW, and **Maheu-Giroux M** (2023). Temporal trends and determinants of HIV testing at antenatal care in sub-Saharan Africa: a pooled analysis of population-based surveys (2005-2021).  
+**[100]** Allorant A, Muset P, Hodgins C, Kirakoya-Samadoulougou F, Namachapa K, Mbofana F, Panagiotoglou, Johnson LF, Eaton JW, and **Maheu-Giroux M** (2023). Temporal trends and determinants of HIV testing at antenatal care in sub-Saharan Africa: a pooled analysis of population-based surveys (2005-2021).  
 </div>  
 
 #  
@@ -57,47 +57,48 @@ Feel free to email me to obtain a copy of any of the papers below.
 <div class = "class-name">
 **[98]** Kuchukhidze S, Panagiotoglou, Boily MC, Diabaté s, Eaton JW, Stöckl H, Mbofana F, Wanyenze RK, and **Maheu-Giroux M** (2023). Characteristics of male perpetrators of IPV and implications for women’s HIV status: a pooled analysis of cohabiting couples from sub-Saharan Africa (2000-2020). 
 </div>  
-
-#    
+  
+#  
 <div class = "class-name">
-**[97]** Caya C, Singh AE, Serhir B, Morin V, Libman MD, Corsini R, Goldfarb DM, Wong T, Xia Y, **Maheu-Giroux M**, and Yansouni CP (2023). Stopping syphilis transmission in Arctic communities through rapid diagnostic testing (STAR study): a multisite prospective field diagnostic accuracy study in an intended-use setting. Pre-print [here](https://ssrn.com/abstract=4301806).
+**[97]** Flores Anato JL, Ma H, Hamilton MA, Xia Y, Harper S, Buckeridge D, Brisson M, Hillmer MP, Malikov K, Aidin Kerem, Beall R, Baral S, Dubé È, Mishra S, **Maheu-Giroux M** (2023). Impact of a vaccine passport on first-dose vaccine coverage by age and area-level social determinants of health in the Canadian provinces of Québec and Ontario: an interrupted time series analysis. Pre-print [here](https://doi.org/10.1101/2022.10.18.22281192). 
 </div>  
   
 #  
 <div class = "class-name">
-**[96]** Flores Anato JL, Ma H, Hamilton MA, Xia Y, Harper S, Buckeridge D, Brisson M, Hillmer MP, Malikov K, Aidin Kerem, Beall R, Baral S, Dubé È, Mishra S, **Maheu-Giroux M** (2023). Impact of a vaccine passport on first-dose vaccine coverage by age and area-level social determinants of health in the Canadian provinces of Québec and Ontario: an interrupted time series analysis. Pre-print [here](https://doi.org/10.1101/2022.10.18.22281192). 
-</div>  
-  
-#  
-<div class = "class-name">
-**[95]** Silhol R, Nordsletten A, **Maheu-Giroux M**, Elmes J, Staunton R, Owen B, Shacklett B, McGowan I, Gomez Feliciano K, van der Straten A, Eller LA, Robb M, Mararazzo J, Dimitrov D, Boily MC (2023). The association between heterosexual anal intercourse and HIV acquisition in three prospective cohorts of women. Pre-print [here](https://doi.org/10.1101/2022.09.07.22279674).
-</div>  
-  
-#  
-<div class = "class-name">
-**[94]** Yokoji K, Giguère K (co-first authors), Rönn MM, Dalal S, Mayaud P, Kelly H, Delany-Moretlwe S, Drolet M, Brisson M, Boily MC, **Maheu-Giroux M** (2023). Association of naturally acquired type-specific HPV antibodies and subsequent HPV re-detection: Systematic review and meta-analysis.  
+**[96]** Yokoji K, Giguère K (co-first authors), Rönn MM, Dalal S, Mayaud P, Kelly H, Delany-Moretlwe S, Drolet M, Brisson M, Boily MC, **Maheu-Giroux M** (2023). Association of naturally acquired type-specific HPV antibodies and subsequent HPV re-detection: Systematic review and meta-analysis.  
 </div>  
   
   
 #  
 <div class = "class-name">
-**[93]** Kouassi Kra A, Simo Fosto A, N’guessan KN, Geoffroy O, Younoussa S, Kabemba OK, Gueye PA, Ndeye PD, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, and the ATLAS Team (2023). Profile of HIV self-testing users in Côte d’Ivoire, Mali and Senegal: feasibility of secondary distribution and capacity to reach vulnerable groups beyond key populations.
+**[95]** Kouassi Kra A, Simo Fosto A, N’guessan KN, Geoffroy O, Younoussa S, Kabemba OK, Gueye PA, Ndeye PD, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, and the ATLAS Team (2023). Profile of HIV self-testing users in Côte d’Ivoire, Mali and Senegal: feasibility of secondary distribution and capacity to reach vulnerable groups beyond key populations.
 </div>  
 
 #  
 <div class = "class-name">
-**[92]** Boye S, Kouadio A, Kouvahe AF, Vautier A, Ky-Zerbo O, Rouveau N, **Maheu-Giroux M**, Larmarange J, Pourette D, and the ATLAS Team (2023). Organisation of testing services, barriers and facilitators to routine HIV self-testing during sexually transmitted infection consultations: a qualitative study of patients and providers in Abidjan, Côte d’Ivoire.
+**[94]** Boye S, Kouadio A, Kouvahe AF, Vautier A, Ky-Zerbo O, Rouveau N, **Maheu-Giroux M**, Larmarange J, Pourette D, and the ATLAS Team (2023). Organisation of testing services, barriers and facilitators to routine HIV self-testing during sexually transmitted infection consultations: a qualitative study of patients and providers in Abidjan, Côte d’Ivoire.
 </div>  
   
 #  
 <div class = "class-name">
-**[91]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2023). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
+**[93]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2023). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
 </div>  
   
 
 #
 ## Published
  
+ 
+ #    
+<a class = "one" href = "https://ssrn.com/abstract=4301806" target = "_blank">
+**[92]** Caya C, Singh AE, Serhir B, Morin V, Libman MD, Corsini R, Goldfarb DM, Wong T, Xia Y, **Maheu-Giroux M**, and Yansouni CP (2023). Rapid diagnostic testing for syphilis in Arctic communities (the STAR study): A multisite prospective field diagnostic accuracy study in an intended-use setting. 
+</a>  
+
+#  
+<a class = "one" href = "https://doi.org/10.1101/2022.09.07.22279674" target = "_blank">
+**[91]** Silhol R, Nordsletten A, **Maheu-Giroux M**, Elmes J, Staunton R, Owen B, Shacklett B, McGowan I, Gomez Feliciano K, van der Straten A, Eller LA, Robb M, Mararazzo J, Dimitrov D, Boily MC (2023). The association between heterosexual anal intercourse and HIV acquisition in three prospective cohorts of women. *AIDS and Behavior*. (Accepted)
+</a>  
+
 #  
 <a class = "one" href = "" target = "_blank">
 **[90]** Stansfield S, Heitner J, Mitchell K, Doyle CM, Milwid R, Moore J, Donnell D, Hanscom B, Xia Y, **Maheu-Giroux M**, Van de Vijver D, Wang H, Barnabas R, Boily MC, Dimitrov D (2023). Population-level impact of expanding PrEP coverage by offering long-acting injectable PrEP to MSM in three high resources settings: a model comparison analysis. *Journal of the International AIDS Society*. (Accepted)
