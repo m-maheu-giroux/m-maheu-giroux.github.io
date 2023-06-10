@@ -91,7 +91,7 @@ Feel free to email me to obtain a copy of any of the papers below.
  
  #    
 <a class = "one" href = "https://ssrn.com/abstract=4301806" target = "_blank">
-**[92]** Caya C, Singh AE, Serhir B, Morin V, Libman MD, Corsini R, Goldfarb DM, Wong T, Xia Y, **Maheu-Giroux M**, and Yansouni CP (2023). Rapid diagnostic testing for syphilis in Arctic communities (the STAR study): A multisite prospective field diagnostic accuracy study in an intended-use setting. 
+**[92]** Caya C, Singh AE, Serhir B, Morin V, Libman MD, Corsini R, Goldfarb DM, Wong T, Xia Y, **Maheu-Giroux M**, and Yansouni CP (2023). Rapid diagnostic testing for syphilis in Arctic communities (the STAR study): A multisite prospective field diagnostic accuracy study in an intended-use setting. *Clinical Microbiology and Infection*. (Accepted)
 </a>  
 
 #  
