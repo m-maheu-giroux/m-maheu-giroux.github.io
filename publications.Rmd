@@ -85,11 +85,10 @@ Feel free to email me to obtain a copy of any of the papers below.
 </div>  
   
 
-#
+
 ## Published
  
  
- #    
 <a class = "one" href = "https://ssrn.com/abstract=4301806" target = "_blank">
 **[92]** Caya C, Singh AE, Serhir B, Morin V, Libman MD, Corsini R, Goldfarb DM, Wong T, Xia Y, **Maheu-Giroux M**, and Yansouni CP (2023). Rapid diagnostic testing for syphilis in Arctic communities (the STAR study): A multisite prospective field diagnostic accuracy study in an intended-use setting. *Clinical Microbiology and Infection*. (Accepted)
 </a>  
@@ -105,7 +104,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a>  
  
 #  
-<a class = "one" href = "https://doi.org/10.1186/s12879‑023‑08319‑4" target = "_blank">
+<a class = "one" href = "https://doi.org/10.1186/s12879-023-08319-4" target = "_blank">
 **[89]** Ky-Zerbo O, Desclaux A, Boye S, **Maheu-Giroux M**, Rouveau N, Vautier A, Camara CS, Kouadio BA, Sow S, Gueye PA, Geoffroy O, Kamemba OK, Ehui E, Ndour CT, Keita A, Larmarange J, and the ATLAS Team (2023). “I take it and give it to my partners who will give it to their partners”: Secondary distribution of HIV self-tests (HIVST) by key populations in Côte d’Ivoire, Mali, and Senegal. *BMC Infectious Diseases* 22:970.
 </a>  
 
