@@ -60,28 +60,23 @@ Feel free to email me to obtain a copy of any of the papers below.
   
 #  
 <div class = "class-name">
-**[97]** Flores Anato JL, Ma H, Hamilton MA, Xia Y, Harper S, Buckeridge D, Brisson M, Hillmer MP, Malikov K, Aidin Kerem, Beall R, Baral S, Dubé È, Mishra S, **Maheu-Giroux M** (2023). Impact of a vaccine passport on first-dose vaccine coverage by age and area-level social determinants of health in the Canadian provinces of Québec and Ontario: an interrupted time series analysis. Pre-print [here](https://doi.org/10.1101/2022.10.18.22281192). 
-</div>  
-  
-#  
-<div class = "class-name">
-**[96]** Yokoji K, Giguère K (co-first authors), Rönn MM, Dalal S, Mayaud P, Kelly H, Delany-Moretlwe S, Drolet M, Brisson M, Boily MC, **Maheu-Giroux M** (2023). Association of naturally acquired type-specific HPV antibodies and subsequent HPV re-detection: Systematic review and meta-analysis.  
+**[97]** Yokoji K, Giguère K (co-first authors), Rönn MM, Dalal S, Mayaud P, Kelly H, Delany-Moretlwe S, Drolet M, Brisson M, Boily MC, **Maheu-Giroux M** (2023). Association of naturally acquired type-specific HPV antibodies and subsequent HPV re-detection: Systematic review and meta-analysis.  
 </div>  
   
   
 #  
 <div class = "class-name">
-**[95]** Kouassi Kra A, Simo Fosto A, N’guessan KN, Geoffroy O, Younoussa S, Kabemba OK, Gueye PA, Ndeye PD, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, and the ATLAS Team (2023). Profile of HIV self-testing users in Côte d’Ivoire, Mali and Senegal: feasibility of secondary distribution and capacity to reach vulnerable groups beyond key populations.
+**[96]** Kouassi Kra A, Simo Fosto A, N’guessan KN, Geoffroy O, Younoussa S, Kabemba OK, Gueye PA, Ndeye PD, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, and the ATLAS Team (2023). Profile of HIV self-testing users in Côte d’Ivoire, Mali and Senegal: feasibility of secondary distribution and capacity to reach vulnerable groups beyond key populations.
 </div>  
 
 #  
 <div class = "class-name">
-**[94]** Boye S, Kouadio A, Kouvahe AF, Vautier A, Ky-Zerbo O, Rouveau N, **Maheu-Giroux M**, Larmarange J, Pourette D, and the ATLAS Team (2023). Organisation of testing services, barriers and facilitators to routine HIV self-testing during sexually transmitted infection consultations: a qualitative study of patients and providers in Abidjan, Côte d’Ivoire.
+**[95]** Boye S, Kouadio A, Kouvahe AF, Vautier A, Ky-Zerbo O, Rouveau N, **Maheu-Giroux M**, Larmarange J, Pourette D, and the ATLAS Team (2023). Organisation of testing services, barriers and facilitators to routine HIV self-testing during sexually transmitted infection consultations: a qualitative study of patients and providers in Abidjan, Côte d’Ivoire.
 </div>  
   
 #  
 <div class = "class-name">
-**[93]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2023). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
+**[94]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2023). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
 </div>  
   
 
@@ -89,6 +84,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Published
  
  
+ #  
+<a class = "one" href = "https://doi.org/10.1101/2022.10.18.22281192" target = "_blank">
+**[93]** Flores Anato JL, Ma H, Hamilton MA, Xia Y, Harper S, Buckeridge D, Brisson M, Hillmer MP, Malikov K, Aidin Kerem, Beall R, Baral S, Dubé È, Mishra S, **Maheu-Giroux M** (2023). Impact of a vaccine passport on first-dose vaccine coverage by age and area-level social determinants of health in the Canadian provinces of Québec and Ontario: an interrupted time series analysis. *CMAJ Open*. (Accepted)
+</a>   
+
 <a class = "one" href = "https://ssrn.com/abstract=4301806" target = "_blank">
 **[92]** Caya C, Singh AE, Serhir B, Morin V, Libman MD, Corsini R, Goldfarb DM, Wong T, Xia Y, **Maheu-Giroux M**, and Yansouni CP (2023). Rapid diagnostic testing for syphilis in Arctic communities (the STAR study): A multisite prospective field diagnostic accuracy study in an intended-use setting. *Clinical Microbiology and Infection*. (Accepted)
 </a>  
@@ -125,7 +125,7 @@ Feel free to email me to obtain a copy of any of the papers below.
   
 # 
 <a class = "one" href = "https://doi.org/10.1016/S2352-3018(22)00305-8" target = "_blank">
-**[85]** Kuchukhidze S, Panagiotoglou D, Boily MC, Diabaté S, Eaton JW, Mbofana F, Sardinha L, Schrubbe L, Stöckl H, Wanyenze R, and **Maheu-Giroux M** (2022). The effects of intimate partner violence on women’s risk of HIV acquisition and engagement in the HIV treatment and care cascade: a pooled analysis of nationally representative surveys in sub-Saharan Africa. *The Lancet HIV* 10(2):E107-E117.
+**[85]** Kuchukhidze S, Panagiotoglou D, Boily MC, Diabaté S, Eaton JW, Mbofana F, Sardinha L, Schrubbe L, Stöckl H, Wanyenze R, and **Maheu-Giroux M** (2023). The effects of intimate partner violence on women’s risk of HIV acquisition and engagement in the HIV treatment and care cascade: a pooled analysis of nationally representative surveys in sub-Saharan Africa. *The Lancet HIV* 10(2):E107-E117.
 </a>
   
 #  
@@ -553,6 +553,16 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 #  
 # Reports
+# 
+<a class="one" href = "https://www.ncbi.nlm.nih.gov/books/NBK586588/">
+Stansfield S, Heitner J, Mitchell K, Doyle CM, Milwid RM, Maheu-Giroux M, Jamieson L, Meyer-Rath G, Johnson LF, Smith J, Philips A, Boily MC, Dimitrov D (2022). Projected population impact of expanding PrEP coverage by offering long-acting injectable PrEP in different settings: model comparison analysis. In: Guidelines on Long-Acting Injectable Cabotegravir for HIV Prevention. Geneva: World Health Organization. WEB ANNEX D.
+</a>
+  
+# 
+<a class="one" href = "https://www.inspq.qc.ca/es/node/27855">
+Comité d’experts en vigie génomique du SRAS-CoV-2 (2021). État de situation sur le variant B.1.617 du SRAS-CoV-2 (émergent d’Inde) et recommandations pour en rehausser la surveillance au Québec. Institut national de santé publique du Québec. (No de publication 3139).
+</a>
+  
 # 
 <a class="one" href = "https://www.who.int/publications/i/item/9789240022256">
 WHO (2021). Violence against women prevalence estimates, 2018: global, regional and national prevalence estimates for intimate partner violence against women and global and regional prevalence for non-partner sexual violence against women. Geneva: World Health Organization.
