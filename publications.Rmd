@@ -40,6 +40,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Submitted
 
 <div class = "class-name">
+**[102]** Stevens O, Anderson R, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Crowell TA, Tally L, Mulenga L, Neena P, Maheu-Giroux M, McIntyre A, Hladik W, Zhao J, Mahy M, Eaton JW (2023). HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. 
+</div>  
+
+#
+<div class = "class-name">
 **[101]** Doyle CM, Milwid RM, Cox J, Xia Y, Lambert G, Tremblay C, Otis J, Boily MC, Baril JG, Mercure SA, Thomas R, Trottier B, Mishra S, **Maheu-Giroux M** (2023). Population-level impact of pre-exposure prophylaxis on HIV acquisitions among men who have sex with men: a mathematical modeling study in Montréal, Canada (2013-2021). Pre-print [here](https://doi.org/10.1101/2023.05.31.23290795). 
 </div>  
    
@@ -109,8 +114,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a>  
 
 #  
-<a class = "one" href = "https://doi.org/10.1101/2022.11.14.22282329" target = "_blank">
-**[88]** Stannah J, Soni R, Lam JKS, Giguère K, Mitchell K, Kronfli N, Larmarange J, Moh R, N’zebo Nouaman M, Kouamé GM, Boily MC, **Maheu-Giroux M**,  (2023). Trends in HIV testing, the treatment cascade, and HIV incidence among men who have sex with men in Africa: A systematic review and meta-analysis. *The Lancet HIV*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1016/S2352-3018(23)00111-X" target = "_blank">
+**[88]** Stannah J, Soni R, Lam JKS, Giguère K, Mitchell K, Kronfli N, Larmarange J, Moh R, N’zebo Nouaman M, Kouamé GM, Boily MC, **Maheu-Giroux M**  (2023). Trends in HIV testing, the treatment cascade, and HIV incidence among men who have sex with men in Africa: A systematic review and meta-analysis. *The Lancet HIV*. (In Press)
 </a>    
 
 #  
