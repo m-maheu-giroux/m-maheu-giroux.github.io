@@ -104,8 +104,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a>  
 
 #  
-<a class = "one" href = "" target = "_blank">
-**[90]** Stansfield S, Heitner J, Mitchell K, Doyle CM, Milwid R, Moore J, Donnell D, Hanscom B, Xia Y, **Maheu-Giroux M**, Van de Vijver D, Wang H, Barnabas R, Boily MC, Dimitrov D (2023). Population-level impact of expanding PrEP coverage by offering long-acting injectable PrEP to MSM in three high resources settings: a model comparison analysis. *Journal of the International AIDS Society*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1002/jia2.26109" target = "_blank">
+**[90]** Stansfield S, Heitner J, Mitchell K, Doyle CM, Milwid R, Moore J, Donnell D, Hanscom B, Xia Y, **Maheu-Giroux M**, Van de Vijver D, Wang H, Barnabas R, Boily MC, Dimitrov D (2023). Population-level impact of expanding PrEP coverage by offering long-acting injectable PrEP to MSM in three high resources settings: a model comparison analysis. *Journal of the International AIDS Society* 26(S2):e26109.
 </a>  
  
 #  
