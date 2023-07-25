@@ -40,7 +40,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Submitted
 
 <div class = "class-name">
-**[103]** Juwono S, Flores Anatao JL, Kirschbaum A, Metheny N, Dvorakova M, Skakoon-Sparling S, Moore DM, Grace D, Hart TA, Lambert G, Lawchosky NJ, Jollimore J, Cox J, **Maheu-Giroux M** (2023). Prevalence, determinants, and trends in the experience and perpetration of intimate partner violence among a cohort of gay, bisexual, and other men who have sex with men in Montréal, Toronto, and Vancouver, Canada (2017-2022).
+**[103]** Juwono S, Flores Anatao JL, Kirschbaum A, Metheny N, Dvorakova M, Skakoon-Sparling S, Moore DM, Grace D, Hart TA, Lambert G, Lawchosky NJ, Jollimore J, Cox J, **Maheu-Giroux M** (2023). Prevalence, determinants, and trends in the experience and perpetration of intimate partner violence among a cohort of gay, bisexual, and other men who have sex with men in Montréal, Toronto, and Vancouver, Canada (2017-2022). Pre-print [here](https://doi.org/10.1101/2023.07.24.23293112).
 </div>  
 
 #
