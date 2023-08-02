@@ -40,6 +40,16 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Submitted
 
 <div class = "class-name">
+**[105]** Steven O, Anderson R, Stover J, Teng Y, Stannah J, Silhol R, Jones H, Booton RD, Martin-Hughes R, Johnson LF, **Maheu-Giroux M**, Mishra S, Stone J, Bershteyn A, Sabin K, Mitchell KM, Dimitrov D, Baral S, Donnell D, Korenromp E, Rice B, Hargreaves J, Vickerman P, Mahy M, Boily MC, Eaton JW (2023). Comparison of empirical and model-based key population HIV incidence and the distribution of new infections by population groups in sub-Saharan Africa.
+</div>  
+
+#
+<div class = "class-name">
+**[104]** Silhol R, Anderson RL, Stevens O, Stannah J, Booton RD, Baral S, Dimitrov D, Mitchell K, Donnell D, Bershteyn, Brown T, Kelly SL, Kim HY, Johnson LF, **Maheu-Giroux M**, Martin-Hugues R, Mishra S, Peerapatanapokin W, Stone J, Stover J, Stuart R, Teng Y, Vickerman P, Wilson DP, Korenromp E, Eaton JW, Boily MC (2023). Fractions of HIV infections acquired by non-key populations partners of key population: estimates from HIV transmission-dynamic models.
+</div>  
+
+#
+<div class = "class-name">
 **[103]** Juwono S, Flores Anatao JL, Kirschbaum A, Metheny N, Dvorakova M, Skakoon-Sparling S, Moore DM, Grace D, Hart TA, Lambert G, Lawchosky NJ, Jollimore J, Cox J, **Maheu-Giroux M** (2023). Prevalence, determinants, and trends in the experience and perpetration of intimate partner violence among a cohort of gay, bisexual, and other men who have sex with men in Montréal, Toronto, and Vancouver, Canada (2017-2022). Pre-print [here](https://doi.org/10.1101/2023.07.24.23293112).
 </div>  
 
