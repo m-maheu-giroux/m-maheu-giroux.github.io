@@ -38,7 +38,12 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 
 ## Submitted
+  
+<div class = "class-name">
+**[106]** Xiu F+, Flores Anato JL+ (+contributed equally), Cox J, Grace D, Hart TA, Skakoon-Sparling S, Dvorakova M, Knight J, Wang L, Gatalo, O, Campbell E, Zhang T, Sbihi H, Irvine MA, Mishra S, **Maheu-Giroux M** (2023). Characteristics of the sexual networks of gay, bisexual, and other men who have sex with men in Montréal, Toronto, and Vancouver: implications for the transmission and control of mpox in Canada. 
+</div>  
 
+# 
 <div class = "class-name">
 **[105]** Steven O, Anderson R, Stover J, Teng Y, Stannah J, Silhol R, Jones H, Booton RD, Martin-Hughes R, Johnson LF, **Maheu-Giroux M**, Mishra S, Stone J, Bershteyn A, Sabin K, Mitchell KM, Dimitrov D, Baral S, Donnell D, Korenromp E, Rice B, Hargreaves J, Vickerman P, Mahy M, Boily MC, Eaton JW (2023). Comparison of empirical and model-based key population HIV incidence and the distribution of new infections by population groups in sub-Saharan Africa.
 </div>  
