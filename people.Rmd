@@ -53,16 +53,6 @@ MSc Student in Epidemiology (McGill). Research Topic: *Cost-effectiveness analys
 </div>
 </div>
 
-<div class = "row">
-<div class = "column left">
-<img src = "Stephen_Juwono.jpg" align = "left" width = "100" height = "100"  />
-</div>
-<div class = "column right">
-### <i class = "glyphicon glyphicon-user"> </i> Stephen Juwono
-MSc Student in Epidemiology (McGill). Research Topic: *Intimate partner violence, substance use, and sexually transmitted infections among Canadian men who have sex with men: a cohort analysis (2017-2022)*.
-</div>
-</div>
-
 
 <div class = "row">
 <div class = "column left">
@@ -78,16 +68,6 @@ MSc Student in Epidemiology (McGill). Research Topic: *Sexual networks of gay, b
 #  
 #  
 # Doctoral 
-
-<div class = "row">
-<div class = "column left">
-<img src = "Carla_Doyle.jpg" align = "left" width = "100" height = "100"  />
-</div>
-<div class = "column right">
-### <i class = "glyphicon glyphicon-user"> </i> Carla Doyle
-PhD Student in Epidemiology (McGill). Research Topic: *Model-based impact evaluation of pre-exposure prophylaxis (PrEP) on HIV transmission among Montréal men who have sex with men*. Co-supervisor: [Joseph Cox](https://www.mcgill.ca/epi-biostat-occh/joseph-cox).
-</div>
-</div>
 
 
 <div class = "row">
@@ -116,22 +96,10 @@ PhD Student in Epidemiology (McGill). Research Topic: *HIV testing services and 
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Yiqing Xia
-PhD Student in Epidemiology (McGill). Research Topic: *Surveillance and modeling for infectious diesases control*. 
+PhD Student in Epidemiology (McGill). Research Topic: *Surveillance and modeling for infectious diseases control*. 
 </div>
 </div>
 
-#  
-# Postdoctoral
-#
-<div class = "row">
-<div class = "column left">
-<img src = "Adrien_Allorant.jpg" align = "left" width = "100" height = "100"  />
-</div>
-<div class = "column right">
-### <i class = "glyphicon glyphicon-user"> </i> Adrien Allorant
-Postdoc (McGill). Research Topic: *Optimizing HIV testing services to end AIDS in sub-Saharan Africa*.
-</div>
-</div>
 
 #  
 # Research Assistant
@@ -142,17 +110,49 @@ Postdoc (McGill). Research Topic: *Optimizing HIV testing services to end AIDS i
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Jorge Luis Flores
-Jorge holds a BSc in Microbiology and Immunology and recently graduated with a MSc in Epidemiology both from McGill Unviersity.
+Jorge holds a BSc in Microbiology and Immunology and recently graduated with a MSc in Epidemiology both from McGill University.
 </div>
 </div>
 
+#  
+# Research Associate
+#  
 
+<div class = "row">
+<div class = "column left">
+<img src = "Carla_Doyle.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Carla Doyle
+Dr. Carla Doyle holds a BSc in Mathematics & Statistics from Acadia University, and both MScPH and PhD in Epidemiology from McGill University.
+</div>
+</div>
 
 #  
 # Past Supervision
 #  
  
-   
+<div class = "row">
+<div class = "column left">
+<img src = "Adrien_Allorant.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Adrien Allorant (Fellowship'23)
+Postdoc (McGill). Research Topic: *Optimizing HIV testing services to end AIDS in sub-Saharan Africa*.
+</div>
+</div>
+
+<div class = "row">
+<div class = "column left">
+<img src = "Stephen_Juwono.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Stephen Juwono (MSc'23)
+MSc Epidemiology (McGill). Research Topic: *Intimate partner violence, substance use, and sexually transmitted infections among Canadian men who have sex with men: a cohort analysis (2017-2022)*.
+</div>
+</div>
+
+
 <div class = "row">
 <div class = "column left">
 <img src = "Lily_Yang.png" align = "left" width = "100" height = "100"  />
