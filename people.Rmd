@@ -59,8 +59,8 @@ MSc Student in Epidemiology (McGill). Research Topic: *Cost-effectiveness analys
 <img src = "Fanyu_Xiu.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
-### <i class = "glyphicon glyphicon-user"> </i> Vanessa (Fanyu) Xiu
-MSc Student in Epidemiology (McGill). Research Topic: *Sexual networks of gay, bisexual, and other men who have sex with men in Canada: implications the transmission and control of monkeypox*.
+### <i class = "glyphicon glyphicon-user"> </i> Fanyu (Vanessa) Xiu
+MSc Student in Epidemiology (McGill). Research Topic: *Sexual networks of gay, bisexual, and other men who have sex with men in Canada: implications the transmission and control of mpox*.
 </div>
 </div>
 
@@ -148,7 +148,7 @@ Postdoc (McGill). Research Topic: *Optimizing HIV testing services to end AIDS i
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Stephen Juwono (MSc'23)
-MSc Epidemiology (McGill). Research Topic: *Intimate partner violence, substance use, and sexually transmitted infections among Canadian men who have sex with men: a cohort analysis (2017-2022)*.
+MSc Epidemiology (McGill). Research Topic: *Intimate partner violence among gay, bisexual, and other men who have sex with men in Canada: a cohort analysis (2017-2022)*.
 </div>
 </div>
 
