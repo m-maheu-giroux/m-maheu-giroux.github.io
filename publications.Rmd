@@ -39,6 +39,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 ## Submitted
   
+<div class = "class-name"> 
+**[107]** Silhol R, **Maheu-Giroux M**, Soni N, Simo Fotso A, Rouveau N, Vautier A, Doumenc-Aidara C, Geoffroy O, N’Guessan KN, Sidibe Y, Kabemba OK, Gueye PA, Mukandavire C, Vickerman P, Keita A, Ndour CT, Ehui E, Larmarange J, Boily MC, The ATLAS Team (2023). Assessing the potential population-level impacts of HIV self-testing distribution among key populations in Côte d’Ivoire, Mali, and Senegal: a mathematical modelling analysis. 
+Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
+</div>  
+#    
 <div class = "class-name">
 **[106]** Xiu F+, Flores Anato JL+ (+contributed equally), Cox J, Grace D, Hart TA, Skakoon-Sparling S, Dvorakova M, Knight J, Wang L, Gatalo, O, Campbell E, Zhang T, Sbihi H, Irvine MA, Mishra S, **Maheu-Giroux M** (2023). Characteristics of the sexual networks of gay, bisexual, and other men who have sex with men in Montréal, Toronto, and Vancouver: implications for the transmission and control of mpox in Canada. 
 </div>  
