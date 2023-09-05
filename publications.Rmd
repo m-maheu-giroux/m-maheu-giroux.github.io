@@ -40,7 +40,12 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Submitted
 
 <div class = "class-name">   
-**[108]** Sardinha L, Stöckl H, Maheu-Giroux M, Meyer SR, García-Moreno C (2023). A persistent pandemic: the global prevalence of sexual violence against women. 
+**[109]** Milwid RM, Li M, Fazil A, **Maheu-Giroux M**, Doyle CM, Xia Y, Cox J, Grace D, Dvorakova M, Walker SC, Mishra SM, Ogden NH (2023). Exploring the dynamics of the 20222 mpox outbreak in Canada. 
+</div>  
+
+# 
+<div class = "class-name">   
+**[108]** Sardinha L, Stöckl H, **Maheu-Giroux M**, Meyer SR, García-Moreno C (2023). A persistent pandemic: the global prevalence of sexual violence against women. 
 </div>  
 
 #  
@@ -50,7 +55,7 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 </div>  
 #    
 <div class = "class-name">
-**[106]** Xiu F+, Flores Anato JL+ (+contributed equally), Cox J, Grace D, Hart TA, Skakoon-Sparling S, Dvorakova M, Knight J, Wang L, Gatalo, O, Campbell E, Zhang T, Sbihi H, Irvine MA, Mishra S, **Maheu-Giroux M** (2023). Characteristics of the sexual networks of gay, bisexual, and other men who have sex with men in Montréal, Toronto, and Vancouver: implications for the transmission and control of mpox in Canada. 
+**[106]** Xiu F+, Flores Anato JL+ (+contributed equally), Cox J, Grace D, Hart TA, Skakoon-Sparling S, Dvorakova M, Knight J, Wang L, Gatalo, O, Campbell E, Zhang T, Sbihi H, Irvine MA, Mishra S, **Maheu-Giroux M** (2023). Characteristics of the sexual networks of gay, bisexual, and other men who have sex with men in Montréal, Toronto, and Vancouver: implications for the transmission and control of mpox in Canada. Pre-print [here](https://doi.org/10.1101/2023.08.31.23294912).
 </div>  
 
 # 
@@ -123,12 +128,12 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 **[93]** Flores Anato JL, Ma H, Hamilton MA, Xia Y, Harper S, Buckeridge D, Brisson M, Hillmer MP, Malikov K, Aidin Kerem, Beall R, Baral S, Dubé È, Mishra S, **Maheu-Giroux M** (2023). Impact of a vaccine passport on first-dose vaccine coverage by age and area-level social determinants of health in the Canadian provinces of Québec and Ontario: an interrupted time series analysis. *CMAJ Open*. (Accepted)
 </a>   
 
-<a class = "one" href = "https://ssrn.com/abstract=4301806" target = "_blank">
+<a class = "one" href = "https://doi.org/10.1016/j.cmi.2023.06.013" target = "_blank">
 **[92]** Caya C, Singh AE, Serhir B, Morin V, Libman MD, Corsini R, Goldfarb DM, Wong T, Xia Y, **Maheu-Giroux M**, and Yansouni CP (2023). Rapid diagnostic testing for syphilis in Arctic communities (the STAR study): A multisite prospective field diagnostic accuracy study in an intended-use setting. *Clinical Microbiology and Infection*. (Accepted)
 </a>  
 
 #  
-<a class = "one" href = "https://doi.org/10.1101/2022.09.07.22279674" target = "_blank">
+<a class = "one" href = "https://doi.org/10.1007/s10461-023-04115-y" target = "_blank">
 **[91]** Silhol R, Nordsletten A, **Maheu-Giroux M**, Elmes J, Staunton R, Owen B, Shacklett B, McGowan I, Gomez Feliciano K, van der Straten A, Eller LA, Robb M, Mararazzo J, Dimitrov D, Boily MC (2023). The association between heterosexual anal intercourse and HIV acquisition in three prospective cohorts of women. *AIDS and Behavior*. (Accepted)
 </a>  
 
@@ -144,7 +149,7 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 
 #  
 <a class = "one" href = "https://doi.org/10.1016/S2352-3018(23)00111-X" target = "_blank">
-**[88]** Stannah J, Soni R, Lam JKS, Giguère K, Mitchell K, Kronfli N, Larmarange J, Moh R, N’zebo Nouaman M, Kouamé GM, Boily MC, **Maheu-Giroux M**  (2023). Trends in HIV testing, the treatment cascade, and HIV incidence among men who have sex with men in Africa: A systematic review and meta-analysis. *The Lancet HIV*. (In Press)
+**[88]** Stannah J, Soni R, Lam JKS, Giguère K, Mitchell K, Kronfli N, Larmarange J, Moh R, N’zebo Nouaman M, Kouamé GM, Boily MC, **Maheu-Giroux M**  (2023). Trends in HIV testing, the treatment cascade, and HIV incidence among men who have sex with men in Africa: A systematic review and meta-analysis. *The Lancet HIV* 10(8):e528-e542. 
 </a>    
 
 #  
@@ -588,18 +593,23 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 #  
 # Reports
 # 
+
+<a class="one" href = "">
+Doyle CM, Xia Y, Flores Anato JL, and **Maheu-Giroux** M (2023). Evidence review of innovations in public health surveillance of HIV. Public Health Agency of Canada (PHAC). Ottawa, ON (48 pages).
+</a>
+ 
 <a class="one" href = "https://www.ncbi.nlm.nih.gov/books/NBK586588/">
-Stansfield S, Heitner J, Mitchell K, Doyle CM, Milwid RM, Maheu-Giroux M, Jamieson L, Meyer-Rath G, Johnson LF, Smith J, Philips A, Boily MC, Dimitrov D (2022). Projected population impact of expanding PrEP coverage by offering long-acting injectable PrEP in different settings: model comparison analysis. In: Guidelines on Long-Acting Injectable Cabotegravir for HIV Prevention. Geneva: World Health Organization. WEB ANNEX D.
+Stansfield S, Heitner J, Mitchell K, Doyle CM, Milwid RM, **Maheu-Giroux M**, Jamieson L, Meyer-Rath G, Johnson LF, Smith J, Philips A, Boily MC, Dimitrov D (2022). Projected population impact of expanding PrEP coverage by offering long-acting injectable PrEP in different settings: model comparison analysis. In: Guidelines on Long-Acting Injectable Cabotegravir for HIV Prevention. Geneva: World Health Organization. WEB ANNEX D.
 </a>
   
 # 
 <a class="one" href = "https://www.inspq.qc.ca/es/node/27855">
-Comité d’experts en vigie génomique du SRAS-CoV-2 (2021). État de situation sur le variant B.1.617 du SRAS-CoV-2 (émergent d’Inde) et recommandations pour en rehausser la surveillance au Québec. Institut national de santé publique du Québec. (No de publication 3139).
+**Comité d’experts en vigie génomique du SRAS-CoV-2** (2021). État de situation sur le variant B.1.617 du SRAS-CoV-2 (émergent d’Inde) et recommandations pour en rehausser la surveillance au Québec. Institut national de santé publique du Québec. (No de publication 3139).
 </a>
   
 # 
 <a class="one" href = "https://www.who.int/publications/i/item/9789240022256">
-WHO (2021). Violence against women prevalence estimates, 2018: global, regional and national prevalence estimates for intimate partner violence against women and global and regional prevalence for non-partner sexual violence against women. Geneva: World Health Organization.
+**WHO** (2021). Violence against women prevalence estimates, 2018: global, regional and national prevalence estimates for intimate partner violence against women and global and regional prevalence for non-partner sexual violence against women. Geneva: World Health Organization.
 </a>
 
 #  
