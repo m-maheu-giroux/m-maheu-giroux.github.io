@@ -98,26 +98,28 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 <div class = "class-name">
 **[99]** Yokoji K, Giguère K (co-first authors), Rönn MM, Dalal S, Mayaud P, Kelly H, Delany-Moretlwe S, Drolet M, Brisson M, Boily MC, **Maheu-Giroux M** (2023). Association of naturally acquired type-specific HPV antibodies and subsequent HPV re-detection: Systematic review and meta-analysis.  
 </div>  
-  
-#  
-<div class = "class-name">
-**[98]** Kouassi Kra A, Simo Fosto A, N’guessan KN, Geoffroy O, Younoussa S, Kabemba OK, Gueye PA, Ndeye PD, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, and the ATLAS Team (2023). Profile of HIV self-testing users in Côte d’Ivoire, Mali and Senegal: feasibility of secondary distribution and capacity to reach vulnerable groups beyond key populations.
-</div>  
+ 
 
 #  
 <div class = "class-name">
-**[97]** Boye S, Kouadio A, Kouvahe AF, Vautier A, Ky-Zerbo O, Rouveau N, **Maheu-Giroux M**, Larmarange J, Pourette D, and the ATLAS Team (2023). Organisation of testing services, barriers and facilitators to routine HIV self-testing during sexually transmitted infection consultations: a qualitative study of patients and providers in Abidjan, Côte d’Ivoire.
+**[98]** Boye S, Kouadio A, Kouvahe AF, Vautier A, Ky-Zerbo O, Rouveau N, **Maheu-Giroux M**, Larmarange J, Pourette D, and the ATLAS Team (2023). Organisation of testing services, barriers and facilitators to routine HIV self-testing during sexually transmitted infection consultations: a qualitative study of patients and providers in Abidjan, Côte d’Ivoire.
 </div>  
   
 #  
 <div class = "class-name">
-**[96]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2023). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
+**[97]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2023). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
 </div>  
   
 
 
 ## Published
  
+
+  
+#  
+<a class = "one" href = "" target = "_blank">
+**[96]** Kouassi Kra A, Simo Fosto A, N’guessan KN, Geoffroy O, Younoussa S, Kabemba OK, Gueye PA, Ndeye PD, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, and the ATLAS Team (2023). Can HIV self-testing reach first-time testers? A telephone survey among self-test end users in Côte d’Ivoire, Mali, and Senegal. *BMC Supplement*. (Accepted)
+</a> 
 
 #  
 <a class = "one" href = "" target = "_blank">
