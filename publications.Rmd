@@ -45,7 +45,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 # 
 <div class = "class-name">   
-**[109]** Milwid RM, Li M, Fazil A, **Maheu-Giroux M**, Doyle CM, Xia Y, Cox J, Grace D, Dvorakova M, Walker SC, Mishra SM, Ogden NH (2023). Exploring the dynamics of the 20222 mpox outbreak in Canada. 
+**[109]** Milwid RM, Li M, Fazil A, **Maheu-Giroux M**, Doyle CM, Xia Y, Cox J, Grace D, Dvorakova M, Walker SC, Mishra SM, Ogden NH (2023). Exploring the dynamics of the 2022 mpox outbreak in Canada. 
 </div>  
 
 # 
@@ -117,8 +117,8 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 
   
 #  
-<a class = "one" href = "" target = "_blank">
-**[96]** Kouassi Kra A, Simo Fosto A, N’guessan KN, Geoffroy O, Younoussa S, Kabemba OK, Gueye PA, Ndeye PD, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, and the ATLAS Team (2023). Can HIV self-testing reach first-time testers? A telephone survey among self-test end users in Côte d’Ivoire, Mali, and Senegal. *BMC Supplement*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1186/s12879-023-08626-w" target = "_blank">
+**[96]** Kouassi Kra A, Simo Fosto A, N’guessan KN, Geoffroy O, Younoussa S, Kabemba OK, Gueye PA, Ndeye PD, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, and the ATLAS Team (2023). Can HIV self-testing reach first-time testers? A telephone survey among self-test end users in Côte d’Ivoire, Mali, and Senegal. *BMC Infectious Diseases* 22(S1):972. 
 </a> 
 
 #  
