@@ -9,9 +9,11 @@
 Mathematical models of infectious diseases -computer simulation of epidemics- enable researchers to study their transmission dynamics, to predict the potential population-level impact of interventions, and to optimize prevention/control programs. So far, my work as mainly focused on HIV and other STBBIs.
 
 * Dynamics of HIV transmission among MSM in Québec.
-* Elimination of HCV among HIV coinfected populations in Canada.
-* Impact of targetted HIV treatment-as-prevention scenarios in Côte d'Ivoire.
+* Elimination of HCV among HIV co-infected populations in Canada.
 * Cervical cancer elimination in high HIV prevalence settings through cancer screening and HPV vaccination.
+* Modeling the impact of structural factors on HIV transmission among key populations.
+* The contribution of behavior change, contact tracing and vaccinations on mpox outbreaks among gay, bisexual, and other men who have sex with men in Vancouver, Toronto, and Montréal.
+
 
 
 <img src="Network_Epi.gif" width=50% heigth=50%/>  
@@ -22,10 +24,9 @@ Mathematical models of infectious diseases -computer simulation of epidemics- en
 # <i class="fa fa-calculator"></i> Epidemiology and measurements
 Measurements of population health and its determinants is a key step to benchmark, monitor progress, and devise appropriate health policies. I use models to analyze and pool complex surveys for diverse health outcomes/indicators.
 
-* Integrative Systems Modeling to estimate UNAIDS' first 90 (proportion of people living with HIV aware of their status) in sub-Saharan Africa. 
-* Bayesian latent class model to ascertain the impact of imperfect immunoassays on HIV prevalence estimates.
-* Bias assessment of routine HIV testing data from pregnant women at antenatal care.
+* Monitoring of UNAIDS' first 95 (proportion of people living with HIV aware of their status) in sub-Saharan Africa. 
 * Global, regional, and national estimates of violence against women statistics.
+* Temporal trends in HIV stigma at global, regional, and national levels.
 
 #  
 #  
@@ -33,7 +34,7 @@ Measurements of population health and its determinants is a key step to benchmar
 By comprehensively assessing the effects - intended and unintended - of a health program, impact evaluations can generate new evidence, promote accountability, and prioritize public health actions. Combined with complimentary cost-effectiveness analyses, impact evaluation can help policy-makers chose those interventions that provides the biggest *bang for the buck*.
 
 * Cost-effectiveness of accelerated HIV response scenarios in Côte d'Ivoire.
-* Model-based impact evaluation of pre-exposure prophylaxis to reduce HIV transmission amogn men who have sex with men in Montréal.
-* Potential impact and cost-effectiveness of prison-based interventions on HCV transmission among people who inject drugs.
-* Impact of scaling-up HIV self-testing on HIV transmission in Côte d'Ivoire, Mali, and Sénégal.
+* Model-based impact evaluation of pre-exposure prophylaxis to reduce HIV transmission among men who have sex with men in Montréal.
+* Impact of scaling-up HIV self-testing on HIV transmission in West Africa.
+* Impact of rapid diagnostic tests to reduce syphilis transmission in Arctic communities.
 
