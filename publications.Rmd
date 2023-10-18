@@ -39,6 +39,12 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 ## Submitted
 
+
+<div class = "class-name">   
+**[111]** Lu IJ, Silhol R, Boily MC, Boye S, Ky-Zerbo O, Vauthier A, Simo Fosto A, Traoré MM, Badiane K, d’Elbée M, Terris-Presholt, Larmarange J, **Maheu-Giroux M**, and the ATLAS Team (2023). Cost-effectiveness of HIV self-testing among key populations in Côte d’Ivoire, Mali, and Senegal. 
+</div> 
+
+#   
 <div class = "class-name">   
 **[110]** Kouassi AK, Simo Fotso A, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, on behalf of the ATLAS team (2023). HIV self-testing positivity rate and linkage to confirmatory testing and care: a telephone survey in Côte d’Ivoire, Mali, and Senegal. Pre-print [here](https://doi.org/10.1101/2023.06.10.23291206).
 </div>  
