@@ -133,8 +133,8 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 **[94]** Kuchukhidze S, Panagiotoglou, Boily MC, Diabaté s, Eaton JW, Stöckl H, Mbofana F, Wanyenze RK, and **Maheu-Giroux M** (2023). Characteristics of male perpetrators of intimate partner violence and implications for women’s HIV status: a pooled analysis of cohabiting couples from sub-Saharan Africa (2000-2020). *PLOS Global Public Health* 3(9):e0002146.
 </a>  
    
-<a class = "one" href = "https://doi.org/10.1101/2022.10.18.22281192" target = "_blank">
-**[93]** Flores Anato JL, Ma H, Hamilton MA, Xia Y, Harper S, Buckeridge D, Brisson M, Hillmer MP, Malikov K, Aidin Kerem, Beall R, Baral S, Dubé È, Mishra S, **Maheu-Giroux M** (2023). Impact of a vaccine passport on first-dose vaccine coverage by age and area-level social determinants of health in the Canadian provinces of Québec and Ontario: an interrupted time series analysis. *CMAJ Open*. (Accepted)
+<a class = "one" href = "https://doi.org/10.9778/cmajo.20220242" target = "_blank">
+**[93]** Flores Anato JL, Ma H, Hamilton MA, Xia Y, Harper S, Buckeridge D, Brisson M, Hillmer MP, Malikov K, Aidin Kerem, Beall R, Baral S, Dubé È, Mishra S, **Maheu-Giroux M** (2023). Impact of a vaccine passport on first-dose vaccine coverage by age and area-level social determinants of health in the Canadian provinces of Québec and Ontario: an interrupted time series analysis. *CMAJ Open* 11(5):e955-e1005. 
 </a>   
 
 <a class = "one" href = "https://doi.org/10.1016/j.cmi.2023.06.013" target = "_blank">
