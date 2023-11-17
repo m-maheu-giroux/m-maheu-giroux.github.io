@@ -41,18 +41,14 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 
 <div class = "class-name">   
-**[111]** Lu IJ, Silhol R, Boily MC, Boye S, Ky-Zerbo O, Vauthier A, Simo Fosto A, Traoré MM, Badiane K, d’Elbée M, Terris-Presholt, Larmarange J, **Maheu-Giroux M**, and the ATLAS Team (2023). Cost-effectiveness of HIV self-testing among key populations in Côte d’Ivoire, Mali, and Senegal. 
+**[110]** Lu IJ, Silhol R, Boily MC, Boye S, Ky-Zerbo O, Vauthier A, Simo Fosto A, Traoré MM, Badiane K, d’Elbée M, Terris-Presholt, Larmarange J, **Maheu-Giroux M**, and the ATLAS Team (2023). Cost-effectiveness of HIV self-testing among key populations in Côte d’Ivoire, Mali, and Senegal. 
 </div> 
 
 #   
 <div class = "class-name">   
-**[110]** Kouassi AK, Simo Fotso A, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, on behalf of the ATLAS team (2023). HIV self-testing positivity rate and linkage to confirmatory testing and care: a telephone survey in Côte d’Ivoire, Mali, and Senegal. Pre-print [here](https://doi.org/10.1101/2023.06.10.23291206).
+**[109]** Kouassi AK, Simo Fotso A, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, on behalf of the ATLAS team (2023). HIV self-testing positivity rate and linkage to confirmatory testing and care: a telephone survey in Côte d’Ivoire, Mali, and Senegal. Pre-print [here](https://doi.org/10.1101/2023.06.10.23291206).
 </div>  
 
-# 
-<div class = "class-name">   
-**[109]** Milwid RM, Li M, Fazil A, **Maheu-Giroux M**, Doyle CM, Xia Y, Cox J, Grace D, Dvorakova M, Walker SC, Mishra SM, Ogden NH (2023). Exploring the dynamics of the 2022 mpox outbreak in Canada. 
-</div>  
 
 # 
 <div class = "class-name">   
@@ -86,36 +82,36 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 
 #
 <div class = "class-name">
-**[102]** Stevens O, Anderson R, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Crowell TA, Tally L, Mulenga L, Neena P, **Maheu-Giroux M**, McIntyre A, Hladik W, Zhao J, Mahy M, Eaton JW (2023). HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. 
-</div>  
-
-#
-<div class = "class-name">
-**[101]** Doyle CM, Milwid RM, Cox J, Xia Y, Lambert G, Tremblay C, Otis J, Boily MC, Baril JG, Mercure SA, Thomas R, Trottier B, Mishra S, **Maheu-Giroux M** (2023). Population-level impact of pre-exposure prophylaxis on HIV acquisitions among men who have sex with men: a mathematical modeling study in Montréal, Canada (2013-2021). Pre-print [here](https://doi.org/10.1101/2023.05.31.23290795). 
-</div>  
-
-#  
-<div class = "class-name">
-**[100]** Xia Y, Flores Anato JL, Colijin C, Janjua N, Otterstatter M, Irvine N, Tyler Williamson, Varughese MB, Li M, Osgood N, Earn DJD, Sander B, Cipriano LE, Murthy K, Xiu F, Godin G, Buckeridge DL, Hurford H, Sharmistha Mishra S, and **Maheu-Giroux M** (2023). Canada’s provincial COVID-19 pandemic modelling efforts: a review of mathematical models and their impacts on the responses. Pre-print [here](http://dx.doi.org/10.2139/ssrn.4476949).
+**[102]** Stevens O, Anderson R, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Crowell TA, Tally L, Mulenga L, Neena P, **Maheu-Giroux M**, McIntyre A, Hladik W, Zhao J, Mahy M, Eaton JW (2023). HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. Pre-print [here](https://doi.org/10.1101/2023.11.09.23298289). 
 </div>  
   
 #  
 <div class = "class-name">
-**[99]** Boye S, Kouadio A, Kouvahe AF, Vautier A, Ky-Zerbo O, Rouveau N, **Maheu-Giroux M**, Larmarange J, Pourette D, and the ATLAS Team (2023). Organisation of testing services, barriers and facilitators to routine HIV self-testing during sexually transmitted infection consultations: a qualitative study of patients and providers in Abidjan, Côte d’Ivoire.
+**[101]** Xia Y, Flores Anato JL, Colijin C, Janjua N, Otterstatter M, Irvine N, Tyler Williamson, Varughese MB, Li M, Osgood N, Earn DJD, Sander B, Cipriano LE, Murthy K, Xiu F, Godin G, Buckeridge DL, Hurford H, Sharmistha Mishra S, and **Maheu-Giroux M** (2023). Canada’s provincial COVID-19 pandemic modelling efforts: a review of mathematical models and their impacts on the responses. Pre-print [here](http://dx.doi.org/10.2139/ssrn.4476949).
 </div>  
   
 #  
 <div class = "class-name">
-**[98]** Eaton JW, Sands A, Barr-DiChiara M, Jamil M, Baggaley R, Tippet Barr BA, Kalua T, Jahn A, **Maheu-Giroux M**, Johnson CC (2023). Accuracy and performance of the WHO 2015 and WHO 2019 HIV testing strategies across epidemic settings. (preprint [here](https://doi.org/10.1101/2021.03.31.21254700))  
+**[100]** Boye S, Kouadio A, Kouvahe AF, Vautier A, Ky-Zerbo O, Rouveau N, **Maheu-Giroux M**, Larmarange J, Pourette D, and the ATLAS Team (2023). Organisation of testing services, barriers and facilitators to routine HIV self-testing during sexually transmitted infection consultations: a qualitative study of patients and providers in Abidjan, Côte d’Ivoire.
 </div>  
   
-
 
 ## Published
- 
-#  
+
+#
+<a class = "one" href = "https://doi.org/10.1101/2023.05.31.23290795" target = "_blank">
+**[99]** Doyle CM, Milwid RM, Cox J, Xia Y, Lambert G, Tremblay C, Otis J, Boily MC, Baril JG, Mercure SA, Thomas R, Trottier B, Mishra S, **Maheu-Giroux M** (2023). Population-level impact of pre-exposure prophylaxis on HIV acquisitions among men who have sex with men: a mathematical modeling study in Montréal, Canada (2013-2021). *Journal of the International AIDS Society*. (Accepted)
+</a>  
+
+
+# 
 <a class = "one" href = "" target = "_blank">
-**[97]** Yokoji K, Giguère K, Malagón T, Rönn MM, Mayaud P, Kelly H, Delany-Moretlwe S, Drolet M, Brisson M, Boily MC, **Maheu-Giroux M** (2023). Association of naturally acquired type-specific HPV antibodies and subsequent HPV re-detection: Systematic review and meta-analysis. *Infectious Agents and Cancer*. (Accepted) 
+**[98]** Milwid RM, Li M, Fazil A, **Maheu-Giroux M**, Doyle CM, Xia Y, Cox J, Grace D, Dvorakova M, Walker SC, Mishra SM, Ogden NH (2023). Exploring the dynamics of the 2022 mpox outbreak in Canada. *Journal of Medical Virology*. (Accepted)
+</a>  
+
+#  
+<a class = "one" href = "https://doi.org/10.1186/s13027-023-00546-3" target = "_blank">
+**[97]** Yokoji K, Giguère K, Malagón T, Rönn MM, Mayaud P, Kelly H, Delany-Moretlwe S, Drolet M, Brisson M, Boily MC, **Maheu-Giroux M** (2023). Association of naturally acquired type-specific HPV antibodies and subsequent HPV re-detection: Systematic review and meta-analysis. *Infectious Agents and Cancer* 18:70. 
 </a> 
   
 #  
