@@ -39,6 +39,12 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 ## Submitted
 
+
+<div class = "class-name">  
+**[112]** Levinsson A, Zolopa C, Vakili F, Udhesister S, Kronfli N, **Maheu-Giroux M**, Bruneau J, Valerio H, Bajis S, Read P, Catala EM, Boucher L, Morris L, Grebey J, Artenie A, Stone J, Vickerman P, Larney S (2023). Sex and gender differences in hepatitis C virus risk, prevention, and cascade of care in people who inject drugs: systematic review and meta-analysis. 
+</div> 
+
+#  
 <div class = "class-name">  
 **[111]** Stevens O, Sabin K, Anderson RL, Arias Garcia S, Willis K, Rao A, McIntyre A, Fearon E, Grard E, Stewart-Brown A, Cowan F, Stannah J, Degenhardt L, Zhao J, Hakim AJ, Rucinski K, Sathane I, Boothe M, Atuhaire L, Nyasulu P, **Maheu-Giroux M**, Platt L, Rice B, Hadlik W, Baral S, Mahy M, and Imai-Eaton JW (2023). Population size, HIV prevalence, and antiretroviral therapy coverage among key populations in sub-Saharan Africa: collation and synthesis of survey data. Pre-print [here](https://www.medrxiv.org/content/10.1101/2022.07.27.22278071v2).
 </div> 
