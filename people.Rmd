@@ -41,19 +41,7 @@ output:
 #  
 #  
 # Masters
-
   
-<div class = "row">
-<div class = "column left">
-<img src = "Ingrid_Lu.jpg" align = "left" width = "100" height = "100"  /> 
-</div>
-<div class = "column right">
-### <i class = "glyphicon glyphicon-user"> </i> Ingrid Lu
-MSc Student in Epidemiology (McGill). Research Topic: *Cost-effectiveness analysis of HIV self-testing in West Africa*.
-</div>
-</div>
-
-
 <div class = "row">
 <div class = "column left">
 <img src = "Fanyu_Xiu.jpg" align = "left" width = "100" height = "100"  />
@@ -76,7 +64,7 @@ MSc Student in Epidemiology (McGill). Research Topic: *Sexual networks of gay, b
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> James Stannah
-PhD Student in Epidemiology (McGill). Research Topic: *Structural determinants of HIV acquisition and transmission risks among key populations in sub-Saharan Africa*. Co-supervisor: [Marie-Claude Boily](https://www.imperial.ac.uk/people/mc.boily).
+PhD Student in Epidemiology (McGill). Research Topic: *Structural determinants of HIV acquisition and transmission risks among men who have sex with men in sub-Saharan Africa*. Co-supervisor: [Marie-Claude Boily](https://www.imperial.ac.uk/people/mc.boily).
 </div>
 </div>
 
@@ -86,7 +74,7 @@ PhD Student in Epidemiology (McGill). Research Topic: *Structural determinants o
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Salome Kuchukhidze
-PhD Student in Epidemiology (McGill). Research Topic: *HIV testing services and diagnosis coverage among key populations*. 
+PhD Student in Epidemiology (McGill). Research Topic: *Intimate partner violence and its implication on women's HIV outcomes*. 
 </div>
 </div>
   
@@ -96,7 +84,7 @@ PhD Student in Epidemiology (McGill). Research Topic: *HIV testing services and 
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Yiqing Xia
-PhD Student in Epidemiology (McGill). Research Topic: *Surveillance and modeling for infectious diseases control*. 
+PhD Student in Epidemiology (McGill). Research Topic: *SARS-CoV-2 epidemics in Canada: heterogeneities in transmission, severe outcomes following hospitalization, and provincial mathematical modeling efforts*. 
 </div>
 </div>
 
@@ -131,7 +119,17 @@ Dr. Carla Doyle holds a BSc in Mathematics & Statistics from Acadia University, 
 #  
 # Past Supervision
 #  
- 
+
+<div class = "row">
+<div class = "column left">
+<img src = "Ingrid_Lu.jpg" align = "left" width = "100" height = "100"  /> 
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Ingrid Jiayin Lu (MSc'23)
+MSc Student in Epidemiology (McGill). Research Topic: *Cost-effectiveness analysis of HIV self-testing among key populations in Côte d'Ivoire, Mali, and Senegal*.
+</div>
+</div>
+
 <div class = "row">
 <div class = "column left">
 <img src = "Adrien_Allorant.jpg" align = "left" width = "100" height = "100"  />
