@@ -39,7 +39,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 ## Submitted
 
+<div class = "class-name">  
+**[113]** Beall R, Flores Anato JL, D'Souza AG, Velásquez García HA, Ma H, Yang F, Baral SD, Cabaj J, Cooper E, Hillmer M, Hollis A, Janjua; NZ, Katz K, Leal J, **Maheu-Giroux** M, May ER, Malikov K, Mishra M, Moloney G, Williamson T (2023). A Canadian multi-province study of COVID-19 vaccine coverage along area-level social determinants in 2021. 
+</div> 
 
+# 
 <div class = "class-name">  
 **[112]** Levinsson A, Zolopa C, Vakili F, Udhesister S, Kronfli N, **Maheu-Giroux M**, Bruneau J, Valerio H, Bajis S, Read P, Catala EM, Boucher L, Morris L, Grebey J, Artenie A, Stone J, Vickerman P, Larney S (2023). Sex and gender differences in hepatitis C virus risk, prevention, and cascade of care in people who inject drugs: systematic review and meta-analysis. 
 </div> 
@@ -297,7 +301,7 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 </a>
    
 <a class="one" href = "https://doi.org/10.1016/j.annepidem.2021.07.007" target = "_blank">
-**[60]** Mishra S, Ma H, Moloney G, Yiu KCY, Darvin D, Landsman D, Kwong JC, Calzavara A, Straus S, Chan AK, Gournis E, Rilkoff H, Xia Y, Katz A, Williamson T, Malikov K, Kustra R, **Maheu-Giroux M**, Sander B, Baral SD, and the COVID-19 Heterogeneity Research Group (2021). Increasing concentration of COVID-19 by socioeconomic determinants and geography in Toronto, Canada: an observational study. *Annals of Epidemiology* 65:84-92.
+**[60]** Mishra S, Ma H, Moloney G, Yiu KCY, Darvin D, Landsman D, Kwong JC, Calzavara A, Straus S, Chan AK, Gournis E, Rilkoff H, Xia Y, Katz A, Williamson T, Malikov K, Kustra R, **Maheu-Giroux M**, Sander B, Baral SD, and the COVID-19 Heterogeneity Research Group (2021). Increasing concentration of COVID-19 by socioeconomic determinants and geography in Toronto, Canada: an observational study. *Annals of Epidemiology* 65:84-92. **Finalist for the 2023 Best Paper Award**. 
 </a>
     
 #
