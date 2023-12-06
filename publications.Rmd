@@ -115,14 +115,14 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 </a>  
 
 #
-<a class = "one" href = "https://doi.org/10.1101/2023.05.31.23290795" target = "_blank">
-**[99]** Doyle CM, Milwid RM, Cox J, Xia Y, Lambert G, Tremblay C, Otis J, Boily MC, Baril JG, Mercure SA, Thomas R, Trottier B, Mishra S, **Maheu-Giroux M** (2023). Population-level impact of pre-exposure prophylaxis on HIV acquisitions among men who have sex with men: a mathematical modeling study in Montréal, Canada (2013-2021). *Journal of the International AIDS Society*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1002/jia2.26194" target = "_blank">
+**[99]** Doyle CM, Milwid RM, Cox J, Xia Y, Lambert G, Tremblay C, Otis J, Boily MC, Baril JG, Mercure SA, Thomas R, Trottier B, Mishra S, **Maheu-Giroux M** (2023). Population-level impact of pre-exposure prophylaxis on HIV acquisitions among men who have sex with men: a mathematical modeling study in Montréal, Canada (2013-2021). *Journal of the International AIDS Society* 26:e26194. 
 </a>  
 
 
 # 
-<a class = "one" href = "" target = "_blank">
-**[98]** Milwid RM, Li M, Fazil A, **Maheu-Giroux M**, Doyle CM, Xia Y, Cox J, Grace D, Dvorakova M, Walker SC, Mishra SM, Ogden NH (2023). Exploring the dynamics of the 2022 mpox outbreak in Canada. *Journal of Medical Virology*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1002/jmv.29256" target = "_blank">
+**[98]** Milwid RM, Li M, Fazil A, **Maheu-Giroux M**, Doyle CM, Xia Y, Cox J, Grace D, Dvorakova M, Walker SC, Mishra SM, Ogden NH (2023). Exploring the dynamics of the 2022 mpox outbreak in Canada. *Journal of Medical Virology* 95:e29256.
 </a>  
 
 #  
