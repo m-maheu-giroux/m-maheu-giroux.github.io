@@ -38,7 +38,10 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 
 ## Submitted
-
+<div class = "class-name"> 
+**[115]** Kuchukhidze S, Walters M, Panagiotoglou D, Boily MC, Diabaté S, Russel A, Stöckl H, Sardinha L, Mbofana F, Wanienze RK, Imai-Eaton JW, and **Maheu-Giroux M** (2023). The contribution of intimate partner violence to mother-to-child HIV transmission: a modeling analysis of 44 sub-Saharan African countries. 
+</div> 
+#  
 <div class = "class-name">  
 **[114]** Silhol R, **Maheu-Giroux M**, Soni N, Simo Fotso A, Rouveau N, Vautier A, Doumenc-Aïdara C, Geoffroy O, N’Guessan KN, Younoussa S, Kabemba OK, Gueye PA, Dama Ndeye P, Mukandavire C, Vickerman P, Keita A, Ndour CT, Ehui E, Larmarange J, Boily MC, and the ATLAS Team (2023). The impact of past HIV interventions and treatment gaps to new HIV acquisitions, transmissions, and HIV-related deaths in Côte d’Ivoire, Mali, and Senegal
 </div> 
