@@ -41,7 +41,27 @@ output:
 #  
 #  
 # Masters
-  
+
+<div class = "row">
+<div class = "column left">
+<img src = "Aishi_Aratrika.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Aishi Aratrika
+MSc Student in Epidemiology (McGill). Research Topic: *TBD*.
+</div>
+</div>
+
+<div class = "row">
+<div class = "column left">
+<img src = "Andrey_Kutsyh.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Andrey Kutsyh
+MSc Student in Epidemiology (McGill). Research Topic: *TBD*.
+</div>
+</div>
+
 <div class = "row">
 <div class = "column left">
 <img src = "Fanyu_Xiu.jpg" align = "left" width = "100" height = "100"  />
@@ -64,7 +84,7 @@ MSc Student in Epidemiology (McGill). Research Topic: *Sexual networks of gay, b
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> James Stannah
-PhD Student in Epidemiology (McGill). Research Topic: *Structural determinants of HIV acquisition and transmission risks among men who have sex with men in sub-Saharan Africa*. Co-supervisor: [Marie-Claude Boily](https://www.imperial.ac.uk/people/mc.boily).
+PhD Candidate in Epidemiology (McGill). Research Topic: *Structural determinants of HIV acquisition and transmission risks among men who have sex with men in sub-Saharan Africa*. Co-supervisor: [Marie-Claude Boily](https://www.imperial.ac.uk/people/mc.boily).
 </div>
 </div>
 
@@ -74,7 +94,7 @@ PhD Student in Epidemiology (McGill). Research Topic: *Structural determinants o
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Salome Kuchukhidze
-PhD Student in Epidemiology (McGill). Research Topic: *Intimate partner violence and its implication on women's HIV outcomes*. 
+PhD Candidate in Epidemiology (McGill). Research Topic: *Intimate partner violence and its implication on women's HIV outcomes*. 
 </div>
 </div>
   
@@ -84,7 +104,7 @@ PhD Student in Epidemiology (McGill). Research Topic: *Intimate partner violence
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Yiqing Xia
-PhD Student in Epidemiology (McGill). Research Topic: *SARS-CoV-2 epidemics in Canada: heterogeneities in transmission, severe outcomes following hospitalization, and provincial mathematical modeling efforts*. 
+PhD Candidate in Epidemiology (McGill). Research Topic: *SARS-CoV-2 epidemics in Canada: heterogeneities in transmission, severe outcomes following hospitalization, and provincial mathematical modeling efforts*. 
 </div>
 </div>
 
