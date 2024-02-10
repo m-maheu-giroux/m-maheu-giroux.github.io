@@ -37,6 +37,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 
 ## Submitted
+
+<div class = "class-name"> 
+**[119]** Xia Y, Caya C, Morin V, Singh A, Serhir B, Libman M, Goldfarb D, Wong W, Xiu F, Bélanger RE, Touchette J-S, Yansouni C, and **Maheu-Giroux M** (2024). The population-level impact of introducing rapid diagnostic tests on syphilis transmission. 
+</div> 
+#
 <div class = "class-name"> 
 **[118]** Sardinha L, Yüksel-Kaptanoğlu I, **Maheu-Giroux M**, García-Moreno C (2024). Intimate partner violence against adolescent girls: regional and national prevalence estimates and associated country-level factors 
 </div> 
@@ -104,7 +109,7 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 
 #    
 <a class = "one" href = "https://doi.org/10.1093/infdis/jiae033" target = "_blank">
-**[103]** Xiu F+, Flores Anato JL+ (+contributed equally), Cox J, Grace D, Hart TA, Skakoon-Sparling S, Dvorakova M, Knight J, Wang L, Gatalo, O, Campbell E, Zhang T, Sbihi H, Irvine MA, Mishra S, **Maheu-Giroux M** (2024). Characteristics of the sexual networks of gay, bisexual, and other men who have sex with men in Montréal, Toronto, and Vancouver: implications for the transmission and control of mpox in Canada. *Journal of Infectious Diseases*. (Accepted)
+**[103]** Xiu F+, Flores Anato JL+ (+contributed equally), Cox J, Grace D, Hart TA, Skakoon-Sparling S, Dvorakova M, Knight J, Wang L, Gatalo, O, Campbell E, Zhang T, Sbihi H, Irvine MA, Mishra S, **Maheu-Giroux M** (2024). Characteristics of the sexual networks of gay, bisexual, and other men who have sex with men in Montréal, Toronto, and Vancouver: implications for the transmission and control of mpox in Canada. *Journal of Infectious Diseases*.
 </a>  
 
 #  
