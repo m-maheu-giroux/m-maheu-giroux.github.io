@@ -39,6 +39,10 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Submitted
 
 <div class = "class-name"> 
+**[120]** Stannah J, Flores Anato JL, Pickles M, Larmarange J, Mitchell KM, Artenie A, Dumchev K, Niangoran S, Platt L, Terris-Presholt F, Singh A, Stone J, Vickerman P, Phillips A, Johnson L, **Maheu-Giroux M**, and Boily MC  (2024). From conceptualizing to modelling structural factors and interventions: a scoping review and framework to improve evidence-based dynamic HIV transmission model development and analysis. 
+</div> 
+#
+<div class = "class-name"> 
 **[119]** Xia Y, Caya C, Morin V, Singh A, Serhir B, Libman M, Goldfarb D, Wong W, Xiu F, Bélanger RE, Touchette J-S, Yansouni C, and **Maheu-Giroux M** (2024). The population-level impact of introducing rapid diagnostic tests on syphilis transmission. 
 </div> 
 #
