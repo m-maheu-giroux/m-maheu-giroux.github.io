@@ -130,8 +130,8 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 </a>  
 
 #
-<a class = "one" href = "" target = "_blank">
-**[99]** Boye S, Kouadio A, Kouvahe AF, Vautier A, Ky-Zerbo O, Rouveau N, **Maheu-Giroux M**, Larmarange J, Pourette D, and the ATLAS Team (2023). Organisation of testing services, structural barriers and facilitators of routine HIV self-testing during sexually transmitted infection consultations: a qualitative study of patients and providers in Abidjan, Côte d’Ivoire. *BMC Infectious Diseases*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1186/s12879-023-08625-x" target = "_blank">
+**[99]** Boye S, Kouadio A, Kouvahe AF, Vautier A, Ky-Zerbo O, Rouveau N, **Maheu-Giroux M**, Larmarange J, Pourette D, and the ATLAS Team (2024). Organisation of testing services, structural barriers and facilitators of routine HIV self-testing during sexually transmitted infection consultations: a qualitative study of patients and providers in Abidjan, Côte d’Ivoire. *BMC Infectious Diseases* 22(Suppl 1) 975. 
 </a>  
 
 #
