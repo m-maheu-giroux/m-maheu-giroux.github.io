@@ -163,6 +163,11 @@ BSc'03 Biology (Université de Montréal)
 #
 ## <i class="glyphicon glyphicon-flash"></i> News
 
+<a class="one" target = "https://frq.gouv.qc.ca/histoire-et-rapport/releve-etoile-jacques-genest-fevrier-2024/">
+**2024-02-28**: Salome Kuchukhidze (PhD candidate) was awarded the *Rising star award (Jacques-Genest)* from the *Fonds de recherche du Québec - Santé*.
+<img src = "frqs-salome.png" align = "left" width = "400" height = "210">
+</a> 
+
 <a class="one" target="_blank">
 **2023-08-16**: Fanyu Xiu (MSc student) was awarded a *Studentship Award* from McGill's *Faculty of Medicine and Health Sciences*.
 </a> 
@@ -189,7 +194,7 @@ BSc'03 Biology (Université de Montréal)
 </a> 
   
 <a class="one" target="_blank"> 
-**2022-06-02**: Congratulations to Salome Kuchukhidze (PhD student) and Ingrid Lu (MSc Student) who received scholarships from the *Fonds de la recherche du Québec - Santé*.  
+**2022-06-02**: Congratulations to Salome Kuchukhidze (PhD student) and Ingrid Lu (MSc Student) who received scholarships from the *Fonds de recherche du Québec - Santé*.  
 **2022-04-15**: Yiqing Xia (PhD student) was awarded a *Doctoral Award - Canada Graduate Scholarships* from the *Canadian Institutes of Health Research*.  
 **2022-04-01**: Ingrid Lu (MSc student) was awarded a *Frederick Banting and Charles Best Canada Graduate Scholarships* from the *Canadian Institutes of Health Research*.  
 **2021-09-01**: Salome Kuchukhidze and James Stannah (PhD candidates) were awarded *Max E. Binz Fellowships* from McGill University!  
