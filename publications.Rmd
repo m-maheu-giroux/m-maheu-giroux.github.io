@@ -108,8 +108,8 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 **[105]** Juwono S, Flores Anatao JL, Kirschbaum A, Metheny N, Dvorakova M, Skakoon-Sparling S, Moore DM, Grace D, Hart TA, Lambert G, Lawchosky NJ, Jollimore J, Cox J, **Maheu-Giroux M** (2024). Prevalence, determinants, and trends in the experience and perpetration of intimate partner violence among a cohort of gay, bisexual, and other men who have sex with men in Montréal, Toronto, and Vancouver, Canada (2017-2022).*LGBT Health*. (Accepted)
 </a>  
 
-<a class = "one" href = "" target = "_blank">
-**[104]** **Maheu-Giroux** M and Mishra S (2024). Evidence with 95-95-95 that ambitious is feasible. *The Lancet HIV*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1016/S2352-3018(24)00028-6" target = "_blank">
+**[104]** **Maheu-Giroux** M and Mishra S (2024). Evidence with 95-95-95 that ambitious is feasible. *The Lancet HIV*.
 </a> 
 
 #    
