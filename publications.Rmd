@@ -37,7 +37,10 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 
 ## Submitted
-
+<div class = "class-name"> 
+**[121]** Pickles M, Mountain E, Bhattacharjee P, Kioko J, Stannah J, **Maheu-Giroux M**, Becker M, and Boily MC (2024). Assessing the potential impact of violence on HIV among female sex workers in Mombasa, Kenya: a mathematical modeling study. 
+</div> 
+#
 <div class = "class-name"> 
 **[120]** Stannah J, Flores Anato JL, Pickles M, Larmarange J, Mitchell KM, Artenie A, Dumchev K, Niangoran S, Platt L, Terris-Presholt F, Singh A, Stone J, Vickerman P, Phillips A, Johnson L, **Maheu-Giroux M**, and Boily MC  (2024). From conceptualizing to modelling structural factors and interventions: a scoping review and framework to improve evidence-based dynamic HIV transmission model development and analysis. 
 </div> 
