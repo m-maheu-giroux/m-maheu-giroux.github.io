@@ -38,7 +38,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 ## Submitted
 <div class = "class-name"> 
-**[121]** Pickles M, Mountain E, Bhattacharjee P, Kioko J, Stannah J, **Maheu-Giroux M**, Becker M, and Boily MC (2024). Assessing the potential impact of violence on HIV among female sex workers in Mombasa, Kenya: a mathematical modeling study. 
+**[121]** Pickles M, Mountain E, Bhattacharjee P, Kioko J, Musimbi J, Musyoki H, Gichangi P, Stannah J, **Maheu-Giroux M**, Becker M, and Boily MC (2024). Assessing the potential impact of violence on HIV among female sex workers in Mombasa, Kenya: a mathematical modeling study. 
 </div> 
 #
 <div class = "class-name"> 
