@@ -104,7 +104,7 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 ## Published
 #
 #
-<a class = "one" href = "https://doi.org/10.1101/2023.07.24.23293112" target = "_blank">
+<a class = "one" href = "" target = "_blank">
 **[106]** Levinsson A, Zolopa C, Vakili F, Udhesister S, Kronfli N, **Maheu-Giroux** M, Bruneau J, Valerio H, Bajis S, Read P, Matró E, Boucher L, Morris L, Grebely J, Artenie A, Stone J, Vickerman P, Larney S (2024). Sex and gender differences in hepatitis C virus risk, prevention, and cascade of care in people who inject drugs: systematic review and meta-analysis. *eClinical Medicine*. (Accepted)
 </a> 
 
