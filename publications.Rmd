@@ -40,88 +40,98 @@ Feel free to email me to obtain a copy of any of the papers below.
 <div class = "class-name"> 
 **[121]** Pickles M, Mountain E, Bhattacharjee P, Kioko J, Musimbi J, Musyoki H, Gichangi P, Stannah J, **Maheu-Giroux M**, Becker M, and Boily MC (2024). Assessing the potential impact of violence on HIV among female sex workers in Mombasa, Kenya: a mathematical modeling study. 
 </div> 
-#
+  
+#  
 <div class = "class-name"> 
 **[120]** Stannah J, Flores Anato JL, Pickles M, Larmarange J, Mitchell KM, Artenie A, Dumchev K, Niangoran S, Platt L, Terris-Presholt F, Singh A, Stone J, Vickerman P, Phillips A, Johnson L, **Maheu-Giroux M**, and Boily MC  (2024). From conceptualizing to modelling structural factors and interventions: a scoping review and framework to improve evidence-based dynamic HIV transmission model development and analysis. 
 </div> 
-#
+  
+#  
 <div class = "class-name"> 
 **[119]** Xia Y, Caya C, Morin V, Singh A, Serhir B, Libman M, Goldfarb D, Wong W, Xiu F, Bélanger RE, Touchette J-S, Yansouni C, and **Maheu-Giroux M** (2024). The population-level impact of introducing rapid diagnostic tests on syphilis transmission in Canadian Artic communities - A mathematical modeling study. Pre-print [here](https://dx.doi.org/10.2139/ssrn.4771402).
 </div> 
-#
+  
+#  
 <div class = "class-name"> 
 **[118]** Sardinha L, Yüksel-Kaptanoğlu I, **Maheu-Giroux M**, García-Moreno C (2024). Intimate partner violence against adolescent girls: regional and national prevalence estimates and associated country-level factors 
 </div> 
-#
+  
+#  
 <div class = "class-name"> 
 **[117]** Wang S, Wang L, Baral SD, Moloney G, Johns J, Huber C, Mistry J, Khan K, Rao A, Janjua N, Williamson T, Katz A, Ma H, **Maheu-Giroux M**, Mishra S, and Kustra R (2024). Mobility changes following COVID-19 stay-at-home policies varied by socioeconomic measures: an observational study in Ontario, Canada. 
 </div> 
-#
+  
+#  
 <div class = "class-name"> 
 **[116]** Kuchukhidze S, Walters M, Panagiotoglou D, Boily MC, Diabaté S, Russel A, Stöckl H, Sardinha L, Mbofana F, Wanienze RK, Imai-Eaton JW, and **Maheu-Giroux M** (2024). The contribution of intimate partner violence to mother-to-child HIV transmission: a modeling analysis of 44 sub-Saharan African countries. 
 </div> 
+    
 #  
 <div class = "class-name">  
 **[115]** Silhol R, **Maheu-Giroux M**, Soni N, Simo Fotso A, Rouveau N, Vautier A, Doumenc-Aïdara C, Geoffroy O, N’Guessan KN, Younoussa S, Kabemba OK, Gueye PA, Dama Ndeye P, Mukandavire C, Vickerman P, Keita A, Ndour CT, Ehui E, Larmarange J, Boily MC, and the ATLAS Team (2024). The impact of past HIV interventions and treatment gaps to new HIV acquisitions, transmissions, and HIV-related deaths in Côte d’Ivoire, Mali, and Senegal.
 </div> 
+   
 #  
 <div class = "class-name">  
 **[114]** Beall R, Flores Anato JL, D'Souza AG, Velásquez García HA, Ma H, Yang F, Baral SD, Cabaj J, Cooper E, Hillmer M, Hollis A, Janjua; NZ, Katz K, Leal J, **Maheu-Giroux** M, May ER, Malikov K, Mishra M, Moloney G, Williamson T (2024). A Canadian multi-province study of COVID-19 vaccine coverage along area-level social determinants in 2021. 
 </div> 
-
+   
 #  
 <div class = "class-name">  
 **[113]** Stevens O, Sabin K, Anderson RL, Arias Garcia S, Willis K, Rao A, McIntyre A, Fearon E, Grard E, Stewart-Brown A, Cowan F, Stannah J, Degenhardt L, Zhao J, Hakim AJ, Rucinski K, Sathane I, Boothe M, Atuhaire L, Nyasulu P, **Maheu-Giroux M**, Platt L, Rice B, Hadlik W, Baral S, Mahy M, and Imai-Eaton JW (2024). Population size, HIV prevalence, and antiretroviral therapy coverage among key populations in sub-Saharan Africa: collation and synthesis of survey data. Pre-print [here](https://www.medrxiv.org/content/10.1101/2022.07.27.22278071v2).
 </div> 
-#   
+  
+#  
 <div class = "class-name">   
 **[112]** Lu IJ, Silhol R, Boily MC, Boye S, Ky-Zerbo O, Vauthier A, Simo Fosto A, Traoré MM, Badiane K, d’Elbée M, Terris-Presholt, Larmarange J, **Maheu-Giroux M**, and the ATLAS Team (2024). Cost-effectiveness of HIV self-testing among key populations in Côte d’Ivoire, Mali, and Senegal. 
 </div> 
-#   
+   
+#  
 <div class = "class-name">   
 **[111]** Kouassi AK, Simo Fotso A, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, on behalf of the ATLAS team (2024). HIV self-testing positivity rate and linkage to confirmatory testing and care: a telephone survey in Côte d’Ivoire, Mali, and Senegal. Pre-print [here](https://doi.org/10.1101/2023.06.10.23291206).
 </div>  
-# 
-<div class = "class-name">   
-**[110]** Sardinha L, Stöckl H, **Maheu-Giroux M**, Meyer SR, García-Moreno C (2024). A persistent pandemic: the global prevalence of sexual violence against women. 
-</div>  
+  
 #  
 <div class = "class-name"> 
-**[109]** Silhol R, **Maheu-Giroux M**, Soni N, Simo Fotso A, Rouveau N, Vautier A, Doumenc-Aidara C, Geoffroy O, N’Guessan KN, Sidibe Y, Kabemba OK, Gueye PA, Mukandavire C, Vickerman P, Keita A, Ndour CT, Ehui E, Larmarange J, Boily MC, The ATLAS Team (2024). Assessing the potential population-level impacts of HIV self-testing distribution among key populations in Côte d’Ivoire, Mali, and Senegal: a mathematical modelling analysis. 
+**[110]** Silhol R, **Maheu-Giroux M**, Soni N, Simo Fotso A, Rouveau N, Vautier A, Doumenc-Aidara C, Geoffroy O, N’Guessan KN, Sidibe Y, Kabemba OK, Gueye PA, Mukandavire C, Vickerman P, Keita A, Ndour CT, Ehui E, Larmarange J, Boily MC, The ATLAS Team (2024). Assessing the potential population-level impacts of HIV self-testing distribution among key populations in Côte d’Ivoire, Mali, and Senegal: a mathematical modelling analysis. 
 Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 </div>  
-#
-<div class = "class-name">
-**[108]** Stevens O, Anderson R, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Crowell TA, Tally L, Mulenga L, Neena P, **Maheu-Giroux M**, McIntyre A, Hladik W, Zhao J, Mahy M, Eaton JW (2024). HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. Pre-print [here](https://doi.org/10.1101/2023.11.09.23298289). 
-</div>  
+  
 #  
 <div class = "class-name">
-**[107]** Xia Y, Flores Anato JL, Colijn C, Janjua N, Otterstatter M, Irvine N, Tyler Williamson, Varughese MB, Li M, Osgood N, Earn DJD, Sander B, Cipriano LE, Murthy K, Xiu F, Godin G, Buckeridge DL, Hurford H, Sharmistha Mishra S, and **Maheu-Giroux M** (2024). Canada’s provincial COVID-19 pandemic modelling efforts: a review of mathematical models and their impacts on the responses. Pre-print [here](http://dx.doi.org/10.2139/ssrn.4476949).
+**[109]** Stevens O, Anderson R, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Crowell TA, Tally L, Mulenga L, Neena P, **Maheu-Giroux M**, McIntyre A, Hladik W, Zhao J, Mahy M, Eaton JW (2024). HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. Pre-print [here](https://doi.org/10.1101/2023.11.09.23298289). 
+</div>  
+  
+#  
+<div class = "class-name">
+**[108]** Xia Y, Flores Anato JL, Colijn C, Janjua N, Otterstatter M, Irvine N, Tyler Williamson, Varughese MB, Li M, Osgood N, Earn DJD, Sander B, Cipriano LE, Murthy K, Xiu F, Godin G, Buckeridge DL, Hurford H, Sharmistha Mishra S, and **Maheu-Giroux M** (2024). Canada’s provincial COVID-19 pandemic modelling efforts: a review of mathematical models and their impacts on the responses. Pre-print [here](http://dx.doi.org/10.2139/ssrn.4476949).
 </div>  
   
 #  
 #  
 ## Published
 #
-#
+  
 <a class = "one" href = "" target = "_blank">
-**[106]** Levinsson A, Zolopa C, Vakili F, Udhesister S, Kronfli N, **Maheu-Giroux** M, Bruneau J, Valerio H, Bajis S, Read P, Matró E, Boucher L, Morris L, Grebely J, Artenie A, Stone J, Vickerman P, Larney S (2024). Sex and gender differences in hepatitis C virus risk, prevention, and cascade of care in people who inject drugs: systematic review and meta-analysis. *eClinical Medicine*. (Accepted)
+**[107]** Sardinha L, Stöckl H, **Maheu-Giroux M**, Meyer SR, García-Moreno C (2024). A persistent pandemic: the global prevalence of non-partner sexual violence against women. *Bulletin of the World Health Organization*. (Accepted)
 </a> 
-
-
+  
+<a class = "one" href = "https://doi.org/10.1016/j.eclinm.2024.102596" target = "_blank">
+**[106]** Levinsson A, Zolopa C, Vakili F, Udhesister S, Kronfli N, **Maheu-Giroux** M, Bruneau J, Valerio H, Bajis S, Read P, Matró E, Boucher L, Morris L, Grebely J, Artenie A, Stone J, Vickerman P, Larney S (2024). Sex and gender differences in hepatitis C virus risk, prevention, and cascade of care in people who inject drugs: systematic review and meta-analysis. *eClinical Medicine* 72:102596. 
+</a> 
+  
 <a class = "one" href = "https://doi.org/10.1101/2023.07.24.23293112" target = "_blank">
 **[105]** Juwono S, Flores Anatao JL, Kirschbaum A, Metheny N, Dvorakova M, Skakoon-Sparling S, Moore DM, Grace D, Hart TA, Lambert G, Lawchosky NJ, Jollimore J, Cox J, **Maheu-Giroux M** (2024). Prevalence, determinants, and trends in the experience and perpetration of intimate partner violence among a cohort of gay, bisexual, and other men who have sex with men in Montréal, Toronto, and Vancouver, Canada (2017-2022). *LGBT Health*. (Accepted)
 </a>  
-
+  
 <a class = "one" href = "https://doi.org/10.1016/S2352-3018(24)00028-6" target = "_blank">
 **[104]** **Maheu-Giroux** M and Mishra S (2024). Evidence with 95-95-95 that ambitious is feasible. *The Lancet HIV* 11(4):e203-204.
 </a> 
-
+  
 <a class = "one" href = "https://doi.org/10.1093/infdis/jiae033" target = "_blank">
 **[103]** Xiu F+, Flores Anato JL+ (+contributed equally), Cox J, Grace D, Hart TA, Skakoon-Sparling S, Dvorakova M, Knight J, Wang L, Gatalo, O, Campbell E, Zhang T, Sbihi H, Irvine MA, Mishra S, **Maheu-Giroux M** (2024). Characteristics of the sexual networks of gay, bisexual, and other men who have sex with men in Montréal, Toronto, and Vancouver: implications for the transmission and control of mpox in Canada. *Journal of Infectious Diseases* 229(S2):S293–S304.
 </a>  
-
-#  
+  
 <a class = "one" href = "https://doi.org/10.1097/QAI.0000000000003329" target = "_blank">
 **[102]** Allorant A, Muset P, Hodgins C, Kirakoya-Samadoulougou F, Namachapa K, Mbofana F, Panagiotoglou, Johnson LF, Eaton JW, and **Maheu-Giroux M** (2024). Temporal trends and determinants of HIV testing at antenatal care in sub-Saharan Africa: a pooled analysis of population-based surveys (2005-2021). *JAIDS – Journal of Acquired Immune Deficiency Syndromes* 95(S1):E97-E105.
 </a>  
@@ -133,163 +143,131 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 <a class = "one" href = "https://doi.org/10.1097/QAI.0000000000003334" target = "_blank">
 **[100]** Silhol R, Anderson RL, Stevens O, Stannah J, Booton RD, Baral S, Dimitrov D, Mitchell K, Donnell D, Bershteyn, Brown T, Kelly SL, Kim HY, Johnson LF, **Maheu-Giroux M**, Martin-Hugues R, Mishra S, Peerapatanapokin W, Stone J, Stover J, Stuart R, Teng Y, Vickerman P, Wilson DP, Korenromp E, Eaton JW, Boily MC (2024). Measuring HIV acquisitions among partners of key populations: estimates from HIV transmission dynamic models. *JAIDS – Journal of Acquired Immune Deficiency Syndromes* 95(S1):E59-E69.
 </a>  
-
-#
+  
 <a class = "one" href = "https://doi.org/10.1186/s12879-023-08625-x" target = "_blank">
 **[99]** Boye S, Kouadio A, Kouvahe AF, Vautier A, Ky-Zerbo O, Rouveau N, **Maheu-Giroux M**, Larmarange J, Pourette D, and the ATLAS Team (2024). Organisation of testing services, structural barriers and facilitators of routine HIV self-testing during sexually transmitted infection consultations: a qualitative study of patients and providers in Abidjan, Côte d’Ivoire. *BMC Infectious Diseases* 22(Suppl 1) 975. 
 </a>  
-
-#
+  
 <a class = "one" href = "https://doi.org/10.1002/jia2.26194" target = "_blank">
 **[98]** Doyle CM, Milwid RM, Cox J, Xia Y, Lambert G, Tremblay C, Otis J, Boily MC, Baril JG, Mercure SA, Thomas R, Trottier B, Mishra S, **Maheu-Giroux M** (2023). Population-level impact of pre-exposure prophylaxis on HIV acquisitions among men who have sex with men: a mathematical modeling study in Montréal, Canada (2013-2021). *Journal of the International AIDS Society* 26:e26194. 
 </a>  
-
-
-# 
+   
 <a class = "one" href = "https://doi.org/10.1002/jmv.29256" target = "_blank">
 **[97]** Milwid RM, Li M, Fazil A, **Maheu-Giroux M**, Doyle CM, Xia Y, Cox J, Grace D, Dvorakova M, Walker SC, Mishra SM, Ogden NH (2023). Exploring the dynamics of the 2022 mpox outbreak in Canada. *Journal of Medical Virology* 95:e29256.
 </a>  
-
-#  
+    
 <a class = "one" href = "https://doi.org/10.1186/s13027-023-00546-3" target = "_blank">
 **[96]** Yokoji K, Giguère K, Malagón T, Rönn MM, Mayaud P, Kelly H, Delany-Moretlwe S, Drolet M, Brisson M, Boily MC, **Maheu-Giroux M** (2023). Association of naturally acquired type-specific HPV antibodies and subsequent HPV re-detection: Systematic review and meta-analysis. *Infectious Agents and Cancer* 18:70. 
 </a> 
-  
-#  
+    
 <a class = "one" href = "https://doi.org/10.1186/s12879-023-08626-w" target = "_blank">
 **[95]** Kouassi Kra A, Simo Fosto A, N’guessan KN, Geoffroy O, Younoussa S, Kabemba OK, Gueye PA, Ndeye PD, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, and the ATLAS Team (2023). Can HIV self-testing reach first-time testers? A telephone survey among self-test end users in Côte d’Ivoire, Mali, and Senegal. *BMC Infectious Diseases* 22(S1):972. 
 </a> 
-
-#  
+    
 <a class = "one" href = "https://doi.org/10.1371/journal.pgph.0002146" target = "_blank">
 **[94]** Kuchukhidze S, Panagiotoglou, Boily MC, Diabaté s, Eaton JW, Stöckl H, Mbofana F, Wanyenze RK, and **Maheu-Giroux M** (2023). Characteristics of male perpetrators of intimate partner violence and implications for women’s HIV status: a pooled analysis of cohabiting couples from sub-Saharan Africa (2000-2020). *PLOS Global Public Health* 3(9):e0002146.
 </a>  
-   
+  
 <a class = "one" href = "https://doi.org/10.9778/cmajo.20220242" target = "_blank">
 **[93]** Flores Anato JL, Ma H, Hamilton MA, Xia Y, Harper S, Buckeridge D, Brisson M, Hillmer MP, Malikov K, Aidin Kerem, Beall R, Baral S, Dubé È, Mishra S, **Maheu-Giroux M** (2023). Impact of a vaccine passport on first-dose vaccine coverage by age and area-level social determinants of health in the Canadian provinces of Québec and Ontario: an interrupted time series analysis. *CMAJ Open* 11(5):e955-e1005. 
 </a>   
-
+  
 <a class = "one" href = "https://doi.org/10.1016/j.cmi.2023.06.013" target = "_blank">
 **[92]** Caya C, Singh AE, Serhir B, Morin V, Libman MD, Corsini R, Goldfarb DM, Wong T, Xia Y, **Maheu-Giroux M**, and Yansouni CP (2023). Rapid diagnostic testing for syphilis in Arctic communities (the STAR study): A multisite prospective field diagnostic accuracy study in an intended-use setting. *Clinical Microbiology and Infection* 29(10):P1335.E1-1335.E7.
 </a>  
-
-#  
+    
 <a class = "one" href = "https://doi.org/10.1007/s10461-023-04115-y" target = "_blank">
 **[91]** Silhol R, Nordsletten A, **Maheu-Giroux M**, Elmes J, Staunton R, Owen B, Shacklett B, McGowan I, Gomez Feliciano K, van der Straten A, Eller LA, Robb M, Mararazzo J, Dimitrov D, Boily MC (2023). The association between heterosexual anal intercourse and HIV acquisition in three prospective cohorts of women. *AIDS and Behavior*. (Accepted)
 </a>  
-
-#  
+    
 <a class = "one" href = "https://doi.org/10.1002/jia2.26109" target = "_blank">
 **[90]** Stansfield S, Heitner J, Mitchell K, Doyle CM, Milwid R, Moore J, Donnell D, Hanscom B, Xia Y, **Maheu-Giroux M**, Van de Vijver D, Wang H, Barnabas R, Boily MC, Dimitrov D (2023). Population-level impact of expanding PrEP coverage by offering long-acting injectable PrEP to MSM in three high resources settings: a model comparison analysis. *Journal of the International AIDS Society* 26(S2):e26109.
 </a>  
- 
-#  
+    
 <a class = "one" href = "https://doi.org/10.1186/s12879-023-08319-4" target = "_blank">
 **[89]** Ky-Zerbo O, Desclaux A, Boye S, **Maheu-Giroux M**, Rouveau N, Vautier A, Camara CS, Kouadio BA, Sow S, Gueye PA, Geoffroy O, Kamemba OK, Ehui E, Ndour CT, Keita A, Larmarange J, and the ATLAS Team (2023). “I take it and give it to my partners who will give it to their partners”: Secondary distribution of HIV self-tests (HIVST) by key populations in Côte d’Ivoire, Mali, and Senegal. *BMC Infectious Diseases* 22:970.
 </a>  
-
-#  
+    
 <a class = "one" href = "https://doi.org/10.1016/S2352-3018(23)00111-X" target = "_blank">
 **[88]** Stannah J, Soni R, Lam JKS, Giguère K, Mitchell K, Kronfli N, Larmarange J, Moh R, N’zebo Nouaman M, Kouamé GM, Boily MC, **Maheu-Giroux M**  (2023). Trends in HIV testing, the treatment cascade, and HIV incidence among men who have sex with men in Africa: A systematic review and meta-analysis. *The Lancet HIV* 10(8):e528-e542. 
 </a>    
-
-#  
+    
 <a class = "one" href = "https://doi.org/10.1016/j.drugpo.2023.104026" target = "_blank">
 **[87]** Lanièce Delaunay C, Klein MB, Godin A, Cox J, Kronfli N, Lebouché B, Doyle CM, **Maheu-Giroux M** (2023). Public health interventions, priority populations, and the impact of COVID-19 disruptions on hepatitis C elimination among people who have injected drugs in Montreal (Canada): a modeling study. *International Journal of Drug Policy* 116:104026.
 </a>  
-
-#  
+    
 <a class = "one" href = "https://doi.org/10.1371/journal.pmed.1004143" target = "_blank">
 **[86]** Yang L, Boily MC, Rönn MM, Obiri-Yeboah D, Morhason-Bello I, Meda N, Lompo Olga, Mayaud P, Pickles M, Hodgins C, Brisson M, Delany-Moretlwe S, **Maheu-Giroux M** (2023). Regional and country-level trends in cervical cancer screening coverage in sub-Saharan Africa: a systematic analysis of population-based surveys (2000-2020). *PLoS Medicine* 20(1):e1004143.
 </a> 
-  
-# 
+   
 <a class = "one" href = "https://doi.org/10.1016/S2352-3018(22)00305-8" target = "_blank">
 **[85]** Kuchukhidze S, Panagiotoglou D, Boily MC, Diabaté S, Eaton JW, Mbofana F, Sardinha L, Schrubbe L, Stöckl H, Wanyenze R, and **Maheu-Giroux M** (2023). The effects of intimate partner violence on women’s risk of HIV acquisition and engagement in the HIV treatment and care cascade: a pooled analysis of nationally representative surveys in sub-Saharan Africa. *The Lancet HIV* 10(2):E107-E117.
 </a>
-  
-#  
+    
 <a class = "one" href = "http://doi.org/10.3389/fpubh.2022.1021871" target = "_blank">
 **[84]** Kronfli N, Dussault C, **Maheu-Giroux M**, Halavrezos A, Chalifoux S, Park Y, Del Balso L, Cheng MP, Cox J (2022). Importance of occupation for SARS-CoV-2 seroprevalence and COVID-19 vaccination among correctional workers in Quebec, Canada (2021). *Frontiers in Public Health* 10:1021871.  
 </a> 
-  
-# 
+   
 <a class = "one" href = "https://doi.org/10.1371/journal.pone.0273713" target = "_blank">
 **[83]** Caya C, **Maheu-Giroux M**, Xia Y, Serhir B, Morin V, Corsini R, Goldfarb D, Wong T, Singh AE, and Yansouni C (2022). Stopping syphilis transmission in Artic communities through rapid diagnostic testing: the STAR study protocol. *PLoS One* 17(9):e0273713.
 </a> 
-
-# 
+   
 <a class = "one" href = "https://doi.org/10.1002/jia2.25994" target = "_blank">
 **[82]** Doyle CM, Cox J, Milwid RM, Bitera R, Lanièce Delaunay C, Alary M, Lambert G, Tremblay C, Mishra S, and **Maheu-Giroux M** (2022). Measuring progress towards reaching zero new HIV acquisitions among key populations in Québec (Canada) using routine surveillance data: a mathematical modelling study. *Journal of the International AIDS Society* 25:e25994.
 </a> 
-
-# 
+   
 <a class = "one" href = "https://doi.org/10.1016/j.eclinm.2022.101585" target = "_blank">
 **[81]** Staagdegaard L, Soni N, Bellerose M, Dala S, Bloem P, Brisson M, **Maheu-Giroux M**, Barnabas R, Drolet M, Mayaud P, Rönn MM, Boily MC (2022). Immunogenicity, safety, and efficacy of the HPV vaccines in people living with HIV: a systematic review and meta-analysis. *eClinical Medicine* 52:101585.
 </a>   
-
-#  
+    
 <a class = "one" href = "https://doi.org/10.1097/QAD.0000000000003328" target = "_blank">
 **[80]** Simo Fotso A, Johnson C, Vautier A, Kouamé KB, Diop PM, Silhol R, **Maheu-Giroux** M, Boily MC, Rouveau N, Doumenc-Aïdara S, Baggaley R, Ehui E, Larmarange J, and the *ATLAS Team* (2022). Routine programmatic data show a positive population-level impact of HIV self-testing: the case of Côte d'Ivoire and implications for implementation. *AIDS* 36(13):1871-1879.
 </a>   
-
-#  
+    
 <a class = "one" href = "https://doi.org/10.1186/s12905-022-01849-0" target = "_blank">
 **[79]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora AA, Ramirez C, Edmonds A, Sosanya K, Taylor TT, Plankey M, Cederbaum JA, Seidman D, Weber KM, Golub ET, Wells J, Bolivar H, Konkle-Parker D, Pregartner G, Boily MC  (2022). Longitudinal determinants of anal intercourse among women with, and without HIV in the United States. *BMC Women's Health* 22:291.
 </a>  
-
-#  
+    
 <a class = "one" href = "https://doi.org/10.3389/frhs.2022.886513" target = "_blank">
 **[78]** Traore MM, Badiane (co-first author), Vautier A, Fotso AS, Kabemba OK, Rouveau N, **Maheu-Giroux M**, Boily MC, Larmarange J, Terris-Prestholt F, d’Elbée M, and the ATLAS Team (2022). Economic analysis of low volume interventions using real-world data: Costs of HIV self-testing distribution and HIV testing services in west Africa from the ATLAS project. *Frontiers in Health Services* 2:886513.
 </a>  
-
-#  
+    
 <a class = "one" href = "https://doi.org/10.1186/s12874-022-01634-5" target = "_blank">
 **[77]** **Maheu-Giroux M**, Sardinha L, Stöckl H, Meyer S, Godin A, Alexander M, and García-Moreno C (2022). A framework to model global, regional, and national estimates of intimate partner violence. *BMC Medical Research Methodology* 22:159.
 </a> 
   
-#  
 <a class = "one" href = "https://doi.org/10.1016/j.ijid.2022.04.048" target = "_blank">
 **[76]** Xia Y, Ma H, Buckeridge DL, Brisson M, Sander B, Chan A, Verma A, Ganser I, Kronfli N, Mishra S, **Maheu-Giroux M** (2022). Mortality trends and length of stays among hospitalized COVID-19 patients in Ontario and Québec (Canada): a cohort study of the first three epidemic waves. *The International Journal of Infectious Diseases* 121:1-10. 
 </a> 
-  
-  
-# 
+   
 <a class = "one" href = "https://doi.org/10.1177/17455057221092268" target = "_blank">
 **[75]** Ky-Zerbo O, Desclaux A, Boye S, Vautier A, Rouveau N, Kouadio Brou A, Fotso Arlette S, Pourette D, **Maheu-Giroux M**, Sow S, Camara CS, Clémence DA, Keita A, Boily MC, Silhol R, D’elbée M, Bekelynck A, Gueye Papa A, Diop Papa M, Geoffroy O, Kamemba Odé K, Diallo S, Ehui E, Ndour Cheick T, and Larmarange J for the *ATLAS Team* (2022). Willingness to use and distribute HIV self-test kits to clients and partners: a qualitative analysis of female sex workers’ collective opinion and attitude in Côte d’Ivoire, Mali, and Senegal. *Women's Health* 18:1-11.
 </a> 
-  
-# 
+   
 <a class = "one" href = "https://doi.org/10.1186/s12879-022-07207-7" target = "_blank">
 **[74]** Milwid R, Xia Y, Doyle C, Cox J, Lambert G, Thomas R, Mishra S, Grace D, Lachowsky NJ, Hart TA, Boily MC, and **Maheu-Giroux M** (2022). Past dynamics of HIV transmission among men who have sex with men in Montréal, Canada: a mathematical modeling study. *BMC Infectious Diseases* 22:233. 
 </a> 
-
-# 
+   
 <a class = "one" href = "https://doi.org/10.1016/j.ijid.2022.02.030" target = "_blank">
 **[73]** Vickers DM, Bara SD, Mishra S, Kwong JC, Sundaram M, Katz A, Calzavara A, **Maheu-Giroux M**, Buckeridge DL, Williamson T (2022). Stringency of containment and closure policies and their association with growth of SARS-CoV-2 cases in Canada prior to accelerated vaccine roll-out. *International Journal of Infectious Diseases* 118:73-82.
 </a>
-  
-# 
+   
 <a class = "one" href = "http://doi.org/10.1016/j.drugpo.2022.103627" target = "_blank">
 **[72]** Lanièce Delaunay C, **Maheu-Giroux M**, Marathe G, Saeed S, Martel-Laferrière, Cooper CL, Walmsey S, Cox J, Wong A, and Klein MB, for the *Canadian Coinfection Cohort Investigators* (2022). Gaps in hepatitis C virus prevention and care for HIV-hepatitis C virus co-infected people who injected drugs in Canada. *International Journal of Drug Policy* 103:1-10.
 </a>
-
-#  
+    
 <a class = "one" href = "https://doi.org/10.1093/cid/ciac031" target = "_blank">
 **[71]** Kronfli N, Dussault C, **Maheu-Giroux M**, Halavrezos A, Chalifoux S, Sherman J, Park H, Del Balso L, Cheng MP, Poulin S, Cox J (2022). Seroprevalence and risk factors for SARS-CoV-2 among incarcerated adult men in Quebec, Canada (2021): a cross-sectional study. *Clinical Infectious Diseases*. (Accepted)
 </a>
- 
-#  
+    
 <a class = "one" href = "https://doi.org/10.1503/cmaj.211249" target = "_blank">
 **[70]** Xia Y, Ma H, Moloney G, Velásquez García HA, Sirski M, Janjua NZ, Vickers D, Williamson T, Katz A, Yu K, Kustra R, Buckeridge DL, Brisson M, Baral SD, Mishra S, and **Maheu-Giroux M** (2022). Geographical concentration of SARS-CoV-2 cases by social determinants of health in metropolitan areas in Canada: a cross-sectional study. *Canadian Medical Association Journal* 194(6):E195-E204.
 </a>
-  
-#  
+    
 <a class = "one" href = "https://doi.org/10.1186/s40814-021-00965-2" target = "_blank">
 **[69]** Simo Fosto A, Kouassi Kra A, **Maheu-Giroux M**, Boye S, d’Elbée M, Ky-Zerbo O, Rouveau N, N’Guessan NK, Geoffroy O, Vautier A, Larmarange, the *ATLAS Team* (2022). Is it possible to recruit HIV self-test users for an anonymous phone-based survey using passive recruitment without financial incentives? Lessons learned from a pilot study in Côte d’Ivoire. *Pilot and Feasibility Studies* 8:4.
 </a>
-  
-#  
+    
 <a class = "one" href = "https://doi.org/10.1016/S0140-6736(21)02664-7" target = "_blank">
 **[68]** Sardinha L, **Maheu-Giroux M**, Stöckl H, Meyer S, García-Moreno C (2022). Global, regional, and national prevalence of intimate partner violence against women (2018). *The Lancet* 399(10327):803-813.
 </a> 
@@ -297,7 +275,7 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 <a class = "one" href = "http://dx.doi.org/10.1136/sextrans-2021-055215" target = "_blank">
 **[67]** Flores Anato JL, Panagiotoglou D, Greenwald ZR, Blanchette M, Trottier C, Vaziri M, Charest L, Szabo J, Thomas R, and **Maheu-Giroux M** (2022). Chemsex and incidence of sexually transmitted infections among Canadian pre-exposure prophylaxis (PrEP) users in the l’Actuel PrEP Cohort (2013-2020). *Sexually Transmitted Infections* 0:1-8.
 </a>   
-  
+   
 <a class = "one" href = "https://doi.org/10.1371/journal.pmed.1003861" target = "_blank">
 **[66]** Hodgins C, Stannah J, Kuchukhidze S, Lycias Z, Eaton JW, Boily MC, **Maheu-Giroux M** (2022). Population sizes, HIV prevalence, and HIV prevention among men who paid for sex in sub-Saharan Africa: a meta-analysis of 87 population-based surveys (2000-2020). *PLOS Medicine* 19(1):e1003861.
 </a>   
@@ -325,118 +303,95 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 <a class="one" href = "https://doi.org/10.1016/j.annepidem.2021.07.007" target = "_blank">
 **[60]** Mishra S, Ma H, Moloney G, Yiu KCY, Darvin D, Landsman D, Kwong JC, Calzavara A, Straus S, Chan AK, Gournis E, Rilkoff H, Xia Y, Katz A, Williamson T, Malikov K, Kustra R, **Maheu-Giroux M**, Sander B, Baral SD, and the COVID-19 Heterogeneity Research Group (2021). Increasing concentration of COVID-19 by socioeconomic determinants and geography in Toronto, Canada: an observational study. *Annals of Epidemiology* 65:84-92. **Finalist for the 2023 Best Paper Award**. 
 </a>
-    
-#
+  
 <a class="one" href = "http://doi.org/10.1097/QAD.0000000000003021" target = "_blank">
 **[59]** Godin A, Eaton JW, Giguère K, Marsh K, Leigh J, Jahn A, Mbofana F, Ehui E, **Maheu-Giroux M** (2021). Inferring population HIV incidence trends from surveillance data of recent HIV infection among HIV testing clients. *AIDS* 35(14):2383-2388.
 </a>
-    
-#
+  
 <a class="one" href = "http://doi.org/10.1016/j.drugalcdep.2021.108875" target = "_blank">
 **[58]** Flores Anato JL, Panagiotoglou D, Greenwald Z, Trottier T, Thomas R, **Maheu-Giroux M** (2021). Chemsex practices and pre-exposure prophylaxis (PrEP) trajectories among individuals consulting for PrEP at a large sexual health clinic in Montréal, Canada (2013-2020). *Drug and Alcohol Dependence* 226:10887.
 </a>
   
-#
 <a class="one" href = "https://doi.org/10.1016/j.drugpo.2021.103343" target = "_blank">
 **[57]** Lanièce Delaunay C, Godin A, Kronfli N, Panagiotoglou D, Cox J, Alary M, Klein M, and **Maheu-Giroux M** (2021). Can hepatitis C elimination targets be sustained among people who inject drugs post-2030? *International Journal of Drug Policy* 96:103343.
 </a>
   
-#
 <a class="one" href = "https://doi.org/10.1016/j.drugpo.2021.103345" target = "_blank">
 **[56]** Duchesne L, Dussault C, Godin A, **Maheu-Giroux M**, Kronfli N (2021). Implementing opt-out Hepatitis C screening in Canadian provincial prisons: a model-based cost-effectiveness study. *International Journal of Drug Policy* 96:103345.
 </a>
-  
-#  
+    
 <a class="one" href = "http://doi.org/10.1007/s10461-021-03310-z" target = "_blank">
 **[55]** Soni N, Giguère K, Boily MC, Fogel JM, **Maheu-Giroux M**, Dimitrov D, Eshleman SH, Mitchell KM (2021). Under-reporting of known HIV-positive status among people living with HIV: a systematic review and meta-analysis. *AIDS and Behavior* 25(12):3858-3870.
 </a>  
-  
-#  
+    
 <a class="one" href = "http://doi.org/10.3389/fpubh.2021.653612" target = "_blank">
 **[54]** d’Elbée M, Traore MM, Badiane K, Vautier A, Simo Fosto A, Kabemba OK, Rouveau N, Godfrey-Faussett P, **Maheu-Giroux M**, Boily MC, Medley G, Larmarange J, Terris-Prestholt F, and the *ATLAS Team* (2021). Preparing for sustainable scale-up: economic analysis of HIV self-testing kits provision by civil society organizations to key populations and their sexual partners in Côte d’Ivoire, Senegal, and Mali. *Frontiers in Public Health* (Accepted).
 </a>  
-  
-#  
+    
 <a class="one" href = "http://doi.org/10.3389/fpubh.2021.653543" target = "_blank">
 **[53]** Boye S, Bouaré S, Ky-Zerbo O, Rouveau N, Simo Fotso A, d’Elbée M, Silhol S, **Maheu-Giroux M**, Vautier A, Breton G, Keita A, Bekelynck A, Desclaux A, Larmarange J, Pourette D, and the *ATLAS Team* (2021). Challenges of HIV self-test distribution for index testing when HIV status disclosure is low: an ethnographic study in Bamako (Mali) as part of the ATLAS project. Frontiers in Public Health. *Frontiers in Public Health* (Accepted).
 </a>  
-
-#  
+    
 <a class="one" href = "https://doi.org/10.1136/bmjopen-2020-045574" target = "_blank">
 **[52]** Stoeckl H, Sardinha L, Meyer S, **Maheu-Giroux M**, and García-Moreno C (2021). Physical, sexual and psychological intimate partner violence and non-partner sexual violence against women and girls: a systematic review protocol for producing global, regional and country estimates. *BMJ Open* 11:e045574.
 </a>  
-
-#  
+    
 <a class="one" href = "https://doi.org/10.1097/QAI.0000000000002663" target = "_blank">
 **[51]** Silhol R, Geidelberg L, Mitchell KM, Mishra S, Dimitrov D, Bowring A, Béhanzin L, Guédou F, Diabaté S, Schwartz S, Billong SC, Njindam IM, Levitt D, Mukandavire C, **Maheu-Giroux M**, Rönn MM, Dalal S, Vickerman P, Baral S, Alary M, Boily MC (2021). Assessing the potential impact of disruptions due to COVID-19 on HIV among key and lower-risk populations in the largest cities of Cameroon and Benin. *JAIDS – Journal of Acquired Immune Deficiency Syndrome* 87(3):899-911.
 </a>  
-  
-#  
+    
 <a class="one" href = "https://doi.org/10.9778/cmajo.20200198" target = "_blank">
 **[50]** Cox J, Apelian H, Moodie EEM, Messier-Peet M, Hart TA, Grace D, Moore DM, Lachowsky NJ, Armstrong HL, Jollimore J, Skakoon-Sparling S, Rodrigues R, Tan DHS, **Maheu-Giroux M**, Noor SW, Lebouché B, Tremblay C, Olarewaju G, Lambert G, and the Engage Study Team (2021). HIV pre-exposure prophylaxis (PrEP) use among urban Canadian gay, bisexual and other men who have sex with men for whom PrEP is clinically recommended: baseline results from the Engage Cohort Study. *CMAJ Open* 9(2):E529-E538.
 </a>  
-
-#  
+    
 <a class="one" href = "https://doi.org/10.1186/s12889-021-10212-1" target = "_blank">
 **[49]** Rouveau N, Ky-Zerbo O, Boye S, Simo Fotso A, d’Elbée M, **Maheu-Giroux M**, Silhol R, Kra Kouassi A, Vautier A, Doumenc-Aïdara C, Breton G, Keita A, Ehui E, Cheikh Tidiane N, Boily MC, Terris-Prestholt F, Pourette D, Desclaux A, Larmarange J, the *ATLAS Team* (2021). Describing, analysing and understanding the effects of the introduction of HIV self-testing in West Africa through the ATLAS programme in Côte d'Ivoire, Mali and Senegal. *BMC Public Health* 21:181.
 </a>  
-
-#  
+    
 <a class="one" href = "https://doi.org/10.1097/ede.0000000000001353" target = "_blank">
 **[48]** Carabali M, **Maheu-Giroux M**, Kaufman J (2021). Dengue, severity paradox and socioeconomic distribution among Afro-Colombians. *Epidemiology* 32(4):541-550.
 </a>  
-
-#  
+    
 <a class="one" href = "https://doi.org/10.1016/S2352-3018(20)30315-5" target = "_blank">
 **[47]** Giguère K, Eaton JW, Marsh K, Johnson LF, Johnson CC, Ehui E, Jahn A, Wanyeky I, Mbofana F, Bakiono F, Mahy M, **Maheu-Giroux M** (2021). Trends in knowledge of HIV status and efficiency of HIV testing services in sub-Saharan Africa (2000-2020): a modelling study of survey and HIV testing program data. *The Lancet HIV* 8(5):e284-293. 
 </a>
-  
-#  
+    
 <a class="one" href = "https://doi.org/10.1097/QAD.0000000000002759" target = "_blank">
 **[46]** Xia Y, Milwid RM, Godin A, Boily MC, Johnson LF, Marsh K, Eaton JW, **Maheu-Giroux M** (2021). Accuracy of self-reported HIV testing history and awareness of HIV-positive status among people living with HIV in four sub-Saharan Africa countries. *AIDS* 35(3):503-510.
 </a>
-  
-#  
+    
 <a class="one" href = "https://doi.org/10.1016/j.ijid.2020.10.046" target = "_blank">
 **[45]** Godin A+, Xia Y+ (+ co-first author), Buckeridge D, Mishra S, Douwes-Schultz D, Shen Y, Lavigne M, Drolet M, Schmidt A, Brisson M, and **Maheu-Giroux M** (2021). The role of case importation in explaining differences in early SARS-CoV-2 transmission dynamics in Canada - a mathematical modeling study of surveillance data. *The International Journal of Infectious Diseases* 102:254-259.
 </a>
-
-#  
+    
 <a class="one" href = "https://doi.org/10.1371/journal.pntd.0008056" target = "_blank">
 **[44]** Zhao N, Charland K, Carabali M, Nsoesie E, **Maheu-Giroux M**, Rees E, Yuan M, Balaguera CG, Jaramillo Ramirez G, Zinszer K (2020). Machine learning and dengue forecasting: comparing random forests and artificial neural networks for predicting dengue burdens at the national and sub-national scales in Colombia. *PLOS Neglected Tropical Diseases* 14(9):e0008056.
 </a>
-  
-#  
+    
 <a class="one" href = "https://doi.org/10.1097/QAI.0000000000002472" target = "_blank">
 **[43]** Xia Y, Greenwald Z, Milwid R, Trottier C, Boissonnault M, Gaul N, Charest L, Landry G, Szabo J, Thomas R, **Maheu-Giroux M** (2020). Pre-exposure prophylaxis uptake among men who have sex with men who used non-occupational post-exposure prophylaxis: a longitudinal analysis of attendees at a large sexual health clinic in Montréal (Canada). *JAIDS – Journal of Acquired Immune Deficiency Syndromes* 85(4):408-415.
 </a>
-  
-#  
+    
 <a class="one" href = "https://doi.org/10.1007/s10461-020-02965-4" target = "_blank">
 **[42]** Doyle C, **Maheu-Giroux M**, Lambert G, Mishra S, Apelian H, Messier-Peet M, Otis J, Grace D, Hart TA, Moore DM, Lachowsky NJ, Cox J, and the Engage Study Team (2020). Combination HIV prevention among Montreal gay, bisexual, and other men who have sex with men in the PrEP era: a latent class analysis. *AIDS and Behavior* 25:269-283.
 </a>
-
-#  
+    
 <a class="one" href = "https://doi.org/10.1136/sextrans-2020-054464" target = "_blank">
 **[41]** Lanièce CD, Cox J, Klein M, Lambert G, Grace D, Lachowsky N, and **Maheu-Giroux M** (2020). Trends in HCV seroprevalence and associated risk factors among men who have sex with men in Montréal: results from three cross-sectional surveys (2005, 2009, 2018). *Sexually Transmitted Infections* 97:290-296.
 </a>
-
-#  
+    
 <a class="one" href = "https://doi.org/10.1016/j.jsxm.2020.06.007" target = "_blank">
 **[40]** Owen BN, Baggaley RF, **Maheu-Giroux M**, Elmes J, Adimora A, Ramirez C, Edmonds A, Sosanya K, Taylor T, Plankey M, Cederbaum J, Seidman D, Weber K, Golub E, Wells J, Bolivar H, Konkle-Parker D, Boily MC (2020). Patterns and trajectories of anal intercourse practice over the life course among HIV-negative US women in the WIHS cohort. *The Journal of Sexual Medicine* 17(9):1629-1642.
 </a>
-  
-#  
+    
 <a class="one" href = "https://doi.org/10.1016/j.drugpo.2020.102738" target = "_blank">
 **[39]** Godin A, Kronfli N, Cox J, Alary M, and **Maheu-Giroux M** (2020). The role of prison-based interventions for hepatitis C virus micro-elimination among people who inject drugs in Montréal, Canada. *International Journal of Drug Policy* 88:102738.
 </a>
-  
-#  
+    
 <a class="one" href = "https://doi.org/10.1371/journal.pone.0228849" target = "_blank">
 **[38]** Owen BN, **Maheu-Giroux M**, Matse S, Mnisi Z, Baral S, Ketende SC, Baggaley RF, and Boily MC (2020). Prevalence and correlates of anal intercourse among female sex workers in eSwatini. *PLOS One* 15(2):e0228849.
 </a>
-
-#  
+    
 <a class="one" href = "https://doi.org/10.1097/QAD.0000000000002386" target = "_blank">
 **[37]** **Maheu-Giroux M**, Marsh K, Bhatkoti R, Doyle C, Godin A, Lanièce Delaunay C, Jonhson LF, Jhan A, Abo K, Mbofana F, Boily MC, Buckeridge DL, Hankins C, and Eaton JW (2019). National HIV testing and diagnosis coverage in sub-Saharan Africa: a new modeling tool for estimating the “first 90” from program and survey data. *AIDS* 33(Suppl 3):S295-S302. 
 </a>
@@ -448,7 +403,7 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 <a class="one" href = "http://dx.doi.org/10.1136/bmjopen-2018-028768" target = "_blank">
 **[35]** Greenwald ZR, **Maheu-Giroux M**, Szabo J, Robin-Bérubé JA, Boissonnault M, Nguyen VK, Thomas R (2019). Cohort Profile: l’Actuel Pre-Exposure Prophylaxis (PrEP) Cohort study. *BMJ Open* 9:e028768. 
 </a>
-  
+    
 <a class="one" href = "https://doi.org/10.1016/S2542-5196(19)30071-3" target = "_blank">
 **[34]** **Maheu-Giroux M** and Castro MC (2019). Attribution of reductions in malaria prevalence in Dar es Salaam, Tanzania. *The Lancet Planetary Health* 3(6):e246.
 </a>
@@ -456,162 +411,131 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 <a class="one" href = "https://www.ncbi.nlm.nih.gov/pubmed/30649034" target = "_blank">
 **[33]** **Maheu-Giroux M**, Diabaté S, Boily MC, Jean-Paul N, Vesga JF, Baral S, Abo K, Wogwin V, Diouf D, Alary M (2019). Cost-effectiveness of accelerated HIV response scenarios in Côte d’Ivoire. *JAIDS – Journal of Acquired Immune Deficiency Syndromes* 80(5):503-512.
 </a>
-
+  
 <a class="one" href = "https://doi.org/10.1016/S1473-3099(18)30270-6" target = "_blank">
 **[32]** **Maheu-Giroux M** and Joseph SA (2018). Moxidectin for deworming: from trials to implementation. *The Lancet Infectious Diseases* S1473-3099(18)30270-6.
 </a>
-
-#  
+    
 <a class="one" href = "https://www.ncbi.nlm.nih.gov/pubmed/29306786" target = "_blank">
 **[31]** Tavitian-Exley I, **Maheu-Giroux M**, Platt L, Heimer R, Uusküla A, Levina O, Vickerman P, and Boily MC (2018). Differences in risk behaviors and HIV status between primary amphetamines and opioid injectors in Estonia and Russia. *International Journal of Drug Policy* 53:96-105.  
 </a>
-
-#  
+    
 <a class="one" href = "https://doi.org/10.1007/s10461-017-1836-0" target = "_blank">
 **[30]** Tavitian-Exley I, Boily MC, Heimer R, Uusküla A, Levina O, and **Maheu-Giroux M** (2018). Polydrug use and HIV risk heterogeneity among people who inject drugs: a latent class analysis. *AIDS and Behavior* 22(4):1329-1340.
 </a>
-
-#  
+    
 <a class="one" href = "https://doi.org/10.1093/aje/kwx244" target = "_blank">
 **[29]** **Maheu-Giroux M**, Baral S, Vesga JF, Diouf D, Diabaté S, Alary M, Abo K, and Boily MC (2017). Anal intercourse among female sex workers in Côte d’Ivoire: prevalence, frequency, determinants, and model-based estimates of its population-level impact on HIV transmission. *American Journal of Epidemiology* 187(2):287-197.
 </a>
-
-#  
+    
 <a class="one" href = "http://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1002321&type=printable" target = "_blank">
 **[28]** **Maheu-Giroux M**, Vesga JF, Diabaté S, Alary M, Baral S, Diouf D, Abo K, and Boily MC (2017). Population-level impact of an accelerated HIV response plan to reach the UNAIDS 90-90-90 target in Côte d’Ivoire: insights from mathematical modeling. *PLOS Medicine* 14(6):e1002321.
 </a>
-
-#  
+    
 <a class="one" href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5441086/pdf/12889_2017_Article_4417.pdf" target = "_blank">
 **[27]** Kirakoya-Samadoulougou F, Jean K, and **Maheu-Giroux M** (2017). Uptake of HIV testing in Burkina Faso: an assessment of individual and community-level determinants. *BMC Public Health* 17(1):487.
 </a>
-
-#  
+    
 <a class="one" href = "https://www.ncbi.nlm.nih.gov/pubmed/28471837" target = "_blank">
 **[26]** **Maheu-Giroux M**, Vesga JF, Diabaté S, Alary M, Baral S, Diouf D, Abo K, and Boily MC (2017). Changing dynamics of HIV transmission in Côte d’Ivoire: modeling which key populations acquired and transmitted HIV infections and estimating the impact of past HIV interventions (1976-2015). *JAIDS – Journal of Acquired Immune Deficiency Syndromes* 75(5):517-527.
 </a>
-
-#  
+    
 <a class="one" href = "https://www.ncbi.nlm.nih.gov/pubmed/28252526" target = "_blank">
 **[25]** **Maheu-Giroux M**, Tanser F, Boily MC, Pillay D, Joseph SA, and Bäernighausen T (2017). Determinants of time from HIV infection to linkage-to-care in rural KwaZulu-Natal, South Africa. *AIDS* 31:1017-1024.
 </a>
-
-#  
+    
 <a class="one" href = "https://www.ncbi.nlm.nih.gov/pubmed/26388170" target = "_blank">
 **[24]** **Maheu-Giroux M** (2016). Oxantel pamoate and deworming programmes. *The Lancet Infectious Diseases* 16(1):5-6.
 </a>
-
-#  
+    
 <a class="one" href = "http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005065&type=printable" target = "_blank">
 **[23]** Castro MC, **Maheu-Giroux M**, Chiyaka C, and Singer BH (2016). Malaria incidence rates from time series of 2-wave panel surveys. *PLOS Computational Biology* 12(8):e1005065.
 </a>
-
-# 
+   
 <a class="one" href = "https://bmcpregnancychildbirth.biomedcentral.com/track/pdf/10.1186/s12884-016-0871-6?site=bmcpregnancychildbirth.biomedcentral.com" target = "_blank">
 **[22]** **Maheu-Giroux M**, Filippi V, Samadoulougou S, Castro MC, Maulet N, Meda N, Pouliot M, and Kirakoya-Samadoulougou F (2016). Risk factors for vaginal fistula symptoms in sub-Saharan Africa: a pooled analysis of national household surveys. *BMC Pregnancy and Childbirth* 16(1):1-10.
 </a>
-
-#  
+    
 <a class="one" href = "http://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0004020&type=printable" target = "_blank">
 **[21]** Joseph SA, Casapía M, Montresor A, Rahme E, Ward BJ, Marquis GS, Pezo L, Blouin B, **Maheu-Giroux M**, and Gyorkos TW (2015). The effect of deworming timing and frequency on growth in one-year old children living in an STH-endemic area of Peru: a randomized controlled trial. *PLOS Neglected Tropical Diseases* 9(10):e0004020.
 </a>
-
-# 
+   
 <a class="one" href = "http://www.thelancet.com/journals/langlo/article/PIIS2214-109X(15)00030-3/fulltext" target = "_blank">
 **[20]** **Maheu-Giroux M**, Filippi V, Samadoulougou S, Castro MC, Maulet N, Meda N, and Kirakoya-Samadoulougou F (2015). Fistula in sub-Saharan Africa – Authors’ reply. *The Lancet Global Health* 3(8):e442.
 </a>
-
-# 
+   
 <a class="one" href = "http://www.thelancet.com/pdfs/journals/langlo/PIIS2214-109X(14)70348-1.pdf" target = "_blank">
 **[19]** **Maheu-Giroux M**, Filippi V, Samadoulougou S, Castro MC, Maulet N, Meda N, and Kirakoya-Samadoulougou F (2015). Prevalence of symptoms of vaginal fistula in 19 sub-Saharan Africa countries: a meta-analysis of national household survey data. *The Lancet Global Health* 3(5):e271-e278.
 </a>
-
-# 
+   
 <a class="one" href = "http://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0003369&type=printable" target = "_blank">
 **[18]** Joseph SA, Casapía M, Blouin B, **Maheu-Giroux M**, Rahme E, and Gyorkos TW (2014). Risk factors associated with malnutrition in one-year-old children living in the Peruvian Amazon. *PLOS Neglected Tropical Diseases* 8(12):e3369.
 </a>
-
-# 
+   
 <a class="one" href = "https://malariajournal.biomedcentral.com/track/pdf/10.1186/1475-2875-13-477?site=malariajournal.biomedcentral.com" target = "_blank">
 **[17]** **Maheu-Giroux M** and Castro MC (2014). Cost-effectiveness of larviciding for urban malaria control in Tanzania. *Malaria Journal* 13(1):447. (*Highly Accessed)
 </a>
-
-# 
+   
 <a class="one" href = "https://malariajournal.biomedcentral.com/track/pdf/10.1186/1475-2875-13-440?site=malariajournal.biomedcentral.com" target = "_blank">
 **[16]** **Maheu-Giroux M** and Castro MC (2014). Factors affecting providers’ delivery of Intermittent Preventive Therapy for malaria in pregnancy: a five-country analysis of national Service Provision Assessment surveys. *Malaria Journal* 13(1):440.
 </a>
-
-# 
+   
 <a class="one" href = "http://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0003007&type=printable" target = "_blank">
 **[15]** Thériault FL, **Maheu-Giroux M**, Blouin B, Casapía M, and Gyorkos TW (2014). Effects of a post-deworming health hygiene education intervention on absenteeism in school-age children of the Peruvian Amazon. *PLOS Neglected Tropical Diseases* 8(8):e3007. 
 </a>
-
-# 
+   
 <a class="one" href = "https://parasitesandvectors.biomedcentral.com/track/pdf/10.1186/1756-3305-7-350?site=parasitesandvectors.biomedcentral.com" target = "_blank">
 **[14]** Samadoulougou S, **Maheu-Giroux M**, Kirakoya-Samadoulougou F, de Keukeleire M, Castro MC, and Robert A (2014). Multilevel and geo-statistical modeling of malaria risk in children of Burkina Faso. *Parasites & Vectors* 7(1):350.
 </a>
-
-# 
+   
 <a class="one" href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4228373/" target = "_blank">
 **[13]** Tanser F, de Oliveira T, **Maheu-Giroux M** and Baernighausen TW (2014). Concentrated HIV epidemics within generalized ones in sub-Saharan Africa. *Current Opinion in HIV and AIDS* 9(2):115-125.
 </a>
-
-# 
+   
 <a class="one" href = "https://www.ncbi.nlm.nih.gov/pubmed/24448936" target = "_blank">
 **[12]** Gyorkos TW, **Maheu-Giroux M**, Blouin B, Saavedra L, and Casapía M (2013). Efficacy of a single dose of albendazole for soil-transmitted helminth infections in school children of Iquitos, Peru. *Revista Peruana de Medicina Experimental y Salud Pública* 30(4):601-607.
 </a>
-
-# 
+   
 <a class="one" href = "https://malariajournal.biomedcentral.com/track/pdf/10.1186/1475-2875-12-422?site=malariajournal.biomedcentral.com" target = "_blank">
 **[11]** **Maheu-Giroux M** and Castro MC (2013). Do malaria vector control measures impact disease-related behaviors and knowledge? Evidence from a large-scale larviciding intervention in Tanzania. *Malaria Journal* 12:422. (*Highly Accessed)
 </a>
-
-# 
+   
 <a class="one" href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3772033/pdf/pntd.0002397.pdf" target = "_blank">
 **[10]** Gyorkos TW, **Maheu-Giroux M**, Blouin B, and Casapía M (2013). Impact of health education on soil-transmitted helminth infections in schoolchildren of the Peruvian Amazon: A cluster-randomized controlled trial. *PLOS Neglected Tropical Diseases* 7(9):e2397.
 </a>
-
-# 
+   
 <a class="one" href = "http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0071638&type=printable" target = "_blank">
 **[9]** **Maheu-Giroux M** and Castro MC (2013). Impact of community-based larviciding on the prevalence of malaria infection in Dar es Salaam, Tanzania. *PLOS One* 8(8):e71638. 
 </a>
-
-# 
+   
 <a class="one" href = "https://www.ncbi.nlm.nih.gov/pubmed/23925280" target = "_blank">
 **[8]** Blouin B, Penny ME, **Maheu-Giroux M**, Casapía M, Aguilar E, Silva H, Creed-Kanashiro H, Joseph SA, Gagnon A, Rahme E, and Gyorkos TW (2013). Timing of umbilical cord clamping and infant anemia: the role of maternal anemia. *Paediatrics & International Child Health* 33(2):79-85.
 </a>
-
-# 
+   
 <a class="one" href = "https://www.ncbi.nlm.nih.gov/pubmed/22566383" target = "_blank">
 **[7]** Gyorkos TW, **Maheu-Giroux** M, Blouin B, Creed-Kanashiro H, Casapía M, Aguilar E, Silva H, Joseph SA, and Penny ME (2012). A hospital policy change toward delayed cord clamping is effective in improving hemoglobin levels and anemia status of 8-month-old Peruvian infants. *Journal of Tropical Pediatrics* 58(6):435-440.
 </a>
-
-# 
+   
 <a class="one" href = "https://www.ncbi.nlm.nih.gov/pubmed/21709936" target = "_blank">
 **[6]** Blouin B, Penny ME, Casapía M, Aguilar E, Silva H, Joseph SA, Creed-Kanashiro H, **Maheu-Giroux M**, and Gyorkos TW (2011). Effect of a two-component intervention to change hospital practice from early to delayed umbilical cord clamping in the Peruvian Amazon. *Pan American Journal of Public Health* 29(5):322-328.
 </a>
-
-# 
+   
 <a class="one" href = "https://www.ncbi.nlm.nih.gov/pubmed/21349565" target = "_blank">
 **[5]** Gyorkos TW, **Maheu-Giroux M**, Casapía M, Joseph SA, and Creed-Kanashiro H (2011). Stunting and helminth infection in early preschool-age children in a resource-poor community in the Amazon lowlands of Peru. *Transactions of the Royal Society for Tropical Medicine & Hygiene* 105(4):204-208.
 </a>
-
-# 
+   
 <a class="one" href = "https://www.ncbi.nlm.nih.gov/pubmed/21257247" target = "_blank">
 **[4]** **Maheu-Giroux M**, Casapía M, and Gyorkos TW (2011). On the validity of self-reports and indirect reports to ascertain malaria prevalence in settings of hypoendemicity. *Social Science & Medicine* 72(5):635-640.
 </a>
-
-# 
+   
 <a class="one" href = "https://www.ncbi.nlm.nih.gov/pubmed/20188688" target = "_blank">
 **[3]** **Maheu-Giroux M**, Sotto-Calle VE, Casapía M, Berrang-Ford L, Buckeridge DL, Coomes OT, and Gyorkos TW (2010). Risk of malaria transmission from fish ponds in the Peruvian Amazon. *Acta Tropica* 115(1-2):112-118.
 </a>
-
-# 
+   
 <a class="one" href = "https://link.springer.com/article/10.1007/s10980-006-9024-z" target = "_blank">
 **[2]** **Maheu-Giroux M** and de Blois S (2007). The landscape ecology of Phragmites australis invasion in networks of linear wetlands. *Landscape Ecology* 22(2):285-301.
 </a>
-
-# 
+   
 <a class="one" href = "https://www.sciencedirect.com/science/article/pii/S0304377005001452" target = "_blank">
 **[1]** **Maheu-Giroux M** and de Blois S (2005). Mapping the invasive species Phragmites australis in linear wetlands corridors. *Aquatic Botany* 83(4):310-320.
 </a>
@@ -620,79 +544,77 @@ Pre-print [here](https://doi.org/10.1101/2023.08.23.23294498).
 #  
 # Editorials and book reviews  
 
-#  
+ 
 <a class="one" href = "http://science.sciencemag.org/content/346/6206/174.1.full" target = "_blank">
 **Maheu-Giroux M** (2014). How Medicine Became Modern – “The Remedy: Robert Koch, Arthur Conan Doyle, and the Quest to Cure Tuberculosis”. *Science* 346(6206):174.
 </a>
-
-#  
+    
 <a class="one" href = "https://www.hcs.harvard.edu/hghr/online/vaccines-cholera-haiti/">
 **Maheu-Giroux M** (2011). Change of mind: vaccines now to be used for cholera control in Haïti. *Harvard College Global Health Review* (12/31/2011).
 </a>  
- 
-
-#  
+    
 # Reports
 # 
-
 <a class="one" href = "">
 Doyle CM, Xia Y, Flores Anato JL, and **Maheu-Giroux** M (2023). Evidence review of innovations in public health surveillance of HIV. Public Health Agency of Canada (PHAC). Ottawa, ON (48 pages).
 </a>
- 
+  
+#  
 <a class="one" href = "https://www.ncbi.nlm.nih.gov/books/NBK586588/">
 Stansfield S, Heitner J, Mitchell K, Doyle CM, Milwid RM, **Maheu-Giroux M**, Jamieson L, Meyer-Rath G, Johnson LF, Smith J, Philips A, Boily MC, Dimitrov D (2022). Projected population impact of expanding PrEP coverage by offering long-acting injectable PrEP in different settings: model comparison analysis. In: Guidelines on Long-Acting Injectable Cabotegravir for HIV Prevention. Geneva: World Health Organization. WEB ANNEX D.
 </a>
   
-# 
+#  
 <a class="one" href = "https://www.inspq.qc.ca/es/node/27855">
 **Comité d’experts en vigie génomique du SRAS-CoV-2** (2021). État de situation sur le variant B.1.617 du SRAS-CoV-2 (émergent d’Inde) et recommandations pour en rehausser la surveillance au Québec. Institut national de santé publique du Québec. (No de publication 3139).
 </a>
   
-# 
+#  
 <a class="one" href = "https://www.who.int/publications/i/item/9789240022256">
 **WHO** (2021). Violence against women prevalence estimates, 2018: global, regional and national prevalence estimates for intimate partner violence against women and global and regional prevalence for non-partner sexual violence against women. Geneva: World Health Organization.
 </a>
-
+  
 #  
 <a class="one" href = "https://www.inspq.qc.ca/covid-19/donnees/projections/hospitalisation">
 INESSS, INSPQ, **Équipe de modélisation de l’Université McGill** (2020). Projections du nombre d’hospitalisations pour les personnes atteintes de la COVID-19. *Institut national d’excellence en santé et services sociaux*, *Institut national de santé publique du Québec*.
 </a> 
-
+  
+#  
 <div class = "class-name">
 Blouin B and **Maheu-Giroux M** (2019). Bias assessment and adjustments of antenatal care routine testing HIV prevalence estimates for use to monitor epidemic trends - Protocol for estimating spatial patterns and trends in ANC HIV prevalence, adjusting for variation in coverage and completeness. Report submitted to UNAIDS. 62 pages.
 </div>
-
-#    
+      
+#  
 <div class = "class-name">
 **Maheu-Giroux M** (2017). A Bayesian framework for global, regional, and national estimates of violence against women statistics. Reported submitted to the World Health Organization, Dept. of Reproductive Health and Research. 88 pages.
 </div>
-
-# 
+   
+#  
 <a class="one" href = "https://dhsprogram.com/pubs/pdf/MR22/MR22.pdf">
 **Maheu-Giroux M**, Joseph L, Belisle P, Lancione S, and Eaton JW (2017). Assessing the Impact of Imperfect Immunoassays on HIV Prevalence Estimates from Surveys Conducted by The DHS Program. DHS Methodological Report No. 22. 58 pages. Rockville, MD, USA.
 </a>
-
-# 
+   
+#  
 <div class = "class-name">
 Diabaté S, **Maheu-Giroux M**, Vesga JF, Boily MC, and Alary M (2015). Plan d’accélération de la réponse nationale au VIH en Côte d’Ivoire. Rapport présenté à ONUSIDA – Région d’Afrique de l’ouest et du centre. 145 pages.
 </div>
-
-# 
+   
+#  
 <a class="one" href = "https://www.cbd.int/ts32/ts32-chap-11.shtml">
 Pauchard A and **Maheu-Giroux M** (2007). Case study 11.1 - Acacia dealbata invasion across multiple scales: conspicuous flowering species can help us study invasion patterns and processes (pages 166-167).  in H Strand, R Höft, J Strittholt, L Miles, N Horning, and E Fosnight, editors. Sourcebook on Remote Sensing and Biodiversity Indicators. Secretariat of the Convention on Biological Diversity, Montréal, Technical Series no. 32, 201 pages
 </a>
-
+    
 #  
 <div class = "class-name">
 **Maheu-Giroux M** and Belvisi J (2007). Volet Biodiversité de l’Initiative Nationale d’Élaboration de Normes Agroenvironnementales - Démarche d’appui au développement de normes appliquées au projet pilote de l’écorégion des basses-terres du Saint-Laurent. Rapport présenté à Environnement Canada – INÉNA. 245 pages.
 </div>
-
-# 
+   
+#  
 <div class = "class-name">
 **Maheu-Giroux M**, de Blois S, and Jobin B (2006). Suivi des habitats et des pressions anthropiques de quatre Réserves nationales de faune du Québec et leur périphérie à l’échelle du paysage. Environnement Canada, Service canadien de la faune, Région du Québec. 63 p. + annexes.
 </div>
-
-# 
+   
+#  
 <div class = "class-name">
 **Maheu-Giroux M**, Boivin P, Brisson J, de Blois S, and Bouchard A (2003). Évaluation de la résistance de différents mélanges d'espèces végétales à l'envahissement d'espèces arborescentes > Protocole expérimental. Institut de Recherche en Biologie Végétale - Université de Montréal. 25 pages.
 </div>
