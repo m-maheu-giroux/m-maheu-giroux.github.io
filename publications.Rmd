@@ -60,53 +60,52 @@ Feel free to email me to obtain a copy of any of the papers below.
 <div class = "class-name"> 
 **[117]** Wang S, Wang L, Baral SD, Moloney G, Johns J, Huber C, Mistry J, Khan K, Rao A, Janjua N, Williamson T, Katz A, Ma H, **Maheu-Giroux M**, Mishra S, and Kustra R (2024). Mobility changes following COVID-19 stay-at-home policies varied by socioeconomic measures: an observational study in Ontario, Canada. 
 </div> 
-  
-#  
-<div class = "class-name"> 
-**[116]** Kuchukhidze S, Walters M, Panagiotoglou D, Boily MC, Diabaté S, Russel A, Stöckl H, Sardinha L, Mbofana F, Wanienze RK, Imai-Eaton JW, and **Maheu-Giroux M** (2024). The contribution of intimate partner violence to mother-to-child HIV transmission: a modeling analysis of 44 sub-Saharan African countries. 
-</div> 
-    
+   
 #  
 <div class = "class-name">  
-**[115]** Silhol R, **Maheu-Giroux M**, Soni N, Simo Fotso A, Rouveau N, Vautier A, Doumenc-Aïdara C, Geoffroy O, N’Guessan KN, Younoussa S, Kabemba OK, Gueye PA, Dama Ndeye P, Mukandavire C, Vickerman P, Keita A, Ndour CT, Ehui E, Larmarange J, Boily MC, and the ATLAS Team (2024). The impact of past HIV interventions and treatment gaps to new HIV acquisitions, transmissions, and HIV-related deaths in Côte d’Ivoire, Mali, and Senegal.
+**[116]** Beall R, Flores Anato JL, D'Souza AG, Velásquez García HA, Ma H, Yang F, Baral SD, Cabaj J, Cooper E, Hillmer M, Hollis A, Janjua; NZ, Katz K, Leal J, **Maheu-Giroux** M, May ER, Malikov K, Mishra M, Moloney G, Williamson T (2024). A Canadian multi-province study of COVID-19 vaccine coverage along area-level social determinants in 2021. 
 </div> 
    
 #  
 <div class = "class-name">  
-**[114]** Beall R, Flores Anato JL, D'Souza AG, Velásquez García HA, Ma H, Yang F, Baral SD, Cabaj J, Cooper E, Hillmer M, Hollis A, Janjua; NZ, Katz K, Leal J, **Maheu-Giroux** M, May ER, Malikov K, Mishra M, Moloney G, Williamson T (2024). A Canadian multi-province study of COVID-19 vaccine coverage along area-level social determinants in 2021. 
-</div> 
-   
-#  
-<div class = "class-name">  
-**[113]** Stevens O, Sabin K, Anderson RL, Arias Garcia S, Willis K, Rao A, McIntyre A, Fearon E, Grard E, Stewart-Brown A, Cowan F, Stannah J, Degenhardt L, Zhao J, Hakim AJ, Rucinski K, Sathane I, Boothe M, Atuhaire L, Nyasulu P, **Maheu-Giroux M**, Platt L, Rice B, Hadlik W, Baral S, Mahy M, and Imai-Eaton JW (2024). Population size, HIV prevalence, and antiretroviral therapy coverage among key populations in sub-Saharan Africa: collation and synthesis of survey data. Pre-print [here](https://www.medrxiv.org/content/10.1101/2022.07.27.22278071v2).
+**[115]** Stevens O, Sabin K, Anderson RL, Arias Garcia S, Willis K, Rao A, McIntyre A, Fearon E, Grard E, Stewart-Brown A, Cowan F, Stannah J, Degenhardt L, Zhao J, Hakim AJ, Rucinski K, Sathane I, Boothe M, Atuhaire L, Nyasulu P, **Maheu-Giroux M**, Platt L, Rice B, Hadlik W, Baral S, Mahy M, and Imai-Eaton JW (2024). Population size, HIV prevalence, and antiretroviral therapy coverage among key populations in sub-Saharan Africa: collation and synthesis of survey data. Pre-print [here](https://www.medrxiv.org/content/10.1101/2022.07.27.22278071v2).
 </div> 
   
 #  
 <div class = "class-name">   
-**[112]** Lu IJ, Silhol R, Boily MC, Boye S, Ky-Zerbo O, Vauthier A, Simo Fosto A, Traoré MM, Badiane K, d’Elbée M, Terris-Presholt, Larmarange J, **Maheu-Giroux M**, and the ATLAS Team (2024). Cost-effectiveness of HIV self-testing among key populations in Côte d’Ivoire, Mali, and Senegal. 
+**[114]** Lu IJ, Silhol R, Boily MC, Boye S, Ky-Zerbo O, Vauthier A, Simo Fosto A, Traoré MM, Badiane K, d’Elbée M, Terris-Presholt, Larmarange J, **Maheu-Giroux M**, and the ATLAS Team (2024). Cost-effectiveness of HIV self-testing among key populations in Côte d’Ivoire, Mali, and Senegal. 
 </div> 
    
 #  
 <div class = "class-name">   
-**[111]** Kouassi AK, Simo Fotso A, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, on behalf of the ATLAS team (2024). HIV self-testing positivity rate and linkage to confirmatory testing and care: a telephone survey in Côte d’Ivoire, Mali, and Senegal. Pre-print [here](https://doi.org/10.1101/2023.06.10.23291206).
+**[113]** Kouassi AK, Simo Fotso A, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, on behalf of the ATLAS team (2024). HIV self-testing positivity rate and linkage to confirmatory testing and care: a telephone survey in Côte d’Ivoire, Mali, and Senegal. Pre-print [here](https://doi.org/10.1101/2023.06.10.23291206).
 </div>  
   
 #  
 <div class = "class-name">
-**[110]** Stevens O, Anderson R, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Crowell TA, Tally L, Mulenga L, Neena P, **Maheu-Giroux M**, McIntyre A, Hladik W, Zhao J, Mahy M, Eaton JW (2024). HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. Pre-print [here](https://doi.org/10.1101/2023.11.09.23298289). 
+**[112]** Stevens O, Anderson R, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Crowell TA, Tally L, Mulenga L, Neena P, **Maheu-Giroux M**, McIntyre A, Hladik W, Zhao J, Mahy M, Eaton JW (2024). HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. Pre-print [here](https://doi.org/10.1101/2023.11.09.23298289). 
 </div>  
   
-#  
-<div class = "class-name">
-**[109]** Xia Y, Flores Anato JL, Colijn C, Janjua N, Otterstatter M, Irvine N, Tyler Williamson, Varughese MB, Li M, Osgood N, Earn DJD, Sander B, Cipriano LE, Murthy K, Xiu F, Godin G, Buckeridge DL, Hurford H, Sharmistha Mishra S, and **Maheu-Giroux M** (2024). Canada’s provincial COVID-19 pandemic modelling efforts: a review of mathematical models and their impacts on the responses. Pre-print [here](http://dx.doi.org/10.2139/ssrn.4476949).
-</div>  
+
   
 #  
 #  
 ## Published
 #
   
-   
+<a class = "one" href = "http://dx.doi.org/10.2139/ssrn.4476949" target = "_blank"> 
+**[111]** Xia Y, Flores Anato JL, Colijn C, Janjua N, Otterstatter M, Irvine N, Tyler Williamson, Varughese MB, Li M, Osgood N, Earn DJD, Sander B, Cipriano LE, Murthy K, Xiu F, Godin G, Buckeridge DL, Hurford H, Sharmistha Mishra S, and **Maheu-Giroux M** (2024). Canada’s provincial COVID-19 pandemic modelling efforts: a review of mathematical models and their impacts on the responses.*Canadian Journal of Public Health*. (Accepted)
+
+</a>  
+
+<a class = "one" href = "" target = "_blank"> 
+**[110]** Silhol R, **Maheu-Giroux M**, Soni N, Simo Fotso A, Rouveau N, Vautier A, Doumenc-Aïdara C, Geoffroy O, N’Guessan KN, Younoussa S, Kabemba OK, Gueye PA, Dama Ndeye P, Mukandavire C, Vickerman P, Keita A, Ndour CT, Ehui E, Larmarange J, Boily MC, and the ATLAS Team (2024). The impact of past HIV interventions and treatment gaps to new HIV acquisitions, transmissions, and HIV-related deaths in Côte d’Ivoire, Mali, and Senegal. *AIDS*. (Accepted)
+</a> 
+
+<a class = "one" href = "" target = "_blank">
+**[109]** Kuchukhidze S, Walters M, Panagiotoglou D, Boily MC, Diabaté S, Russel A, Stöckl H, Sardinha L, Mbofana F, Wanienze RK, Imai-Eaton JW, and **Maheu-Giroux M** (2024). The contribution of intimate partner violence to mother-to-child HIV transmission: a modeling analysis of 46 African countries. *The Lancet HIV*. (Accepted)
+</a> 
+    
 <a class = "one" href = "https://doi.org/10.1101/2023.08.23.23294498" target = "_blank">
 **[108]** Silhol R, **Maheu-Giroux M**, Soni N, Simo Fotso A, Rouveau N, Vautier A, Doumenc-Aidara C, Geoffroy O, N’Guessan KN, Sidibe Y, Kabemba OK, Gueye PA, Mukandavire C, Vickerman P, Keita A, Ndour CT, Ehui E, Larmarange J, Boily MC, The ATLAS Team (2024). Assessing the potential population-level impacts of HIV self-testing distribution among key populations in Côte d’Ivoire, Mali, and Senegal: a mathematical modelling analysis. *The Lancet HIV*. (Accepted) 
 </a>  
