@@ -38,6 +38,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 ## Submitted
 <div class = "class-name"> 
+**[122]** Xiu F, Doyle CM, Flores Anato JL, Knight J, Wang L, Cox J, Grace D, Hart TA, Zhang T, Skakoon-Sparling S, Dvorakova M, Shahin R, Sachdeva H, Lachowsky N, Sbihi H, Darrell HS Tan, Irvine MA, Mishra M, **Maheu-Giroux** M (2024). Impact of interventions on mpox transmission during the 2022 outbreak in Canada: a mathematical modeling study of three different cities. 
+</div> 
+
+#   
+<div class = "class-name"> 
 **[121]** Pickles M, Mountain E, Bhattacharjee P, Kioko J, Musimbi J, Musyoki H, Gichangi P, Stannah J, **Maheu-Giroux M**, Becker M, and Boily MC (2024). Assessing the potential impact of violence on HIV among female sex workers in Mombasa, Kenya: a mathematical modeling study. 
 </div> 
   
