@@ -58,32 +58,27 @@ Feel free to email me to obtain a copy of any of the papers below.
   
 #  
 <div class = "class-name"> 
-**[118]** Sardinha L, Yüksel-Kaptanoğlu I, **Maheu-Giroux M**, García-Moreno C (2024). Intimate partner violence against adolescent girls: regional and national prevalence estimates and associated country-level factors 
-</div> 
-  
-#  
-<div class = "class-name"> 
-**[117]** Wang S, Wang L, Baral SD, Moloney G, Johns J, Huber C, Mistry J, Khan K, Rao A, Janjua N, Williamson T, Katz A, Ma H, **Maheu-Giroux M**, Mishra S, and Kustra R (2024). Mobility changes following COVID-19 stay-at-home policies varied by socioeconomic measures: an observational study in Ontario, Canada. 
+**[118]** Wang S, Wang L, Baral SD, Moloney G, Johns J, Huber C, Mistry J, Khan K, Rao A, Janjua N, Williamson T, Katz A, Ma H, **Maheu-Giroux M**, Mishra S, and Kustra R (2024). Mobility changes following COVID-19 stay-at-home policies varied by socioeconomic measures: an observational study in Ontario, Canada. 
 </div> 
    
 #  
 <div class = "class-name">  
-**[116]** Beall R, Flores Anato JL, D'Souza AG, Velásquez García HA, Ma H, Yang F, Baral SD, Cabaj J, Cooper E, Hillmer M, Hollis A, Janjua; NZ, Katz K, Leal J, **Maheu-Giroux** M, May ER, Malikov K, Mishra M, Moloney G, Williamson T (2024). A Canadian multi-province study of COVID-19 vaccine coverage along area-level social determinants in 2021. 
+**[117]** Beall R, Flores Anato JL, D'Souza AG, Velásquez García HA, Ma H, Yang F, Baral SD, Cabaj J, Cooper E, Hillmer M, Hollis A, Janjua; NZ, Katz K, Leal J, **Maheu-Giroux** M, May ER, Malikov K, Mishra M, Moloney G, Williamson T (2024). A Canadian multi-province study of COVID-19 vaccine coverage along area-level social determinants in 2021. 
 </div> 
   
 #  
 <div class = "class-name">   
-**[115]** Lu IJ, Silhol R, Boily MC, Boye S, Ky-Zerbo O, Vauthier A, Simo Fosto A, Traoré MM, Badiane K, d’Elbée M, Terris-Presholt, Larmarange J, **Maheu-Giroux M**, and the ATLAS Team (2024). Cost-effectiveness of HIV self-testing among key populations in Côte d’Ivoire, Mali, and Senegal. 
+**[116 ]** Lu IJ, Silhol R, Boily MC, Boye S, Ky-Zerbo O, Vauthier A, Simo Fosto A, Traoré MM, Badiane K, d’Elbée M, Terris-Presholt, Larmarange J, **Maheu-Giroux M**, and the ATLAS Team (2024). Cost-effectiveness of HIV self-testing among key populations in Côte d’Ivoire, Mali, and Senegal. 
 </div> 
    
 #  
 <div class = "class-name">   
-**[114]** Kouassi AK, Simo Fotso A, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, on behalf of the ATLAS team (2024). HIV self-testing positivity rate and linkage to confirmatory testing and care: a telephone survey in Côte d’Ivoire, Mali, and Senegal. Pre-print [here](https://doi.org/10.1101/2023.06.10.23291206).
+**[115]** Kouassi AK, Simo Fotso A, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, on behalf of the ATLAS team (2024). HIV self-testing positivity rate and linkage to confirmatory testing and care: a telephone survey in Côte d’Ivoire, Mali, and Senegal. Pre-print [here](https://doi.org/10.1101/2023.06.10.23291206).
 </div>  
   
 #  
 <div class = "class-name">
-**[113]** Stevens O, Anderson R, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Crowell TA, Tally L, Mulenga L, Neena P, **Maheu-Giroux M**, McIntyre A, Hladik W, Zhao J, Mahy M, Eaton JW (2024). HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. Pre-print [here](https://doi.org/10.1101/2023.11.09.23298289). 
+**[114]** Stevens O, Anderson R, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Crowell TA, Tally L, Mulenga L, Neena P, **Maheu-Giroux M**, McIntyre A, Hladik W, Zhao J, Mahy M, Eaton JW (2024). HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. Pre-print [here](https://doi.org/10.1101/2023.11.09.23298289). 
 </div>  
   
 
@@ -93,6 +88,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Published
 #
   
+#  
+<a class = "one" href = "" target = "_blank"> 
+**[113]** Sardinha L, Yüksel-Kaptanoğlu I, **Maheu-Giroux M**, García-Moreno C (2024). Intimate partner violence against adolescent girls: regional and national prevalence estimates and associated country-level factors. *The Lancet Child and Adolescent Health*. (Accepted)
+</a> 
+
 <a class = "one" href = "https://www.medrxiv.org/content/10.1101/2022.07.27.22278071v2" target = "_blank"> 
 **[112]** Stevens O, Sabin K, Anderson RL, Arias Garcia S, Willis K, Rao A, McIntyre A, Fearon E, Grard E, Stewart-Brown A, Cowan F, Stannah J, Degenhardt L, Zhao J, Hakim AJ, Rucinski K, Sathane I, Boothe M, Atuhaire L, Nyasulu P, **Maheu-Giroux M**, Platt L, Rice B, Hadlik W, Baral S, Mahy M, and Imai-Eaton JW (2024). Population size, HIV prevalence, and antiretroviral therapy coverage among key populations in sub-Saharan Africa: collation and synthesis of survey data (2010-2023). *The Lancet Global Health*. (Accepted)
 </a> 
