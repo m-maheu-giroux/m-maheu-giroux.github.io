@@ -62,16 +62,6 @@ MSc Student in Epidemiology (McGill). Research Topic: *TBD*.
 </div>
 </div>
 
-<div class = "row">
-<div class = "column left">
-<img src = "Fanyu_Xiu.jpg" align = "left" width = "100" height = "100"  />
-</div>
-<div class = "column right">
-### <i class = "glyphicon glyphicon-user"> </i> Fanyu (Vanessa) Xiu
-MSc Student in Epidemiology (McGill). Research Topic: *Sexual networks of gay, bisexual, and other men who have sex with men in Canada: implications the transmission and control of mpox*.
-</div>
-</div>
-
 
 #  
 #  
@@ -88,15 +78,6 @@ PhD Candidate in Epidemiology (McGill). Research Topic: *Structural determinants
 </div>
 </div>
 
-<div class = "row">
-<div class = "column left">
-<img src = "Salome_Kuchukhidze.jpg" align = "left" width = "100" height = "100"  />
-</div>
-<div class = "column right">
-### <i class = "glyphicon glyphicon-user"> </i> Salome Kuchukhidze
-PhD Candidate in Epidemiology (McGill). Research Topic: *Intimate partner violence and its implication on women's HIV outcomes*. 
-</div>
-</div>
   
 <div class = "row">
 <div class = "column left">
@@ -139,6 +120,27 @@ Dr. Carla Doyle holds a BSc in Mathematics & Statistics from Acadia University, 
 #  
 # Past Supervision
 #  
+
+
+<div class = "row">
+<div class = "column left">
+<img src = "Salome_Kuchukhidze.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Salome Kuchukhidze (PhD'24)
+PhD Candidate in Epidemiology (McGill). Research Topic: *Intimate partner violence and HIV in sub-Saharan Africa: implications for HIV control in women, girls, and infants*. 
+</div>
+</div>
+
+<div class = "row">
+<div class = "column left">
+<img src = "Fanyu_Xiu.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Fanyu (Vanessa) Xiu (MSc'24)
+MSc Student in Epidemiology (McGill). Research Topic: *Sexual networks of gay, bisexual, and other men who have sex with men in Canada: implications the transmission and control of mpox*.
+</div>
+</div>
 
 <div class = "row">
 <div class = "column left">

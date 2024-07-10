@@ -137,7 +137,7 @@ In 2017 joined the Department of Epidemiology and Biostatistics at [McGill Unive
 #
 ## <i class="glyphicon glyphicon-list"></i> Research Interests
 Population Health / Infectious Disease Epidemiology / Impact Evaluation  
-Bayesian Statistics / Modeling / Measurements and Disease Burden
+Bayesian Statistics / Modeling / Measurements, Disease Burden, and Surveillance
 
 #
 #
