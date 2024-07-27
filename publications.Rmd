@@ -92,8 +92,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[112]** Stevens O, Sabin K, Anderson RL, Arias Garcia S, Willis K, Rao A, McIntyre A, Fearon E, Grard E, Stewart-Brown A, Cowan F, [Stannah J]{.underline}, Degenhardt L, Zhao J, Hakim AJ, Rucinski K, Sathane I, Boothe M, Atuhaire L, Nyasulu P, **Maheu-Giroux M**, Platt L, Rice B, Hadlik W, Baral S, Mahy M, and Imai-Eaton JW (2024). Population size, HIV prevalence, and antiretroviral therapy coverage among key populations in sub-Saharan Africa: collation and synthesis of survey data (2010-2023). *The Lancet Global Health*. (Accepted)
 </a> 
 
-<a class = "one" href = "http://dx.doi.org/10.2139/ssrn.4476949" target = "_blank"> 
-**[111]** [Xia Y]{.underline}, [Flores Anato JL]{.underline}, Colijn C, Janjua N, Otterstatter M, Irvine N, Tyler Williamson, Varughese MB, Li M, Osgood N, Earn DJD, Sander B, Cipriano LE, Murthy K, Xiu F, [Godin G]{.underline}, Buckeridge DL, Hurford H, Sharmistha Mishra S, and **Maheu-Giroux M** (2024). Canada’s provincial COVID-19 pandemic modelling efforts: a review of mathematical models and their impacts on the responses.*Canadian Journal of Public Health*. (Accepted)
+<a class = "one" href = "https://doi.org/10.17269/s41997-024-00910-9" target = "_blank"> 
+**[111]** [Xia Y]{.underline}, [Flores Anato JL]{.underline}, Colijn C, Janjua N, Otterstatter M, Irvine N, Tyler Williamson, Varughese MB, Li M, Osgood N, Earn DJD, Sander B, Cipriano LE, Murthy K, Xiu F, [Godin G]{.underline}, Buckeridge DL, Hurford H, Sharmistha Mishra S, and **Maheu-Giroux M** (2024). Canada’s provincial COVID-19 pandemic modelling efforts: a review of mathematical models and their impacts on the responses.*Canadian Journal of Public Health*.
 </a> 
  
 <a class = "one" href = "https://doi.org/10.1097/QAD.0000000000003974" target = "_blank"> 
