@@ -93,7 +93,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a> 
 
 <a class = "one" href = "https://doi.org/10.17269/s41997-024-00910-9" target = "_blank"> 
-**[111]** [Xia Y]{.underline}, [Flores Anato JL]{.underline}, Colijn C, Janjua N, Otterstatter M, Irvine N, Tyler Williamson, Varughese MB, Li M, Osgood N, Earn DJD, Sander B, Cipriano LE, Murthy K, Xiu F, [Godin G]{.underline}, Buckeridge DL, Hurford H, Sharmistha Mishra S, and **Maheu-Giroux M** (2024). Canada’s provincial COVID-19 pandemic modelling efforts: a review of mathematical models and their impacts on the responses.*Canadian Journal of Public Health*.
+**[111]** [Xia Y]{.underline}, [Flores Anato JL]{.underline}, Colijn C, Janjua N, Otterstatter M, Irvine N, Tyler Williamson, Varughese MB, Li M, Osgood N, Earn DJD, Sander B, Cipriano LE, Murthy K, Xiu F, [Godin G]{.underline}, Buckeridge DL, Hurford H, Sharmistha Mishra S, and **Maheu-Giroux M** (2024). Canada’s provincial COVID-19 pandemic modelling efforts: a review of mathematical models and their impacts on the responses. *Canadian Journal of Public Health*.
 </a> 
  
 <a class = "one" href = "https://doi.org/10.1097/QAD.0000000000003974" target = "_blank"> 
@@ -101,11 +101,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a> 
 
 <a class = "one" href = "https://doi.org/10.1016/S2352-3018(24)00148-6" target = "_blank">
-**[109]** [Kuchukhidze S]{.underline}, Walters M, Panagiotoglou D, Boily MC, Diabaté S, Russel A, Stöckl H, Sardinha L, Mbofana F, Wanienze RK, Imai-Eaton JW, and **Maheu-Giroux M** (2024). The contribution of intimate partner violence to vertical HIV transmission: a modeling analysis of 46 African countries. *The Lancet HIV*. (Online)
+**[109]** [Kuchukhidze S]{.underline}, Walters M, Panagiotoglou D, Boily MC, Diabaté S, Russel A, Stöckl H, Sardinha L, Mbofana F, Wanienze RK, Imai-Eaton JW, and **Maheu-Giroux M** (2024). The contribution of intimate partner violence to vertical HIV transmission: a modeling analysis of 46 African countries. *The Lancet HIV* 11(8):e542-e551.
 </a> 
     
 <a class = "one" href = "https://doi.org/10.1016/S2352-3018(24)00126-7" target = "_blank">
-**[108]** Silhol R, **Maheu-Giroux M**, Soni N, Simo Fotso A, Rouveau N, Vautier A, Doumenc-Aidara C, Geoffroy O, N’Guessan KN, Sidibe Y, Kabemba OK, Gueye PA, Mukandavire C, Vickerman P, Keita A, Ndour CT, Ehui E, Larmarange J, Boily MC, The ATLAS Team (2024). Potential population-level effects of HIV self-testing distribution among key populations in Côte d’Ivoire, Mali, and Senegal: a mathematical modelling analysis. *The Lancet HIV*.
+**[108]** Silhol R, **Maheu-Giroux M**, Soni N, Simo Fotso A, Rouveau N, Vautier A, Doumenc-Aidara C, Geoffroy O, N’Guessan KN, Sidibe Y, Kabemba OK, Gueye PA, Mukandavire C, Vickerman P, Keita A, Ndour CT, Ehui E, Larmarange J, Boily MC, The ATLAS Team (2024). Potential population-level effects of HIV self-testing distribution among key populations in Côte d’Ivoire, Mali, and Senegal: a mathematical modelling analysis. *The Lancet HIV* 11(8):e531-e541.
 </a>  
   
 <a class = "one" href = "" target = "_blank">
