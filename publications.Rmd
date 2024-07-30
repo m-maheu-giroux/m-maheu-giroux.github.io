@@ -84,8 +84,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[114]** Kouassi AK, Simo Fotso A, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, on behalf of the ATLAS team (2024). HIV self-testing positivity rate and linkage to confirmatory testing and care: a telephone survey in Côte d’Ivoire, Mali, and Senegal. *Peer Community Journal* 4:e56.
 </a>
 
-<a class = "one" href = "" target = "_blank"> 
-**[113]** Sardinha L, Yüksel-Kaptanoğlu I, **Maheu-Giroux M**, García-Moreno C (2024). Intimate partner violence against adolescent girls: regional and national prevalence estimates and associated country-level factors. *The Lancet Child and Adolescent Health*. (Accepted)
+<a class = "one" href = "https://doi-org/10.1016/S2352-4642(24)00145-7" target = "_blank"> 
+**[113]** Sardinha L, Yüksel-Kaptanoğlu I, **Maheu-Giroux M**, García-Moreno C (2024). Intimate partner violence against adolescent girls: regional and national prevalence estimates and associated country-level factors. *The Lancet Child and Adolescent Health*.
 </a>
 
 <a class = "one" href = "https://www.medrxiv.org/content/10.1101/2022.07.27.22278071v2" target = "_blank"> 
