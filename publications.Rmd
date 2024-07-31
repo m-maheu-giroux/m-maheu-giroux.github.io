@@ -108,8 +108,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[108]** Silhol R, **Maheu-Giroux M**, Soni N, Simo Fotso A, Rouveau N, Vautier A, Doumenc-Aidara C, Geoffroy O, N’Guessan KN, Sidibe Y, Kabemba OK, Gueye PA, Mukandavire C, Vickerman P, Keita A, Ndour CT, Ehui E, Larmarange J, Boily MC, The ATLAS Team (2024). Potential population-level effects of HIV self-testing distribution among key populations in Côte d’Ivoire, Mali, and Senegal: a mathematical modelling analysis. *The Lancet HIV* 11(8):e531-e541.
 </a>  
   
-<a class = "one" href = "" target = "_blank">
-**[107]** Sardinha L, Stöckl H, **Maheu-Giroux M**, Meyer SR, García-Moreno C (2024). A persistent pandemic: the global prevalence of non-partner sexual violence against women. *Bulletin of the World Health Organization*. (Accepted)
+<a class = "one" href = "https://doi.org/10.2471/blt.23.290420" target = "_blank">
+**[107]** Sardinha L, Stöckl H, **Maheu-Giroux M**, Meyer SR, García-Moreno C (2024). Global prevalence of non-partner sexual violence against women. *Bulletin of the World Health Organization* 102(8):582-587.
 </a> 
   
 <a class = "one" href = "https://doi.org/10.1016/j.eclinm.2024.102596" target = "_blank">
