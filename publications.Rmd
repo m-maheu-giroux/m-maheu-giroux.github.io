@@ -269,7 +269,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a> 
   
 <a class = "one" href = "http://dx.doi.org/10.1136/sextrans-2021-055215" target = "_blank">
-**[67]** [Flores Anato J]{.underline}L, Panagiotoglou D, Greenwald ZR, Blanchette M, Trottier C, Vaziri M, Charest L, Szabo J, Thomas R, and **Maheu-Giroux M** (2022). Chemsex and incidence of sexually transmitted infections among Canadian pre-exposure prophylaxis (PrEP) users in the l’Actuel PrEP Cohort (2013-2020). *Sexually Transmitted Infections* 0:1-8.
+**[67]** [Flores Anato J]{.underline}L, Panagiotoglou D, Greenwald ZR, Blanchette M, Trottier C, Vaziri M, Charest L, Szabo J, Thomas R, and **Maheu-Giroux M** (2022). Chemsex and incidence of sexually transmitted infections among Canadian pre-exposure prophylaxis (PrEP) users in the l’Actuel PrEP Cohort (2013-2020). *Sexually Transmitted Infections* 98:549-556.
 </a>   
    
 <a class = "one" href = "https://doi.org/10.1371/journal.pmed.1003861" target = "_blank">
