@@ -48,22 +48,17 @@ Feel free to email me to obtain a copy of any of the papers below.
   
 #  
 <div class = "class-name"> 
-**[120]** [Stannah J]{.underline}, [Flores Anato JL]{.underline}, Pickles M, Larmarange J, Mitchell KM, Artenie A, Dumchev K, Niangoran S, Platt L, Terris-Presholt F, Singh A, Stone J, Vickerman P, Phillips A, Johnson L, **Maheu-Giroux M**, and Boily MC  (2024). From conceptualizing to modelling structural factors and interventions: a scoping review and framework to improve evidence-based dynamic HIV transmission model development and analysis. 
-</div> 
-
-#  
-<div class = "class-name"> 
-**[119]** Wang S, Wang L, Baral SD, Moloney G, Johns J, Huber C, Mistry J, Khan K, Rao A, Janjua N, Williamson T, Katz A, Ma H, **Maheu-Giroux M**, Mishra S, and Kustra R (2024). Mobility changes following COVID-19 stay-at-home policies varied by socioeconomic measures: an observational study in Ontario, Canada. Pre-print [here](https://doi.org/10.1101/2024.01.29.24301938).
+**[120]** Wang S, Wang L, Baral SD, Moloney G, Johns J, Huber C, Mistry J, Khan K, Rao A, Janjua N, Williamson T, Katz A, Ma H, **Maheu-Giroux M**, Mishra S, and Kustra R (2024). Mobility changes following COVID-19 stay-at-home policies varied by socioeconomic measures: an observational study in Ontario, Canada. Pre-print [here](https://doi.org/10.1101/2024.01.29.24301938).
 </div> 
    
 #  
 <div class = "class-name">  
-**[118]** Beall R, [Flores Anato JL]{.underline}, D'Souza AG, Velásquez García HA, Ma H, Yang F, Baral SD, Cabaj J, Cooper E, Hillmer M, Hollis A, Janjua NZ, Katz K, Leal J, **Maheu-Giroux** M, May ER, Malikov K, Mishra M, Moloney G, Williamson T (2024). A Canadian multi-province study of COVID-19 vaccine coverage along area-level social determinants in 2021. 
+**[119]** Beall R, [Flores Anato JL]{.underline}, D'Souza AG, Velásquez García HA, Ma H, Yang F, Baral SD, Cabaj J, Cooper E, Hillmer M, Hollis A, Janjua NZ, Katz K, Leal J, **Maheu-Giroux** M, May ER, Malikov K, Mishra M, Moloney G, Williamson T (2024). A Canadian multi-province study of COVID-19 vaccine coverage along area-level social determinants in 2021. 
 </div> 
   
 #  
 <div class = "class-name">
-**[117]** Stevens O, Anderson R, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Crowell TA, Tally L, Mulenga L, Neena P, **Maheu-Giroux M**, McIntyre A, Hladik W, Zhao J, Mahy M, Imai-Eaton JW (2024). HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. Pre-print [here](https://doi.org/10.1101/2023.11.09.23298289). 
+**[118]** Stevens O, Anderson R, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Crowell TA, Tally L, Mulenga L, Neena P, **Maheu-Giroux M**, McIntyre A, Hladik W, Zhao J, Mahy M, Imai-Eaton JW (2024). HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. Pre-print [here](https://doi.org/10.1101/2023.11.09.23298289). 
 </div>  
   
 
@@ -72,6 +67,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 #  
 ## Published
 #
+#  
+<a class = "one" href = "https://doi.org/10.1016/j.lana.2024.100845" target = "_blank">
+**[117]** [Stannah J]{.underline}, [Flores Anato JL]{.underline}, Pickles M, Larmarange J, Mitchell KM, Artenie A, Dumchev K, Niangoran S, Platt L, Terris-Presholt F, Singh A, Stone J, Vickerman P, Phillips A, Johnson L, **Maheu-Giroux M**, and Boily MC  (2024). From conceptualizing to modelling structural factors and interventions: a scoping review and framework to improve evidence-based dynamic HIV transmission model development and analysis. *BMC Medicine*. (Accepted)
+</a>  
+
 <a class = "one" href = "https://doi.org/10.1016/j.lana.2024.100845" target = "_blank">
 **[116]** [Xia Y]{.underline}, Caya C, Morin V, Singh A, Serhir B, Libman M, Goldfarb D, Wong W, [Xiu F]{.underline}, Bélanger RE, Touchette J-S, Yansouni C, and **Maheu-Giroux M** (2024). The population-level impact of introducing rapid diagnostic tests on syphilis transmission in Canadian Arctic communities - A mathematical modeling study. *The Lancet Regional Health - Americas* 37:100845.
 </a> 
@@ -85,7 +85,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a>
 
 <a class = "one" href = "https://doi.org/10.1016/S2352-4642(24)00145-7" target = "_blank"> 
-**[113]** Sardinha L, Yüksel-Kaptanoğlu I, **Maheu-Giroux M**, García-Moreno C (2024). Intimate partner violence against adolescent girls: regional and national prevalence estimates and associated country-level factors. *The Lancet Child and Adolescent Health*.
+**[113]** Sardinha L, Yüksel-Kaptanoğlu I, **Maheu-Giroux M**, García-Moreno C (2024). Intimate partner violence against adolescent girls: regional and national prevalence estimates and associated country-level factors. *The Lancet Child and Adolescent Health* 8(9):636-646.
 </a>
 
 <a class = "one" href = "https://www.medrxiv.org/content/10.1101/2022.07.27.22278071v2" target = "_blank"> 
@@ -93,7 +93,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a> 
 
 <a class = "one" href = "https://doi.org/10.17269/s41997-024-00910-9" target = "_blank"> 
-**[111]** [Xia Y]{.underline}, [Flores Anato JL]{.underline}, Colijn C, Janjua N, Otterstatter M, Irvine N, Tyler Williamson, Varughese MB, Li M, Osgood N, Earn DJD, Sander B, Cipriano LE, Murthy K, Xiu F, [Godin G]{.underline}, Buckeridge DL, Hurford H, Sharmistha Mishra S, and **Maheu-Giroux M** (2024). Canada’s provincial COVID-19 pandemic modelling efforts: a review of mathematical models and their impacts on the responses. *Canadian Journal of Public Health*.
+**[111]** [Xia Y]{.underline}, [Flores Anato JL]{.underline}, Colijn C, Janjua N, Otterstatter M, Irvine N, Tyler Williamson, Varughese MB, Li M, Osgood N, Earn DJD, Sander B, Cipriano LE, Murthy K, Xiu F, [Godin G]{.underline}, Buckeridge DL, Hurford H, Sharmistha Mishra S, and **Maheu-Giroux M** (2024). Canada’s provincial COVID-19 pandemic modelling efforts: a review of mathematical models and their impacts on the responses. *Canadian Journal of Public Health* 115(4):541-557.
 </a> 
  
 <a class = "one" href = "https://doi.org/10.1097/QAD.0000000000003974" target = "_blank"> 
