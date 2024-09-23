@@ -69,8 +69,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[118]** Pickles M, Mountain E, Bhattacharjee P, Kioko J, Musimbi J, Musyoki H, Gichangi P, [Stannah J]{.underline}, **Maheu-Giroux M**, Becker M, and Boily MC (2024). Assessing the potential impact of violence on HIV among female sex workers in Mombasa, Kenya: a mathematical modeling study. *BMC Medicine*. (Accepted)
 </a> 
   
-<a class = "one" href = "https://doi.org/10.1016/j.lana.2024.100845" target = "_blank">
-**[117]** [Stannah J]{.underline}, [Flores Anato JL]{.underline}, Pickles M, Larmarange J, Mitchell KM, Artenie A, Dumchev K, Niangoran S, Platt L, Terris-Presholt F, Singh A, Stone J, Vickerman P, Phillips A, Johnson L, **Maheu-Giroux M**, and Boily MC  (2024). From conceptualizing to modelling structural factors and interventions: a scoping review and framework to improve evidence-based dynamic HIV transmission model development and analysis. *BMC Medicine*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1186/s12916-024-03580-z" target = "_blank">
+**[117]** [Stannah J]{.underline}, [Flores Anato JL]{.underline}, Pickles M, Larmarange J, Mitchell KM, Artenie A, Dumchev K, Niangoran S, Platt L, Terris-Prestholt F, Singh A, Stone J, Vickerman P, Phillips A, Johnson L, **Maheu-Giroux M**, and Boily MC  (2024). From conceptualising to modelling structural determinants and interventions in HIV transmission dynamics models: a scoping review and methodological framework for evidence-based analyses. *BMC Medicine* 22:404. 
 </a>  
 
 <a class = "one" href = "https://doi.org/10.1016/j.lana.2024.100845" target = "_blank">
