@@ -38,6 +38,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 ## Submitted
 <div class = "class-name"> 
+**[123]** Torres-Flores S, [Flores Anato JL]{.underline}, He JH, Portilla VG, Wu Y, **Maheu-Giroux M**, [Racine É]{.underline}, Wagner CE (2024). Evaluating COVID-19 vaccination policy in Québec (Canada) using a data-driven dynamic transmission model.
+</div> 
+  
+# 
+<div class = "class-name"> 
 **[122]** [Xiu F]{.underline}, [Doyle CM]{.underline}, [Flores Anato JL]{.underline}, Knight J, Wang L, Cox J, Grace D, Hart TA, Zhang T, Skakoon-Sparling S, Dvorakova M, Shahin R, Sachdeva H, Lachowsky N, Sbihi H, Darrell HS Tan, Irvine MA, Mishra M, **Maheu-Giroux** M (2024). Impact of interventions on mpox transmission during the 2022 outbreak in Canada: a mathematical modeling study of three different cities. Pre-print [here](https://doi.org/10.1101/2024.06.20.24309262). 
 </div> 
    
@@ -60,8 +65,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 # 
 
 #  
-<a class = "one" href = "https://doi.org/10.1101/2024.01.29.24301938" target = "_blank">
-**[119]** Wang S, Wang L, Baral SD, Moloney G, Johns J, Huber C, Mistry J, Khan K, Rao A, Janjua N, Williamson T, Katz A, Ma H, **Maheu-Giroux M**, Mishra S, and Kustra R (2024). Mobility changes following COVID-19 stay-at-home policies varied by socioeconomic measures: an observational study in Ontario, Canada. *PLOS Global Public Health*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1371/journal.pgph.0002926" target = "_blank">
+**[119]** Wang S, Wang L, Baral SD, Moloney G, Johns J, Huber C, Mistry J, Khan K, Rao A, Janjua N, Williamson T, Katz A, Ma H, **Maheu-Giroux M**, Mishra S, and Kustra R (2024). Mobility changes following COVID-19 stay-at-home policies varied by socioeconomic measures: an observational study in Ontario, Canada. *PLOS Global Public Health* 4(11):e0002926. 
 </a> 
   
 <a class = "one" href = "https://doi.org/10.1186/s12916-024-03670-y" target = "_blank">
