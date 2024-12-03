@@ -38,6 +38,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 ## Submitted
 <div class = "class-name"> 
+**[124]** [Allorant A]{.underline}, [Kuchukhidze S]{.underline}, [Stannah J]{.underline}, [Xia Y]{.underline}, Masuku SS, Ekanmian GK, Imai-Eaton JW, **Maheu-Giroux M** (2024). Socio-demographic and geographic disparities in HIV prevalence, HIV testing, and treatment coverage: an analysis of 108 national household surveys in 33 African countries.
+</div> 
+  
+# 
+<div class = "class-name"> 
 **[123]** Torres-Flores S, [Flores Anato JL]{.underline}, He JH, Portilla VG, Wu Y, **Maheu-Giroux M**, [Racine É]{.underline}, Wagner CE (2024). Evaluating COVID-19 vaccination policy in Québec (Canada) using a data-driven dynamic transmission model.
 </div> 
   
