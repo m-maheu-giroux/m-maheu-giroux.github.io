@@ -38,6 +38,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 ## Submitted
 <div class = "class-name"> 
+**[125]** Heitner J, Standsfield SE, Mitchell KM, [Doyle CM]{.underline}, [Milwid RM]{.underline}, Moore M, Donnell DJ, [Xia Y]{.underline}, Maheu-Giroux M, Barnabas R, Boily MC, Dimitrov DT (2024). Cost-effectiveness of leveraging long-acting injectable Cabotegravir to expand PrEP coverage among men who have sex with men in two contrasting North American cities. 
+</div> 
+  
+# 
+<div class = "class-name"> 
 **[124]** [Allorant A]{.underline}, [Kuchukhidze S]{.underline}, [Stannah J]{.underline}, [Xia Y]{.underline}, Masuku SS, Ekanmian GK, Imai-Eaton JW, **Maheu-Giroux M** (2024). Socio-demographic and geographic disparities in HIV prevalence, HIV testing, and treatment coverage: an analysis of 108 national household surveys in 33 African countries.
 </div> 
   
@@ -107,7 +112,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a> 
  
 <a class = "one" href = "https://doi.org/10.1097/QAD.0000000000003974" target = "_blank"> 
-**[110]** Silhol R, **Maheu-Giroux M**, Soni N, Simo Fotso A, Rouveau N, Vautier A, Doumenc-Aïdara C, Geoffroy O, N’Guessan KN, Younoussa S, Kabemba OK, Gueye PA, Dama Ndeye P, Mukandavire C, Vickerman P, Keita A, Ndour CT, Ehui E, Larmarange J, Boily MC, and the ATLAS Team (2024). The impact of past HIV interventions and treatment gaps on new HIV acquisitions, transmissions, and HIV-related deaths in Côte d’Ivoire, Mali, and Senegal. *AIDS*. (Accepted)
+**[110]** Silhol R, **Maheu-Giroux M**, Soni N, Simo Fotso A, Rouveau N, Vautier A, Doumenc-Aïdara C, Geoffroy O, N’Guessan KN, Younoussa S, Kabemba OK, Gueye PA, Dama Ndeye P, Mukandavire C, Vickerman P, Keita A, Ndour CT, Ehui E, Larmarange J, Boily MC, and the ATLAS Team (2024). The impact of past HIV interventions and treatment gaps on new HIV acquisitions, transmissions, and HIV-related deaths in Côte d’Ivoire, Mali, and Senegal. *AIDS* 28(12):1783-1793. 
 </a> 
 
 <a class = "one" href = "https://doi.org/10.1016/S2352-3018(24)00148-6" target = "_blank">
