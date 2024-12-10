@@ -38,6 +38,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 ## Submitted
 <div class = "class-name"> 
+**[126]** [Stannah J]{.underline}, Knight J, Sandfort T, Laurent C, Otieno FO, Larmarange J, Coulaud PJ, Mudhune V, Hamilton E, Cummings V, Spire B, Reynold D, Okall D, Dembélé Keita B, Sagaon-Teyssier L, Panchia R, Dadabhai S, Boily MC, and Maheu-Giroux M (2024). The effect of sexual and gender minority violence on depression, hazardous drinking, condom use, and HIV acquisition: an individual participant data meta-analyses of the CohMSM, HPTN 075, and Anza Mapema cohort studies in Africa. 
+</div> 
+  
+# 
+<div class = "class-name"> 
 **[125]** Heitner J, Standsfield SE, Mitchell KM, [Doyle CM]{.underline}, [Milwid RM]{.underline}, Moore M, Donnell DJ, [Xia Y]{.underline}, Maheu-Giroux M, Barnabas R, Boily MC, Dimitrov DT (2024). Cost-effectiveness of leveraging long-acting injectable Cabotegravir to expand PrEP coverage among men who have sex with men in two contrasting North American cities. 
 </div> 
   
