@@ -88,67 +88,66 @@ Feel free to email me to obtain a copy of any of the papers below.
 <a class = "one" href = "https://doi.org/10.1016/j.ijid.2025.107792" target = "_blank">
 **[120]** [Xiu F]{.underline}, [Doyle CM]{.underline}, [Flores Anato JL]{.underline}, Knight J, Wang L, Cox J, Grace D, Hart TA, Zhang T, Skakoon-Sparling S, Dvorakova M, Shahin R, Sachdeva H, Lachowsky N, Sbihi H, Darrell HS Tan, Irvine MA, Mishra M, **Maheu-Giroux** M (2025). Impact of interventions on mpox transmission during the 2022 outbreak in Canada: a mathematical modeling study of three different cities. *The International Journal of Infectious Diseases* (In Press). 
 </a> 
-
-#  
+ 
+<a class = "one" href = "https://doi.org/10.1089/lgbt.2023.0265" target = "_blank">
+**[119]** [Juwono S]{.underline}, [Flores Anato JL]{.underline}, Kirschbaum A, Metheny N, Dvorakova M, Skakoon-Sparling S, Moore DM, Grace D, Hart TA, Lambert G, Lawchosky NJ, Jollimore J, Cox J, **Maheu-Giroux M** (2025). Prevalence, determinants, and trends in the experience and perpetration of intimate partner violence among a cohort of gay, bisexual, and other men who have sex with men in Montréal, Toronto, and Vancouver, Canada (2017-2022). *LGBT Health* 12(1):37-50.
+</a>  
+  
 <a class = "one" href = "https://doi.org/10.1371/journal.pgph.0002926" target = "_blank">
-**[119]** Wang S, Wang L, Baral SD, Moloney G, Johns J, Huber C, Mistry J, Khan K, Rao A, Janjua N, Williamson T, Katz A, Ma H, **Maheu-Giroux M**, Mishra S, and Kustra R (2024). Mobility changes following COVID-19 stay-at-home policies varied by socioeconomic measures: an observational study in Ontario, Canada. *PLOS Global Public Health* 4(11):e0002926. 
+**[118]** Wang S, Wang L, Baral SD, Moloney G, Johns J, Huber C, Mistry J, Khan K, Rao A, Janjua N, Williamson T, Katz A, Ma H, **Maheu-Giroux M**, Mishra S, and Kustra R (2024). Mobility changes following COVID-19 stay-at-home policies varied by socioeconomic measures: an observational study in Ontario, Canada. *PLOS Global Public Health* 4(11):e0002926. 
 </a> 
   
 <a class = "one" href = "https://doi.org/10.1186/s12916-024-03670-y" target = "_blank">
-**[118]** Pickles M, Mountain E, Bhattacharjee P, Kioko J, Musimbi J, Musyoki H, Gichangi P, [Stannah J]{.underline}, **Maheu-Giroux M**, Becker M, and Boily MC (2024). Assessing the potential impact of violence on HIV among female sex workers in Mombasa, Kenya: a mathematical modeling study. *BMC Medicine* 22:468.
+**[117]** Pickles M, Mountain E, Bhattacharjee P, Kioko J, Musimbi J, Musyoki H, Gichangi P, [Stannah J]{.underline}, **Maheu-Giroux M**, Becker M, and Boily MC (2024). Assessing the potential impact of violence on HIV among female sex workers in Mombasa, Kenya: a mathematical modeling study. *BMC Medicine* 22:468.
 </a> 
   
 <a class = "one" href = "https://doi.org/10.1186/s12916-024-03580-z" target = "_blank">
-**[117]** [Stannah J]{.underline}, [Flores Anato JL]{.underline}, Pickles M, Larmarange J, Mitchell KM, Artenie A, Dumchev K, Niangoran S, Platt L, Terris-Prestholt F, Singh A, Stone J, Vickerman P, Phillips A, Johnson L, **Maheu-Giroux M**, and Boily MC  (2024). From conceptualising to modelling structural determinants and interventions in HIV transmission dynamics models: a scoping review and methodological framework for evidence-based analyses. *BMC Medicine* 22:404. 
+**[116]** [Stannah J]{.underline}, [Flores Anato JL]{.underline}, Pickles M, Larmarange J, Mitchell KM, Artenie A, Dumchev K, Niangoran S, Platt L, Terris-Prestholt F, Singh A, Stone J, Vickerman P, Phillips A, Johnson L, **Maheu-Giroux M**, and Boily MC  (2024). From conceptualising to modelling structural determinants and interventions in HIV transmission dynamics models: a scoping review and methodological framework for evidence-based analyses. *BMC Medicine* 22:404. 
 </a>  
 
 <a class = "one" href = "https://doi.org/10.1016/j.lana.2024.100845" target = "_blank">
-**[116]** [Xia Y]{.underline}, Caya C, Morin V, Singh A, Serhir B, Libman M, Goldfarb D, Wong W, [Xiu F]{.underline}, Bélanger RE, Touchette J-S, Yansouni C, and **Maheu-Giroux M** (2024). The population-level impact of introducing rapid diagnostic tests on syphilis transmission in Canadian Arctic communities - A mathematical modeling study. *The Lancet Regional Health - Americas* 37:100845.
+**[115]** [Xia Y]{.underline}, Caya C, Morin V, Singh A, Serhir B, Libman M, Goldfarb D, Wong W, [Xiu F]{.underline}, Bélanger RE, Touchette J-S, Yansouni C, and **Maheu-Giroux M** (2024). The population-level impact of introducing rapid diagnostic tests on syphilis transmission in Canadian Arctic communities - A mathematical modeling study. *The Lancet Regional Health - Americas* 37:100845.
 </a> 
 
 <a class = "one" href = "https://doi.org/10.1002/jia2.26334" target = "_blank">
-**[115]** [Lu IJ]{.underline}, Silhol R, d’Elbée M, Boily MC, Soni N, Ky-Zerbo O, Vauthier A, Simo Fosto A, Badiane K, Traoré MM, Terris-Prestholt F, Larmarange J, **Maheu-Giroux M**, and the ATLAS Team (2024). Cost-effectiveness of HIV self-testing among key populations in Côte d’Ivoire, Mali, and Senegal. *Journal of the International AIDS Society* 27(7):e26334.
+**[114]** [Lu IJ]{.underline}, Silhol R, d’Elbée M, Boily MC, Soni N, Ky-Zerbo O, Vauthier A, Simo Fosto A, Badiane K, Traoré MM, Terris-Prestholt F, Larmarange J, **Maheu-Giroux M**, and the ATLAS Team (2024). Cost-effectiveness of HIV self-testing among key populations in Côte d’Ivoire, Mali, and Senegal. *Journal of the International AIDS Society* 27(7):e26334.
 </a>
 
 <a class = "one" href = "https://doi.org/10.24072/pcjournal.428" target = "_blank">
-**[114]** Kouassi AK, Simo Fotso A, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, on behalf of the ATLAS team (2024). HIV self-testing positivity rate and linkage to confirmatory testing and care: a telephone survey in Côte d’Ivoire, Mali, and Senegal. *Peer Community Journal* 4:e56.
+**[113]** Kouassi AK, Simo Fotso A, Rouveau N, **Maheu-Giroux M**, Boily MC, Silhol R, d’Elbée M, Vautier A, Larmarange J, on behalf of the ATLAS team (2024). HIV self-testing positivity rate and linkage to confirmatory testing and care: a telephone survey in Côte d’Ivoire, Mali, and Senegal. *Peer Community Journal* 4:e56.
 </a>
 
 <a class = "one" href = "https://doi.org/10.1016/S2352-4642(24)00145-7" target = "_blank"> 
-**[113]** Sardinha L, Yüksel-Kaptanoğlu I, **Maheu-Giroux M**, García-Moreno C (2024). Intimate partner violence against adolescent girls: regional and national prevalence estimates and associated country-level factors. *The Lancet Child and Adolescent Health* 8(9):636-646.
+**[112]** Sardinha L, Yüksel-Kaptanoğlu I, **Maheu-Giroux M**, García-Moreno C (2024). Intimate partner violence against adolescent girls: regional and national prevalence estimates and associated country-level factors. *The Lancet Child and Adolescent Health* 8(9):636-646.
 </a>
 
 <a class = "one" href = "https://doi.org/10.1016/S2214-109X(24)00236-5" target = "_blank"> 
-**[112]** Stevens O, Sabin K, Anderson RL, Arias Garcia S, Willis K, Rao A, McIntyre A, Fearon E, Grard E, Stewart-Brown A, Cowan F, [Stannah J]{.underline}, Degenhardt L, Zhao J, Hakim AJ, Rucinski K, Sathane I, Boothe M, Atuhaire L, Nyasulu P, **Maheu-Giroux M**, Platt L, Rice B, Hadlik W, Baral S, Mahy M, and Imai-Eaton JW (2024). Population size, HIV prevalence, and antiretroviral therapy coverage among key populations in sub-Saharan Africa: collation and synthesis of survey data (2010-2023). *The Lancet Global Health* 12(9):e1400-e1412.
+**[111]** Stevens O, Sabin K, Anderson RL, Arias Garcia S, Willis K, Rao A, McIntyre A, Fearon E, Grard E, Stewart-Brown A, Cowan F, [Stannah J]{.underline}, Degenhardt L, Zhao J, Hakim AJ, Rucinski K, Sathane I, Boothe M, Atuhaire L, Nyasulu P, **Maheu-Giroux M**, Platt L, Rice B, Hadlik W, Baral S, Mahy M, and Imai-Eaton JW (2024). Population size, HIV prevalence, and antiretroviral therapy coverage among key populations in sub-Saharan Africa: collation and synthesis of survey data (2010-2023). *The Lancet Global Health* 12(9):e1400-e1412.
 </a> 
 
 <a class = "one" href = "https://doi.org/10.17269/s41997-024-00910-9" target = "_blank"> 
-**[111]** [Xia Y]{.underline}, [Flores Anato JL]{.underline}, Colijn C, Janjua N, Otterstatter M, Irvine N, Tyler Williamson, Varughese MB, Li M, Osgood N, Earn DJD, Sander B, Cipriano LE, Murthy K, Xiu F, [Godin G]{.underline}, Buckeridge DL, Hurford H, Sharmistha Mishra S, and **Maheu-Giroux M** (2024). Canada’s provincial COVID-19 pandemic modelling efforts: a review of mathematical models and their impacts on the responses. *Canadian Journal of Public Health* 115(4):541-557.
+**[110]** [Xia Y]{.underline}, [Flores Anato JL]{.underline}, Colijn C, Janjua N, Otterstatter M, Irvine N, Tyler Williamson, Varughese MB, Li M, Osgood N, Earn DJD, Sander B, Cipriano LE, Murthy K, Xiu F, [Godin G]{.underline}, Buckeridge DL, Hurford H, Sharmistha Mishra S, and **Maheu-Giroux M** (2024). Canada’s provincial COVID-19 pandemic modelling efforts: a review of mathematical models and their impacts on the responses. *Canadian Journal of Public Health* 115(4):541-557.
 </a> 
  
 <a class = "one" href = "https://doi.org/10.1097/QAD.0000000000003974" target = "_blank"> 
-**[110]** Silhol R, **Maheu-Giroux M**, Soni N, Simo Fotso A, Rouveau N, Vautier A, Doumenc-Aïdara C, Geoffroy O, N’Guessan KN, Younoussa S, Kabemba OK, Gueye PA, Dama Ndeye P, Mukandavire C, Vickerman P, Keita A, Ndour CT, Ehui E, Larmarange J, Boily MC, and the ATLAS Team (2024). The impact of past HIV interventions and treatment gaps on new HIV acquisitions, transmissions, and HIV-related deaths in Côte d’Ivoire, Mali, and Senegal. *AIDS* 28(12):1783-1793. 
+**[109]** Silhol R, **Maheu-Giroux M**, Soni N, Simo Fotso A, Rouveau N, Vautier A, Doumenc-Aïdara C, Geoffroy O, N’Guessan KN, Younoussa S, Kabemba OK, Gueye PA, Dama Ndeye P, Mukandavire C, Vickerman P, Keita A, Ndour CT, Ehui E, Larmarange J, Boily MC, and the ATLAS Team (2024). The impact of past HIV interventions and treatment gaps on new HIV acquisitions, transmissions, and HIV-related deaths in Côte d’Ivoire, Mali, and Senegal. *AIDS* 28(12):1783-1793. 
 </a> 
 
 <a class = "one" href = "https://doi.org/10.1016/S2352-3018(24)00148-6" target = "_blank">
-**[109]** [Kuchukhidze S]{.underline}, Walters M, Panagiotoglou D, Boily MC, Diabaté S, Russel A, Stöckl H, Sardinha L, Mbofana F, Wanienze RK, Imai-Eaton JW, and **Maheu-Giroux M** (2024). The contribution of intimate partner violence to vertical HIV transmission: a modeling analysis of 46 African countries. *The Lancet HIV* 11(8):e542-e551.
+**[108]** [Kuchukhidze S]{.underline}, Walters M, Panagiotoglou D, Boily MC, Diabaté S, Russel A, Stöckl H, Sardinha L, Mbofana F, Wanienze RK, Imai-Eaton JW, and **Maheu-Giroux M** (2024). The contribution of intimate partner violence to vertical HIV transmission: a modeling analysis of 46 African countries. *The Lancet HIV* 11(8):e542-e551.
 </a> 
     
 <a class = "one" href = "https://doi.org/10.1016/S2352-3018(24)00126-7" target = "_blank">
-**[108]** Silhol R, **Maheu-Giroux M**, Soni N, Simo Fotso A, Rouveau N, Vautier A, Doumenc-Aidara C, Geoffroy O, N’Guessan KN, Sidibe Y, Kabemba OK, Gueye PA, Mukandavire C, Vickerman P, Keita A, Ndour CT, Ehui E, Larmarange J, Boily MC, The ATLAS Team (2024). Potential population-level effects of HIV self-testing distribution among key populations in Côte d’Ivoire, Mali, and Senegal: a mathematical modelling analysis. *The Lancet HIV* 11(8):e531-e541.
+**[107]** Silhol R, **Maheu-Giroux M**, Soni N, Simo Fotso A, Rouveau N, Vautier A, Doumenc-Aidara C, Geoffroy O, N’Guessan KN, Sidibe Y, Kabemba OK, Gueye PA, Mukandavire C, Vickerman P, Keita A, Ndour CT, Ehui E, Larmarange J, Boily MC, The ATLAS Team (2024). Potential population-level effects of HIV self-testing distribution among key populations in Côte d’Ivoire, Mali, and Senegal: a mathematical modelling analysis. *The Lancet HIV* 11(8):e531-e541.
 </a>  
   
 <a class = "one" href = "https://doi.org/10.2471/blt.23.290420" target = "_blank">
-**[107]** Sardinha L, Stöckl H, **Maheu-Giroux M**, Meyer SR, García-Moreno C (2024). Global prevalence of non-partner sexual violence against women. *Bulletin of the World Health Organization* 102(8):582-587.
+**[106]** Sardinha L, Stöckl H, **Maheu-Giroux M**, Meyer SR, García-Moreno C (2024). Global prevalence of non-partner sexual violence against women. *Bulletin of the World Health Organization* 102(8):582-587.
 </a> 
   
 <a class = "one" href = "https://doi.org/10.1016/j.eclinm.2024.102596" target = "_blank">
-**[106]** Levinsson A, Zolopa C, Vakili F, Udhesister S, Kronfli N, **Maheu-Giroux** M, Bruneau J, Valerio H, Bajis S, Read P, Matró E, Boucher L, Morris L, Grebely J, Artenie A, Stone J, Vickerman P, Larney S (2024). Sex and gender differences in hepatitis C virus risk, prevention, and cascade of care in people who inject drugs: systematic review and meta-analysis. *eClinical Medicine* 72:102596. 
+**[105]** Levinsson A, Zolopa C, Vakili F, Udhesister S, Kronfli N, **Maheu-Giroux** M, Bruneau J, Valerio H, Bajis S, Read P, Matró E, Boucher L, Morris L, Grebely J, Artenie A, Stone J, Vickerman P, Larney S (2024). Sex and gender differences in hepatitis C virus risk, prevention, and cascade of care in people who inject drugs: systematic review and meta-analysis. *eClinical Medicine* 72:102596. 
 </a> 
-  
-<a class = "one" href = "https://doi.org/10.1089/lgbt.2023.0265" target = "_blank">
-**[105]** [Juwono S]{.underline}, [Flores Anato JL]{.underline}, Kirschbaum A, Metheny N, Dvorakova M, Skakoon-Sparling S, Moore DM, Grace D, Hart TA, Lambert G, Lawchosky NJ, Jollimore J, Cox J, **Maheu-Giroux M** (2024). Prevalence, determinants, and trends in the experience and perpetration of intimate partner violence among a cohort of gay, bisexual, and other men who have sex with men in Montréal, Toronto, and Vancouver, Canada (2017-2022). *LGBT Health*. (Accepted)
-</a>  
   
 <a class = "one" href = "https://doi.org/10.1016/S2352-3018(24)00028-6" target = "_blank">
 **[104]** **Maheu-Giroux** M and Mishra S (2024). Evidence with 95-95-95 that ambitious is feasible. *The Lancet HIV* 11(4):e203-204.
