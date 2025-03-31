@@ -154,14 +154,21 @@ BSc'03 Biology (Université de Montréal)
 ## <i class="glyphicon glyphicon-link"></i> Links
 [ORCID](http://orcid.org/0000-0002-8363-4388)  
 [ResearchGate](https://www.researchgate.net/profile/Mathieu_Maheu-Giroux)  
-[Publons](https://www.publons.com/a/1355066/)  
 [LinkedIn](https://ca.linkedin.com/in/mmgiroux)  
-[Twitter](https://twitter.com/Mat__MG)  
+[BlueSky](https://bsky.app/profile/mat-mg.bsky.social)  
 [Github](https://github.com/m-maheu-giroux)
 
 #
 #
 ## <i class="glyphicon glyphicon-flash"></i> News
+
+<a class="one" target = "_blank/">
+**2025-03-21**: Rebecca Winkelaar was awarded a *2025 Global Health Scholar* award from *McGill Global Health Program*.
+</a> 
+
+<a class="one" target = "_blank/">
+**2025-01-25**: Our group was awarded the *Global Health Research* bridge grant from the *Canadian Institutes of Health Reserach* (CIHR) *Institute of Population and Public Health*.
+</a> 
 
 <a class="one" target = "https://frq.gouv.qc.ca/histoire-et-rapport/releve-etoile-jacques-genest-fevrier-2024/">
 **2024-02-28**: Salome Kuchukhidze (PhD candidate) was awarded the *Rising star award (Jacques-Genest)* from the *Fonds de recherche du Québec - Santé*.

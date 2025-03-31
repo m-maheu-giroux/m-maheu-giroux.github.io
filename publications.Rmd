@@ -37,6 +37,12 @@ Feel free to email me to obtain a copy of any of the papers below.
 #### Names of supervised [students/trainees]{.underline} are underlined
 
 ## Submitted
+
+<div class = "class-name"> 
+**[129]** Silhol R, Booton RD, Mitchell KM, [Stannah J]{.underline}, Stevens O, Dimitrov D, Bershteyn A, Johnson LF, Kelly SL, Kim H-Y, **Maheu-Giroux M**, Martin-Hughes R, Mishra S, Stone J, Stuart R, Stover J, Vickerman P, Wilson DP, Baral S, Donnell D, Imai-Eaton J, Boily MC (2025). Identifying priority populations for HIV interventions using acquisition and transmission indicators: a combined analysis of 15 mathematical models from 10 African countries. Pre-print [here](https://doi.org/10.1101/2025.03.17.25324139).
+</div> 
+  
+# 
 <div class = "class-name"> 
 **[128]** [Xia Y]{.underline}, Alexandre M, Thiebaut R, **Maheu-Giroux M**, and Prague M (2025). Defining optimal vaccine features for pandemic preparedness: An individual-based model bridging within- and between-host dynamics. 
 </div> 
@@ -65,15 +71,10 @@ Feel free to email me to obtain a copy of any of the papers below.
 <div class = "class-name"> 
 **[123]** Torres-Flores S, [Flores Anato JL]{.underline}, He JH, Portilla VG, Wu Y, **Maheu-Giroux M**, [Racine É]{.underline}, Wagner CE (2025). Evaluating COVID-19 vaccination policy in Québec (Canada) using a data-driven dynamic transmission model.
 </div> 
-   
-#  
-<div class = "class-name">  
-**[122]** Beall R, [Flores Anato JL]{.underline}, D'Souza AG, Velásquez García HA, Ma H, Yang F, Baral SD, Cabaj J, Cooper E, Hillmer M, Hollis A, Janjua NZ, Katz K, Leal J, **Maheu-Giroux** M, May ER, Malikov K, Mishra M, Moloney G, Williamson T (2025). A Canadian multi-province study of COVID-19 vaccine coverage along area-level social determinants in 2021. 
-</div> 
   
 #  
 <div class = "class-name">
-**[121]** Stevens O, Anderson R, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Crowell TA, Tally L, Mulenga L, Neena P, **Maheu-Giroux M**, McIntyre A, Hladik W, Zhao J, Mahy M, Imai-Eaton JW (2025). HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. Pre-print [here](https://doi.org/10.1101/2023.11.09.23298289). 
+**[122]** Stevens O, Anderson R, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Crowell TA, Tally L, Mulenga L, Neena P, **Maheu-Giroux M**, McIntyre A, Hladik W, Zhao J, Mahy M, Imai-Eaton JW (2025). HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. Pre-print [here](https://doi.org/10.1101/2023.11.09.23298289). 
 </div>  
   
 
@@ -85,8 +86,13 @@ Feel free to email me to obtain a copy of any of the papers below.
 # 
 
 #  
+<a class = "one" href = "https://doi.org/10.1016/j.puhip.2025.100594" target = "_blank">
+**[121]** Beall R, [Flores Anato JL]{.underline}, D'Souza AG, Velásquez García HA, Ma H, Yang F, Baral SD, Cabaj J, Cooper E, Hillmer M, Hollis A, Janjua NZ, Katz K, Leal J, **Maheu-Giroux** M, May ER, Malikov K, Mishra M, Moloney G, Williamson T (2025). A Canadian multi-province study of COVID-19 vaccine coverage along area-level social determinants in 2021. *Public Health in Practice* 9:100594.
+</a> 
+
+#  
 <a class = "one" href = "https://doi.org/10.1016/j.ijid.2025.107792" target = "_blank">
-**[120]** [Xiu F]{.underline}, [Doyle CM]{.underline}, [Flores Anato JL]{.underline}, Knight J, Wang L, Cox J, Grace D, Hart TA, Zhang T, Skakoon-Sparling S, Dvorakova M, Shahin R, Sachdeva H, Lachowsky N, Sbihi H, Darrell HS Tan, Irvine MA, Mishra M, **Maheu-Giroux** M (2025). Impact of interventions on mpox transmission during the 2022 outbreak in Canada: a mathematical modeling study of three different cities. *The International Journal of Infectious Diseases* (In Press). 
+**[120]** [Xiu F]{.underline}, [Doyle CM]{.underline}, [Flores Anato JL]{.underline}, Knight J, Wang L, Cox J, Grace D, Hart TA, Zhang T, Skakoon-Sparling S, Dvorakova M, Shahin R, Sachdeva H, Lachowsky N, Sbihi H, Darrell HS Tan, Irvine MA, Mishra M, **Maheu-Giroux** M (2025). Impact of interventions on mpox transmission during the 2022 outbreak in Canada: a mathematical modeling study of three different cities. *The International Journal of Infectious Diseases* 153:107792. 
 </a> 
  
 <a class = "one" href = "https://doi.org/10.1089/lgbt.2023.0265" target = "_blank">
