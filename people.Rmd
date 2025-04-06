@@ -79,7 +79,7 @@ PhD Candidate in Epidemiology (McGill). Research Topic: *SARS-CoV-2 epidemics in
 
 
 #  
-# Research Associate
+# Research Associates
 #  
 
 <div class = "row">
@@ -124,11 +124,31 @@ Rebecca Winkelaar is completing her BSc in Environment and Social Studies of Med
 
 <div class = "row">
 <div class = "column left">
+<img src = "Yiqing_Xia.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Yiqing Xia (PhD'25)
+PhD Epidemiology (McGill). Research Topic: *COVID-19 in Canada: epidemiology, severity and control*. 
+</div>
+</div>
+
+<div class = "row">
+<div class = "column left">
+<img src = "James_Stannah.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> James Stannah (PhD'24)
+PhD in Epidemiology (McGill). Research Topic: *Conceptualising, describing, and analysing the impact of structural determinants on HIV transmission among sexual and gender minorities*. 
+</div>
+</div>
+
+<div class = "row">
+<div class = "column left">
 <img src = "Salome_Kuchukhidze.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Salome Kuchukhidze (PhD'24)
-PhD Candidate in Epidemiology (McGill). Research Topic: *Intimate partner violence and HIV in sub-Saharan Africa: implications for HIV control in women, girls, and infants*. 
+PhD in Epidemiology (McGill). Research Topic: *Intimate partner violence and HIV in sub-Saharan Africa: implications for HIV control in women, girls, and infants*. 
 </div>
 </div>
 
@@ -138,7 +158,7 @@ PhD Candidate in Epidemiology (McGill). Research Topic: *Intimate partner violen
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Fanyu (Vanessa) Xiu (MSc'24)
-MSc Student in Epidemiology (McGill). Research Topic: *Sexual networks of gay, bisexual, and other men who have sex with men in Canada: implications the transmission and control of mpox*.
+MSc Epidemiology (McGill). Research Topic: *Sexual networks of gay, bisexual, and other men who have sex with men in Canada: implications the transmission and control of mpox*.
 </div>
 </div>
 
@@ -148,7 +168,7 @@ MSc Student in Epidemiology (McGill). Research Topic: *Sexual networks of gay, b
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Ingrid Jiayin Lu (MSc'23)
-MSc Student in Epidemiology (McGill). Research Topic: *Cost-effectiveness analysis of HIV self-testing among key populations in Côte d'Ivoire, Mali, and Senegal*.
+MSc Epidemiology (McGill). Research Topic: *Cost-effectiveness analysis of HIV self-testing among key populations in Côte d'Ivoire, Mali, and Senegal*.
 </div>
 </div>
 
@@ -159,6 +179,16 @@ MSc Student in Epidemiology (McGill). Research Topic: *Cost-effectiveness analys
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Adrien Allorant (Fellowship'23)
 Postdoc (McGill). Research Topic: *Optimizing HIV testing services to end AIDS in sub-Saharan Africa*.
+</div>
+</div>
+
+<div class = "row">
+<div class = "column left">
+<img src = "Carla_Doyle.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Carla Doyle (PhD'23)
+PhD Epidemiology (McGill). Research Topic: *HIV elimination in Québec: tracking progress and evaluating HIV prevention interventions among key populations*.
 </div>
 </div>
 
