@@ -37,7 +37,10 @@ Feel free to email me to obtain a copy of any of the papers below.
 #### Names of supervised [students/trainees]{.underline} are underlined
 
 ## Submitted
-
+<div class = "class-name"> 
+**[130]** [Doyle CM+]{.underline}, [Kuchukhidze S+]{.underline}, [Stannah J+]{.underline} (+contributed equally), [Flores Anato JL]{.underline}, [Xia Y]{.underline}, Logie CH, Simo Fotso A, Carabali M, Mishra S, Niangoran S, Mian A, Terris-Prestholt F, Saliuk T, Singh A, Artenie A, Stone J, Vickerman P, Boily MC, **Maheu-Giroux M** (2025). The impact of HIV stigma and discrimination on HIV testing, antiretroviral treatment, and viral suppression in Africa: a pooled analysis of population-based surveys. Pre-print [here](https://dx.doi.org/10.2139/ssrn.5225713).
+</div> 
+#
 <div class = "class-name"> 
 **[129]** Silhol R, Booton RD, Mitchell KM, [Stannah J]{.underline}, Stevens O, Dimitrov D, Bershteyn A, Johnson LF, Kelly SL, Kim H-Y, **Maheu-Giroux M**, Martin-Hughes R, Mishra S, Stone J, Stuart R, Stover J, Vickerman P, Wilson DP, Baral S, Donnell D, Imai-Eaton J, Boily MC (2025). Identifying priority populations for HIV interventions using acquisition and transmission indicators: a combined analysis of 15 mathematical models from 10 African countries. Pre-print [here](https://doi.org/10.1101/2025.03.17.25324139).
 </div> 
