@@ -42,6 +42,18 @@ output:
 #  
 # Masters
 
+
+<div class = "row">
+<div class = "column left">
+<img src = "Aiche_Danioko.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Aïché Danioko
+MSc Student in Epidemiology (McGill). Research Topic: *Gender differences in HCV treatment uptake*. Co-supervision; main supervisor: [Nadine Kronfli](https://rimuhc.ca/-/nadine-kronfli).
+</div>
+</div>
+
+
 <div class = "row">
 <div class = "column left">
 <img src = "Aishi_Aratrika.jpg" align = "left" width = "100" height = "100"  />
@@ -77,6 +89,19 @@ PhD Candidate in Epidemiology (McGill). Research Topic: *SARS-CoV-2 epidemics in
 </div>
 </div>
 
+#  
+#  
+# Visiting Researcher
+
+<div class = "row">
+<div class = "column left">
+<img src = "Gideon_Kye-Duodu.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Dr Gideon Kye-Duodu
+Visiting Researcher (FRQS PBEEE Scholar). Research Topic: *Early infant diagnosis of HIV in Ghana*. 
+</div>
+</div>
 
 #  
 # Research Associates
