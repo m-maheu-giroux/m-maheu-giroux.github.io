@@ -70,7 +70,7 @@ MSc Student in Epidemiology (McGill). Research Topic: *Regional and country-leve
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Andrey Kutsyh
-MSc Student in Epidemiology (McGill) and Public Health Data Sciences (Bordeaux). Research Topic: *What is the impact of declines in HIV testing in African countries on indicators of HIV testing efficiency and the proportion of people living with HIV aware of their status?* Co-supervisor: [Alioum AMADOU](https://www.isped.u-bordeaux.fr/Portals/0/TELECHARGEMENT/Rubrique_FORMATIONS/CV/ALIOUM.pdf?ver=2019-10-18-111731-860).
+MSc Student in Epidemiology (McGill) and Public Health Data Sciences (Bordeaux). Research Topic: *What is the impact of declines in HIV testing in African countries on indicators of HIV testing efficiency and the proportion of people living with HIV aware of their status?* Co-supervisor: [Amadou Alioum](https://www.isped.u-bordeaux.fr/Portals/0/TELECHARGEMENT/Rubrique_FORMATIONS/CV/ALIOUM.pdf?ver=2019-10-18-111731-860).
 </div>
 </div>
 
@@ -99,7 +99,7 @@ PhD Candidate in Epidemiology (McGill). Research Topic: *SARS-CoV-2 epidemics in
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Dr. Gideon Kye-Duodu
-Visiting Researcher (FRQS PBEEE Scholar). Research Topic: *Early infant diagnosis of HIV in Ghana*. 
+Visiting Researcher (FRQS PBEEE Scholar) from the Binka School of Public Health, University of Health and Allied Sciences (Ho, Ghana). Research Topic: *Early infant diagnosis of HIV in Ghana*. 
 </div>
 </div>
 
