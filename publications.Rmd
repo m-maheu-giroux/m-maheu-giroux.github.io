@@ -65,14 +65,9 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[125]** [Allorant A]{.underline}, [Kuchukhidze S]{.underline}, [Stannah J]{.underline}, [Xia Y]{.underline}, Masuku SS, Ekanmian GK, Imai-Eaton JW, **Maheu-Giroux M** (2025). Socio-demographic and geographic disparities in HIV prevalence, HIV testing, and treatment coverage: an analysis of 108 national household surveys in 33 African countries.
 </div> 
   
-# 
-<div class = "class-name"> 
-**[124]** Torres-Flores S, [Flores Anato JL]{.underline}, He JH, Portilla VG, Wu Y, **Maheu-Giroux M**, [Racine É]{.underline}, Wagner CE (2025). Evaluating COVID-19 vaccination policy in Québec (Canada) using a data-driven dynamic transmission model.
-</div> 
-  
 #  
 <div class = "class-name">
-**[123]** Stevens O, Anderson R, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Crowell TA, Tally L, Mulenga L, Neena P, **Maheu-Giroux M**, McIntyre A, Hladik W, Zhao J, Mahy M, Imai-Eaton JW (2025). HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. Pre-print [here](https://doi.org/10.1101/2023.11.09.23298289). 
+**[124]** Stevens O, Anderson R, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Crowell TA, Tally L, Mulenga L, Neena P, **Maheu-Giroux M**, McIntyre A, Hladik W, Zhao J, Mahy M, Imai-Eaton JW (2025). HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. Pre-print [here](https://doi.org/10.1101/2023.11.09.23298289). 
 </div>  
   
 
@@ -82,6 +77,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Published
 #
 # 
+  
+# 
+<a class = "one" href = "" target = "_blank">
+**[123]** Torres-Flores S, [Flores Anato JL]{.underline}, He JH, Portilla VG, Wu Y, **Maheu-Giroux M**, [Racine É]{.underline}, Wagner CE (2025). Evaluating COVID-19 vaccination policy in Québec (Canada) using a data-driven dynamic transmission model. *Plos Compuational Biology*. (Accepted)
+</a> 
 
 # 
 <a class = "one" href = "" target = "_blank">
