@@ -81,6 +81,16 @@ MSc Student in Epidemiology (McGill) and Public Health Data Sciences (Bordeaux).
 
 <div class = "row">
 <div class = "column left">
+<img src = "Zeinab_Cherri.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Yiqing Xia
+PhD Candidate in Epidemiology (McGill). Research Topic: *The impact of child marriages on health outcomes*. Co-supervision; main supervisor: [Alissa Koski](https://www.alissakoski.com/).
+</div>
+</div>
+
+<div class = "row">
+<div class = "column left">
 <img src = "Yiqing_Xia.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
@@ -129,8 +139,18 @@ Dr. James Stannah completed his undergraduate in Biology and a Master of Public 
 
 
 #  
-# Research Assistant
+# Research Assistants
 #  
+
+<div class = "row">
+<div class = "column left">
+<img src = "Yixin_Zhang.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Yixin (Claire) Zhang
+Yiqin is completing her BSc in Mathematics & Computer Sciences at McGill. She is a 2025 awardee of a *McGill Center for Viral Diseases* (MCVD) *Undergraduate Research Fellowship*.
+</div>
+</div>
 
 <div class = "row">
 <div class = "column left">
@@ -138,7 +158,7 @@ Dr. James Stannah completed his undergraduate in Biology and a Master of Public 
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Rebecca Winkelaar
-Rebecca Winkelaar is completing her BSc in Environment and Social Studies of Medicine at McGill. She is a 2025 Global Health Scholar awardee.
+Rebecca Winkelaar is completing her BSc in Environment and Social Studies of Medicine at McGill. She is a *2025 Global Health Scholar* awardee.
 </div>
 </div>
 
