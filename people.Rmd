@@ -89,15 +89,6 @@ PhD Candidate in Epidemiology (McGill). Research Topic: *The impact of child mar
 </div>
 </div>
 
-<div class = "row">
-<div class = "column left">
-<img src = "Yiqing_Xia.jpg" align = "left" width = "100" height = "100"  />
-</div>
-<div class = "column right">
-### <i class = "glyphicon glyphicon-user"> </i> Yiqing Xia
-PhD Candidate in Epidemiology (McGill). Research Topic: *SARS-CoV-2 epidemics in Canada: heterogeneity in transmission, severe outcomes following hospitalization, and provincial mathematical modeling efforts*. 
-</div>
-</div>
 
 #  
 #  
@@ -136,21 +127,20 @@ Dr. Carla Doyle holds a BSc in Mathematics & Statistics from Acadia University, 
 Dr. James Stannah completed his undergraduate in Biology and a Master of Public Health at Imperial College London, followed by a PhD in Epidemiology from McGill University.
 </div>
 </div>
-
-
-#  
-# Research Assistants
-#  
-
+  
 <div class = "row">
 <div class = "column left">
-<img src = "Yixin_Zhang.jpg" align = "left" width = "100" height = "100"  />
+<img src = "Yiqing_Xia.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
-### <i class = "glyphicon glyphicon-user"> </i> Yixin (Claire) Zhang
-Yiqin is completing her BSc in Mathematics & Computer Sciences at McGill. She is a 2025 awardee of a *McGill Center for Viral Diseases* (MCVD) *Undergraduate Research Fellowship*.
+### <i class = "glyphicon glyphicon-user"> </i> Yiqing Xia
+Dr. Yiqing Xia completed a Bachelor of Medicine and Surgery (BMMS) from Fudan University, a Master of Science in Public Health degree (MScPH) from McGill, and a doctoral degree in Epidemiology from PhD in Epidemiology from McGill University. 
 </div>
 </div>
+
+#  
+# Research Assistant
+#  
 
 <div class = "row">
 <div class = "column left">
