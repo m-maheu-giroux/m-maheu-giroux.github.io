@@ -38,31 +38,22 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 ## Submitted
 <div class = "class-name"> 
-**[130]** [Doyle CM+]{.underline}, [Kuchukhidze S+]{.underline}, [Stannah J+]{.underline} (+contributed equally), [Flores Anato JL]{.underline}, [Xia Y]{.underline}, Logie CH, Simo Fotso A, Carabali M, Mishra S, Niangoran S, Mian A, Terris-Prestholt F, Saliuk T, Singh A, Artenie A, Stone J, Vickerman P, Boily MC, **Maheu-Giroux M** (2025). The impact of HIV stigma and discrimination on HIV testing, antiretroviral treatment, and viral suppression in Africa: a pooled analysis of population-based surveys. Pre-print [here](https://dx.doi.org/10.2139/ssrn.5225713).
-</div> 
-#
-<div class = "class-name"> 
-**[129]** Silhol R, Booton RD, Mitchell KM, [Stannah J]{.underline}, Stevens O, Dimitrov D, Bershteyn A, Johnson LF, Kelly SL, Kim H-Y, **Maheu-Giroux M**, Martin-Hughes R, Mishra S, Stone J, Stuart R, Stover J, Vickerman P, Wilson DP, Baral S, Donnell D, Imai-Eaton J, Boily MC (2025). Identifying priority populations for HIV interventions using acquisition and transmission indicators: a combined analysis of 15 mathematical models from 10 African countries. Pre-print [here](https://doi.org/10.1101/2025.03.17.25324139).
+**[130]** [Doyle CM+]{.underline}, [Kuchukhidze S+]{.underline}, [Stannah J+]{.underline} (+contributed equally), [Flores Anato JL]{.underline}, [Xia Y]{.underline}, Logie CH, Simo Fotso A, Carabali M, Mishra S, Niangoran S, Mian A, Terris-Prestholt F, Kovtun O, Singh A, Artenie A, Stone J, Vickerman P, Boily MC, **Maheu-Giroux M** (2025). The impact of HIV stigma and discrimination on HIV testing, antiretroviral treatment, and viral suppression in Africa: a pooled analysis of population-based surveys. Pre-print [here](https://dx.doi.org/10.2139/ssrn.5225713).
 </div> 
   
 # 
 <div class = "class-name"> 
-**[128]** [Xia Y]{.underline}, Alexandre M, Thiebaut R, **Maheu-Giroux M**, and Prague M (2025). Defining optimal vaccine features for pandemic preparedness: An individual-based model bridging within- and between-host dynamics. 
+**[129]** [Xia Y]{.underline}, Alexandre M, Thiebaut R, **Maheu-Giroux M**, and Prague M (2025). Defining optimal vaccine features for pandemic preparedness: An individual-based model bridging within- and between-host dynamics. 
 </div> 
   
 # 
 <div class = "class-name"> 
-**[127]** Heitner J, Standsfield SE, Mitchell KM, [Doyle CM]{.underline}, [Milwid RM]{.underline}, Moore M, Donnell DJ, [Xia Y]{.underline}, **Maheu-Giroux M**, Barnabas R, Boily MC, Dimitrov DT (2025). Cost-effectiveness of leveraging long-acting injectable Cabotegravir to expand PrEP coverage among men who have sex with men in two contrasting North American cities. 
-</div> 
-  
-# 
-<div class = "class-name"> 
-**[126]** [Allorant A]{.underline}, [Kuchukhidze S]{.underline}, [Stannah J]{.underline}, [Xia Y]{.underline}, Masuku SS, Ekanmian GK, Imai-Eaton JW, **Maheu-Giroux M** (2025). Socio-demographic and geographic disparities in HIV prevalence, HIV testing, and treatment coverage: an analysis of 108 national household surveys in 33 African countries.
+**[128]** Heitner J, Standsfield SE, Mitchell KM, [Doyle CM]{.underline}, [Milwid RM]{.underline}, Moore M, Donnell DJ, [Xia Y]{.underline}, **Maheu-Giroux M**, Barnabas R, Boily MC, Dimitrov DT (2025). Cost-effectiveness of leveraging long-acting injectable Cabotegravir to expand PrEP coverage among men who have sex with men in two contrasting North American cities. 
 </div> 
   
 #  
 <div class = "class-name">
-**[125]** Stevens O, Anderson R, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Crowell TA, Tally L, Mulenga L, Neena P, **Maheu-Giroux M**, McIntyre A, Hladik W, Zhao J, Mahy M, Imai-Eaton JW (2025). HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. Pre-print [here](https://doi.org/10.1101/2023.11.09.23298289). 
+**[127]** Stevens O, Anderson R, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Crowell TA, Tally L, Mulenga L, Neena P, **Maheu-Giroux M**, McIntyre A, Hladik W, Zhao J, Mahy M, Imai-Eaton JW (2025). HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. Pre-print [here](https://doi.org/10.1101/2023.11.09.23298289). 
 </div>  
   
 
@@ -72,6 +63,16 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Published
 #
 # 
+
+# 
+<a class = "one" href = "" target = "_blank">
+**[126]** [Allorant A]{.underline}, [Kuchukhidze S]{.underline}, [Stannah J]{.underline}, [Xia Y]{.underline}, Masuku SS, Ekanmian GK, Imai-Eaton JW, **Maheu-Giroux M** (2025). Socio-demographic and geographic disparities in HIV prevalence, HIV testing, and treatment coverage: an analysis of 108 national household surveys in 33 African countries. *Journal of the International AIDS Society*. (Accepted)
+</a> 
+  
+#
+<a class = "one" href = "https://doi.org/10.1101/2025.03.17.25324139" target = "_blank">
+**[125]** Silhol R, Booton RD, Mitchell KM, [Stannah J]{.underline}, Stevens O, Dimitrov D, Bershteyn A, Johnson LF, Kelly SL, Kim H-Y, **Maheu-Giroux M**, Martin-Hughes R, Mishra S, Stone J, Stuart R, Stover J, Vickerman P, Wilson DP, Baral S, Donnell D, Imai-Eaton J, Boily MC (2025). Identifying priority populations for HIV interventions using acquisition and transmission indicators: a combined analysis of 15 mathematical models from 10 African countries. *The Lancet HIV*. (Accepted)
+</a> 
   
 # 
 <a class = "one" href = "" target = "_blank">
@@ -85,9 +86,9 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 # 
 <a class = "one" href = "http://dx.doi.org/10.1007/s10461-025-04799-4" target = "_blank">
-**[122]** [Stannah J]{.underline}, Knight J, Sandfort T, Laurent C, Otieno FO, Larmarange J, Coulaud PJ, Mudhune V, Hamilton E, Cummings V, Spire B, Reynold D, Okall D, Dembélé Keita B, Sagaon-Teyssier L, Panchia R, Dadabhai S, Boily MC, and **Maheu-Giroux M** (2025). The effect of sexual and gender minority violence on depression, hazardous drinking, condom use, and HIV acquisition: an individual participant data meta-analyses of the *CohMSM*, *HPTN 075*, and *Anza Mapema* cohort studies in Africa. *AIDS & Behavior*. 
+**[122]** [Stannah J]{.underline}, Knight J, Sandfort T, Laurent C, Otieno FO, Larmarange J, Coulaud PJ, Mudhune V, Hamilton E, Cummings V, Spire B, Reynold D, Okall D, Dembélé Keita B, Sagaon-Teyssier L, Panchia R, Dadabhai S, Boily MC, and **Maheu-Giroux M** (2025). The effect of sexual and gender minority violence on depression, hazardous drinking, condom use, and HIV acquisition: an individual participant data meta-analyses of the *CohMSM*, *HPTN 075*, and *Anza Mapema* cohort studies in Africa. *AIDS & Behavior*. (Pre-print https://hal.science/hal-05161352)
 </a> 
-
+  
 #  
 <a class = "one" href = "https://doi.org/10.1016/j.puhip.2025.100594" target = "_blank">
 **[121]** Beall R, [Flores Anato JL]{.underline}, D'Souza AG, Velásquez García HA, Ma H, Yang F, Baral SD, Cabaj J, Cooper E, Hillmer M, Hollis A, Janjua NZ, Katz K, Leal J, **Maheu-Giroux** M, May ER, Malikov K, Mishra M, Moloney G, Williamson T (2025). A Canadian multi-province study of COVID-19 vaccine coverage along area-level social determinants in 2021. *Public Health in Practice* 9:100594.
