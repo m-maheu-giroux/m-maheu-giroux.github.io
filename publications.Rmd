@@ -87,8 +87,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a> 
   
 # 
-<a class = "one" href = "" target = "_blank">
-**[124]** [Xia Y]{.underline}, Ma H, Malikov K, Straus SE, CFahim C, Moloney G, Huang Q, Asgari S, Boyd JM, Ferro I, Johns J, Khan K, Mistry J, Wang L, Chan AK, Baral SD, **Maheu-Giroux M**, Mishra M (2025). Connectivity between long-term care homes and subsequent SARS-CoV-2 outbreaks. *BMC Public Health*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1186/s12889-025-23621-3" target = "_blank">
+**[124]** [Xia Y]{.underline}, Ma H, Malikov K, Straus SE, CFahim C, Moloney G, Huang Q, Asgari S, Boyd JM, Ferro I, Johns J, Khan K, Mistry J, Wang L, Chan AK, Baral SD, **Maheu-Giroux M**, Mishra M (2025). Connectivity between long-term care homes and subsequent SARS-CoV-2 outbreaks. *BMC Public Health* 25:2634. 
 </a> 
   
 # 
