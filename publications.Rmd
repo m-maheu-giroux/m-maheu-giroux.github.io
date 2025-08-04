@@ -37,6 +37,18 @@ Feel free to email me to obtain a copy of any of the papers below.
 #### Names of supervised [students/trainees]{.underline} are underlined
 
 ## Submitted
+
+  
+<div class = "class-name"> 
+**[132]** Lambert G, Fourmigue A, Dvorakova M, Moodie EEM, Moore D, Lachowsky N, Grace D, Hart TA, Tan D, Jollimore J, Labbé AC, Fortin C, **Maheu-Giroux M**, Hull M, Brunelle-Newman S, ZhangT, Lal A, Gormezano A, Cox J (2025). Incidence and risk factors of C. trachomatis, N. gonorrhoeae and syphilis among urban Canadian gay, bisexual and other men who have sex with men, 2017-2023: Informing the potential impact of doxycycline prophylaxis.  
+</div> 
+
+# 
+<div class = "class-name"> 
+**[131]** Nikiforuk AM, Fanyu Xiu F, Caroline Mburu M, Adhikari B, Prystajecky NA, Russell SL, Jassem AN, Twohig KA, Singal M, Bobrow K, Mangat CS, Knox NC, Mishra S, **Maheu-Giroux M**, Irvine MA, and Sbihi H (2025). Spatiotemporal estimation of actively shedding mpox virus, clade IIb, cases using wastewater signals in British Columbia, Canada. Pre-print [here](https://dx.doi.org/10.2139/ssrn.5367358).
+</div> 
+  
+# 
 <div class = "class-name"> 
 **[130]** [Doyle CM+]{.underline}, [Kuchukhidze S+]{.underline}, [Stannah J+]{.underline} (+contributed equally), [Flores Anato JL]{.underline}, [Xia Y]{.underline}, Logie CH, Simo Fotso A, Carabali M, Mishra S, Niangoran S, Mian A, Terris-Prestholt F, Kovtun O, Singh A, Artenie A, Stone J, Vickerman P, Boily MC, **Maheu-Giroux M** (2025). The impact of HIV stigma and discrimination on HIV testing, antiretroviral treatment, and viral suppression in Africa: a pooled analysis of population-based surveys. Pre-print [here](https://dx.doi.org/10.2139/ssrn.5225713).
 </div> 
