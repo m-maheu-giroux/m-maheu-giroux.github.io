@@ -77,8 +77,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 # 
 
 # 
-<a class = "one" href = "" target = "_blank">
-**[126]** [Allorant A]{.underline}, [Kuchukhidze S]{.underline}, [Stannah J]{.underline}, [Xia Y]{.underline}, Masuku SS, Ekanmian GK, Imai-Eaton JW, **Maheu-Giroux M** (2025). Socio-demographic and geographic disparities in HIV prevalence, HIV testing, and treatment coverage: an analysis of 108 national household surveys in 33 African countries. *Journal of the International AIDS Society*. (Accepted)
+<a class = "one" href = "http://dx.doi.org/10.1002/jia2.70024" target = "_blank">
+**[126]** [Allorant A]{.underline}, [Kuchukhidze S]{.underline}, [Stannah J]{.underline}, [Xia Y]{.underline}, Masuku SS, Ekanmian GK, Imai-Eaton JW, **Maheu-Giroux M** (2025). Socio-demographic and geographic disparities in HIV prevalence, HIV testing, and treatment coverage: an analysis of 108 national household surveys in 33 African countries. *Journal of the International AIDS Society* 28:e70024.
 </a> 
   
 #

@@ -85,7 +85,7 @@ MSc Student in Epidemiology (McGill) and Public Health Data Sciences (Bordeaux).
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Zeinab Cherri
-PhD Candidate in Epidemiology (McGill). Research Topic: *The impact of child marriages on health outcomes*. Co-supervision; main supervisor: [Alissa Koski](https://www.alissakoski.com/).
+PhD Candidate in Epidemiology (McGill). Research Topic: *The impact of child marriages on health outcomes*. Co-supervision; Primary supervisor: [Alissa Koski](https://www.alissakoski.com/).
 </div>
 </div>
 
@@ -160,7 +160,7 @@ PhD Epidemiology (McGill). Research Topic: *COVID-19 in Canada: epidemiology, se
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> James Stannah (PhD'24)
-PhD in Epidemiology (McGill). Research Topic: *Conceptualising, describing, and analysing the impact of structural determinants on HIV transmission among sexual and gender minorities*. 
+PhD in Epidemiology (McGill). Research Topic: *Conceptualising, describing, and analysing the impact of structural determinants on HIV transmission among sexual and gender minorities*. Co-supervisor: [Marie-Claude Boily](https://profiles.imperial.ac.uk/mc.boily).
 </div>
 </div>
 
@@ -180,7 +180,7 @@ PhD in Epidemiology (McGill). Research Topic: *Intimate partner violence and HIV
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Fanyu (Vanessa) Xiu (MSc'24)
-MSc Epidemiology (McGill). Research Topic: *Sexual networks of gay, bisexual, and other men who have sex with men in Canada: implications the transmission and control of mpox*.
+MSc Epidemiology (McGill). Research Topic: *Sexual networks of gay, bisexual, and other men who have sex with men in Canada: implications the transmission and control of mpox*. 
 </div>
 </div>
 
@@ -200,7 +200,7 @@ MSc Epidemiology (McGill). Research Topic: *Cost-effectiveness analysis of HIV s
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Adrien Allorant (Fellowship'23)
-Postdoc (McGill). Research Topic: *Optimizing HIV testing services to end AIDS in sub-Saharan Africa*.
+Postdoc (McGill). Research Topic: *Optimizing HIV testing services to end AIDS in sub-Saharan Africa*. Co-supervisor: [Jeffrey Imai-Eaton](https://hsph.harvard.edu/profile/jeff-imai-eaton/).
 </div>
 </div>
 
@@ -210,7 +210,7 @@ Postdoc (McGill). Research Topic: *Optimizing HIV testing services to end AIDS i
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Carla Doyle (PhD'23)
-PhD Epidemiology (McGill). Research Topic: *HIV elimination in Québec: tracking progress and evaluating HIV prevention interventions among key populations*.
+PhD Epidemiology (McGill). Research Topic: *HIV elimination in Québec: tracking progress and evaluating HIV prevention interventions among key populations*. Co-supervisor: [Joseph Cox](https://www.mcgill.ca/epi-biostat-occh/joseph-cox).
 </div>
 </div>
 
@@ -220,7 +220,7 @@ PhD Epidemiology (McGill). Research Topic: *HIV elimination in Québec: tracking
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Stephen Juwono (MSc'23)
-MSc Epidemiology (McGill). Research Topic: *Intimate partner violence among gay, bisexual, and other men who have sex with men in Canada: a cohort analysis (2017-2022)*.
+MSc Epidemiology (McGill). Research Topic: *Intimate partner violence among gay, bisexual, and other men who have sex with men in Canada: a cohort analysis (2017-2022)*. Co-supervisor: [Joseph Cox](https://www.mcgill.ca/epi-biostat-occh/joseph-cox).
 </div>
 </div>
 
@@ -296,7 +296,7 @@ Postdoctoral fellowship (McGill). Research Topic: *Modeling the impacts and opti
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i>   Katia Giguère (Fellowship'20)
-Postdoctoral fellowship (McGill). Research Topic: *Estimating gaps in HIV knowledge status to reach the first UNAIDS 90-90-90 target in sub-Saharan Africa*.
+Postdoctoral fellowship (McGill). Research Topic: *Estimating gaps in HIV knowledge status to reach the first UNAIDS 90-90-90 target in sub-Saharan Africa*. Co-supervisor: [Jeffrey Imai-Eaton](https://hsph.harvard.edu/profile/jeff-imai-eaton/).
 </div>
 </div>
   
