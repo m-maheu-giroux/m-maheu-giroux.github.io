@@ -45,6 +45,17 @@ output:
 
 <div class = "row">
 <div class = "column left">
+<img src = "Wael_Badawy.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Wael Badawy
+MSc Student in Epidemiology (McGill). Research Topic: *Trends in syphilis prevalence and incidence among female sex workers*. Co-supervisor: [Julian Gitelman](https://ca.linkedin.com/in/julian-gitelman-761835237).
+</div>
+</div>
+
+
+<div class = "row">
+<div class = "column left">
 <img src = "Aiche_Danioko.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
@@ -54,30 +65,41 @@ MSc Student in Epidemiology (McGill). Research Topic: *Gender differences in HCV
 </div>
 
 
-<div class = "row">
-<div class = "column left">
-<img src = "Aishi_Aratrika.jpg" align = "left" width = "100" height = "100"  />
-</div>
-<div class = "column right">
-### <i class = "glyphicon glyphicon-user"> </i> Aishi Aratrika
-MSc Student in Epidemiology (McGill). Research Topic: *Regional and country-level trends in uptake of HIV self-testing in African countries: a systematic analysis of population-based surveys and HIV testing services data*.
-</div>
-</div>
-
-<div class = "row">
-<div class = "column left">
-<img src = "Andrey_Kutsyh.jpg" align = "left" width = "100" height = "100"  />
-</div>
-<div class = "column right">
-### <i class = "glyphicon glyphicon-user"> </i> Andrey Kutsyh
-MSc Student in Epidemiology (McGill) and Public Health Data Sciences (Bordeaux). Research Topic: *What is the impact of declines in HIV testing in African countries on indicators of HIV testing efficiency and the proportion of people living with HIV aware of their status?* Co-supervisor: [Amadou Alioum](https://www.isped.u-bordeaux.fr/Portals/0/TELECHARGEMENT/Rubrique_FORMATIONS/CV/ALIOUM.pdf?ver=2019-10-18-111731-860).
-</div>
-</div>
 
 
 #  
 #  
 # Doctoral 
+
+<div class = "row">
+<div class = "column left">
+<img src = "Aregawi_Gebreyesus_Belay.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Aregawi Gebreyesus Belay
+PhD Candidate in Epidemiology (McGill). Research Topic: *HIV acquisition and transmission risks among migrants in Canada*. 
+</div>
+</div>
+
+<div class = "row">
+<div class = "column left">
+<img src = "Sarah_Dickson.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Sarah Dickson
+PhD Candidate in Epidemiology (McGill). Research Topic: *Modeling surveillance and mitigation strategies for avian influenza *. Co-supervisor: [Caroline Wagner](https://bgh.lab.mcgill.ca/our-team.html).
+</div>
+</div>
+
+<div class = "row">
+<div class = "column left">
+<img src = "Samuel_Lowe.png" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Samuel Lowe
+PhD Candidate in Epidemiology (McGill). Research Topic: *The impact of structural determinants on HIV epidemics among gay, bisexual, and other men who have sex with men*. 
+</div>
+</div>
 
 <div class = "row">
 <div class = "column left">
@@ -100,7 +122,7 @@ PhD Candidate in Epidemiology (McGill). Research Topic: *The impact of child mar
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Carla Doyle
-Dr. Carla Doyle holds a BSc in Mathematics & Statistics from Acadia University, and both MScPH and PhD in Epidemiology from McGill University.
+Dr. Carla Doyle holds a BSc in Mathematics & Statistics from *Acadia University*, and both MScPH and PhD in Epidemiology from *McGill University*.
 </div>
 </div>
 
@@ -111,13 +133,24 @@ Dr. Carla Doyle holds a BSc in Mathematics & Statistics from Acadia University, 
 </div>
 <div class = "column right">
 ### <i class = "glyphicon glyphicon-user"> </i> Yiqing Xia
-Dr. Yiqing Xia completed a Bachelor of Medicine and Surgery (BMMS) from Fudan University, a Master of Science in Public Health degree (MScPH) from McGill, and a doctoral degree in Epidemiology from PhD in Epidemiology from McGill University. 
+Dr. Yiqing Xia completed a Bachelor of Medicine and Surgery (BMMS) from *Fudan University*, and a Master of Science in Public Health degree (MScPH) and PhD in Epidemiology from *McGill University*. 
 </div>
 </div>
 
 #  
 # Research Assistant
 #  
+
+<div class = "row">
+<div class = "column left">
+<img src = "Andrey_Kutsyh.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Andrey Kutsyh
+Andrey Kutsyh completed a BSc in Immunology and Infection from the *University of Alberta* and a dual MSc in Epidemiology from *McGill University* and MSc in Digital Health from the *Université de Bordeaux*.
+</div>
+</div>
+
 
 <div class = "row">
 <div class = "column left">
@@ -133,7 +166,6 @@ Rebecca Winkelaar is completing her BSc in Environment and Social Studies of Med
 # Past Supervision
 #  
 
-
 <div class = "row">
 <div class = "column left">
 <img src = "Gideon_Kye-Duodu.jpg" align = "left" width = "100" height = "100"  />
@@ -143,6 +175,28 @@ Rebecca Winkelaar is completing her BSc in Environment and Social Studies of Med
 Visiting Researcher (FRQS PBEEE Scholar) from the *Binka School of Public Health* of the *University of Health and Allied Sciences* (Ho, Ghana). Research Topic: *Early infant diagnosis of HIV in Ghana*. 
 </div>
 </div>
+
+
+<div class = "row">
+<div class = "column left">
+<img src = "Aishi_Aratrika.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Aishi Aratrika (MSc'25)
+MSc Epidemiology (McGill). Research Topic: *Regional and country-level trends in uptake of HIV self-testing in African countries: a systematic analysis of population-based surveys and HIV testing services data*.
+</div>
+</div>
+
+<div class = "row">
+<div class = "column left">
+<img src = "Andrey_Kutsyh.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+### <i class = "glyphicon glyphicon-user"> </i> Andrey Kutsyh (MSc'25)
+MSc Epidemiology (McGill) and Public Health Data Sciences (Bordeaux). Research Topic: *What is the impact of declines in HIV testing in African countries on indicators of HIV testing efficiency and the proportion of people living with HIV aware of their status?* Co-supervisor: [Amadou Alioum](https://www.isped.u-bordeaux.fr/Portals/0/TELECHARGEMENT/Rubrique_FORMATIONS/CV/ALIOUM.pdf?ver=2019-10-18-111731-860).
+</div>
+</div>
+
 
 <div class = "row">
 <div class = "column left">

@@ -92,8 +92,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a> 
   
 # 
-<a class = "one" href = "" target = "_blank">
-**[123]** Torres-Flores S, [Flores Anato JL]{.underline}, He JH, Portilla VG, Wu Y, **Maheu-Giroux M**, [Racine É]{.underline}, Wagner CE (2025). Evaluating COVID-19 vaccination policy in Québec (Canada) using a data-driven dynamic transmission model. *Plos Compuational Biology*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1371/journal.pcbi.1013207" target = "_blank">
+**[123]** Torres-Flores S, [Flores Anato JL]{.underline}, He JH, Portilla VG, Wu Y, **Maheu-Giroux M**, [Racine É]{.underline}, Wagner CE (2025). Evaluating COVID-19 vaccination policy in Québec (Canada) using a data-driven dynamic transmission model. *Plos Compuational Biology*. (In Press)
 </a> 
 
 # 
