@@ -38,7 +38,18 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 ## Submitted
 
-  
+
+<div class = "class-name"> 
+**[134]** [Stannah J]{.underline}+, [Flores Anato LJ]{.underline}+ (+equal contributions), Dvorakova M, Vo TD, Moore D, Lachowsky NJ, Hart TA, Skakoon-Sparling S, Tan DHS, Grace D, Zhang T, Juwono S, Gormezano AM, Cox J, and **Maheu-Giroux M** (2025). Does intimate partner violence increase bacterial sexually transmitted infections among gay, bisexual, and other men who have sex with men? Longitudinal analysis of the Engage Cohort (2017-2024) in Montréal, Toronto, and Vancouver (Canada).
+
+</div> 
+
+#  
+<div class = "class-name"> 
+**[133]** [Aratrika A]{.underline}, [Doyle CM]{.underline}, Johnson CC, Edun O, Mweng BM, Adoko A, Choko AT, Imai-Eaton JW, **Maheu-Giroux M** (2025). Trends in HIV self-testing uptake in Africa: a modeling study of population-based surveys and HIV testing program data.
+</div> 
+
+#  
 <div class = "class-name"> 
 **[132]** Lambert G, Fourmigue A, Dvorakova M, Moodie EEM, Moore D, Lachowsky N, Grace D, Hart TA, Tan D, Jollimore J, Labbé AC, Fortin C, **Maheu-Giroux M**, Hull M, Brunelle-Newman S, ZhangT, Lal A, Gormezano A, Cox J (2025). Incidence and risk factors of C. trachomatis, N. gonorrhoeae and syphilis among urban Canadian gay, bisexual and other men who have sex with men, 2017-2023: Informing the potential impact of doxycycline prophylaxis.  
 </div> 
@@ -93,7 +104,7 @@ Feel free to email me to obtain a copy of any of the papers below.
   
 # 
 <a class = "one" href = "https://doi.org/10.1371/journal.pcbi.1013207" target = "_blank">
-**[123]** Torres-Flores S, [Flores Anato JL]{.underline}, He JH, Portilla VG, Wu Y, **Maheu-Giroux M**, [Racine É]{.underline}, Wagner CE (2025). Evaluating COVID-19 vaccination policy in Québec (Canada) using a data-driven dynamic transmission model. *Plos Compuational Biology*. (In Press)
+**[123]** Torres-Flores S, [Flores Anato JL]{.underline}, He JH, Portilla VG, Wu Y, **Maheu-Giroux M**, [Racine É]{.underline}, Wagner CE (2025). Evaluating COVID-19 vaccination policy in Québec (Canada) using a data-driven dynamic transmission model. *Plos Compuational Biology* 21(8):e1013207.
 </a> 
 
 # 
