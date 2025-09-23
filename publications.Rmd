@@ -46,7 +46,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 #  
 <div class = "class-name"> 
-**[133]** [Aratrika A]{.underline}, [Doyle CM]{.underline}, Johnson CC, Edun O, Mweng BM, Adoko A, Choko AT, Imai-Eaton JW, **Maheu-Giroux M** (2025). Trends in HIV self-testing uptake in Africa: a modeling study of population-based surveys and HIV testing program data.
+**[133]** [Aratrika A]{.underline}, [Doyle CM]{.underline}, Johnson CC, Edun O, Mweng BM, Adoko A, Choko AT, Imai-Eaton JW, **Maheu-Giroux M** (2025). Trends in HIV self-testing uptake in Africa: a modeling study of population-based surveys and HIV testing program data. Pre-print [here](https://doi.org/10.1101/2025.09.22.25336306).
 </div> 
 
 #  
