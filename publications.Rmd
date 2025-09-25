@@ -40,8 +40,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 
 <div class = "class-name"> 
-**[134]** [Stannah J]{.underline}+, [Flores Anato LJ]{.underline}+ (+equal contributions), Dvorakova M, Vo TD, Moore D, Lachowsky NJ, Hart TA, Skakoon-Sparling S, Tan DHS, Grace D, Zhang T, Juwono S, Gormezano AM, Cox J, and **Maheu-Giroux M** (2025). Does intimate partner violence increase bacterial sexually transmitted infections among gay, bisexual, and other men who have sex with men? Longitudinal analysis of the Engage Cohort (2017-2024) in Montréal, Toronto, and Vancouver (Canada).
-
+**[134]** [Stannah J]{.underline}+, [Flores Anato LJ]{.underline}+ (+equal contributions), Dvorakova M, Vo TD, Moore D, Lachowsky NJ, Hart TA, Skakoon-Sparling S, Tan DHS, Grace D, Zhang T, Juwono S, Gormezano AM, Cox J, and **Maheu-Giroux M** (2025). Does intimate partner violence increase bacterial sexually transmitted infections among gay, bisexual, and other men who have sex with men? Longitudinal analysis of the Engage Cohort (2017-2024) in Montréal, Toronto, and Vancouver (Canada). Pre-print [here](https://dx.doi.org/10.2139/ssrn.5516545).
 </div> 
 
 #  
