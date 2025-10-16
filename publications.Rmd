@@ -74,17 +74,16 @@ Feel free to email me to obtain a copy of any of the papers below.
 </div> 
   
 #  
-<div class = "class-name">
-**[127]** Stevens O, Anderson R, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Crowell TA, Tally L, Mulenga L, Neena P, **Maheu-Giroux M**, McIntyre A, Hladik W, Zhao J, Mahy M, Imai-Eaton JW (2025). HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. Pre-print [here](https://doi.org/10.1101/2023.11.09.23298289). 
-</div>  
-  
-
-  
-#  
 #  
 ## Published
 #
 # 
+
+  
+#  
+<a class = "one" href = "https://doi.org/10.1101/2023.11.09.23298289" target = "_blank">
+**[127]** Stevens O, Anderson RL, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Mulenga L, Philip NM, **Maheu-Giroux M**, Zhao J, Mahy M, Imai-Eaton JW (2025). HIV prevalence in transgender women and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. *AIDS*. (Accepted)
+</a>  
 
 # 
 <a class = "one" href = "http://dx.doi.org/10.1002/jia2.70024" target = "_blank">
