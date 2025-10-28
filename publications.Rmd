@@ -60,17 +60,12 @@ Feel free to email me to obtain a copy of any of the papers below.
   
 # 
 <div class = "class-name"> 
-**[130]** [Doyle CM+]{.underline}, [Kuchukhidze S+]{.underline}, [Stannah J+]{.underline} (+contributed equally), [Flores Anato JL]{.underline}, [Xia Y]{.underline}, Logie CH, Simo Fotso A, Carabali M, Mishra S, Niangoran S, Mian A, Terris-Prestholt F, Kovtun O, Singh A, Artenie A, Stone J, Vickerman P, Boily MC, **Maheu-Giroux M** (2025). The impact of HIV stigma and discrimination on HIV testing, antiretroviral treatment, and viral suppression in Africa: a pooled analysis of population-based surveys. Pre-print [here](https://dx.doi.org/10.2139/ssrn.5225713).
+**[130]** [Xia Y]{.underline}, Alexandre M, Thiebaut R, **Maheu-Giroux M**, and Prague M (2025). Defining optimal vaccine features for pandemic preparedness: An individual-based model bridging within- and between-host dynamics. 
 </div> 
   
 # 
 <div class = "class-name"> 
-**[129]** [Xia Y]{.underline}, Alexandre M, Thiebaut R, **Maheu-Giroux M**, and Prague M (2025). Defining optimal vaccine features for pandemic preparedness: An individual-based model bridging within- and between-host dynamics. 
-</div> 
-  
-# 
-<div class = "class-name"> 
-**[128]** Heitner J, Standsfield SE, Mitchell KM, [Doyle CM]{.underline}, [Milwid RM]{.underline}, Moore M, Donnell DJ, [Xia Y]{.underline}, **Maheu-Giroux M**, Barnabas R, Boily MC, Dimitrov DT (2025). Cost-effectiveness of leveraging long-acting injectable Cabotegravir to expand PrEP coverage among men who have sex with men in two contrasting North American cities. 
+**[129]** Heitner J, Standsfield SE, Mitchell KM, [Doyle CM]{.underline}, [Milwid RM]{.underline}, Moore M, Donnell DJ, [Xia Y]{.underline}, **Maheu-Giroux M**, Barnabas R, Boily MC, Dimitrov DT (2025). Cost-effectiveness of leveraging long-acting injectable Cabotegravir to expand PrEP coverage among men who have sex with men in two contrasting North American cities. 
 </div> 
   
 #  
@@ -79,6 +74,10 @@ Feel free to email me to obtain a copy of any of the papers below.
 #
 # 
 
+# 
+<a class = "one" href = "https://dx.doi.org/10.2139/ssrn.5225713" target = "_blank">
+**[128]** [Doyle CM+]{.underline}, [Kuchukhidze S+]{.underline}, [Stannah J+]{.underline} (+contributed equally), [Flores Anato JL]{.underline}, [Xia Y]{.underline}, Logie CH, Simo Fotso A, Carabali M, Mishra S, Niangoran S, Mian A, Terris-Prestholt F, Kovtun O, Singh A, Artenie A, Stone J, Vickerman P, Boily MC, **Maheu-Giroux M** (2025). The impact of HIV stigma and discrimination on HIV testing, antiretroviral treatment, and viral suppression in Africa: a pooled analysis of population-based surveys. *The Lancet HIV*. (Accepted)
+</a> 
   
 #  
 <a class = "one" href = "https://doi.org/10.1101/2023.11.09.23298289" target = "_blank">
