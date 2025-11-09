@@ -52,20 +52,15 @@ Feel free to email me to obtain a copy of any of the papers below.
 <div class = "class-name"> 
 **[132]** Lambert G, Fourmigue A, Dvorakova M, Moodie EEM, Moore D, Lachowsky N, Grace D, Hart TA, Tan D, Jollimore J, Labbé AC, Fortin C, **Maheu-Giroux M**, Hull M, Brunelle-Newman S, ZhangT, Lal A, Gormezano A, Cox J (2025). Incidence and risk factors of C. trachomatis, N. gonorrhoeae and syphilis among urban Canadian gay, bisexual and other men who have sex with men, 2017-2023: Informing the potential impact of doxycycline prophylaxis.  
 </div> 
-
+  
 # 
 <div class = "class-name"> 
-**[131]** Nikiforuk AM, Fanyu Xiu F, Caroline Mburu M, Adhikari B, Prystajecky NA, Russell SL, Jassem AN, Twohig KA, Singal M, Bobrow K, Mangat CS, Knox NC, Mishra S, **Maheu-Giroux M**, Irvine MA, and Sbihi H (2025). Spatiotemporal estimation of actively shedding mpox virus, clade IIb, cases using wastewater signals in British Columbia, Canada. Pre-print [here](https://dx.doi.org/10.2139/ssrn.5367358).
+**[131]** [Xia Y]{.underline}, Alexandre M, Thiebaut R, **Maheu-Giroux M**, and Prague M (2025). Defining optimal vaccine features for pandemic preparedness: An individual-based model bridging within- and between-host dynamics. 
 </div> 
   
 # 
 <div class = "class-name"> 
-**[130]** [Xia Y]{.underline}, Alexandre M, Thiebaut R, **Maheu-Giroux M**, and Prague M (2025). Defining optimal vaccine features for pandemic preparedness: An individual-based model bridging within- and between-host dynamics. 
-</div> 
-  
-# 
-<div class = "class-name"> 
-**[129]** Heitner J, Standsfield SE, Mitchell KM, [Doyle CM]{.underline}, [Milwid RM]{.underline}, Moore M, Donnell DJ, [Xia Y]{.underline}, **Maheu-Giroux M**, Barnabas R, Boily MC, Dimitrov DT (2025). Cost-effectiveness of leveraging long-acting injectable Cabotegravir to expand PrEP coverage among men who have sex with men in two contrasting North American cities. 
+**[130]** Heitner J, Standsfield SE, Mitchell KM, [Doyle CM]{.underline}, [Milwid RM]{.underline}, Moore M, Donnell DJ, [Xia Y]{.underline}, **Maheu-Giroux M**, Barnabas R, Boily MC, Dimitrov DT (2025). Cost-effectiveness of leveraging long-acting injectable Cabotegravir to expand PrEP coverage among men who have sex with men in two contrasting North American cities. 
 </div> 
   
 #  
@@ -73,6 +68,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Published
 #
 # 
+
+# 
+<a class = "one" href = "https://dx.doi.org/10.2139/ssrn.5367358" target = "_blank">
+**[129]** Nikiforuk AM, Fanyu Xiu F, Caroline Mburu M, Adhikari B, Prystajecky NA, Russell SL, Jassem AN, Twohig KA, Singal M, Bobrow K, Mangat CS, Knox NC, Mishra S, **Maheu-Giroux M**, Irvine MA, and Sbihi H (2025). Spatiotemporal estimation of actively shedding mpox virus, clade IIb, cases using wastewater signals in British Columbia, Canada. *Environment International*. (Accepted)
+</a> 
 
 # 
 <a class = "one" href = "https://dx.doi.org/10.2139/ssrn.5225713" target = "_blank">
