@@ -58,16 +58,18 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[131]** [Xia Y]{.underline}, Alexandre M, Thiebaut R, **Maheu-Giroux M**, and Prague M (2025). Defining optimal vaccine features for pandemic preparedness: An individual-based model bridging within- and between-host dynamics. 
 </div> 
   
-# 
-<div class = "class-name"> 
-**[130]** Heitner J, Standsfield SE, Mitchell KM, [Doyle CM]{.underline}, [Milwid RM]{.underline}, Moore M, Donnell DJ, [Xia Y]{.underline}, **Maheu-Giroux M**, Barnabas R, Boily MC, Dimitrov DT (2025). Cost-effectiveness of leveraging long-acting injectable Cabotegravir to expand PrEP coverage among men who have sex with men in two contrasting North American cities. 
-</div> 
+
   
 #  
 #  
 ## Published
 #
 # 
+
+# 
+<a class = "one" href = "https://dx.doi.org/10.2139/ssrn.5367358" target = "_blank">
+**[130]** Heitner J, Standsfield SE, Mitchell KM, [Doyle CM]{.underline}, [Milwid RM]{.underline}, Moore M, Donnell DJ, [Xia Y]{.underline}, **Maheu-Giroux M**, Barnabas R, Boily MC, Dimitrov DT (2025). Cost-effectiveness of leveraging long-acting injectable Cabotegravir to expand PrEP coverage among men who have sex with men in two contrasting North American cities. *Journal of the International AIDS Society*. (Accepted)
+</a> 
 
 # 
 <a class = "one" href = "https://dx.doi.org/10.2139/ssrn.5367358" target = "_blank">
@@ -90,8 +92,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a> 
   
 #
-<a class = "one" href = "https://doi.org/10.1101/2025.03.17.25324139" target = "_blank">
-**[125]** Silhol R, Booton RD, Mitchell KM, [Stannah J]{.underline}, Stevens O, Dimitrov D, Bershteyn A, Johnson LF, Kelly SL, Kim H-Y, **Maheu-Giroux M**, Martin-Hughes R, Mishra S, Stone J, Stuart R, Stover J, Vickerman P, Wilson DP, Baral S, Donnell D, Imai-Eaton J, Boily MC (2025). Identifying priority populations for HIV interventions using acquisition and transmission indicators: a combined analysis of 15 mathematical models from 10 African countries. *The Lancet HIV*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1016/S2352-3018(25)00199-7" target = "_blank">
+**[125]** Silhol R, Booton RD, Mitchell KM, [Stannah J]{.underline}, Stevens O, Dimitrov D, Bershteyn A, Johnson LF, Kelly SL, Kim H-Y, **Maheu-Giroux M**, Martin-Hughes R, Mishra S, Stone J, Stuart R, Stover J, Vickerman P, Wilson DP, Baral S, Donnell D, Imai-Eaton J, Boily MC (2025). Identifying priority populations for HIV interventions using acquisition and transmission indicators: a combined analysis of 15 mathematical models from 10 African countries. *The Lancet HIV*. (In Press)
 </a> 
   
 # 
