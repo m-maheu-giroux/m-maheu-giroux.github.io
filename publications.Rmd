@@ -72,8 +72,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a> 
 
 # 
-<a class = "one" href = "https://dx.doi.org/10.2139/ssrn.5367358" target = "_blank">
-**[129]** Nikiforuk AM, Fanyu Xiu F, Caroline Mburu M, Adhikari B, Prystajecky NA, Russell SL, Jassem AN, Twohig KA, Singal M, Bobrow K, Mangat CS, Knox NC, Mishra S, **Maheu-Giroux M**, Irvine MA, and Sbihi H (2025). Spatiotemporal estimation of actively shedding mpox virus, clade IIb, cases using wastewater signals in British Columbia, Canada. *Environment International*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1016/j.envint.2025.109922" target = "_blank">
+**[129]** Nikiforuk AM, Fanyu Xiu F, Caroline Mburu M, Adhikari B, Prystajecky NA, Russell SL, Jassem AN, Twohig KA, Singal M, Bobrow K, Mangat CS, Knox NC, Mishra S, **Maheu-Giroux M**, Irvine MA, and Sbihi H (2025). Spatiotemporal estimation of actively shedding mpox virus, clade IIb, cases using wastewater signals in British Columbia, Canada. *Environment International* 206:109922.
 </a> 
 
 # 
