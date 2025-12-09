@@ -38,7 +38,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 ## Submitted
 
-
+<div class = "class-name"> 
+**[135]** [Doyle CM]{.underline}, Rönn MM, van Schalkwyk, Brisson M, Soni N, Boily MC, **Maheu-Giroux M** (2025). Potential impact of catch-up HPV vaccination for women living with HIV in South Africa. 
+</div> 
+  
+#
 <div class = "class-name"> 
 **[134]** [Stannah J]{.underline}+, [Flores Anato LJ]{.underline}+ (+equal contributions), Dvorakova M, Vo TD, Moore D, Lachowsky NJ, Hart TA, Skakoon-Sparling S, Tan DHS, Grace D, Zhang T, Juwono S, Gormezano AM, Cox J, and **Maheu-Giroux M** (2025). Does intimate partner violence increase bacterial sexually transmitted infections among gay, bisexual, and other men who have sex with men? Longitudinal analysis of the Engage Cohort (2017-2024) in Montréal, Toronto, and Vancouver (Canada). Pre-print [here](https://dx.doi.org/10.2139/ssrn.5516545).
 </div> 
@@ -53,10 +57,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[132]** Lambert G, Fourmigue A, Dvorakova M, Moodie EEM, Moore D, Lachowsky N, Grace D, Hart TA, Tan D, Jollimore J, Labbé AC, Fortin C, **Maheu-Giroux M**, Hull M, Brunelle-Newman S, ZhangT, Lal A, Gormezano A, Cox J (2025). Incidence and risk factors of C. trachomatis, N. gonorrhoeae and syphilis among urban Canadian gay, bisexual and other men who have sex with men, 2017-2023: Informing the potential impact of doxycycline prophylaxis.  
 </div> 
   
-# 
-<div class = "class-name"> 
-**[131]** [Xia Y]{.underline}, Alexandre M, Thiebaut R, **Maheu-Giroux M**, and Prague M (2025). Defining optimal vaccine features for pandemic preparedness: An individual-based model bridging within- and between-host dynamics. 
-</div> 
+
   
 
   
@@ -65,6 +66,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Published
 #
 # 
+
+# 
+<a class = "one" href = "" target = "_blank">
+**[131]** [Xia Y]{.underline}, Alexandre M, Thiebaut R, **Maheu-Giroux M**, and Prague M (2025). Defining optimal vaccine features for pandemic preparedness: An individual-based model bridging within- and between-host dynamics. *Bulletin of Mathematical Biology*. (Accepted)
+</a> 
 
 # 
 <a class = "one" href = "https://dx.doi.org/10.2139/ssrn.5367358" target = "_blank">
