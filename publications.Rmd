@@ -39,22 +39,27 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Submitted
 
 <div class = "class-name"> 
-**[135]** [Doyle CM]{.underline}, Rönn MM, van Schalkwyk, Brisson M, Soni N, Boily MC, **Maheu-Giroux M** (2025). Potential impact of catch-up HPV vaccination for women living with HIV in South Africa. 
+**[136]** Tejada R, Baena A, Trujillo L, Rodriquez J, **Maheu-Giroux M**, Almonte M, Franco EL, and Malagón T (2026). Impact of switching from a quadrivalent to a nonavalent HPV vaccine on HPV infections and cervical cancer in Colombia: a mathematical modeling study. Pre-print [here](https://dx.doi.org/10.2139/ssrn.5821650).
 </div> 
   
 #
 <div class = "class-name"> 
-**[134]** [Stannah J]{.underline}+, [Flores Anato LJ]{.underline}+ (+equal contributions), Dvorakova M, Vo TD, Moore D, Lachowsky NJ, Hart TA, Skakoon-Sparling S, Tan DHS, Grace D, Zhang T, Juwono S, Gormezano AM, Cox J, and **Maheu-Giroux M** (2025). Does intimate partner violence increase bacterial sexually transmitted infections among gay, bisexual, and other men who have sex with men? Longitudinal analysis of the Engage Cohort (2017-2024) in Montréal, Toronto, and Vancouver (Canada). Pre-print [here](https://dx.doi.org/10.2139/ssrn.5516545).
+**[135]** [Doyle CM]{.underline}, Rönn MM, van Schalkwyk, Brisson M, Soni N, Boily MC, **Maheu-Giroux M** (2026). Potential impact of catch-up HPV vaccination for women living with HIV in South Africa. 
+</div> 
+  
+#
+<div class = "class-name"> 
+**[134]** [Stannah J]{.underline}+, [Flores Anato LJ]{.underline}+ (+equal contributions), Dvorakova M, Vo TD, Moore D, Lachowsky NJ, Hart TA, Skakoon-Sparling S, Tan DHS, Grace D, Zhang T, Juwono S, Gormezano AM, Cox J, and **Maheu-Giroux M** (2026). Does intimate partner violence increase bacterial sexually transmitted infections among gay, bisexual, and other men who have sex with men? Longitudinal analysis of the Engage Cohort (2017-2024) in Montréal, Toronto, and Vancouver (Canada). Pre-print [here](https://dx.doi.org/10.2139/ssrn.5516545).
 </div> 
 
 #  
 <div class = "class-name"> 
-**[133]** [Aratrika A]{.underline}, [Doyle CM]{.underline}, Johnson CC, Edun O, Mweng BM, Adoko A, Choko AT, Imai-Eaton JW, **Maheu-Giroux M** (2025). Trends in HIV self-testing uptake in Africa: a modeling study of population-based surveys and HIV testing program data. Pre-print [here](https://doi.org/10.1101/2025.09.22.25336306).
+**[133]** [Aratrika A]{.underline}, [Doyle CM]{.underline}, Johnson CC, Edun O, Mweng BM, Adoko A, Choko AT, Imai-Eaton JW, **Maheu-Giroux M** (2026). Trends in HIV self-testing uptake in Africa: a modeling study of population-based surveys and HIV testing program data. Pre-print [here](https://doi.org/10.1101/2025.09.22.25336306).
 </div> 
 
 #  
 <div class = "class-name"> 
-**[132]** Lambert G, Fourmigue A, Dvorakova M, Moodie EEM, Moore D, Lachowsky N, Grace D, Hart TA, Tan D, Jollimore J, Labbé AC, Fortin C, **Maheu-Giroux M**, Hull M, Brunelle-Newman S, ZhangT, Lal A, Gormezano A, Cox J (2025). Incidence and risk factors of C. trachomatis, N. gonorrhoeae and syphilis among urban Canadian gay, bisexual and other men who have sex with men, 2017-2023: Informing the potential impact of doxycycline prophylaxis.  
+**[132]** Lambert G, Fourmigue A, Dvorakova M, Moodie EEM, Moore D, Lachowsky N, Grace D, Hart TA, Tan D, Jollimore J, Labbé AC, Fortin C, **Maheu-Giroux M**, Hull M, Brunelle-Newman S, ZhangT, Lal A, Gormezano A, Cox J (2026). Incidence and risk factors of C. trachomatis, N. gonorrhoeae and syphilis among urban Canadian gay, bisexual and other men who have sex with men, 2017-2023: Informing the potential impact of doxycycline prophylaxis.  
 </div> 
   
 
@@ -68,38 +73,38 @@ Feel free to email me to obtain a copy of any of the papers below.
 # 
 
 # 
-<a class = "one" href = "" target = "_blank">
-**[131]** [Xia Y]{.underline}, Alexandre M, Thiebaut R, **Maheu-Giroux M**, and Prague M (2025). Defining optimal vaccine features for pandemic preparedness: An individual-based model bridging within- and between-host dynamics. *Bulletin of Mathematical Biology*. (Accepted)
-</a> 
-
-# 
-<a class = "one" href = "https://dx.doi.org/10.2139/ssrn.5367358" target = "_blank">
-**[130]** Heitner J, Standsfield SE, Mitchell KM, [Doyle CM]{.underline}, [Milwid RM]{.underline}, Moore M, Donnell DJ, [Xia Y]{.underline}, **Maheu-Giroux M**, Barnabas R, Boily MC, Dimitrov DT (2025). Cost-effectiveness of leveraging long-acting injectable Cabotegravir to expand PrEP coverage among men who have sex with men in two contrasting North American cities. *Journal of the International AIDS Society*. (Accepted)
-</a> 
-
-# 
-<a class = "one" href = "https://doi.org/10.1016/j.envint.2025.109922" target = "_blank">
-**[129]** Nikiforuk AM, Fanyu Xiu F, Caroline Mburu M, Adhikari B, Prystajecky NA, Russell SL, Jassem AN, Twohig KA, Singal M, Bobrow K, Mangat CS, Knox NC, Mishra S, **Maheu-Giroux M**, Irvine MA, and Sbihi H (2025). Spatiotemporal estimation of actively shedding mpox virus, clade IIb, cases using wastewater signals in British Columbia, Canada. *Environment International* 206:109922.
-</a> 
-
-# 
 <a class = "one" href = "https://dx.doi.org/10.2139/ssrn.5225713" target = "_blank">
-**[128]** [Doyle CM+]{.underline}, [Kuchukhidze S+]{.underline}, [Stannah J+]{.underline} (+contributed equally), [Flores Anato JL]{.underline}, [Xia Y]{.underline}, Logie CH, Simo Fotso A, Carabali M, Mishra S, Niangoran S, Mian A, Terris-Prestholt F, Kovtun O, Singh A, Artenie A, Stone J, Vickerman P, Boily MC, **Maheu-Giroux M** (2025). The impact of HIV stigma and discrimination on HIV testing, antiretroviral treatment, and viral suppression in Africa: a pooled analysis of population-based surveys. *The Lancet HIV*. (Accepted)
+**[131]** [Doyle CM+]{.underline}, [Kuchukhidze S+]{.underline}, [Stannah J+]{.underline} (+contributed equally), [Flores Anato JL]{.underline}, [Xia Y]{.underline}, Logie CH, Simo Fotso A, Carabali M, Mishra S, Niangoran S, Mian A, Terris-Prestholt F, Kovtun O, Singh A, Artenie A, Stone J, Vickerman P, Boily MC, **Maheu-Giroux M** (2026). The impact of HIV stigma and discrimination on HIV testing, antiretroviral treatment, and viral suppression in Africa: a pooled analysis of population-based surveys. *The Lancet HIV*. (Accepted)
 </a> 
   
 #  
 <a class = "one" href = "https://doi.org/10.1101/2023.11.09.23298289" target = "_blank">
-**[127]** Stevens O, Anderson RL, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Mulenga L, Philip NM, **Maheu-Giroux M**, Zhao J, Mahy M, Imai-Eaton JW (2025). HIV prevalence in transgender women and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. *AIDS*. (Accepted)
+**[130]** Stevens O, Anderson RL, Sabin K, Arias Garcia S, Fearon E, Manda K, Dikobe W, Mulenga L, Philip NM, **Maheu-Giroux M**, Zhao J, Mahy M, Imai-Eaton JW (2026). HIV prevalence in transgender women and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis. *AIDS*. (Accepted)
 </a>  
 
 # 
-<a class = "one" href = "http://dx.doi.org/10.1002/jia2.70024" target = "_blank">
-**[126]** [Allorant A]{.underline}, [Kuchukhidze S]{.underline}, [Stannah J]{.underline}, [Xia Y]{.underline}, Masuku SS, Ekanmian GK, Imai-Eaton JW, **Maheu-Giroux M** (2025). Socio-demographic and geographic disparities in HIV prevalence, HIV testing, and treatment coverage: an analysis of 108 national household surveys in 33 African countries. *Journal of the International AIDS Society* 28:e70024.
+<a class = "one" href = "" target = "_blank">
+**[129]** [Xia Y]{.underline}, Alexandre M, Thiebaut R, **Maheu-Giroux M**, and Prague M (2026). Defining optimal vaccine features for pandemic preparedness: An individual-based model bridging within- and between-host dynamics. *Bulletin of Mathematical Biology*. (Accepted)
 </a> 
-  
-#
+
+# 
+<a class = "one" href = "https://dx.doi.org/10.2139/ssrn.5367358" target = "_blank">
+**[128]** Heitner J, Standsfield SE, Mitchell KM, [Doyle CM]{.underline}, [Milwid RM]{.underline}, Moore M, Donnell DJ, [Xia Y]{.underline}, **Maheu-Giroux M**, Barnabas R, Boily MC, Dimitrov DT (2026). Cost-effectiveness of leveraging long-acting injectable Cabotegravir to expand PrEP coverage among men who have sex with men in two contrasting North American cities. *Journal of the International AIDS Society*. (Accepted)
+</a> 
+
+#  
 <a class = "one" href = "https://doi.org/10.1016/S2352-3018(25)00199-7" target = "_blank">
-**[125]** Silhol R, Booton RD, Mitchell KM, [Stannah J]{.underline}, Stevens O, Dimitrov D, Bershteyn A, Johnson LF, Kelly SL, Kim H-Y, **Maheu-Giroux M**, Martin-Hughes R, Mishra S, Stone J, Stuart R, Stover J, Vickerman P, Wilson DP, Baral S, Donnell D, Imai-Eaton J, Boily MC (2025). Identifying priority populations for HIV interventions using acquisition and transmission indicators: a combined analysis of 15 mathematical models from 10 African countries. *The Lancet HIV*. (In Press)
+**[127]** Silhol R, Booton RD, Mitchell KM, [Stannah J]{.underline}, Stevens O, Dimitrov D, Bershteyn A, Johnson LF, Kelly SL, Kim H-Y, **Maheu-Giroux M**, Martin-Hughes R, Mishra S, Stone J, Stuart R, Stover J, Vickerman P, Wilson DP, Baral S, Donnell D, Imai-Eaton J, Boily MC (2026). Identifying priority populations for HIV interventions using acquisition and transmission indicators: a combined analysis of 15 mathematical models from 10 African countries. *The Lancet HIV* 13:e30-e39.
+</a> 
+
+# 
+<a class = "one" href = "https://doi.org/10.1016/j.envint.2025.109922" target = "_blank">
+**[126]** Nikiforuk AM, Fanyu Xiu F, Caroline Mburu M, Adhikari B, Prystajecky NA, Russell SL, Jassem AN, Twohig KA, Singal M, Bobrow K, Mangat CS, Knox NC, Mishra S, **Maheu-Giroux M**, Irvine MA, and Sbihi H (2025). Spatiotemporal estimation of actively shedding mpox virus, clade IIb, cases using wastewater signals in British Columbia, Canada. *Environment International* 206:109922.
+</a> 
+
+# 
+<a class = "one" href = "http://dx.doi.org/10.1002/jia2.70024" target = "_blank">
+**[125]** [Allorant A]{.underline}, [Kuchukhidze S]{.underline}, [Stannah J]{.underline}, [Xia Y]{.underline}, Masuku SS, Ekanmian GK, Imai-Eaton JW, **Maheu-Giroux M** (2025). Socio-demographic and geographic disparities in HIV prevalence, HIV testing, and treatment coverage: an analysis of 108 national household surveys in 33 African countries. *Journal of the International AIDS Society* 28:e70024.
 </a> 
   
 # 
