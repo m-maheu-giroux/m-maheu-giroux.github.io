@@ -39,12 +39,17 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Submitted
 
 <div class = "class-name"> 
+**[137]** Mburu C, Nikiforuk A, Marquez C, Jassem A, Prystajecky N, Xavier C Twohig K, Ryan V, Bobrow K, Giblert M, **Maheu-Giroux M**, Knox NC, Mishra S, Sbihi H, and Irvine MA (2026). Bridging wastewater and case surveillance reveals the hidden burden of the 2022 mpox outbreak.
+</div> 
+  
+#
+<div class = "class-name"> 
 **[136]** Tejada R, Baena A, Trujillo L, Rodriquez J, **Maheu-Giroux M**, Almonte M, Franco EL, and Malagón T (2026). Impact of switching from a quadrivalent to a nonavalent HPV vaccine on HPV infections and cervical cancer in Colombia: a mathematical modeling study. Pre-print [here](https://dx.doi.org/10.2139/ssrn.5821650).
 </div> 
   
 #
 <div class = "class-name"> 
-**[135]** [Doyle CM]{.underline}, Rönn MM, van Schalkwyk, Brisson M, Soni N, Boily MC, **Maheu-Giroux M** (2026). Potential impact of catch-up HPV vaccination for women living with HIV in South Africa. 
+**[135]** [Doyle CM]{.underline}, Rönn MM, van Schalkwyk, Brisson M, Soni N, Boily MC, **Maheu-Giroux M** (2026). Potential impact of catch-up HPV vaccination on HPV prevalence and cervical cancer incidence among women living with HIV in South Africa: results from two mathematical models. Pre-print [here](https://doi.org/10.64898/2026.01.06.26343544).
 </div> 
   
 #
@@ -88,8 +93,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a> 
 
 # 
-<a class = "one" href = "https://dx.doi.org/10.2139/ssrn.5367358" target = "_blank">
-**[128]** Heitner J, Standsfield SE, Mitchell KM, [Doyle CM]{.underline}, [Milwid RM]{.underline}, Moore M, Donnell DJ, [Xia Y]{.underline}, **Maheu-Giroux M**, Barnabas R, Boily MC, Dimitrov DT (2026). Cost-effectiveness of leveraging long-acting injectable Cabotegravir to expand PrEP coverage among men who have sex with men in two contrasting North American cities. *Journal of the International AIDS Society*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1002/jia2.70061" target = "_blank">
+**[128]** Heitner J, Standsfield SE, Mitchell KM, [Doyle CM]{.underline}, [Milwid RM]{.underline}, Moore M, Donnell DJ, [Xia Y]{.underline}, **Maheu-Giroux M**, Barnabas R, Boily MC, Dimitrov DT (2026). Cost-effectiveness of leveraging long-acting injectable Cabotegravir to expand PrEP coverage among men who have sex with men in two contrasting North American cities. *Journal of the International AIDS Society* 29:e70061. 
 </a> 
 
 #  
