@@ -39,10 +39,15 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Submitted
 
 <div class = "class-name"> 
+**[138]** [Kutsyh A]{.underline}, Imai-Eaton JW, Diagbaté A, [Kuchukhidze S]{.underline}, Mbofana F, Alioum A, Maheu-Giroux M (2026). HIV testing declines in Africa and its impacts on knowledge of HIV status and time-to-diagnosis: a modeling study of population-based surveys and HIV testing program data (2015-2023).
+</div> 
+
+#  
+<div class = "class-name"> 
 **[137]** Mburu C, Nikiforuk A, Marquez C, Jassem A, Prystajecky N, Xavier C Twohig K, Ryan V, Bobrow K, Giblert M, **Maheu-Giroux M**, Knox NC, Mishra S, Sbihi H, and Irvine MA (2026). Bridging wastewater and case surveillance reveals the hidden burden of the 2022 mpox outbreak.
 </div> 
   
-#
+#  
 <div class = "class-name"> 
 **[136]** Tejada R, Baena A, Trujillo L, Rodriquez J, **Maheu-Giroux M**, Almonte M, Franco EL, and Malagón T (2026). Impact of switching from a quadrivalent to a nonavalent HPV vaccine on HPV infections and cervical cancer in Colombia: a mathematical modeling study. Pre-print [here](https://dx.doi.org/10.2139/ssrn.5821650).
 </div> 
@@ -88,8 +93,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a>  
 
 # 
-<a class = "one" href = "" target = "_blank">
-**[129]** [Xia Y]{.underline}, Alexandre M, Thiebaut R, **Maheu-Giroux M**, and Prague M (2026). Defining optimal vaccine features for pandemic preparedness: An individual-based model bridging within- and between-host dynamics. *Bulletin of Mathematical Biology*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1007/s11538-025-01580-5" target = "_blank">
+**[129]** [Xia Y]{.underline}, Alexandre M, Thiebaut R, **Maheu-Giroux M**, and Prague M (2026). Defining optimal vaccine features for pandemic preparedness: An individual-based model bridging within- and between-host dynamics. *Bulletin of Mathematical Biology* 88:29.
 </a> 
 
 # 
