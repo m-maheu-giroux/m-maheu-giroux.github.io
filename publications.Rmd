@@ -83,7 +83,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 # 
 
 # 
-<a class = "one" href = "https://dx.doi.org/10.2139/ssrn.5225713" target = "_blank">
+<a class = "one" href = "https://doi.org/10.1016/S2352-3018(25)00325-X" target = "_blank">
 **[131]** [Doyle CM+]{.underline}, [Kuchukhidze S+]{.underline}, [Stannah J+]{.underline} (+contributed equally), [Flores Anato JL]{.underline}, [Xia Y]{.underline}, Logie CH, Simo Fotso A, Carabali M, Mishra S, Niangoran S, Mian A, Terris-Prestholt F, Kovtun O, Singh A, Artenie A, Stone J, Vickerman P, Boily MC, **Maheu-Giroux M** (2026). The impact of HIV stigma and discrimination on HIV testing, antiretroviral treatment, and viral suppression in Africa: a pooled analysis of population-based surveys. *The Lancet HIV*. (Accepted)
 </a> 
   
