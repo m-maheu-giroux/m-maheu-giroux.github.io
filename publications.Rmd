@@ -39,9 +39,14 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Submitted
 
 <div class = "class-name"> 
+**[139]** Horvat K, Burneau J, Knight R, Martel-Laferrière V, Zhang G, **Maheu-Giroux M**, Stone J, Vickerman P, Larney S, Artenie A (2026). Substance use-related stigma and injection-related bacterial infections among people who inject drug in Montréal. 
+</div> 
+  
+#
+<div class = "class-name"> 
 **[138]** [Kutsyh A]{.underline}, Imai-Eaton JW, Diagbaté A, [Kuchukhidze S]{.underline}, Mbofana F, Alioum A, Maheu-Giroux M (2026). HIV testing declines in Africa and its impacts on knowledge of HIV status and time-to-diagnosis: a modeling study of population-based surveys and HIV testing program data (2015-2023).
 </div> 
-
+  
 #  
 <div class = "class-name"> 
 **[137]** Mburu C, Nikiforuk A, Marquez C, Jassem A, Prystajecky N, Xavier C Twohig K, Ryan V, Bobrow K, Giblert M, **Maheu-Giroux M**, Knox NC, Mishra S, Sbihi H, and Irvine MA (2026). Bridging wastewater and case surveillance reveals the hidden burden of the 2022 mpox outbreak.
