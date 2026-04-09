@@ -39,6 +39,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Submitted
 
 <div class = "class-name"> 
+**[140]** Beall RF, Yang F, Steele B, D’Souza A, Baral SD, Cabaj S, Flores Anato JL, Janjua NZ, Katz A, Leal J, **Maheu-Giroux M**, May ER, Mishra S, Williamson T (2026) Relative impact of a financial incentive and a vaccine passport initiative on COVID-19 vaccine uptake in Alberta, Canada in 2021: an interrupted time series analyses. 
+</div> 
+
+#  
+<div class = "class-name"> 
 **[139]** Horvat K, Burneau J, Knight R, Martel-Laferrière V, Zhang G, **Maheu-Giroux M**, Stone J, Vickerman P, Larney S, Artenie A (2026). Substance use-related stigma and injection-related bacterial infections among people who inject drug in Montréal. 
 </div> 
   
@@ -69,12 +74,7 @@ Feel free to email me to obtain a copy of any of the papers below.
 
 #  
 <div class = "class-name"> 
-**[133]** [Aratrika A]{.underline}, [Doyle CM]{.underline}, Johnson CC, Edun O, Mweng BM, Adoko A, Choko AT, Imai-Eaton JW, **Maheu-Giroux M** (2026). Trends in HIV self-testing uptake in Africa: a modeling study of population-based surveys and HIV testing program data. Pre-print [here](https://doi.org/10.1101/2025.09.22.25336306).
-</div> 
-
-#  
-<div class = "class-name"> 
-**[132]** Lambert G, Fourmigue A, Dvorakova M, Moodie EEM, Moore D, Lachowsky N, Grace D, Hart TA, Tan D, Jollimore J, Labbé AC, Fortin C, **Maheu-Giroux M**, Hull M, Brunelle-Newman S, ZhangT, Lal A, Gormezano A, Cox J (2026). Incidence and risk factors of C. trachomatis, N. gonorrhoeae and syphilis among urban Canadian gay, bisexual and other men who have sex with men, 2017-2023: Informing the potential impact of doxycycline prophylaxis.  
+**[133]** Lambert G, Fourmigue A, Dvorakova M, Moodie EEM, Moore D, Lachowsky N, Grace D, Hart TA, Tan D, Jollimore J, Labbé AC, Fortin C, **Maheu-Giroux M**, Hull M, Brunelle-Newman S, ZhangT, Lal A, Gormezano A, Cox J (2026). Incidence and risk factors of C. trachomatis, N. gonorrhoeae and syphilis among urban Canadian gay, bisexual and other men who have sex with men, 2017-2023: Informing the potential impact of doxycycline prophylaxis.  
 </div> 
   
 
@@ -88,8 +88,14 @@ Feel free to email me to obtain a copy of any of the papers below.
 # 
 
 # 
+<a class = "one" href = "https://doi.org/10.1101/2025.09.22.25336306" target = "_blank">
+**[132]** [Aratrika A]{.underline}, [Doyle CM]{.underline}, Johnson CC, Edun O, Mweng BM, Adoko A, Choko AT, Imai-Eaton JW, **Maheu-Giroux M** (2026). Trends in HIV self-testing uptake in Africa: a modeling study of population-based surveys and HIV testing program data. *Plos Medicine*. (Accepted)
+</a> 
+
+
+# 
 <a class = "one" href = "https://doi.org/10.1016/S2352-3018(25)00325-X" target = "_blank">
-**[131]** [Doyle CM+]{.underline}, [Kuchukhidze S+]{.underline}, [Stannah J+]{.underline} (+contributed equally), [Flores Anato JL]{.underline}, [Xia Y]{.underline}, Logie CH, Simo Fotso A, Carabali M, Mishra S, Niangoran S, Mian A, Terris-Prestholt F, Kovtun O, Singh A, Artenie A, Stone J, Vickerman P, Boily MC, **Maheu-Giroux M** (2026). The impact of HIV stigma and discrimination on HIV testing, antiretroviral treatment, and viral suppression in Africa: a pooled analysis of population-based surveys. *The Lancet HIV*. (Accepted)
+**[131]** [Doyle CM+]{.underline}, [Kuchukhidze S+]{.underline}, [Stannah J+]{.underline} (+contributed equally), [Flores Anato JL]{.underline}, [Xia Y]{.underline}, Logie CH, Simo Fotso A, Carabali M, Mishra S, Niangoran S, Mian A, Terris-Prestholt F, Kovtun O, Singh A, Artenie A, Stone J, Vickerman P, Boily MC, **Maheu-Giroux M** (2026). The impact of HIV stigma and discrimination on HIV testing, antiretroviral treatment, and viral suppression in Africa: a pooled analysis of population-based surveys. *The Lancet HIV* 13(4):e235-e246. 
 </a> 
   
 #  
