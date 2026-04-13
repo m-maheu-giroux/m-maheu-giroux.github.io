@@ -57,24 +57,19 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[137]** Mburu C, Nikiforuk A, Marquez C, Jassem A, Prystajecky N, Xavier C Twohig K, Ryan V, Bobrow K, Giblert M, **Maheu-Giroux M**, Knox NC, Mishra S, Sbihi H, and Irvine MA (2026). Bridging wastewater and case surveillance reveals the hidden burden of the 2022 mpox outbreak.
 </div> 
   
-#  
+#
 <div class = "class-name"> 
-**[136]** Tejada R, Baena A, Trujillo L, Rodriquez J, **Maheu-Giroux M**, Almonte M, Franco EL, and Malagón T (2026). Impact of switching from a quadrivalent to a nonavalent HPV vaccine on HPV infections and cervical cancer in Colombia: a mathematical modeling study. Pre-print [here](https://dx.doi.org/10.2139/ssrn.5821650).
+**[136]** [Doyle CM]{.underline}, Rönn MM, van Schalkwyk, Brisson M, Soni N, Boily MC, **Maheu-Giroux M** (2026). Potential impact of catch-up HPV vaccination on HPV prevalence and cervical cancer incidence among women living with HIV in South Africa: results from two mathematical models. Pre-print [here](https://doi.org/10.64898/2026.01.06.26343544).
 </div> 
   
 #
 <div class = "class-name"> 
-**[135]** [Doyle CM]{.underline}, Rönn MM, van Schalkwyk, Brisson M, Soni N, Boily MC, **Maheu-Giroux M** (2026). Potential impact of catch-up HPV vaccination on HPV prevalence and cervical cancer incidence among women living with HIV in South Africa: results from two mathematical models. Pre-print [here](https://doi.org/10.64898/2026.01.06.26343544).
-</div> 
-  
-#
-<div class = "class-name"> 
-**[134]** [Stannah J]{.underline}+, [Flores Anato LJ]{.underline}+ (+equal contributions), Dvorakova M, Vo TD, Moore D, Lachowsky NJ, Hart TA, Skakoon-Sparling S, Tan DHS, Grace D, Zhang T, Juwono S, Gormezano AM, Cox J, and **Maheu-Giroux M** (2026). Does intimate partner violence increase bacterial sexually transmitted infections among gay, bisexual, and other men who have sex with men? Longitudinal analysis of the Engage Cohort (2017-2024) in Montréal, Toronto, and Vancouver (Canada). Pre-print [here](https://dx.doi.org/10.2139/ssrn.5516545).
+**[135]** [Stannah J]{.underline}+, [Flores Anato LJ]{.underline}+ (+equal contributions), Dvorakova M, Vo TD, Moore D, Lachowsky NJ, Hart TA, Skakoon-Sparling S, Tan DHS, Grace D, Zhang T, Juwono S, Gormezano AM, Cox J, and **Maheu-Giroux M** (2026). Does intimate partner violence increase bacterial sexually transmitted infections among gay, bisexual, and other men who have sex with men? Longitudinal analysis of the Engage Cohort (2017-2024) in Montréal, Toronto, and Vancouver (Canada). Pre-print [here](https://dx.doi.org/10.2139/ssrn.5516545).
 </div> 
 
 #  
 <div class = "class-name"> 
-**[133]** Lambert G, Fourmigue A, Dvorakova M, Moodie EEM, Moore D, Lachowsky N, Grace D, Hart TA, Tan D, Jollimore J, Labbé AC, Fortin C, **Maheu-Giroux M**, Hull M, Brunelle-Newman S, ZhangT, Lal A, Gormezano A, Cox J (2026). Incidence and risk factors of C. trachomatis, N. gonorrhoeae and syphilis among urban Canadian gay, bisexual and other men who have sex with men, 2017-2023: Informing the potential impact of doxycycline prophylaxis.  
+**[134]** Lambert G, Fourmigue A, Dvorakova M, Moodie EEM, Moore D, Lachowsky N, Grace D, Hart TA, Tan D, Jollimore J, Labbé AC, Fortin C, **Maheu-Giroux M**, Hull M, Brunelle-Newman S, ZhangT, Lal A, Gormezano A, Cox J (2026). Incidence and risk factors of C. trachomatis, N. gonorrhoeae and syphilis among urban Canadian gay, bisexual and other men who have sex with men, 2017-2023: Informing the potential impact of doxycycline prophylaxis.  
 </div> 
   
 
@@ -86,6 +81,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Published
 #
 # 
+
+#  
+<a class = "one" href = "https://dx.doi.org/10.2139/ssrn.5821650" target = "_blank">
+**[133]** Tejada R, Baena A, Trujillo L, Rodriquez J, **Maheu-Giroux M**, Almonte M, Franco EL, and Malagón T (2026). Impact of switching from a quadrivalent to a nonavalent HPV vaccine on HPV infections and cervical cancer in Colombia: a mathematical modeling study. *The Lancet Regional Health - Americas*. (Accepted)
+</a> 
 
 # 
 <a class = "one" href = "https://doi.org/10.1101/2025.09.22.25336306" target = "_blank">
