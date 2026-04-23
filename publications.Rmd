@@ -67,14 +67,6 @@ Feel free to email me to obtain a copy of any of the papers below.
 **[135]** [Stannah J]{.underline}+, [Flores Anato LJ]{.underline}+ (+equal contributions), Dvorakova M, Vo TD, Moore D, Lachowsky NJ, Hart TA, Skakoon-Sparling S, Tan DHS, Grace D, Zhang T, Juwono S, Gormezano AM, Cox J, and **Maheu-Giroux M** (2026). Does intimate partner violence increase bacterial sexually transmitted infections among gay, bisexual, and other men who have sex with men? Longitudinal analysis of the Engage Cohort (2017-2024) in Montréal, Toronto, and Vancouver (Canada). Pre-print [here](https://dx.doi.org/10.2139/ssrn.5516545).
 </div> 
 
-#  
-<div class = "class-name"> 
-**[134]** Lambert G, Fourmigue A, Dvorakova M, Moodie EEM, Moore D, Lachowsky N, Grace D, Hart TA, Tan D, Jollimore J, Labbé AC, Fortin C, **Maheu-Giroux M**, Hull M, Brunelle-Newman S, ZhangT, Lal A, Gormezano A, Cox J (2026). Incidence and risk factors of C. trachomatis, N. gonorrhoeae and syphilis among urban Canadian gay, bisexual and other men who have sex with men, 2017-2023: Informing the potential impact of doxycycline prophylaxis.  
-</div> 
-  
-
-  
-
   
 #  
 #  
@@ -83,16 +75,20 @@ Feel free to email me to obtain a copy of any of the papers below.
 # 
 
 #  
+<a class = "one" href = "" target = "_blank">
+**[134]** Lambert G, Fourmigue A, Dvorakova M, Moodie EEM, Moore D, Lachowsky N, Grace D, Hart TA, Tan D, Jollimore J, Labbé AC, Fortin C, **Maheu-Giroux M**, Hull M, Brunelle-Newman S, ZhangT, Lal A, Gormezano A, Cox J (2026). Incidence and risk factors of C. trachomatis, N. gonorrhoeae and syphilis among urban Canadian gay, bisexual and other men who have sex with men, 2017-2023: Informing the potential impact of doxycycline prophylaxis. *BMJ Open*. (Accepted)
+</a> 
+  
+#  
 <a class = "one" href = "https://dx.doi.org/10.2139/ssrn.5821650" target = "_blank">
 **[133]** Tejada R, Baena A, Trujillo L, Rodriquez J, **Maheu-Giroux M**, Almonte M, Franco EL, and Malagón T (2026). Impact of switching from a quadrivalent to a nonavalent HPV vaccine on HPV infections and cervical cancer in Colombia: a mathematical modeling study. *The Lancet Regional Health - Americas*. (Accepted)
 </a> 
-
+  
 # 
 <a class = "one" href = "https://doi.org/10.1101/2025.09.22.25336306" target = "_blank">
 **[132]** [Aratrika A]{.underline}, [Doyle CM]{.underline}, Johnson CC, Edun O, Mweng BM, Adoko A, Choko AT, Imai-Eaton JW, **Maheu-Giroux M** (2026). Trends in HIV self-testing uptake in Africa: a modeling study of population-based surveys and HIV testing program data. *Plos Medicine*. (Accepted)
 </a> 
-
-
+  
 # 
 <a class = "one" href = "https://doi.org/10.1016/S2352-3018(25)00325-X" target = "_blank">
 **[131]** [Doyle CM+]{.underline}, [Kuchukhidze S+]{.underline}, [Stannah J+]{.underline} (+contributed equally), [Flores Anato JL]{.underline}, [Xia Y]{.underline}, Logie CH, Simo Fotso A, Carabali M, Mishra S, Niangoran S, Mian A, Terris-Prestholt F, Kovtun O, Singh A, Artenie A, Stone J, Vickerman P, Boily MC, **Maheu-Giroux M** (2026). The impact of HIV stigma and discrimination on HIV testing, antiretroviral treatment, and viral suppression in Africa: a pooled analysis of population-based surveys. *The Lancet HIV* 13(4):e235-e246. 

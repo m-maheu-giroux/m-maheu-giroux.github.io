@@ -40,7 +40,7 @@ output:
     
 #  
 #  
-# Masters
+# Masters - Epidemiology
 
 <div class = "row">
 <div class = "column left">
@@ -53,8 +53,29 @@ MSc Student in Epidemiology (McGill). Research Topic: *Gender differences in HCV
 </div>
 </div>
 
+# Masters - Public Health
 
+<div class = "row">
+<div class = "column left">
+<img src = "Ayla_Shanks.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
 
+### <i class = "glyphicon glyphicon-user"> </i> Ayla Shanks
+MSc in Public Health Student (McGill). Research Topic: *Country-level determinants of stigmatizing attitudes towards people living with HIV*. 
+</div>
+</div>
+
+<div class = "row">
+<div class = "column left">
+<img src = "Gershon_Hayford-Mbrah.jpg" align = "left" width = "100" height = "100"  />
+</div>
+<div class = "column right">
+
+### <i class = "glyphicon glyphicon-user"> </i> Gershon Hayford-Mbrah
+MSc in Public Health Student (McGill). Research Topic: *Estimating the population size of people who inject drugs in Montréal*. 
+</div>
+</div>
 
 #  
 #  
