@@ -80,13 +80,13 @@ Feel free to email me to obtain a copy of any of the papers below.
 </a> 
   
 #  
-<a class = "one" href = "https://dx.doi.org/10.2139/ssrn.5821650" target = "_blank">
-**[133]** Tejada R, Baena A, Trujillo L, Rodriquez J, **Maheu-Giroux M**, Almonte M, Franco EL, and Malagón T (2026). Impact of switching from a quadrivalent to a nonavalent HPV vaccine on HPV infections and cervical cancer in Colombia: a mathematical modeling study. *The Lancet Regional Health - Americas*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1016/j.lana.2026.101483" target = "_blank">
+**[133]** Tejada R, Baena A, Trujillo L, Rodriquez J, **Maheu-Giroux M**, Almonte M, Franco EL, and Malagón T (2026). Impact of switching from a quadrivalent to a nonavalent HPV vaccine on HPV infections and cervical cancer in Colombia: a mathematical modeling study. *The Lancet Regional Health - Americas* 58:101483.
 </a> 
   
 # 
-<a class = "one" href = "https://doi.org/10.1101/2025.09.22.25336306" target = "_blank">
-**[132]** [Aratrika A]{.underline}, [Doyle CM]{.underline}, Johnson CC, Edun O, Mweng BM, Adoko A, Choko AT, Imai-Eaton JW, **Maheu-Giroux M** (2026). Trends in HIV self-testing uptake in Africa: a modeling study of population-based surveys and HIV testing program data. *Plos Medicine*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1371/journal.pmed.1004771" target = "_blank">
+**[132]** [Aratrika A]{.underline}, [Doyle CM]{.underline}, Johnson CC, Edun O, Mweng BM, Adoko A, Choko AT, Imai-Eaton JW, **Maheu-Giroux M** (2026). Trends in HIV self-testing uptake in Africa: a modeling study of population-based surveys and HIV testing program data. *Plos Medicine* 23(5):e1004771.
 </a> 
   
 # 
