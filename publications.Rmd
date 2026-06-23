@@ -39,6 +39,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Submitted
 
 <div class = "class-name"> 
+**[141]** Lessard D, Hedrich T, Kumar S, Chamberland A, Durand M, Peiris H, Beaudry S, Tremblay C, Sheehan N, Kronfli N, **Maheu-Giroux M**,  Thibeault I, Gagné-Thibaudeau E, Dumont-Blais A, Martel-Laferrière V, Fortin M, Diaz llamas R, Couturier AA, Briand MF, Baron-Brunelle D, Yaphe S, Vachon ML, Martin C, Lebouché B(2026). Preliminary action plan to expand HIV pre-exposure prophylaxis (PrEP) access in priority populations: a CTN+ Québec symposium. 
+</div> 
+
+#   
+<div class = "class-name"> 
 **[140]** Beall RF, Yang F, Steele B, D’Souza A, Baral SD, Cabaj S, Flores Anato JL, Janjua NZ, Katz A, Leal J, **Maheu-Giroux M**, May ER, Mishra S, Williamson T (2026) Relative impact of a financial incentive and a vaccine passport initiative on COVID-19 vaccine uptake in Alberta, Canada in 2021: an interrupted time series analyses. 
 </div> 
 
@@ -59,12 +64,7 @@ Feel free to email me to obtain a copy of any of the papers below.
   
 #
 <div class = "class-name"> 
-**[136]** [Doyle CM]{.underline}, Rönn MM, van Schalkwyk, Brisson M, Soni N, Boily MC, **Maheu-Giroux M** (2026). Potential impact of catch-up HPV vaccination on HPV prevalence and cervical cancer incidence among women living with HIV in South Africa: results from two mathematical models. Pre-print [here](https://doi.org/10.64898/2026.01.06.26343544).
-</div> 
-  
-#
-<div class = "class-name"> 
-**[135]** [Stannah J]{.underline}+, [Flores Anato LJ]{.underline}+ (+equal contributions), Dvorakova M, Vo TD, Moore D, Lachowsky NJ, Hart TA, Skakoon-Sparling S, Tan DHS, Grace D, Zhang T, Juwono S, Gormezano AM, Cox J, and **Maheu-Giroux M** (2026). Does intimate partner violence increase bacterial sexually transmitted infections among gay, bisexual, and other men who have sex with men? Longitudinal analysis of the Engage Cohort (2017-2024) in Montréal, Toronto, and Vancouver (Canada). Pre-print [here](https://dx.doi.org/10.2139/ssrn.5516545).
+**[136]** [Stannah J]{.underline}+, [Flores Anato LJ]{.underline}+ (+equal contributions), Dvorakova M, Vo TD, Moore D, Lachowsky NJ, Hart TA, Skakoon-Sparling S, Tan DHS, Grace D, Zhang T, Juwono S, Gormezano AM, Cox J, and **Maheu-Giroux M** (2026). Does intimate partner violence increase bacterial sexually transmitted infections among gay, bisexual, and other men who have sex with men? Longitudinal analysis of the Engage Cohort (2017-2024) in Montréal, Toronto, and Vancouver (Canada). Pre-print [here](https://dx.doi.org/10.2139/ssrn.5516545).
 </div> 
 
   
@@ -74,9 +74,15 @@ Feel free to email me to obtain a copy of any of the papers below.
 #
 # 
 
+#
+<a class = "one" href = "https://doi.org/10.64898/2026.01.06.26343544" target = "_blank">
+**[135]** [Doyle CM]{.underline}, Rönn MM, van Schalkwyk, Brisson M, Soni N, Boily MC, **Maheu-Giroux M** (2026). Potential impact of catch-up HPV vaccination on HPV prevalence and cervical cancer incidence among women living with HIV in South Africa: results from two mathematical models. *Journal of the International AIDS Society*. (Accepted)
+</a> 
+  
+  
 #  
-<a class = "one" href = "" target = "_blank">
-**[134]** Lambert G, Fourmigue A, Dvorakova M, Moodie EEM, Moore D, Lachowsky N, Grace D, Hart TA, Tan D, Jollimore J, Labbé AC, Fortin C, **Maheu-Giroux M**, Hull M, Brunelle-Newman S, ZhangT, Lal A, Gormezano A, Cox J (2026). Incidence and risk factors of C. trachomatis, N. gonorrhoeae and syphilis among urban Canadian gay, bisexual and other men who have sex with men, 2017-2023: Informing the potential impact of doxycycline prophylaxis. *BMJ Open*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1136/bmjopen-2025-111357" target = "_blank">
+**[134]** Lambert G, Fourmigue A, Dvorakova M, Moodie EEM, Moore D, Lachowsky N, Grace D, Hart TA, Tan D, Jollimore J, Labbé AC, Fortin C, **Maheu-Giroux M**, Hull M, Brunelle-Newman S, ZhangT, Lal A, Gormezano A, Cox J (2026). Incidence and risk factors of C. trachomatis, N. gonorrhoeae and syphilis among urban Canadian gay, bisexual and other men who have sex with men, 2017-2023: Informing the potential impact of doxycycline prophylaxis. *BMJ Open* 16:e111357.
 </a> 
   
 #  
