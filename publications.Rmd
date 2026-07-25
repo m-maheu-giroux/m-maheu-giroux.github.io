@@ -75,8 +75,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 # 
 
 #
-<a class = "one" href = "https://doi.org/10.64898/2026.01.06.26343544" target = "_blank">
-**[135]** [Doyle CM]{.underline}, Rönn MM, van Schalkwyk, Brisson M, Soni N, Boily MC, **Maheu-Giroux M** (2026). Potential impact of catch-up HPV vaccination on HPV prevalence and cervical cancer incidence among women living with HIV in South Africa: results from two mathematical models. *Journal of the International AIDS Society*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1002/jia2.70149" target = "_blank">
+**[135]** [Doyle CM]{.underline}, Rönn MM, van Schalkwyk, Brisson M, Soni N, Boily MC, **Maheu-Giroux M** (2026). Potential impact of catch-up HPV vaccination on HPV prevalence and cervical cancer incidence among women living with HIV in South Africa: results from two mathematical models. *Journal of the International AIDS Society* 29:e70149. 
 </a> 
   
   
