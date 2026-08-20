@@ -39,6 +39,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 ## Submitted
 
 <div class = "class-name"> 
+**[142]** [Xia Y]{.underline}, Doyle CM, Dvorakova M, Gormezano A, Grace D, Hart T, Tan DHS, Moore DM, Zhang T, Irvine MA, Mishra S, Cox J, **Maheu-Giroux M** (2026). Turnover in sexual activity levels among a cohort of Canadian gay, bisexual, and other men who have sex with men (2017-2024).
+</div> 
+
+#  
+<div class = "class-name"> 
 **[141]** Lessard D, Hedrich T, Kumar S, Chamberland A, Durand M, Peiris H, Beaudry S, Tremblay C, Sheehan N, Kronfli N, **Maheu-Giroux M**,  Thibeault I, Gagné-Thibaudeau E, Dumont-Blais A, Martel-Laferrière V, Fortin M, Diaz llamas R, Couturier AA, Briand MF, Baron-Brunelle D, Yaphe S, Vachon ML, Martin C, Lebouché B(2026). Preliminary action plan to expand HIV pre-exposure prophylaxis (PrEP) access in priority populations: a CTN+ Québec symposium. 
 </div> 
 
@@ -46,25 +51,20 @@ Feel free to email me to obtain a copy of any of the papers below.
 <div class = "class-name"> 
 **[140]** Beall RF, Yang F, Steele B, D’Souza A, Baral SD, Cabaj S, Flores Anato JL, Janjua NZ, Katz A, Leal J, **Maheu-Giroux M**, May ER, Mishra S, Williamson T (2026) Relative impact of a financial incentive and a vaccine passport initiative on COVID-19 vaccine uptake in Alberta, Canada in 2021: an interrupted time series analyses. 
 </div> 
-
-#  
-<div class = "class-name"> 
-**[139]** Horvat K, Burneau J, Knight R, Martel-Laferrière V, Zhang G, **Maheu-Giroux M**, Stone J, Vickerman P, Larney S, Artenie A (2026). Substance use-related stigma and injection-related bacterial infections among people who inject drug in Montréal. 
-</div> 
   
 #
 <div class = "class-name"> 
-**[138]** [Kutsyh A]{.underline}, Imai-Eaton JW, Diagbaté A, [Kuchukhidze S]{.underline}, Mbofana F, Alioum A, Maheu-Giroux M (2026). HIV testing declines in Africa and its impacts on knowledge of HIV status and time-to-diagnosis: a modeling study of population-based surveys and HIV testing program data (2015-2023).
+**[139]** [Kutsyh A]{.underline}, Imai-Eaton JW, Diagbaté A, [Kuchukhidze S]{.underline}, Mbofana F, Alioum A, Maheu-Giroux M (2026). HIV testing declines in Africa and its impacts on knowledge of HIV status and time-to-diagnosis: a modeling study of population-based surveys and HIV testing program data (2015-2023).
 </div> 
   
 #  
 <div class = "class-name"> 
-**[137]** Mburu C, Nikiforuk A, Marquez C, Jassem A, Prystajecky N, Xavier C Twohig K, Ryan V, Bobrow K, Giblert M, **Maheu-Giroux M**, Knox NC, Mishra S, Sbihi H, and Irvine MA (2026). Bridging wastewater and case surveillance reveals the hidden burden of the 2022 mpox outbreak.
+**[138]** Mburu C, Nikiforuk A, Marquez C, Jassem A, Prystajecky N, Xavier C Twohig K, Ryan V, Bobrow K, Giblert M, **Maheu-Giroux M**, Knox NC, Mishra S, Sbihi H, and Irvine MA (2026). Bridging wastewater and case surveillance reveals the hidden burden of the 2022 mpox outbreak.
 </div> 
   
 #
 <div class = "class-name"> 
-**[136]** [Stannah J]{.underline}+, [Flores Anato LJ]{.underline}+ (+equal contributions), Dvorakova M, Vo TD, Moore D, Lachowsky NJ, Hart TA, Skakoon-Sparling S, Tan DHS, Grace D, Zhang T, Juwono S, Gormezano AM, Cox J, and **Maheu-Giroux M** (2026). Does intimate partner violence increase bacterial sexually transmitted infections among gay, bisexual, and other men who have sex with men? Longitudinal analysis of the Engage Cohort (2017-2024) in Montréal, Toronto, and Vancouver (Canada). Pre-print [here](https://dx.doi.org/10.2139/ssrn.5516545).
+**[137]** [Stannah J]{.underline}+, [Flores Anato LJ]{.underline}+ (+equal contributions), Dvorakova M, Vo TD, Moore D, Lachowsky NJ, Hart TA, Skakoon-Sparling S, Tan DHS, Grace D, Zhang T, Juwono S, Gormezano AM, Cox J, and **Maheu-Giroux M** (2026). Does intimate partner violence increase bacterial sexually transmitted infections among gay, bisexual, and other men who have sex with men? Longitudinal analysis of the Engage Cohort (2017-2024) in Montréal, Toronto, and Vancouver (Canada). Pre-print [here](https://dx.doi.org/10.2139/ssrn.5516545).
 </div> 
 
   
@@ -74,6 +74,11 @@ Feel free to email me to obtain a copy of any of the papers below.
 #
 # 
 
+#
+<a class = "one" href = "https://doi.org/10.1002/jia2.70149" target = "_blank">
+**[136]** Horvat K, Bruneau J, Knight R, Martel-Laferrière V, Zhang G, **Maheu-Giroux M**, Stone J, Vickerman P, Larney S, Artenie A (2026). Substance use-related stigma and injection-related bacterial infections among people who inject drug in Montreal. *International Journal of Drug Policy*. (Accepted)
+</a> 
+  
 #
 <a class = "one" href = "https://doi.org/10.1002/jia2.70149" target = "_blank">
 **[135]** [Doyle CM]{.underline}, Rönn MM, van Schalkwyk, Brisson M, Soni N, Boily MC, **Maheu-Giroux M** (2026). Potential impact of catch-up HPV vaccination on HPV prevalence and cervical cancer incidence among women living with HIV in South Africa: results from two mathematical models. *Journal of the International AIDS Society* 29:e70149. 
