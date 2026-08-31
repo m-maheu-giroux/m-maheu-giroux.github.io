@@ -75,8 +75,8 @@ Feel free to email me to obtain a copy of any of the papers below.
 # 
 
 #
-<a class = "one" href = "https://doi.org/10.1002/jia2.70149" target = "_blank">
-**[136]** Horvat K, Bruneau J, Knight R, Martel-Laferrière V, Zhang G, **Maheu-Giroux M**, Stone J, Vickerman P, Larney S, Artenie A (2026). Substance use-related stigma and injection-related bacterial infections among people who inject drug in Montreal. *International Journal of Drug Policy*. (Accepted)
+<a class = "one" href = "https://doi.org/10.1016/j.drugpo.2026.105478" target = "_blank">
+**[136]** Horvat K, Bruneau J, Knight R, Martel-Laferrière V, Zhang G, **Maheu-Giroux M**, Stone J, Vickerman P, Larney S, Artenie A (2026). Substance use-related stigma and injection-related bacterial infections among people who inject drug in Montreal. *International Journal of Drug Policy* 156:105478. 
 </a> 
   
 #
