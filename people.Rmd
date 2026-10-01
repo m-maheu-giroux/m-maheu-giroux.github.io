@@ -49,7 +49,7 @@ output:
 <div class = "column right">
 
 ### <i class = "glyphicon glyphicon-user"> </i> Amauche Pearl Ngige
-MSc Student in Epidemiology (McGill). Research Topic: *Uptake, access and preferences of HIV pre-exposure prophylaxis among gay, bisexual, and other men who have sex with men in Montréal, Toronto, and Vancouver*.
+MSc Student in Epidemiology (McGill). Research Topic: *Uptake, access and preferences of HIV pre-exposure prophylaxis among gay, bisexual, and other men who have sex with men in Montréal, Toronto, and Vancouver*. Co-supervisor:  Co-supervisor: [Joseph Cox](https://www.mcgill.ca/epi-biostat-occh/joseph-cox).
 </div>
 </div>
 
