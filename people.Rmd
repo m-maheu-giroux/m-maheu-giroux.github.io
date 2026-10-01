@@ -9,7 +9,6 @@ output:
 * {
     box-sizing: border-box;
 }
-/* Create two equal columns that floats next to each other */
 .column {
     float: left;
     width: 40%;
@@ -21,13 +20,11 @@ output:
 .right {
   width: 85%;
 }
-/* Clear floats after the columns */
 .row:after {
     content: "";
     display: table;
     clear: both;
 }
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 500px) {
     .column {
         width: 100%;
@@ -49,7 +46,7 @@ output:
 <div class = "column right">
 
 ### <i class = "glyphicon glyphicon-user"> </i> Amauche Pearl Ngige
-MSc Student in Epidemiology (McGill). Research Topic: *Uptake, access and preferences of HIV pre-exposure prophylaxis among gay, bisexual, and other men who have sex with men in Montréal, Toronto, and Vancouver*. Co-supervisor:  Co-supervisor: [Joseph Cox](https://www.mcgill.ca/epi-biostat-occh/joseph-cox).
+MSc Student in Epidemiology (McGill). Research Topic: *Uptake, access and preferences of HIV pre-exposure prophylaxis among gay, bisexual, and other men who have sex with men in Montréal, Toronto, and Vancouver*. Co-supervisor: [Joseph Cox](https://www.mcgill.ca/epi-biostat-occh/joseph-cox).
 </div>
 </div>
 
@@ -97,6 +94,7 @@ MSc in Public Health Student (McGill). Research Topic: *Estimating the populatio
 <img src = "Aregawi_Gebreyesus_Belay.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Aregawi Gebreyesus Belay
 PhD Candidate in Epidemiology (McGill). Research Topic: *HIV acquisition and transmission risks among migrants in Canada*. 
 </div>
@@ -107,6 +105,7 @@ PhD Candidate in Epidemiology (McGill). Research Topic: *HIV acquisition and tra
 <img src = "Sarah_Dickson.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Sarah Dickson
 PhD Candidate in Epidemiology (McGill). Research Topic: *Modeling surveillance and mitigation strategies for avian influenza *. Co-supervisor: [Caroline Wagner](https://bgh.lab.mcgill.ca/our-team.html).
 </div>
@@ -117,6 +116,7 @@ PhD Candidate in Epidemiology (McGill). Research Topic: *Modeling surveillance a
 <img src = "Samuel_Lowe.png" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Samuel Lowe
 PhD Candidate in Epidemiology (McGill). Research Topic: *The impact of structural determinants on HIV epidemics among gay, bisexual, and other men who have sex with men*. 
 </div>
@@ -127,6 +127,7 @@ PhD Candidate in Epidemiology (McGill). Research Topic: *The impact of structura
 <img src = "Zeinab_Cherri.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Zeinab Cherri
 PhD Candidate in Epidemiology (McGill). Research Topic: *The impact of child marriages on health outcomes*. Co-supervision; Primary supervisor: [Alissa Koski](https://www.alissakoski.com/).
 </div>
@@ -142,6 +143,7 @@ PhD Candidate in Epidemiology (McGill). Research Topic: *The impact of child mar
 <img src = "Carla_Doyle.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Carla Doyle
 Dr. Carla Doyle holds a BSc in Mathematics & Statistics from *Acadia University*, and both MScPH and PhD in Epidemiology from *McGill University*.
 </div>
@@ -153,6 +155,7 @@ Dr. Carla Doyle holds a BSc in Mathematics & Statistics from *Acadia University*
 <img src = "Yiqing_Xia.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Yiqing Xia
 Dr. Yiqing Xia completed a Bachelor of Medicine and Surgery (BMMS) from *Fudan University*, and a Master of Science in Public Health degree (MScPH) and PhD in Epidemiology from *McGill University*. 
 </div>
@@ -167,6 +170,7 @@ Dr. Yiqing Xia completed a Bachelor of Medicine and Surgery (BMMS) from *Fudan U
 <img src = "Andrey_Kutsyh.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Andrey Kutsyh
 Andrey Kutsyh completed a BSc in Immunology and Infection from the *University of Alberta* and a dual MSc in Epidemiology from *McGill University* and MSc in Digital Health from the *Université de Bordeaux*.
 </div>
@@ -178,6 +182,7 @@ Andrey Kutsyh completed a BSc in Immunology and Infection from the *University o
 <img src = "Rebecca_Winkelaar.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Rebecca Winkelaar
 Rebecca Winkelaar is completing her BSc in Environment and Social Studies of Medicine at McGill. She is a *2025 Global Health Scholar* awardee.
 </div>
@@ -192,6 +197,7 @@ Rebecca Winkelaar is completing her BSc in Environment and Social Studies of Med
 <img src = "Gideon_Kye-Duodu.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Gideon Kye-Duodu (Fellow 2025)
 Visiting Researcher (FRQS PBEEE Scholar) from the *Binka School of Public Health* of the *University of Health and Allied Sciences* (Ho, Ghana). Research Topic: *Early infant diagnosis of HIV in Ghana*. 
 </div>
@@ -203,6 +209,7 @@ Visiting Researcher (FRQS PBEEE Scholar) from the *Binka School of Public Health
 <img src = "Aishi_Aratrika.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Aishi Aratrika (MSc'25)
 MSc Epidemiology (McGill). Research Topic: *Regional and country-level trends in uptake of HIV self-testing in African countries: a systematic analysis of population-based surveys and HIV testing services data*.
 </div>
@@ -213,6 +220,7 @@ MSc Epidemiology (McGill). Research Topic: *Regional and country-level trends in
 <img src = "Andrey_Kutsyh.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Andrey Kutsyh (MSc'25)
 MSc Epidemiology (McGill) and Public Health Data Sciences (Bordeaux). Research Topic: *What is the impact of declines in HIV testing in African countries on indicators of HIV testing efficiency and the proportion of people living with HIV aware of their status?* Co-supervisor: [Amadou Alioum](https://www.isped.u-bordeaux.fr/Portals/0/TELECHARGEMENT/Rubrique_FORMATIONS/CV/ALIOUM.pdf?ver=2019-10-18-111731-860).
 </div>
@@ -224,6 +232,7 @@ MSc Epidemiology (McGill) and Public Health Data Sciences (Bordeaux). Research T
 <img src = "Yiqing_Xia.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Yiqing Xia (PhD'25)
 PhD Epidemiology (McGill). Research Topic: *COVID-19 in Canada: epidemiology, severity and control*. 
 </div>
@@ -234,6 +243,7 @@ PhD Epidemiology (McGill). Research Topic: *COVID-19 in Canada: epidemiology, se
 <img src = "James_Stannah.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> James Stannah (PhD'24)
 PhD in Epidemiology (McGill). Research Topic: *Conceptualising, describing, and analysing the impact of structural determinants on HIV transmission among sexual and gender minorities*. Co-supervisor: [Marie-Claude Boily](https://profiles.imperial.ac.uk/mc.boily).
 </div>
@@ -244,6 +254,7 @@ PhD in Epidemiology (McGill). Research Topic: *Conceptualising, describing, and 
 <img src = "Salome_Kuchukhidze.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Salome Kuchukhidze (PhD'24)
 PhD in Epidemiology (McGill). Research Topic: *Intimate partner violence and HIV in sub-Saharan Africa: implications for HIV control in women, girls, and infants*. 
 </div>
@@ -254,6 +265,7 @@ PhD in Epidemiology (McGill). Research Topic: *Intimate partner violence and HIV
 <img src = "Fanyu_Xiu.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Fanyu (Vanessa) Xiu (MSc'24)
 MSc Epidemiology (McGill). Research Topic: *Sexual networks of gay, bisexual, and other men who have sex with men in Canada: implications the transmission and control of mpox*. 
 </div>
@@ -264,6 +276,7 @@ MSc Epidemiology (McGill). Research Topic: *Sexual networks of gay, bisexual, an
 <img src = "Ingrid_Lu.jpg" align = "left" width = "100" height = "100"  /> 
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Ingrid Jiayin Lu (MSc'23)
 MSc Epidemiology (McGill). Research Topic: *Cost-effectiveness analysis of HIV self-testing among key populations in Côte d'Ivoire, Mali, and Senegal*.
 </div>
@@ -274,6 +287,7 @@ MSc Epidemiology (McGill). Research Topic: *Cost-effectiveness analysis of HIV s
 <img src = "Adrien_Allorant.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Adrien Allorant (Fellowship'23)
 Postdoc (McGill). Research Topic: *Optimizing HIV testing services to end AIDS in sub-Saharan Africa*. Co-supervisor: [Jeffrey Imai-Eaton](https://hsph.harvard.edu/profile/jeff-imai-eaton/).
 </div>
@@ -284,6 +298,7 @@ Postdoc (McGill). Research Topic: *Optimizing HIV testing services to end AIDS i
 <img src = "Carla_Doyle.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Carla Doyle (PhD'23)
 PhD Epidemiology (McGill). Research Topic: *HIV elimination in Québec: tracking progress and evaluating HIV prevention interventions among key populations*. Co-supervisor: [Joseph Cox](https://www.mcgill.ca/epi-biostat-occh/joseph-cox).
 </div>
@@ -294,6 +309,7 @@ PhD Epidemiology (McGill). Research Topic: *HIV elimination in Québec: tracking
 <img src = "Stephen_Juwono.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Stephen Juwono (MSc'23)
 MSc Epidemiology (McGill). Research Topic: *Intimate partner violence among gay, bisexual, and other men who have sex with men in Canada: a cohort analysis (2017-2022)*. Co-supervisor: [Joseph Cox](https://www.mcgill.ca/epi-biostat-occh/joseph-cox).
 </div>
@@ -305,6 +321,7 @@ MSc Epidemiology (McGill). Research Topic: *Intimate partner violence among gay,
 <img src = "Lily_Yang.png" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Lily (Peng) Yang (MSc'22)
 MSc Epidemiology (McGill). Research Topic: *Trends and disparities in cervical cancer screening uptake in high HIV prevalence settings: a systematic analysis of population-based surveys in sub-Saharan Africa*.
 </div>
@@ -316,6 +333,7 @@ MSc Epidemiology (McGill). Research Topic: *Trends and disparities in cervical c
 <img src = "Caroline_Hodgins.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Caroline Hodgins (BSc'22)
 Caroline was a *2020 Global Health Scholar* working on HIV diagnosis among clients of female sex workers.
 </div>
@@ -327,6 +345,7 @@ Caroline was a *2020 Global Health Scholar* working on HIV diagnosis among clien
 <img src = "Paul_Muset.jpg" align = "left" width = "100" height = "100"  /> 
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Paul Muset 
 Paul was a *2021 Global Health Scholar* working on HIV testing modalities.
 </div>
@@ -338,6 +357,7 @@ Paul was a *2021 Global Health Scholar* working on HIV testing modalities.
 <img src = "Charlotte_Laniece.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i> Charlotte Lanièce (PhD'22)
 PhD Epidemiology (McGill). Research Topic: *HCV elimination among HIV co-infected populations in Canada*. Primary supervisor: [Marina Klein](http://rimuhc.ca/-/marina-klein-md-msc).  
 </div>
@@ -348,6 +368,7 @@ PhD Epidemiology (McGill). Research Topic: *HCV elimination among HIV co-infecte
 <img src = "Jorge_Flores.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i>  Jorge Luis Flores Anato (MSc'21)
 MSc Epidemiology (McGill). Thesis: *Chemsex, sexually transmitted infections, and pre-exposure prophylaxis among men who have sex with men: longitudinal analyses of sexual health clinic attendees in Montréal*. 
 </div>
@@ -359,6 +380,7 @@ MSc Epidemiology (McGill). Thesis: *Chemsex, sexually transmitted infections, an
 <img src = "Rachael_Milwid.jpg" align = "left" width = "100" height = "100"  /> 
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i>   Rachael Milwid (Fellowship'21)
 Postdoctoral fellowship (McGill). Research Topic: *Modeling the impacts and optimization of HIV prevention packages among Montréal men who have sex with men*. Personal webpage: [here](https://rmilwid.wordpress.com/).
 </div>
@@ -370,6 +392,7 @@ Postdoctoral fellowship (McGill). Research Topic: *Modeling the impacts and opti
 <img src = "Katia_Giguere.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i>   Katia Giguère (Fellowship'20)
 Postdoctoral fellowship (McGill). Research Topic: *Estimating gaps in HIV knowledge status to reach the first UNAIDS 90-90-90 target in sub-Saharan Africa*. Co-supervisor: [Jeffrey Imai-Eaton](https://hsph.harvard.edu/profile/jeff-imai-eaton/).
 </div>
@@ -381,6 +404,7 @@ Postdoctoral fellowship (McGill). Research Topic: *Estimating gaps in HIV knowle
 <img src = "Arnaud_Godin.jpg" align = "left" width = "100" height = "100"  />
 </div>
 <div class = "column right">
+
 ### <i class = "glyphicon glyphicon-user"> </i>   Arnaud Godin (MSc'19)
 MSc Epidemiology (McGill). Thesis: *Modeling the potential impact of different prison-based prevention and treatment strategies on HCV transmission in Montréal*. Co-supervisor: [Joseph Cox](https://www.mcgill.ca/epi-biostat-occh/joseph-cox).  
 </div>
